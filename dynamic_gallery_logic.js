@@ -51,17 +51,15 @@ function initGallery() {
     });
   }
 
-    // Main Filtering Logic
   function applyFilters() {
     const checked = Array.from(document.querySelectorAll('.form-check-input:checked'));
     const active = { studio: [], pornstar: [], tag: [], size: [] };
 
     checked.forEach(cb => {
-      const group = cb.dataset.group;
-      if (group === "size") {
+      if (cb.dataset.group === "size") {
         active.size.push({ min: parseFloat(cb.dataset.min), max: parseFloat(cb.dataset.max) });
-      } else {
-        active[group].push(cb.value);
+      } else if (cb.dataset.group) {
+        active[cb.dataset.group].push(cb.value);
       }
     });
 
@@ -69,11 +67,8 @@ function initGallery() {
       const matchStudio = !active.studio.length || active.studio.includes(item.studio);
       const matchPornstar = !active.pornstar.length || active.pornstar.some(p => item.pornstar.includes(p));
       const matchTag = !active.tag.length || active.tag.some(t => item.tag.includes(t));
-
-      // Parse size in GB
       const sizeGB = parseFloat(item.size);
       const matchSize = !active.size.length || active.size.some(r => sizeGB >= r.min && sizeGB < r.max);
-
       const matchSearch = !searchTerm || (
         item.title.toLowerCase().includes(searchTerm) ||
         item.pornstar.some(p => p.toLowerCase().includes(searchTerm)) ||
