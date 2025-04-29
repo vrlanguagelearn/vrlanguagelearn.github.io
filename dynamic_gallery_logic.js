@@ -30,29 +30,62 @@ function initGallery() {
     document.getElementById('filterStudioBody').innerHTML += [...studios].sort().map(v => createCheckbox(v, "studio")).join("");
     document.getElementById('filterPornstarBody').innerHTML += [...pornstars].sort().map(v => createCheckbox(v, "pornstar")).join("");
     document.getElementById('filterTagBody').innerHTML += [...tags].sort().map(v => createCheckbox(v, "tag")).join("");
+
+    // Add size filters manually
+    const sizeRanges = [
+      { label: '~ 5 GB', min: 0, max: 5 },
+      { label: '5 ~ 10 GB', min: 5, max: 10 },
+      { label: '10 ~ 15 GB', min: 10, max: 15 },
+      { label: '15 ~ 20 GB', min: 15, max: 20 },
+      { label: '20 ~ GB', min: 20, max: Infinity }
+    ];
+
+    sizeRanges.forEach(range => {
+      const div = document.createElement('div');
+      div.className = 'form-check';
+      div.innerHTML = `
+        <input class="form-check-input" type="checkbox" data-group="size" data-min="${range.min}" data-max="${range.max}">
+        ${range.label}
+      `;
+      document.getElementById('filterSizeBody').appendChild(div);
+    });
   }
 
+    // Main Filtering Logic
   function applyFilters() {
     const checked = Array.from(document.querySelectorAll('.form-check-input:checked'));
-    const active = { studio: [], pornstar: [], tag: [] };
+    const active = { studio: [], pornstar: [], tag: [], size: [] };
+
     checked.forEach(cb => {
-      if (cb.dataset.group) active[cb.dataset.group].push(cb.value);
+      const group = cb.dataset.group;
+      if (group === "size") {
+        active.size.push({ min: parseFloat(cb.dataset.min), max: parseFloat(cb.dataset.max) });
+      } else {
+        active[group].push(cb.value);
+      }
     });
 
     filteredData = galleryData.filter(item => {
       const matchStudio = !active.studio.length || active.studio.includes(item.studio);
       const matchPornstar = !active.pornstar.length || active.pornstar.some(p => item.pornstar.includes(p));
       const matchTag = !active.tag.length || active.tag.some(t => item.tag.includes(t));
+
+      // Parse size in GB
+      const sizeGB = parseFloat(item.size);
+      const matchSize = !active.size.length || active.size.some(r => sizeGB >= r.min && sizeGB < r.max);
+
       const matchSearch = !searchTerm || (
         item.title.toLowerCase().includes(searchTerm) ||
         item.pornstar.some(p => p.toLowerCase().includes(searchTerm)) ||
         item.tag.some(t => t.toLowerCase().includes(searchTerm))
       );
-      return matchStudio && matchPornstar && matchTag && matchSearch;
+
+      return matchStudio && matchPornstar && matchTag && matchSize && matchSearch;
     });
 
     renderGalleryPage(1);
   }
+
 
   function renderGalleryPage(page) {
     const overlay = document.getElementById('loadingOverlay');
