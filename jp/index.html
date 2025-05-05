@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Your Gallery</title>
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+  <style>
+    body { font-family: Arial, sans-serif; }
+    .card img { height: 200px; object-fit: cover; }
+    .selected-card { background-color: #e6f7ff !important; }
+    #exportBtn { position: fixed; top: 10px; right: 20px; display: none; }
+    header {
+      background-color: #222;
+      color: white;
+      padding: 10px 20px;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      position: sticky;
+      top: 0;
+      z-index: 1000;
+    }
+    main {
+      display: flex;
+      min-height: 100vh;
+    }
+    .sidebar {
+      width: 20%;
+      min-width: 280px;
+      background-color: #f8f9fa;
+      border-right: 1px solid #dee2e6;
+      padding: 20px;
+      overflow-y: auto;
+    }
+    .content {
+      flex: 1;
+      padding: 20px;
+      overflow-y: auto;
+    }
+  </style>
+</head>
+<body>
+
+<header>
+  <div class="d-flex align-items-center gap-3">
+    <h4 class="mb-0">Your X Gallery</h4>
+    <small id="itemCount" class="text-light"></small>
+  </div>
+  <button id="exportBtn" class="btn btn-success btn-sm">Export (0)</button>
+</header>
+
+<main>
+  <div class="sidebar">
+    <h5>Filters</h5>
+    <div class="accordion" id="filterAccordion">
+      <div class="accordion-item">
+        <h2 class="accordion-header" id="headingActress">
+          <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseActress">Actress</button>
+        </h2>
+        <div id="collapseActress" class="accordion-collapse collapse" data-bs-parent="#filterAccordion">
+          <div class="accordion-body" id="filterActressBody"></div>
+        </div>
+      </div>
+      <div class="accordion-item">
+        <h2 class="accordion-header" id="headingDirector">
+          <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseDirector">Director</button>
+        </h2>
+        <div id="collapseDirector" class="accordion-collapse collapse" data-bs-parent="#filterAccordion">
+          <div class="accordion-body" id="filterDirectorBody"></div>
+        </div>
+      </div>
+      <div class="accordion-item">
+        <h2 class="accordion-header" id="headingMaker">
+          <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseMaker">Maker</button>
+        </h2>
+        <div id="collapseMaker" class="accordion-collapse collapse" data-bs-parent="#filterAccordion">
+          <div class="accordion-body" id="filterMakerBody"></div>
+        </div>
+      </div>
+      <div class="accordion-item">
+        <h2 class="accordion-header" id="headingSeries">
+          <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseSeries">Series</button>
+        </h2>
+        <div id="collapseSeries" class="accordion-collapse collapse" data-bs-parent="#filterAccordion">
+          <div class="accordion-body" id="filterSeriesBody"></div>
+        </div>
+      </div>
+      <div class="accordion-item">
+        <h2 class="accordion-header" id="headingLabel">
+          <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseLabel">Label</button>
+        </h2>
+        <div id="collapseLabel" class="accordion-collapse collapse" data-bs-parent="#filterAccordion">
+          <div class="accordion-body" id="filterLabelBody"></div>
+        </div>
+      </div>
+      <div class="accordion-item">
+        <h2 class="accordion-header" id="headingKeyword">
+          <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseKeyword">Keyword</button>
+        </h2>
+        <div id="collapseKeyword" class="accordion-collapse collapse" data-bs-parent="#filterAccordion">
+          <div class="accordion-body" id="filterKeywordBody"></div>
+        </div>
+      </div>
+    </div>
+    <button id="clearFiltersBtn" class="btn btn-outline-secondary btn-sm mt-4 w-100">Clear Filters</button>
+  </div>
+
+  <div class="content">
+    <div class="mb-3">
+      <input type="text" id="searchInput" class="form-control" placeholder="Search titles, actresses...">
+    </div>
+    <div class="row" id="galleryGrid"></div>
+    <div id="paginationControls" class="d-flex justify-content-center mt-4"></div>
+  </div>
+</main>
+
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+<script src="gallery_data.min.js" defer></script>
+<script src="dynamic_gallery_logic.js" defer></script>
+
+</body>
+</html>

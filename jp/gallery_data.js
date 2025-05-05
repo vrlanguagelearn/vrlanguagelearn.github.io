@@ -1,0 +1,16622 @@
+const galleryData = [
+  {
+    "id": "ipvr00301",
+    "title": "\u3010VR\u3011\u7518\u30b5\u30c9\u30ae\u30e3\u30eb\u30d3\u30c3\u30c1\u304c\u3079\u308d\u3079\u308d\u3061\u3085\u3071\u3061\u3085\u3071\u75f4\u5973\u308a\u653e\u984c\uff01\uff01\u7206\u30cc\u30ad\u4f53\u611f\uff01\uff01 4K VR \u6953\u30ab\u30ec\u30f3",
+    "size": "5.76 GB",
+    "actress": [
+      "\u6953\u30ab\u30ec\u30f3"
+    ],
+    "preview_img_url": "https://pics.dmm.co.jp/digital/video/ipvr00301/ipvr00301pl.jpg",
+    "sell_date": "2025/05/02",
+    "duration": "62\u5206",
+    "seed_download_link": "magnet:?xt=urn:btih:e14859ef9298e15daefe6b6bb4d453ed71401224&dn=ipvr-301&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce",
+    "director": [
+      "ZAMPA"
+    ],
+    "maker": [
+      "\u30a2\u30a4\u30c7\u30a2\u30dd\u30b1\u30c3\u30c8"
+    ],
+    "series": [
+      "\u30a2\u30a4\u30dd\u30b18KVR"
+    ],
+    "label": [
+      "IP-VR"
+    ],
+    "keyword": [
+      "\u5358\u4f53\u4f5c\u54c1",
+      "\u30cf\u30a4\u30af\u30aa\u30ea\u30c6\u30a3VR",
+      "VR\u5c02\u7528",
+      "\u72ec\u5360\u914d\u4fe1",
+      "\u30ae\u30e3\u30eb",
+      "\u30d5\u30a7\u30e9",
+      "\u75f4\u5973",
+      "\u304a\u59c9\u3055\u3093",
+      "\u4e3b\u89b3"
+    ]
+  },
+  {
+    "id": "dsvr00052",
+    "title": "\u3010VR\u3011\u9854\u9762\u7279\u5316 \u4e0d\u502b\u30b9\u30ed\u30fc\u30bb\u30c3\u30af\u30b9 8KVR \u677e\u672c\u3044\u3061\u304b",
+    "size": "16.95 GB",
+    "actress": [
+      "\u677e\u672c\u3044\u3061\u304b"
+    ],
+    "preview_img_url": "https://pics.dmm.co.jp/digital/video/dsvr00052/dsvr00052pl.jpg",
+    "sell_date": "2025/04/22",
+    "duration": "80\u5206",
+    "seed_download_link": "magnet:?xt=urn:btih:14653186bb138cdc5904561e5a35e2dce55e3b6f&dn=dsvr-052&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce",
+    "director": [
+      "\u30d4\u30f3\u30b5\u30ed\u5927\u597d\u304d\u30b9\u30ba\u30bf\u30b1\u3055\u3093"
+    ],
+    "maker": [
+      "\u30c0\u30b9\u30c3\uff01"
+    ],
+    "series": [],
+    "label": [
+      "\u30c0\u30b9\u30c3\uff01\uff08VR\uff09"
+    ],
+    "keyword": [
+      "\u30cf\u30a4\u30af\u30aa\u30ea\u30c6\u30a3VR",
+      "\u75f4\u5973",
+      "\u7f8e\u5c11\u5973",
+      "\u4e3b\u89b3",
+      "\u4e2d\u51fa\u3057",
+      "\u72ec\u5360\u914d\u4fe1",
+      "VR\u5c02\u7528",
+      "\u5358\u4f53\u4f5c\u54c1",
+      "8KVR",
+      "\u4e0d\u502b"
+    ]
+  },
+  {
+    "id": "kiwvr00751",
+    "title": "\u3010VR\u3011\u30108K\u3011\u540c\u68f2\u5f7c\u5973\u304c\u4ed5\u4e8b\u3067\u4e0d\u5728\u4e2d\u306b\u5f7c\u5973\u306e\u89aa\u53cb\u3068\u731b\u70c8\u306b\u611b\u3057\u5408\u3063\u305f\u6d6e\u6c17SEX \u7f8e\u54b2\u304b\u3093\u306a",
+    "size": "11.11 GB",
+    "actress": [
+      "\u7f8e\u54b2\u304b\u3093\u306a"
+    ],
+    "preview_img_url": "https://pics.dmm.co.jp/digital/video/kiwvr00751/kiwvr00751pl.jpg",
+    "sell_date": "2025/04/22",
+    "duration": "59\u5206",
+    "seed_download_link": "magnet:?xt=urn:btih:6c209e67268b8b1f5674844c8ad52f34c74c433a&dn=kiwvr-751&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce",
+    "director": [
+      "\u3053\u3042\u3089\u592a\u90ce\uff08\u308f\uff09"
+    ],
+    "maker": [
+      "\u3053\u3042\u3089VR"
+    ],
+    "series": [
+      "8KVR\u3010\u5f7c\u5973\u306e\u4e0d\u5728\u4e2d\u306b\u5f7c\u5973\u306e\u89aa\u53cb\u3068\u611b\u3057\u5408\u3063\u305f\u6d6e\u6c17\u6027\u4ea4\u3011"
+    ],
+    "label": [
+      "\u6975\u30b0\u30eb\u30fc\u30d7"
+    ],
+    "keyword": [
+      "\u30cf\u30a4\u30af\u30aa\u30ea\u30c6\u30a3VR",
+      "\u5bdd\u53d6\u308a\u30fb\u5bdd\u53d6\u3089\u308c\u30fbNTR",
+      "\u304a\u59c9\u3055\u3093",
+      "\u30d5\u30a7\u30e9",
+      "\u4e2d\u51fa\u3057",
+      "8KVR",
+      "\u72ec\u5360\u914d\u4fe1",
+      "VR\u5c02\u7528",
+      "\u5358\u4f53\u4f5c\u54c1",
+      "\u30b9\u30ec\u30f3\u30c0\u30fc"
+    ]
+  },
+  {
+    "id": "sivr00412",
+    "title": "\u3010VR\u3011\u3082\u3046\u30b0\u30e9\u30c9\u30eb\u3058\u3083\u306a\u3044\u2026AV\u5973\u512a\u2018\u91d1\u677e\u5b63\u6b69\u2019\u5168\u958b\uff01\uff01\u5727\u5012\u7684\u306a\u30a8\u30ed\u30b9\u306e\u4e16\u754c\u306b\u60f9\u304d\u8fbc\u3080\u6df1\u3044\u6df1\u3044\u7d76\u9802\u3092\u7e70\u308a\u8fd4\u3059\u30b9\u30ed\u30fc\u30d4\u30b9\u30c8\u30f3 \u304b\u3089\u306e\u3001\u30c0\u30a4\u30ca\u30df\u30c3\u30af\u306b\u30a4\u30ad\u72c2\u3046\u30ae\u30a2\u30c1\u30a7\u30f3\u8ffd\u6483\u30d4\u30b9\u30c8\u30f3",
+    "size": "15.95 GB",
+    "actress": [
+      "\u91d1\u677e\u5b63\u6b69"
+    ],
+    "preview_img_url": "https://pics.dmm.co.jp/digital/video/sivr00412/sivr00412pl.jpg",
+    "sell_date": "2025/04/21",
+    "duration": "73\u5206",
+    "seed_download_link": "magnet:?xt=urn:btih:82a514376d0219788bfab735127ea2869872688b&dn=sivr-412&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce",
+    "director": [
+      "ZAMPA"
+    ],
+    "maker": [
+      "\u30a8\u30b9\u30ef\u30f3 \u30ca\u30f3\u30d0\u30fc\u30ef\u30f3\u30b9\u30bf\u30a4\u30eb"
+    ],
+    "series": [
+      "S1 VR"
+    ],
+    "label": [
+      "S1 VR"
+    ],
+    "keyword": [
+      "\u30cf\u30a4\u30af\u30aa\u30ea\u30c6\u30a3VR",
+      "\u6deb\u4e71\u30fb\u30cf\u30fc\u30c9\u7cfb",
+      "\u30a2\u30af\u30e1\u30fb\u30aa\u30fc\u30ac\u30ba\u30e0",
+      "\u9a0e\u4e57\u4f4d",
+      "\u4e3b\u89b3",
+      "\u72ec\u5360\u914d\u4fe1",
+      "VR\u5c02\u7528",
+      "\u5358\u4f53\u4f5c\u54c1",
+      "8KVR",
+      "\u30b9\u30ec\u30f3\u30c0\u30fc"
+    ]
+  },
+  {
+    "id": "savr00615",
+    "title": "\u3010VR\u3011\u7d50\u5a5a\u3057\u30663\u5e74\u3001\u5026\u6020\u671f\u3067\u6e9c\u307e\u3063\u305f\u6291\u3048\u304d\u308c\u306a\u3044\u6027\u6b32\u3092\u8eab\u52dd\u624b\u306a\u30de\u30c3\u30b9\u30eb\u676d\u6253\u3061\u9a0e\u4e57\u4f4d\u3067\u767a\u6563\u3059\u308b\u7fa9\u59c9\u306e\u30d3\u30ad\u30cbFITNESS\u30e2\u30c7\u30eb",
+    "size": "11.06 GB",
+    "actress": [],
+    "preview_img_url": "https://pics.dmm.co.jp/digital/video/savr00615/savr00615pl.jpg",
+    "sell_date": "2025/04/21",
+    "duration": "72\u5206",
+    "seed_download_link": "magnet:?xt=urn:btih:ac9b8f7b9ae49d0239689b1b8b58f71cd9cae4b0&dn=savr-615&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce",
+    "director": [
+      "\u52d5\u7dda\u6f70\u3057"
+    ],
+    "maker": [
+      "KMPVR-\u5f69-"
+    ],
+    "series": [],
+    "label": [
+      "KMPVR-\u5f69-"
+    ],
+    "keyword": [
+      "\u30cf\u30a4\u30af\u30aa\u30ea\u30c6\u30a3VR",
+      "8KVR",
+      "VR\u5c02\u7528",
+      "\u72ec\u5360\u914d\u4fe1",
+      "\u9a0e\u4e57\u4f4d",
+      "\u30e2\u30c7\u30eb",
+      "\u4eba\u59bb\u30fb\u4e3b\u5a66",
+      "\u5de8\u4e73",
+      "\u75f4\u5973"
+    ]
+  },
+  {
+    "id": "vrkm01580",
+    "title": "\u3010VR\u3011\u304a\u7bc0\u4ecb\u306a\u7fa9\u59c9\u306e\u30d5\u30a7\u30e9\u30c1\u30aa\u5922\u7cbe\u30c1\u25cf\u30dd\u304a\u6383\u9664\u6297\u3048\u306a\u3044\u8a98\u60d1\u306b\u4e2d\u51fa\u3057\u6027\u4ea4 \u6c99\u6708\u6075\u5948",
+    "size": "17.47 GB",
+    "actress": [
+      "\u6c99\u6708\u6075\u5948"
+    ],
+    "preview_img_url": "https://pics.dmm.co.jp/digital/video/vrkm01580/vrkm01580pl.jpg",
+    "sell_date": "2025/04/21",
+    "duration": "81\u5206",
+    "seed_download_link": "magnet:?xt=urn:btih:e937a88ea9fffa8b3e7c64f24ff93030680e995b&dn=vrkm-1580&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce",
+    "director": [
+      "\u30cf\u30eb\u30af\u30fb\u30b3\u30fc\u30ac\u30f3"
+    ],
+    "maker": [
+      "\u30b1\u30a4\u30fb\u30a8\u30e0\u30fb\u30d7\u30ed\u30c7\u30e5\u30fc\u30b9"
+    ],
+    "series": [
+      "\u304a\u7bc0\u4ecb\u306a\u7fa9\u59c9\u306e\u30d5\u30a7\u30e9\u30c1\u30aa"
+    ],
+    "label": [
+      "KMPVR"
+    ],
+    "keyword": [
+      "\u30cf\u30a4\u30af\u30aa\u30ea\u30c6\u30a3VR",
+      "\u75f4\u5973",
+      "\u4eba\u59bb\u30fb\u4e3b\u5a66",
+      "\u30d5\u30a7\u30e9",
+      "\u4e2d\u51fa\u3057",
+      "\u72ec\u5360\u914d\u4fe1",
+      "VR\u5c02\u7528",
+      "\u5358\u4f53\u4f5c\u54c1",
+      "8KVR",
+      "\u5de8\u4e73"
+    ]
+  },
+  {
+    "id": "kavr00419",
+    "title": "\u3010VR\u3011\u3080\u3063\u3061\u3093\u3080\u3063\u3061\u3093W\u30c7\u30ab\u5c3b\u631f\u307f\u6483\u3061 \u672c\u756aOK\uff01\u4e2d\u51fa\u3057OK\uff01\u767a\u5c04\u7121\u5236\u9650\u221e\u30e4\u30ea\u3059\u304e\u30cf\u30fc\u30ec\u30e0\u56de\u6625\u30c1\u30e3\u30a4\u30ca\u30a8\u30b9\u30c6\u30b5\u30ed\u30f3 \u5357\u689d\u5f69 \u611b\u8449\u967d\u8475",
+    "size": "29.51 GB",
+    "actress": [
+      "\u5357\u689d\u5f69",
+      "\u611b\u8449\u967d\u8475"
+    ],
+    "preview_img_url": "https://pics.dmm.co.jp/digital/video/kavr00419/kavr00419pl.jpg",
+    "sell_date": "2025/04/21",
+    "duration": "81\u5206",
+    "seed_download_link": "magnet:?xt=urn:btih:33ec2fa8504dc8da76c41e6c189070634ae6f741&dn=kavr-419&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce",
+    "director": [
+      "ZAMPA"
+    ],
+    "maker": [
+      "kawaii"
+    ],
+    "series": [
+      "kawaii*VR"
+    ],
+    "label": [
+      "kawaii* VR"
+    ],
+    "keyword": [
+      "\u30cf\u30a4\u30af\u30aa\u30ea\u30c6\u30a3VR",
+      "8KVR",
+      "VR\u5c02\u7528",
+      "\u72ec\u5360\u914d\u4fe1",
+      "\u4e2d\u51fa\u3057",
+      "\u30a8\u30b9\u30c6",
+      "\u30c1\u30e3\u30a4\u30ca\u30c9\u30ec\u30b9",
+      "\u5de8\u5c3b"
+    ]
+  },
+  {
+    "id": "savr00588",
+    "title": "\u3010VR\u3011\u3053\u308c\u304c\u65e5\u672c\u4e00\u30a8\u30ed\u3044\u9b3c\u9000\u6cbb\uff01\u5f31\u3063\u3066\u308b\u7537\u304c\u5927\u597d\u304d\u306a\u60aa\u622f\u597d\u304d\u306a\u9b3c \u512a\u68a8\u307e\u3044\u306a",
+    "size": "5.81 GB",
+    "actress": [
+      "\u512a\u68a8\u307e\u3044\u306a"
+    ],
+    "preview_img_url": "https://pics.dmm.co.jp/digital/video/savr00588/savr00588pl.jpg",
+    "sell_date": "2025/04/21",
+    "duration": "59\u5206",
+    "seed_download_link": "magnet:?xt=urn:btih:94b6c2fc6136557ecc9293b146551c5877d8dbb0&dn=savr-588&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce",
+    "director": [
+      "K\u592a\u90ce"
+    ],
+    "maker": [
+      "KMPVR-\u5f69-"
+    ],
+    "series": [
+      "\u3053\u308c\u304c\u65e5\u672c\u4e00\u30a8\u30ed\u3044\u9b3c\u9000\u6cbb\uff01"
+    ],
+    "label": [
+      "KMPVR-\u5f69-"
+    ],
+    "keyword": [
+      "\u5358\u4f53\u4f5c\u54c1",
+      "\u30cf\u30a4\u30af\u30aa\u30ea\u30c6\u30a3VR",
+      "VR\u5c02\u7528",
+      "\u72ec\u5360\u914d\u4fe1",
+      "\u9a0e\u4e57\u4f4d",
+      "\u7f8e\u4e73",
+      "\u5de8\u4e73",
+      "\u75f4\u5973",
+      "\u4e2d\u51fa\u3057"
+    ]
+  },
+  {
+    "id": "vrprd00105",
+    "title": "\u3010VR\u3011\u30103D60fps8KVR\u3011\u5927\u30d2\u30c3\u30c8\u6f2b\u753b\u58f2\u4e0a15\u4e07\u90e8\u7a81\u7834\uff01\u3010\u5168\u88f8\u3067\u5bb6\u4e8b\u4ee3\u884c\u3011\u4eba\u59bb\u5bb6\u653f\u5a66\u3055\u3093\u304c\u3072\u304d\u3053\u3082\u308a\u3067\u30e2\u30c6\u306a\u3044\u50d5\u306b\u512a\u3057\u304f\u3057\u3066\u304f\u308c\u305f \u7fbd\u6708\u4e43\u84bc",
+    "size": "5.94 GB",
+    "actress": [
+      "\u7fbd\u6708\u4e43\u84bc"
+    ],
+    "preview_img_url": "https://pics.dmm.co.jp/digital/video/vrprd00105/vrprd00105pl.jpg",
+    "sell_date": "2025/04/21",
+    "duration": "80\u5206",
+    "seed_download_link": "magnet:?xt=urn:btih:e15012f104506aceafd3abc918790fb1ae2d732b&dn=vrprd-105&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce",
+    "director": [
+      "\u30af\u30ef\u30c3\u30c1\u30fc",
+      "TODO"
+    ],
+    "maker": [
+      "VR\u30d1\u30e9\u30c0\u30a4\u30b9"
+    ],
+    "series": [],
+    "label": [
+      "\u6975\u30b0\u30eb\u30fc\u30d7"
+    ],
+    "keyword": [
+      "\u30cf\u30a4\u30af\u30aa\u30ea\u30c6\u30a3VR",
+      "\u4eba\u59bb\u30fb\u4e3b\u5a66",
+      "\u653e\u5c3f\u30fb\u304a\u6f0f\u3089\u3057",
+      "\u30c7\u30ab\u30c1\u30f3\u30fb\u5de8\u6839",
+      "\u4e2d\u51fa\u3057",
+      "\u304a\u98a8\u5442",
+      "\u30de\u30c3\u30b5\u30fc\u30b8\u30fb\u30ea\u30d5\u30ec",
+      "\u5373\u30cf\u30e1",
+      "\u30d1\u30a4\u30ba\u30ea",
+      "\u30d5\u30a7\u30e9",
+      "\u9a0e\u4e57\u4f4d",
+      "\u30d0\u30c3\u30af",
+      "\u72ec\u5360\u914d\u4fe1",
+      "VR\u5c02\u7528",
+      "\u5358\u4f53\u4f5c\u54c1",
+      "8KVR",
+      "\u5de8\u4e73"
+    ]
+  },
+  {
+    "id": "savr00599",
+    "title": "\u3010VR\u3011\u3075\u308f\u3075\u308f\u6388\u4e73\u624b\u30b3\u30ad \u7537\u306e\u5168\u3066\u3092\u8912\u3081\u306a\u304c\u3089\u597d\u304d\u653e\u984c\u30aa\u30ae\u30e3\u3089\u305b\u3066\u304f\u308c\u308b\u304b\u3059\u307f\u5148\u751f\u3068\u5b50\u4f9b\u306b\u306a\u3063\u305f\u30dc\u30af\u3002",
+    "size": "12.27 GB",
+    "actress": [],
+    "preview_img_url": "https://pics.dmm.co.jp/digital/video/savr00599/savr00599pl.jpg",
+    "sell_date": "2025/04/20",
+    "duration": "73\u5206",
+    "seed_download_link": "magnet:?xt=urn:btih:dce4017950da9a8a7999742f4bbb48d4034b1e3b&dn=savr-599&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce",
+    "director": [
+      "MUNPEE"
+    ],
+    "maker": [
+      "KMPVR-\u5f69-"
+    ],
+    "series": [],
+    "label": [
+      "KMPVR-\u5f69-"
+    ],
+    "keyword": [
+      "\u30cf\u30a4\u30af\u30aa\u30ea\u30c6\u30a3VR",
+      "VR\u5c02\u7528",
+      "\u72ec\u5360\u914d\u4fe1",
+      "8KVR",
+      "\u5984\u60f3",
+      "\u30d1\u30a4\u30ba\u30ea",
+      "\u88f8\u30a8\u30d7\u30ed\u30f3",
+      "\u5de8\u4e73"
+    ]
+  },
+  {
+    "id": "savr00633",
+    "title": "\u3010VR\u3011\u5de8\u4e73\u30de\u30cd\u30fc\u30b8\u30e3\u30fc\u5a9a\u85ac\u30ec\u25cf\u30d7 \u90e8\u9577\u306e\u3053\u3068\u306f\u5fd8\u308c\u3055\u305b\u3066\u3042\u3052\u308b\u2026\u30ad\u30df\u306e\u512a\u3057\u3055\u3082\u81a3\u3082\u304a\u3063\u3071\u3044\u3082\u5168\u90e8\u30dc\u30af\u306e\u3082\u306e",
+    "size": "10.19 GB",
+    "actress": [],
+    "preview_img_url": "https://pics.dmm.co.jp/digital/video/savr00633/savr00633pl.jpg",
+    "sell_date": "2025/04/20",
+    "duration": "69\u5206",
+    "seed_download_link": "magnet:?xt=urn:btih:c9e1242476b59d923f9fbb5790bcdfa8727c0cd2&dn=savr-633&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce",
+    "director": [
+      "\u30cf\u30e1\u30e9\u30cb\u30a2\u30f3\u4eac\u90fd"
+    ],
+    "maker": [
+      "KMPVR-\u5f69-"
+    ],
+    "series": [],
+    "label": [
+      "KMPVR-\u5f69-"
+    ],
+    "keyword": [
+      "\u30cf\u30a4\u30af\u30aa\u30ea\u30c6\u30a3VR",
+      "8KVR",
+      "VR\u5c02\u7528",
+      "\u72ec\u5360\u914d\u4fe1",
+      "\u5973\u5b50\u6821\u751f",
+      "\u5de8\u4e73",
+      "\u4f53\u64cd\u7740\u30fb\u30d6\u30eb\u30de",
+      "\u7af6\u6cf3\u30fb\u30b9\u30af\u30fc\u30eb\u6c34\u7740",
+      "\u4e2d\u51fa\u3057"
+    ]
+  },
+  {
+    "id": "vrkm01525",
+    "title": "\u3010VR\u3011\u4e94\u611f\u304c\u30b7\u30d3\u308c\u308b\u8133\u30a4\u30ad\u4f53\u9a13\uff01\u3055\u3055\u3084\u304d\u6deb\u8a9eSEX BEST300\u5206",
+    "size": "24.86 GB",
+    "actress": [
+      "\u590f\u591c\u3048\u308b",
+      "\u82b9\u6ca2\u306a\u304e",
+      "\u80e1\u6843\u3055\u304f\u3089",
+      "\u9ad8\u5cf6\u611b",
+      "\u685c\u6728\u7f8e\u97f3",
+      "\u6e1a\u307f\u3064\u304d",
+      "\u5c0f\u90a3\u6d77\u3042\u3084",
+      "\u677e\u672c\u3044\u3061\u304b",
+      "\u68ee\u65e5\u5411\u5b50",
+      "\u693f\u308a\u304b"
+    ],
+    "preview_img_url": "https://pics.dmm.co.jp/digital/video/vrkm01525/vrkm01525pl.jpg",
+    "sell_date": "2025/04/19",
+    "duration": "301\u5206",
+    "seed_download_link": "magnet:?xt=urn:btih:a2db92e5842147fb7b788ecb0fc39e66c48ca66b&dn=vrkm-1525&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce",
+    "director": [
+      "K\u592a\u90ce"
+    ],
+    "maker": [
+      "\u30b1\u30a4\u30fb\u30a8\u30e0\u30fb\u30d7\u30ed\u30c7\u30e5\u30fc\u30b9"
+    ],
+    "series": [
+      "VR BEST"
+    ],
+    "label": [
+      "KMPVR"
+    ],
+    "keyword": [
+      "4\u6642\u9593\u4ee5\u4e0a\u4f5c\u54c1",
+      "\u30cf\u30a4\u30af\u30aa\u30ea\u30c6\u30a3VR",
+      "8KVR",
+      "VR\u5c02\u7528",
+      "\u72ec\u5360\u914d\u4fe1",
+      "\u30d9\u30b9\u30c8\u30fb\u7dcf\u96c6\u7de8",
+      "\u7f8e\u5c11\u5973",
+      "\u30ad\u30b9\u30fb\u63a5\u543b",
+      "\u6deb\u8a9e"
+    ]
+  },
+  {
+    "id": "sivr00408",
+    "title": "\u3010VR\u3011\u300c\u6587\u5316\u796d\u30012\u4eba\u3067\u629c\u3051\u51fa\u3055\u306a\u3044\uff1f\u300d\u5b66\u5712\u306e\u30de\u30c9\u30f3\u30ca\u4e09\u7530\u3055\u3093\u306b\u624b\u3092\u63e1\u3089\u308c\u3066\u2026\u5236\u670d\u8131\u3044\u3060\u3089\u8276\u3063\u307d\u3044\u5927\u4eba\u30b9\u30ec\u30f3\u30c0\u30fc\u30dc\u30c7\u30a3\u3067\u77ac\u6bba \u3042\u307e\u308a\u306b\u3082\u629c\u3051\u99c6\u3051SEX\u304c\u6700\u9ad8\u3059\u304e\u305f\u30e9\u30d6\u30db\u5f8c\u591c\u796d \u4e09\u7530\u771f\u9234",
+    "size": "20.37 GB",
+    "actress": [
+      "\u4e09\u7530\u771f\u9234"
+    ],
+    "preview_img_url": "https://pics.dmm.co.jp/digital/video/sivr00408/sivr00408pl.jpg",
+    "sell_date": "2025/04/18",
+    "duration": "82\u5206",
+    "seed_download_link": "magnet:?xt=urn:btih:27f4243f21e668e15b8a4fb0fb0681a19cf943f9&dn=sivr-408&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce",
+    "director": [
+      "\u6fe1\u308c\u305f\u5b50\u72ac"
+    ],
+    "maker": [
+      "\u30a8\u30b9\u30ef\u30f3 \u30ca\u30f3\u30d0\u30fc\u30ef\u30f3\u30b9\u30bf\u30a4\u30eb"
+    ],
+    "series": [
+      "S1 VR"
+    ],
+    "label": [
+      "S1 VR"
+    ],
+    "keyword": [
+      "\u30cf\u30a4\u30af\u30aa\u30ea\u30c6\u30a3VR",
+      "\u5973\u5b50\u6821\u751f",
+      "\u30ad\u30b9\u30fb\u63a5\u543b",
+      "\u7af6\u6cf3\u30fb\u30b9\u30af\u30fc\u30eb\u6c34\u7740",
+      "\u4e3b\u89b3",
+      "\u72ec\u5360\u914d\u4fe1",
+      "VR\u5c02\u7528",
+      "\u5358\u4f53\u4f5c\u54c1",
+      "8KVR",
+      "\u5236\u670d"
+    ]
+  },
+  {
+    "id": "savr00624",
+    "title": "\u3010VR\u3011\u50d5\u304c\u7ae5\u8c9e\u3068\u77e5\u3063\u3066\u304b\u3089\u30ca\u30de\u4e73\u898b\u305b\u3064\u3051\u3067\u8a98\u60d1\u3057\u3066\u304f\u308b\u5bb6\u5ead\u6559\u5e2b \u62bc\u3057\u4ed8\u3051\u3089\u308c\u308b\u8c4a\u6e80\u306a\u304a\u3063\u3071\u3044\u306e\u305b\u3044\u3067\u52c9\u5f37\u306b\u96c6\u4e2d\u3067\u304d\u307e\u305b\u3093\u2026 \u53cc\u8449\u308c\u3047\u306a",
+    "size": "15.34 GB",
+    "actress": [
+      "\u53cc\u8449\u308c\u3047\u306a"
+    ],
+    "preview_img_url": "https://pics.dmm.co.jp/digital/video/savr00624/savr00624pl.jpg",
+    "sell_date": "2025/04/18",
+    "duration": "90\u5206",
+    "seed_download_link": "magnet:?xt=urn:btih:690aff758835202db18c9a53833e701adc85bd3e&dn=savr-624&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce",
+    "director": [
+      "\u30cf\u30e1\u30e9\u30cb\u30a2\u30f3\u4eac\u90fd"
+    ],
+    "maker": [
+      "KMPVR-\u5f69-"
+    ],
+    "series": [],
+    "label": [
+      "KMPVR-\u5f69-"
+    ],
+    "keyword": [
+      "\u30cf\u30a4\u30af\u30aa\u30ea\u30c6\u30a3VR",
+      "\u7f8e\u5c11\u5973",
+      "\u30ce\u30fc\u30d6\u30e9",
+      "\u30ce\u30fc\u30d1\u30f3",
+      "\u5bb6\u5ead\u6559\u5e2b",
+      "\u7f8e\u4e73",
+      "\u72ec\u5360\u914d\u4fe1",
+      "VR\u5c02\u7528",
+      "\u5358\u4f53\u4f5c\u54c1",
+      "8KVR",
+      "\u4e2d\u51fa\u3057"
+    ]
+  },
+  {
+    "id": "juvr00228",
+    "title": "\u3010VR\u3011\u8d85\u9ad8\u753b\u8cea8K VR \u30e0\u30c3\u30c1\u30e0\u30c1\u8089\u611f\u53d4\u6bcd\u30fb\u8309\u8389\u5948\u3055\u3093\u306e\u6c57\u3060\u304f\u6fe1\u308c\u30b9\u30b1\u8a98\u60d1\u306b\u8010\u3048\u304d\u308c\u305a\u2026 \u30ad\u30f3\u7389\u304c\u30ab\u30e9\u306b\u306a\u308b\u307b\u3069\u643e\u7cbe\u3055\u308c\u305f\u50d5\u3002 \u767d\u77f3\u8309\u8389\u5948",
+    "size": "17.38 GB",
+    "actress": [
+      "\u767d\u77f3\u8309\u8389\u5948"
+    ],
+    "preview_img_url": "https://pics.dmm.co.jp/digital/video/juvr00228/juvr00228pl.jpg",
+    "sell_date": "2025/04/18",
+    "duration": "77\u5206",
+    "seed_download_link": "magnet:?xt=urn:btih:df30262869f62282da2b23665bacb3b2edef19ae&dn=juvr-228&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce",
+    "director": [
+      "\u77e2\u6fa4\u30ec\u30b7\u30fc\u30d6"
+    ],
+    "maker": [
+      "\u30de\u30c9\u30f3\u30ca"
+    ],
+    "series": [
+      "\u30e0\u30c3\u30c1\u30e0\u30c1\u8089\u611f\u53d4\u6bcd\u30fb\u25cb\u25cb\u3055\u3093\u306e\u6c57\u3060\u304f\u6fe1\u308c\u30b9\u30b1\u8a98\u60d1\u306b\u8010\u3048\u304d\u308c\u305a\u2026\u30ad\u30f3\u7389\u304c\u30ab\u30e9\u306b\u306a\u308b\u307b\u3069\u643e\u7cbe\u3055\u308c\u305f\u50d5\u3002"
+    ],
+    "label": [
+      "MadonnaVR"
+    ],
+    "keyword": [
+      "\u719f\u5973",
+      "8KVR",
+      "\u5358\u4f53\u4f5c\u54c1",
+      "VR\u5c02\u7528",
+      "\u72ec\u5360\u914d\u4fe1",
+      "\u4e0d\u502b",
+      "\u6c57\u3060\u304f",
+      "\u5de8\u4e73",
+      "\u75f4\u5973",
+      "\u30cf\u30a4\u30af\u30aa\u30ea\u30c6\u30a3VR"
+    ]
+  },
+  {
+    "id": "vrkm01539",
+    "title": "\u3010VR\u3011\u5929\u4e95\u7279\u5316\u30a2\u30f3\u30b0\u30ebVR \uff5e\u30b9\u30ed\u30fc\u30bb\u30c3\u30af\u30b9\uff5e \u85e4\u7530\u3053\u305a\u3048",
+    "size": "12.21 GB",
+    "actress": [
+      "\u85e4\u7530\u3053\u305a\u3048"
+    ],
+    "preview_img_url": "https://pics.dmm.co.jp/digital/video/vrkm01539/vrkm01539pl.jpg",
+    "sell_date": "2025/04/12",
+    "duration": "82\u5206",
+    "seed_download_link": "magnet:?xt=urn:btih:fe5e4174d9855ffb6f4698424c5a7aeae6d04aca&dn=vrkm-1539&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce",
+    "director": [
+      "\u5bae\u8feb\u30e1\u30f3\u30d0\u30fc"
+    ],
+    "maker": [
+      "\u30b1\u30a4\u30fb\u30a8\u30e0\u30fb\u30d7\u30ed\u30c7\u30e5\u30fc\u30b9"
+    ],
+    "series": [
+      "\u5929\u4e95\u7279\u5316\u30a2\u30f3\u30b0\u30eb"
+    ],
+    "label": [
+      "KMPVR"
+    ],
+    "keyword": [
+      "\u30cf\u30a4\u30af\u30aa\u30ea\u30c6\u30a3VR",
+      "8KVR",
+      "\u5358\u4f53\u4f5c\u54c1",
+      "VR\u5c02\u7528",
+      "\u72ec\u5360\u914d\u4fe1",
+      "\u4e2d\u51fa\u3057",
+      "\u9a0e\u4e57\u4f4d",
+      "\u7f8e\u4e73",
+      "\u4e3b\u89b3"
+    ]
+  },
+  {
+    "id": "savr00597",
+    "title": "\u3010VR\u3011\u73a9\u5177\u30a2\u30af\u30e1\u5815\u3061 \u751f\u610f\u6c17\u306a\u30e1\u30b9\u30ac\u30ad\u59b9\u306b\u7406\u89e3\u3089\u305b\u30d4\u30b9\u30c8\u30f3 \u7686\u6708\u3072\u304b\u308b",
+    "size": "19.13 GB",
+    "actress": [
+      "\u7686\u6708\u3072\u304b\u308b"
+    ],
+    "preview_img_url": "https://pics.dmm.co.jp/digital/video/savr00597/savr00597pl.jpg",
+    "sell_date": "2025/04/12",
+    "duration": "80\u5206",
+    "seed_download_link": "magnet:?xt=urn:btih:9192fb6f9a121f1267c59cf685c0b21e19e053a7&dn=savr-597&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce",
+    "director": [
+      "MUNPEE"
+    ],
+    "maker": [
+      "KMPVR-\u5f69-"
+    ],
+    "series": [],
+    "label": [
+      "KMPVR-\u5f69-"
+    ],
+    "keyword": [
+      "\u30cf\u30a4\u30af\u30aa\u30ea\u30c6\u30a3VR",
+      "\u5358\u4f53\u4f5c\u54c1",
+      "VR\u5c02\u7528",
+      "\u72ec\u5360\u914d\u4fe1",
+      "8KVR",
+      "\u30d0\u30a4\u30d6",
+      "\u59c9\u30fb\u59b9",
+      "\u30d1\u30a4\u30d1\u30f3",
+      "\u5973\u5b50\u6821\u751f"
+    ]
+  },
+  {
+    "id": "savr00628",
+    "title": "\u3010VR\u3011\u5143\u30e4\u30f3\u306e\u30a8\u30a2\u30b3\u30f3\u4fee\u7406\u696d\u8005\u3055\u3093\u306b\u53f1\u3089\u308c\u306a\u304c\u3089\u6b7b\u306c\u307b\u3069\u30aa\u30f3\u30ca\u3092\u5473\u308f\u3063\u305f\u7ae5\u8c9e\u306e\u30dc\u30af AIKA",
+    "size": "12.60 GB",
+    "actress": [
+      "AIKA"
+    ],
+    "preview_img_url": "https://pics.dmm.co.jp/digital/video/savr00628/savr00628pl.jpg",
+    "sell_date": "2025/04/12",
+    "duration": "74\u5206",
+    "seed_download_link": "magnet:?xt=urn:btih:8b41a4fa0191ca3ec5b1bdf6d247dc6765c31e2d&dn=savr-628&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce",
+    "director": [
+      "\u5305\u4e01M"
+    ],
+    "maker": [
+      "KMPVR-\u5f69-"
+    ],
+    "series": [],
+    "label": [
+      "KMPVR-\u5f69-"
+    ],
+    "keyword": [
+      "\u30cf\u30a4\u30af\u30aa\u30ea\u30c6\u30a3VR",
+      "\u7f8e\u4e73",
+      "\u30b9\u30ec\u30f3\u30c0\u30fc",
+      "\u65e5\u713c\u3051",
+      "\u4e2d\u51fa\u3057",
+      "\u72ec\u5360\u914d\u4fe1",
+      "VR\u5c02\u7528",
+      "\u5358\u4f53\u4f5c\u54c1",
+      "8KVR",
+      "\u8077\u696d\u8272\u3005"
+    ]
+  },
+  {
+    "id": "vrprd00088",
+    "title": "\u3010VR\u3011\u4e2d\u51fa\u3057\u30fb\u4e73\u9996\u7279\u5316\u30fbH\u30ab\u30c3\u30d7\u30fb\u9a0e\u4e57\u4f4d\u5927\u597d\u304d\u30fb\u5965\u69d8\u300c\u3044\u3063\u3071\u3044\u4e73\u9996\u3057\u3088\u3063\uff01\u30a4\u30af\u3045\uff01\u300d \u3048\u3061\u3048\u3061\u7f8e\u4e73\u4eba\u59bb\u3068\u4e73\u9996\u958b\u767aSEX\uff01\u4e45\u3057\u3076\u308a\u306e\u5feb\u697d\u306b\u6eba\u308c\u7d9a\u3051\u308b\u8277\u59bb\u300e\u304a\u96a3\u306e\u9577\u702c\u3055\u3093\u300f",
+    "size": "5.87 GB",
+    "actress": [],
+    "preview_img_url": "https://pics.dmm.co.jp/digital/video/vrprd00088/vrprd00088pl.jpg",
+    "sell_date": "2025/04/12",
+    "duration": "62\u5206",
+    "seed_download_link": "magnet:?xt=urn:btih:09872fd122b9bfa471b0a233fc4f6eee4b462eaf&dn=vrprd-088&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce",
+    "director": [
+      "\u30b6\u30c3\u30af\u8352\u4e95"
+    ],
+    "maker": [
+      "VR\u30d1\u30e9\u30c0\u30a4\u30b9"
+    ],
+    "series": [],
+    "label": [
+      "\u6975\u30b0\u30eb\u30fc\u30d7"
+    ],
+    "keyword": [
+      "\u30cf\u30a4\u30af\u30aa\u30ea\u30c6\u30a3VR",
+      "VR\u5c02\u7528",
+      "\u72ec\u5360\u914d\u4fe1",
+      "\u9a0e\u4e57\u4f4d",
+      "\u5de8\u4e73",
+      "\u4eba\u59bb\u30fb\u4e3b\u5a66"
+    ]
+  },
+  {
+    "id": "urvrsp00430",
+    "title": "\u3010VR\u3011\u30108K VR\u3011\u4e45\u3005\u306b\u4f1a\u3063\u305f\u5f93\u59c9\u59b9\u306f\u3082\u306e\u3059\u3054\u304f\u767a\u80b2\u304c\u6025\u6210\u9577\u3002J \u30ab\u30c3\u30d7\u3067\u7121\u610f\u8b58\u8a98\u60d1\u3057\u3066\u304d\u3066\u5922\u306b\u51fa\u3066\u304f\u308b\u307b\u3069\u304a\u3063\u3071\u3044\u6cbc\u306b\u6c88\u3081\u3089\u308c\u305f\u3002\u4e38\u6700\u30ec\u30a2",
+    "size": "12.69 GB",
+    "actress": [
+      "\u4e38\u6700\u30ec\u30a2"
+    ],
+    "preview_img_url": "https://pics.dmm.co.jp/digital/video/urvrsp00430/urvrsp00430pl.jpg",
+    "sell_date": "2025/04/11",
+    "duration": "71\u5206",
+    "seed_download_link": "magnet:?xt=urn:btih:7243f0c943df1ebfedcb249a6b71f69c86c3cb1a&dn=urvrsp-430&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce",
+    "director": [
+      "\u77e2\u6fa4\u30ec\u30b7\u30fc\u30d6"
+    ],
+    "maker": [
+      "unfinished"
+    ],
+    "series": [
+      "unfinished VR"
+    ],
+    "label": [
+      "Marrion Group VR"
+    ],
+    "keyword": [
+      "\u30cf\u30a4\u30af\u30aa\u30ea\u30c6\u30a3VR",
+      "\u59c9\u30fb\u59b9",
+      "\u5de8\u4e73",
+      "\u8fd1\u89aa\u76f8\u59e6",
+      "\u80f8\u30c1\u30e9",
+      "\u75f4\u5973",
+      "8KVR",
+      "\u72ec\u5360\u914d\u4fe1",
+      "VR\u5c02\u7528",
+      "\u5358\u4f53\u4f5c\u54c1",
+      "\u4e2d\u51fa\u3057"
+    ]
+  },
+  {
+    "id": "juvr00226",
+    "title": "\u3010VR\u3011\u8d85\u9ad8\u753b\u8cea8K VR 2\uff0c5\u6b21\u5143\u6975\u4e0aI\u30ab\u30c3\u30d7\u6075\u4f53\uff01\uff01 \u8a33\u3042\u308a\u30de\u30b9\u30af\u59bb \u300e\u5143\u82b8\u80fd\u4eba\u300f\u7d17\u5f25\u4f73 \u521dVR \u30de\u30c3\u30c1\u30f3\u30b0\u30a2\u30d7\u30ea\u3067\u51fa\u9022\u3063\u305f\u4eba\u59bb\u30ec\u30a4\u30e4\u30fc\u3068 \u521d\u3081\u3066\u306e\u30aa\u30d5\u30d1\u30b3\uff06\u4e2d\u51fa\u3057\u64ae\u5f71\u4f1a",
+    "size": "31.23 GB",
+    "actress": [
+      "\u7d17\u5f25\u4f73"
+    ],
+    "preview_img_url": "https://pics.dmm.co.jp/digital/video/juvr00226/juvr00226pl.jpg",
+    "sell_date": "2025/04/11",
+    "duration": "102\u5206",
+    "seed_download_link": "magnet:?xt=urn:btih:ae96c9f1d814f0f16c8bef3736983a2a10049885&dn=juvr-226&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce",
+    "director": [
+      "\u30b8\u30fc\u30cb\u30a2\u30b9\u819d"
+    ],
+    "maker": [
+      "\u30de\u30c9\u30f3\u30ca"
+    ],
+    "series": [],
+    "label": [
+      "MadonnaVR"
+    ],
+    "keyword": [
+      "\u30cf\u30a4\u30af\u30aa\u30ea\u30c6\u30a3VR",
+      "\u4eba\u59bb\u30fb\u4e3b\u5a66",
+      "\u5de8\u4e73",
+      "\u30b3\u30b9\u30d7\u30ec",
+      "\u75f4\u5973",
+      "\u72ec\u5360\u914d\u4fe1",
+      "VR\u5c02\u7528",
+      "\u5358\u4f53\u4f5c\u54c1",
+      "8KVR",
+      "\u719f\u5973"
+    ]
+  },
+  {
+    "id": "savr00622",
+    "title": "\u3010VR\u3011\u7d42\u96fb\u3092\u9003\u3057\u3001\u30d0\u30a4\u30c8\u5148\u306e\u5148\u8f29\u306e\u5bb6\u306b\u6cca\u307e\u3063\u305f\u591c\u2026\u98a8\u5442\u4e0a\u304c\u308a\u306e\u7121\u9632\u5099\u306a\u59ff\u3092\u898b\u305b\u3064\u3051\u3089\u308c\u3001\u30ac\u30de\u30f3\u3067\u304d\u306a\u304f\u306a\u3063\u305f\u30dc\u30af\u306b\u304a\u6900\u578b\u304a\u3063\u3071\u3044\u3092\u63c9\u307f\u3057\u3060\u304d\u306a\u304c\u3089SEX\u3055\u305b\u3066\u304f\u308c\u305f\u8a71\u3002 \u4f9d\u672c\u3057\u304a\u308a",
+    "size": "12.77 GB",
+    "actress": [
+      "\u4f9d\u672c\u3057\u304a\u308a"
+    ],
+    "preview_img_url": "https://pics.dmm.co.jp/digital/video/savr00622/savr00622pl.jpg",
+    "sell_date": "2025/04/11",
+    "duration": "85\u5206",
+    "seed_download_link": "magnet:?xt=urn:btih:90ff535f6f978e37c0a6648ceeab0f127c7b2ddb&dn=savr-622&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce",
+    "director": [
+      "\u9752\u7a7a\u5c04\u7cbe\u30c6\u30a3\u30fc\u30c1\u30e3\u30fc"
+    ],
+    "maker": [
+      "KMPVR-\u5f69-"
+    ],
+    "series": [],
+    "label": [
+      "KMPVR-\u5f69-"
+    ],
+    "keyword": [
+      "\u30cf\u30a4\u30af\u30aa\u30ea\u30c6\u30a3VR",
+      "\u304a\u59c9\u3055\u3093",
+      "\u7f8e\u4e73",
+      "\u75f4\u5973",
+      "\u4e2d\u51fa\u3057",
+      "\u72ec\u5360\u914d\u4fe1",
+      "VR\u5c02\u7528",
+      "\u5358\u4f53\u4f5c\u54c1",
+      "8KVR",
+      "\u5de8\u4e73"
+    ]
+  },
+  {
+    "id": "mdvr00340",
+    "title": "\u3010VR\u30111000\u5186\u30ab\u30c3\u30c8\u306e\u304a\u30cd\u30a8\u3055\u3093\u306b\u30b9\u3044\u3066\u3082\u3089\u3046\u672c\u3002VR\u5b9f\u5199\u7248 \u539f\u4f5c \u8d8a\u5c71\u5f31\u8870 \u7d2f\u8a08\u58f2\u4e0a20\u4e07\u90e8\u8d8a\u8089\u611f\u30b3\u30df\u30c3\u30af\u306e\u4e16\u754c\u3078",
+    "size": "19.55 GB",
+    "actress": [],
+    "preview_img_url": "https://pics.dmm.co.jp/digital/video/mdvr00340/mdvr00340pl.jpg",
+    "sell_date": "2025/04/11",
+    "duration": "113\u5206",
+    "seed_download_link": "magnet:?xt=urn:btih:882c456aaf69c525a6bf34984d135bcb325123e0&dn=mdvr-340&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce",
+    "director": [
+      "ZAMPA"
+    ],
+    "maker": [
+      "\u30e0\u30fc\u30c7\u30a3\u30fc\u30ba"
+    ],
+    "series": [
+      "1000\u5186\u30ab\u30c3\u30c8\u306e\u304a\u30cd\u30a8\u3055\u3093\u306b\u30b9\u3044\u3066\u3082\u3089\u3046\u672c\u3002"
+    ],
+    "label": [
+      "MOODYZ VR"
+    ],
+    "keyword": [
+      "\u30cf\u30a4\u30af\u30aa\u30ea\u30c6\u30a3VR",
+      "8KVR",
+      "VR\u5c02\u7528",
+      "\u72ec\u5360\u914d\u4fe1",
+      "\u30d5\u30a7\u30e9",
+      "\u30d1\u30a4\u30ba\u30ea",
+      "\u4e2d\u51fa\u3057",
+      "\u5de8\u4e73",
+      "\u539f\u4f5c\u30b3\u30e9\u30dc"
+    ]
+  },
+  {
+    "id": "kiwvr00756",
+    "title": "\u3010VR\u3011\u30d7\u30ed\u30b8\u30a7\u30af\u30bf\u30fc\u3067AIKA\u306eAV\u898b\u3066\u305f\u3089\u307e\u3055\u304b\u306e\u672c\u4eba\u767b\u5834\uff01\u63a5\u543b\uff01\u6deb\u8a9e\uff01\u30c1\u30f3\u3050\u308a\u8fd4\u3057\uff01\u6c17\u304c\u6e08\u3080\u307e\u3067\u30e4\u30e9\u308c\u7d9a\u3051\u305f\u2026\u30e9\u30c3\u30ad\u30fc\u30b9\u30b1\u30d9VR",
+    "size": "4.84 GB",
+    "actress": [
+      "AIKA"
+    ],
+    "preview_img_url": "https://pics.dmm.co.jp/digital/video/kiwvr00756/kiwvr00756pl.jpg",
+    "sell_date": "2025/04/11",
+    "duration": "61\u5206",
+    "seed_download_link": "magnet:?xt=urn:btih:d567bf41da60b469b579d2fd919dacdb644876dc&dn=kiwvr-756&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce",
+    "director": [],
+    "maker": [
+      "\u3053\u3042\u3089VR"
+    ],
+    "series": [
+      "AV\u898b\u3066\u305f\u3089\u61a7\u308c\u306e\u672c\u4eba\u767b\u5834"
+    ],
+    "label": [
+      "\u6975\u30b0\u30eb\u30fc\u30d7"
+    ],
+    "keyword": [
+      "\u30cf\u30a4\u30af\u30aa\u30ea\u30c6\u30a3VR",
+      "\u30ae\u30e3\u30eb",
+      "\u75f4\u5973",
+      "\u4e2d\u51fa\u3057",
+      "\u6deb\u8a9e",
+      "\u30ad\u30b9\u30fb\u63a5\u543b",
+      "\u72ec\u5360\u914d\u4fe1",
+      "VR\u5c02\u7528",
+      "\u5358\u4f53\u4f5c\u54c1",
+      "\u5de8\u4e73"
+    ]
+  },
+  {
+    "id": "aquma00086",
+    "title": "\u3010VR\u3011\u5168\u54e1\u5bdd\u53d6\u308a\u3001\u5168\u3066\u3092\u596a\u3046\u3002\u4e3b\u89b3NTR\uff08\u30cd\u30c8\u30ea\uff094\u6642\u9593\u30d9\u30b9\u30c8",
+    "size": "22.69 GB",
+    "actress": [
+      "\u4f0a\u6771\u6c99\u862d",
+      "\u4e8c\u5bae\u548c\u9999",
+      "\u82b1\u72e9\u307e\u3044",
+      "\u5c0f\u677e\u674f"
+    ],
+    "preview_img_url": "https://pics.dmm.co.jp/digital/video/aquma00086/aquma00086pl.jpg",
+    "sell_date": "2025/04/11",
+    "duration": "257\u5206",
+    "seed_download_link": "magnet:?xt=urn:btih:8a750d262397fb65fb6cc63c3e856aa2962d4153&dn=aquma-086&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce",
+    "director": [],
+    "maker": [
+      "AQUA\uff1c\u30a2\u30af\u30a2\uff1e"
+    ],
+    "series": [],
+    "label": [
+      "AQUA MANIAC"
+    ],
+    "keyword": [
+      "4\u6642\u9593\u4ee5\u4e0a\u4f5c\u54c1",
+      "\u30cf\u30a4\u30af\u30aa\u30ea\u30c6\u30a3VR",
+      "VR\u5c02\u7528",
+      "\u72ec\u5360\u914d\u4fe1",
+      "\u30d9\u30b9\u30c8\u30fb\u7dcf\u96c6\u7de8",
+      "\u4eba\u59bb\u30fb\u4e3b\u5a66",
+      "\u30ab\u30c3\u30d7\u30eb",
+      "\u5bdd\u53d6\u308a\u30fb\u5bdd\u53d6\u3089\u308c\u30fbNTR"
+    ]
+  },
+  {
+    "id": "aquma00085",
+    "title": "\u3010VR\u3011\u8e0f\u307e\u308c\u3066\u559c\u3076\u7537\u3092\u898b\u3066\u8efd\u8511\u3059\u308b\u5973",
+    "size": "7.04 GB",
+    "actress": [
+      "\u5929\u4e43\u306e\u3042",
+      "\u4e03\u85e4\u512a\u4e9c",
+      "\u9808\u5d0e\u7f8e\u7fbd",
+      "\u6709\u52a0\u91cc\u306e\u306e\u304b",
+      "\u524d\u7530\u7f8e\u6ce2",
+      "\u4e94\u5341\u5d50\u6e05\u83ef",
+      "\u85cd\u82bd\u307f\u305a\u304d"
+    ],
+    "preview_img_url": "https://pics.dmm.co.jp/digital/video/aquma00085/aquma00085pl.jpg",
+    "sell_date": "2025/04/11",
+    "duration": "75\u5206",
+    "seed_download_link": "magnet:?xt=urn:btih:dd1708bd7586d79beb4de595a786923941eb84c0&dn=aquma-085&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce",
+    "director": [
+      "\u5c71\u672c\u30d8\u30f3\u30c9\u30ea\u30af\u30b9"
+    ],
+    "maker": [
+      "AQUA\uff1c\u30a2\u30af\u30a2\uff1e"
+    ],
+    "series": [],
+    "label": [
+      "AQUA MANIAC"
+    ],
+    "keyword": [
+      "\u30cf\u30a4\u30af\u30aa\u30ea\u30c6\u30a3VR",
+      "VR\u5c02\u7528",
+      "\u72ec\u5360\u914d\u4fe1",
+      "\u8fb1\u3081",
+      "\u7f75\u5012",
+      "\u811a\u30d5\u30a7\u30c1",
+      "\u8db3\u30b3\u30ad"
+    ]
+  },
+  {
+    "id": "aquco00090",
+    "title": "\u3010VR\u3011\u9ed2\u30ae\u30e3\u30eb\u306e\u3080\u3063\u3061\u308a\u4e0b\u534a\u8eab\u3067\u50d5\u3092\u72af\u3057\u3066\u4e0b\u3055\u3044\u3002 \u702c\u90a3\u30eb\u30df\u30ca",
+    "size": "7.28 GB",
+    "actress": [
+      "\u702c\u90a3\u30eb\u30df\u30ca"
+    ],
+    "preview_img_url": "https://pics.dmm.co.jp/digital/video/aquco00090/aquco00090pl.jpg",
+    "sell_date": "2025/04/11",
+    "duration": "73\u5206",
+    "seed_download_link": "magnet:?xt=urn:btih:d265c5850eafee8b126c4e5061c157713175f1f1&dn=aquco-090&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce",
+    "director": [
+      "\u30ed\u30fc\u30b7\u30e7\u30f3\u30dc\u30fc\u30a4"
+    ],
+    "maker": [
+      "AQUA\uff1c\u30a2\u30af\u30a2\uff1e"
+    ],
+    "series": [
+      "\u3080\u3063\u3061\u308a\u4e0b\u534a\u8eab\u3067\u50d5\u3092\u72af\u3057\u3066\u4e0b\u3055\u3044\u3002"
+    ],
+    "label": [
+      "AQUA COLORS"
+    ],
+    "keyword": [
+      "\u5358\u4f53\u4f5c\u54c1",
+      "\u30cf\u30a4\u30af\u30aa\u30ea\u30c6\u30a3VR",
+      "VR\u5c02\u7528",
+      "\u72ec\u5360\u914d\u4fe1",
+      "\u811a\u30d5\u30a7\u30c1",
+      "\u30d1\u30f3\u30b9\u30c8\u30fb\u30bf\u30a4\u30c4",
+      "\u5de8\u4e73",
+      "\u75f4\u5973",
+      "\u30ae\u30e3\u30eb"
+    ]
+  },
+  {
+    "id": "aquco00089",
+    "title": "\u3010VR\u3011M\u6027\u611f\u3067\u30e1\u30b9\u30a4\u30ad\u3092\u7d4c\u9a13\u3057\u305f\u3042\u306e\u65e5\u304b\u3089\u50d5\u306f\u524d\u7acb\u817a\u306e\u865c \u82e5\u5bae\u306f\u305a\u304d",
+    "size": "18.43 GB",
+    "actress": [
+      "\u82e5\u5bae\u306f\u305a\u304d"
+    ],
+    "preview_img_url": "https://pics.dmm.co.jp/digital/video/aquco00089/aquco00089pl.jpg",
+    "sell_date": "2025/04/11",
+    "duration": "71\u5206",
+    "seed_download_link": "magnet:?xt=urn:btih:0f7f9db10b129758302939bfe7553acabb40bd9b&dn=aquco-089&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce",
+    "director": [
+      "\u30ed\u30fc\u30b7\u30e7\u30f3\u30dc\u30fc\u30a4"
+    ],
+    "maker": [
+      "AQUA\uff1c\u30a2\u30af\u30a2\uff1e"
+    ],
+    "series": [
+      "M\u6027\u611f\u3067\u30e1\u30b9\u30a4\u30ad\u3092\u7d4c\u9a13\u3057\u305f\u3042\u306e\u65e5\u304b\u3089\u50d5\u306f\u524d\u7acb\u817a\u306e\u865c"
+    ],
+    "label": [
+      "AQUA COLORS"
+    ],
+    "keyword": [
+      "\u30cf\u30a4\u30af\u30aa\u30ea\u30c6\u30a3VR",
+      "\u30a2\u30ca\u30eb",
+      "M\u7537",
+      "\u5de8\u4e73",
+      "\u72ec\u5360\u914d\u4fe1",
+      "VR\u5c02\u7528",
+      "\u5358\u4f53\u4f5c\u54c1",
+      "8KVR",
+      "\u75f4\u5973"
+    ]
+  },
+  {
+    "id": "vrkm01528",
+    "title": "\u3010VR\u3011\u3042\u306e\u5de8\u4e73\u4e0a\u53f8\u306b\u3053\u3093\u306a\u30b9\u30b1\u30d9\u306a\u4e00\u9762\u304c\u3042\u3063\u305f\u306a\u3093\u3066\u2026\u30a8\u30c3\u30c1\u306a\u30b3\u30df\u30e5\u30cb\u30b1\u30fc\u30b7\u30e7\u30f3\u3067\u89aa\u7766\u3092\u6df1\u3081\u3061\u3083\u3046\u81ea\u5df1\u80a1\u9593\u5553\u767aBEST",
+    "size": "27.65 GB",
+    "actress": [
+      "\u5e0c\u4ee3\u3042\u307f",
+      "\u59eb\u54b2\u306f\u306a",
+      "\u9234\u6728\u771f\u5915",
+      "\u5409\u6839\u3086\u308a\u3042",
+      "\u767e\u6c38\u3055\u308a\u306a",
+      "\u84ee\u5b9f\u30af\u30ec\u30a2",
+      "\u4e26\u6728\u674f\u68a8",
+      "\u6c34\u539f\u307f\u305d\u306e",
+      "\u6676\u30a8\u30ea\u30fc\uff08\u65b0\u4e95\u30a8\u30ea\u30fc\u3001\u5927\u6ca2\u4f51\u9999\uff09",
+      "\u4eca\u4e95\u3086\u3042"
+    ],
+    "preview_img_url": "https://pics.dmm.co.jp/digital/video/vrkm01528/vrkm01528pl.jpg",
+    "sell_date": "2025/04/11",
+    "duration": "301\u5206",
+    "seed_download_link": "magnet:?xt=urn:btih:5d5d9fc3d81ca293e5465d2e816bb4ff6ec308cd&dn=vrkm-1528&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce",
+    "director": [
+      "K\u592a\u90ce"
+    ],
+    "maker": [
+      "\u30b1\u30a4\u30fb\u30a8\u30e0\u30fb\u30d7\u30ed\u30c7\u30e5\u30fc\u30b9"
+    ],
+    "series": [
+      "VR BEST"
+    ],
+    "label": [
+      "KMPVR"
+    ],
+    "keyword": [
+      "4\u6642\u9593\u4ee5\u4e0a\u4f5c\u54c1",
+      "\u30cf\u30a4\u30af\u30aa\u30ea\u30c6\u30a3VR",
+      "VR\u5c02\u7528",
+      "\u72ec\u5360\u914d\u4fe1",
+      "\u7f8e\u5c11\u5973",
+      "\u30d9\u30b9\u30c8\u30fb\u7dcf\u96c6\u7de8",
+      "\u5973\u4e0a\u53f8",
+      "\u5de8\u4e73"
+    ]
+  },
+  {
+    "id": "savr00613",
+    "title": "\u3010VR\u3011\u6b32\u6c42\u4e0d\u6e80\u306a\u4eba\u59bb\u304c\u6d3e\u9063\u3055\u308c\u3066\u304d\u307e\u3057\u305f\u3002 \u65e6\u90a3\u3068\u306e\u55b6\u307f\u306b\u30de\u30f3\u30cd\u30ea\u5316\u3092\u611f\u3058\u3066\u3044\u308b\u7f8e\u4eba\u59bb\u304c\u5f15\u304d\u7de0\u307e\u3063\u305f\u4e0b\u534a\u8eab\u3092\u4e00\u5fc3\u4e0d\u4e71\u306b\u52d5\u304b\u3057\u306a\u304c\u3089\u30dc\u30af\u306e\u30c1\u3007\u30dd\u3092\u3050\u3063\u307d\u308a\u54a5\u3048\u8fbc\u3080\u643e\u7cbe\u8a18\u9332\u3002\u3048\u308a\u304b\u3055\u3093 28\u6b73",
+    "size": "17.92 GB",
+    "actress": [],
+    "preview_img_url": "https://pics.dmm.co.jp/digital/video/savr00613/savr00613pl.jpg",
+    "sell_date": "2025/04/11",
+    "duration": "91\u5206",
+    "seed_download_link": "magnet:?xt=urn:btih:cc696cf1b8ad2185fb8a04397cc3c8fd521a980f&dn=savr-613&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce",
+    "director": [
+      "\u9752\u7a7a\u5c04\u7cbe\u30c6\u30a3\u30fc\u30c1\u30e3\u30fc"
+    ],
+    "maker": [
+      "KMPVR-\u5f69-"
+    ],
+    "series": [],
+    "label": [
+      "KMPVR-\u5f69-"
+    ],
+    "keyword": [
+      "\u30cf\u30a4\u30af\u30aa\u30ea\u30c6\u30a3VR",
+      "8KVR",
+      "VR\u5c02\u7528",
+      "\u72ec\u5360\u914d\u4fe1",
+      "\u7f8e\u4e73",
+      "\u4e0d\u502b",
+      "\u30d1\u30a4\u30d1\u30f3",
+      "\u75f4\u5973",
+      "\u4eba\u59bb\u30fb\u4e3b\u5a66"
+    ]
+  },
+  {
+    "id": "savr00608",
+    "title": "\u3010VR\u3011\u5f7c\u6c0f\u306e\u6d6e\u6c17\u3092\u77e5\u3063\u305f\u9060\u8ddd\u96e2\u5f7c\u5973\u306e\u553e\u6db2\u30de\u30fc\u30ad\u30f3\u30b0 \u95a2\u897f\u5f01\u3067\u5ac9\u59ac\u3084\u6012\u308a\u306e\u8a00\u8449\u3092\u5410\u304d\u51fa\u3057\u306a\u304c\u3089\u30c1\u25cf\u30dd\u3092\u98fc\u3044\u306a\u3089\u3059\u308f\u304b\u3089\u305b\u53cd\u7701SEX \u79cb\u5143\u3055\u3061\u304b",
+    "size": "13.00 GB",
+    "actress": [
+      "\u79cb\u5143\u3055\u3061\u304b"
+    ],
+    "preview_img_url": "https://pics.dmm.co.jp/digital/video/savr00608/savr00608pl.jpg",
+    "sell_date": "2025/04/11",
+    "duration": "98\u5206",
+    "seed_download_link": "magnet:?xt=urn:btih:37ffd56f89d2dd1b26cf6198acf9dcd4da42c05b&dn=savr-608&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce",
+    "director": [
+      "\u3059\u305a\u304d\u3080NEO"
+    ],
+    "maker": [
+      "KMPVR-\u5f69-"
+    ],
+    "series": [],
+    "label": [
+      "KMPVR-\u5f69-"
+    ],
+    "keyword": [
+      "\u30cf\u30a4\u30af\u30aa\u30ea\u30c6\u30a3VR",
+      "\u30ad\u30b9\u30fb\u63a5\u543b",
+      "\u4e2d\u51fa\u3057",
+      "\u30d5\u30a7\u30e9",
+      "\u304a\u59c9\u3055\u3093",
+      "\u72ec\u5360\u914d\u4fe1",
+      "VR\u5c02\u7528",
+      "\u5358\u4f53\u4f5c\u54c1",
+      "8KVR",
+      "\u30b9\u30ec\u30f3\u30c0\u30fc"
+    ]
+  },
+  {
+    "id": "urvrsp00428",
+    "title": "\u3010VR\u3011\u30108K VR\u3011\u5168\u8996\u91ce180\u00b0\u8d85\u30fb\u5929\u4e95\u7279\u5316\uff1c\u6975\uff1e \u4e00\u65e5\u4e2d\u3001\u4e07\u5e74\u5e8a\u306b\u5f35\u308a\u4ed8\u3044\u3066\u3044\u308b\u304a\u3058\u3055\u3093\u306e\u4ffa\u3068\u30d1\u30f3\u30c1\u30e9\u8a98\u60d1\u3057\u3066\u304f\u308b\u795e\u5f85\u3061J\u25cb\u30ae\u30e3\u30eb\uff01\u300c\u53ef\u611b\u3044\u53ef\u611b\u3044\u300d\u3068\u7518\u3005\u306b\u7121\u9650\u5c04\u7cbe\u3055\u305b\u3089\u308c\u793e\u4f1a\u30ab\u30fc\u30b9\u30c8\u58ca\u3055\u308c\u308b. . . \u30a2\u30ea\u30b9",
+    "size": "12.70 GB",
+    "actress": [],
+    "preview_img_url": "https://pics.dmm.co.jp/digital/video/urvrsp00428/urvrsp00428pl.jpg",
+    "sell_date": "2025/04/11",
+    "duration": "73\u5206",
+    "seed_download_link": "magnet:?xt=urn:btih:34bdb77716db855fa681097323b20d519b99f333&dn=urvrsp-428&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce",
+    "director": [
+      "\u77e2\u6fa4\u30ec\u30b7\u30fc\u30d6"
+    ],
+    "maker": [
+      "unfinished"
+    ],
+    "series": [
+      "unfinished VR"
+    ],
+    "label": [
+      "Marrion Group VR"
+    ],
+    "keyword": [
+      "\u30cf\u30a4\u30af\u30aa\u30ea\u30c6\u30a3VR",
+      "\u5973\u5b50\u6821\u751f",
+      "\u30ae\u30e3\u30eb",
+      "\u5de8\u4e73",
+      "\u7f8e\u4e73",
+      "\u30d1\u30f3\u30c1\u30e9",
+      "8KVR",
+      "\u72ec\u5360\u914d\u4fe1",
+      "VR\u5c02\u7528",
+      "\u4e2d\u51fa\u3057"
+    ]
+  },
+  {
+    "id": "sivr00409",
+    "title": "\u3010VR\u3011\u300c\u3044\u3064\u3082\u306f\u53d7\u3051\u8eab\u3060\u3051\u3069\u653b\u3081\u3061\u3083\u3046\u3093\u3060\u304b\u3089\u3041\u300d\u3053\u3063\u305d\u308aM\u6027\u611f\u306b\u901a\u3063\u3066\u305f\u6700\u4f4e\u5f7c\u6c0f\uff08\u50d5\uff09\u3092\u6238\u60d1\u3044\u6065\u3058\u3089\u3044\u306a\u304c\u3089\u75f4\u5973\u3063\u3066\u304f\u308c\u308b\u6fc0\u304a\u3053\u5f7c\u5973\u3068\u304a\u3046\u3061M\u6027\u611f\u3054\u3063\u3053 \u5009\u6728\u83ef",
+    "size": "15.01 GB",
+    "actress": [
+      "\u5009\u6728\u83ef"
+    ],
+    "preview_img_url": "https://pics.dmm.co.jp/digital/video/sivr00409/sivr00409pl.jpg",
+    "sell_date": "2025/04/10",
+    "duration": "97\u5206",
+    "seed_download_link": "magnet:?xt=urn:btih:f70facc380ac0a211c2f15e5c1d67523045cbba5&dn=sivr-409&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce",
+    "director": [
+      "\u30b8\u30fc\u30cb\u30a2\u30b9\u819d"
+    ],
+    "maker": [
+      "\u30a8\u30b9\u30ef\u30f3 \u30ca\u30f3\u30d0\u30fc\u30ef\u30f3\u30b9\u30bf\u30a4\u30eb"
+    ],
+    "series": [
+      "S1 VR"
+    ],
+    "label": [
+      "S1 VR"
+    ],
+    "keyword": [
+      "\u30cf\u30a4\u30af\u30aa\u30ea\u30c6\u30a3VR",
+      "\u30b9\u30ec\u30f3\u30c0\u30fc",
+      "\u6deb\u8a9e",
+      "M\u7537",
+      "\u4e3b\u89b3",
+      "\u72ec\u5360\u914d\u4fe1",
+      "VR\u5c02\u7528",
+      "\u5358\u4f53\u4f5c\u54c1",
+      "8KVR",
+      "\u75f4\u5973"
+    ]
+  },
+  {
+    "id": "urvrsp00434",
+    "title": "\u3010VR\u3011\u30108K VR\u30115\u56de\u7d76\u9802\u3057\u305f\u3089\u751f\u4e2d\u51fa\u3057\u30bb\u30c3\u30af\u30b9\u5f37\u25cf\u751f\u914d\u4fe1 \u9650\u754c\u7f8e\u5c3b\u30e9\u30a4\u30d0\u30fc\u306e\u501f\u91d1\u5e33\u6d88\u3057\u30c1\u30e3\u30ec\u30f3\u30b8",
+    "size": "9.33 GB",
+    "actress": [],
+    "preview_img_url": "https://pics.dmm.co.jp/digital/video/urvrsp00434/urvrsp00434pl.jpg",
+    "sell_date": "2025/04/10",
+    "duration": "62\u5206",
+    "seed_download_link": "magnet:?xt=urn:btih:b20652a24f107b429dab952081d1305644588d03&dn=urvrsp-434&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce",
+    "director": [
+      "DJ\u30b8\u30e3\u30e0"
+    ],
+    "maker": [
+      "unfinished"
+    ],
+    "series": [
+      "unfinished VR"
+    ],
+    "label": [
+      "Marrion Group VR"
+    ],
+    "keyword": [
+      "\u30cf\u30a4\u30af\u30aa\u30ea\u30c6\u30a3VR",
+      "VR\u5c02\u7528",
+      "\u72ec\u5360\u914d\u4fe1",
+      "8KVR",
+      "\u4f01\u753b",
+      "\u5c3b\u30d5\u30a7\u30c1",
+      "\u5bdd\u53d6\u308a\u30fb\u5bdd\u53d6\u3089\u308c\u30fbNTR",
+      "\u304a\u59c9\u3055\u3093",
+      "\u4e2d\u51fa\u3057"
+    ]
+  },
+  {
+    "id": "nkkvr00148",
+    "title": "\u3010VR\u3011\u8a33\u30a2\u30eaJD\u3092\u4f4f\u307e\u308f\u305b\u3066\u3010\u8d85\u8089\u611f\u8ffd\u5c3e\u7279\u5316\u3011\u671d\u304b\u3089\u3069\u3053\u3067\u3082\u30e4\u30ea\u307e\u304f\u308a\u5b55\u307e\u305b\u6027\u6d3b\uff01\uff01",
+    "size": "6.82 GB",
+    "actress": [],
+    "preview_img_url": "https://pics.dmm.co.jp/digital/video/nkkvr00148/nkkvr00148pl.jpg",
+    "sell_date": "2025/04/10",
+    "duration": "74\u5206",
+    "seed_download_link": "magnet:?xt=urn:btih:22426f7893c3132de4ba55d3bd4d7bcd48c027cb&dn=nkkvr-148&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce",
+    "director": [
+      "\u30af\u30ef\u30c3\u30c1\u30fc"
+    ],
+    "maker": [
+      "\u8089\u304d\u3085\u3093\u30d1\u30e9\u30c0\u30a4\u30b9VR"
+    ],
+    "series": [
+      "\u8a33\u30a2\u30ea\u25cb\u25cb\u7d20\u4eba"
+    ],
+    "label": [
+      "\u6975\u30b0\u30eb\u30fc\u30d7"
+    ],
+    "keyword": [
+      "\u30cf\u30a4\u30af\u30aa\u30ea\u30c6\u30a3VR",
+      "VR\u5c02\u7528",
+      "\u72ec\u5360\u914d\u4fe1",
+      "\u30d1\u30a4\u30ba\u30ea",
+      "\u9a0e\u4e57\u4f4d",
+      "\u75f4\u5973",
+      "\u5de8\u4e73",
+      "\u4e2d\u51fa\u3057"
+    ]
+  },
+  {
+    "id": "vrprd00089",
+    "title": "\u3010VR\u3011\u30108K\u3011\u6d77\u306e\u5bb6GAL\u30ca\u30f3\u30d1\u5a9a\u25cb\u30aa\u30a4\u30eb\u30a8\u30b9\u30c6 \u6700\u521d\u306f\u751f\u610f\u6c17\u3060\u3063\u305f\u30ae\u30e3\u30eb\u3082\u5f90\u3005\u306b\u30ad\u30de\u3063\u3066\u304d\u3066\u96cc\u30a4\u30ad\u9023\u767a\u306e\u96d1\u9b5a\u30de\u30f3\u30b3\u306b\u306a\u308a\u4f55\u5ea6\u3082\u30a4\u30ad\u72c2\u3044\u30b9\u30da\u30b7\u30e3\u30eb\uff01\uff01",
+    "size": "23.27 GB",
+    "actress": [],
+    "preview_img_url": "https://pics.dmm.co.jp/digital/video/vrprd00089/vrprd00089pl.jpg",
+    "sell_date": "2025/04/10",
+    "duration": "79\u5206",
+    "seed_download_link": "magnet:?xt=urn:btih:83a7b83a595ed3ee142511f99ba98a2c3e3aa853&dn=vrprd-089&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce",
+    "director": [
+      "\u5927\u5d0e\u5e83\u6d69\u6cbb"
+    ],
+    "maker": [
+      "VR\u30d1\u30e9\u30c0\u30a4\u30b9"
+    ],
+    "series": [],
+    "label": [
+      "\u6975\u30b0\u30eb\u30fc\u30d7"
+    ],
+    "keyword": [
+      "\u30cf\u30a4\u30af\u30aa\u30ea\u30c6\u30a3VR",
+      "8KVR",
+      "VR\u5c02\u7528",
+      "\u72ec\u5360\u914d\u4fe1",
+      "\u75f4\u5973",
+      "\u6c34\u7740",
+      "\u6deb\u4e71\u30fb\u30cf\u30fc\u30c9\u7cfb",
+      "\u30de\u30c3\u30b5\u30fc\u30b8\u30fb\u30ea\u30d5\u30ec",
+      "\u30ae\u30e3\u30eb"
+    ]
+  },
+  {
+    "id": "vrkm01523",
+    "title": "\u3010VR\u3011\u89e6\u308a\u305f\u304f\u306a\u308b\u8276\u3084\u304b\u306a\u30b7\u30eb\u30af\u808c\uff01\uff01\u8272\u767d\u306a\u3081\u3089\u304b\u7f8e\u808c\u3084\u307e\u3068\u306a\u3067\u3057\u3053PLATINUM \u266a BEST \u304d\u3089\u3081\u304f\u67d4\u808c20\u30b3\u30fc\u30ca\u30fc300\u5206",
+    "size": "24.34 GB",
+    "actress": [
+      "\u6708\u91ce\u304b\u3059\u307f",
+      "\u658e\u85e4\u3042\u307f\u308a",
+      "\u512a\u68a8\u307e\u3044\u306a",
+      "\u5f13\u4e43\u308a\u3080",
+      "\u9022\u6708\u3072\u307e\u308a",
+      "\u6a2a\u5bae\u4e03\u6d77",
+      "\u7d3a\u91ce\u3072\u304b\u308b",
+      "\u6751\u702c\u73b2\u5948",
+      "\u5c0f\u82b1\u306e\u3093",
+      "\u30ed\u30fc\u30ec\u30f3\u82b1\u604b"
+    ],
+    "preview_img_url": "https://pics.dmm.co.jp/digital/video/vrkm01523/vrkm01523pl.jpg",
+    "sell_date": "2025/04/10",
+    "duration": "303\u5206",
+    "seed_download_link": "magnet:?xt=urn:btih:7ebbe102189beda5f381c622b12b246b57ce70a0&dn=vrkm-1523&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce",
+    "director": [
+      "K\u592a\u90ce"
+    ],
+    "maker": [
+      "\u30b1\u30a4\u30fb\u30a8\u30e0\u30fb\u30d7\u30ed\u30c7\u30e5\u30fc\u30b9"
+    ],
+    "series": [
+      "VR BEST"
+    ],
+    "label": [
+      "KMPVR"
+    ],
+    "keyword": [
+      "4\u6642\u9593\u4ee5\u4e0a\u4f5c\u54c1",
+      "\u30cf\u30a4\u30af\u30aa\u30ea\u30c6\u30a3VR",
+      "VR\u5c02\u7528",
+      "\u72ec\u5360\u914d\u4fe1",
+      "\u30d9\u30b9\u30c8\u30fb\u7dcf\u96c6\u7de8",
+      "\u4e2d\u51fa\u3057",
+      "\u7f8e\u4e73",
+      "\u5de8\u4e73"
+    ]
+  },
+  {
+    "id": "pxvr00266",
+    "title": "\u3010VR\u3011\u4e73\u9996\u3092\u57f7\u62d7\u306b\u8cac\u3081\u3089\u308c10\u56de\u767a\u5c04\u3059\u308b\u307e\u3067\u7d42\u308f\u3089\u306a\u3044\u8d85\u51c4\u30d7\u30ec\u30a4\u3067\u30b6\u30fc\u30e1\u30f3\u643e\u53d6\uff01\u6b62\u307e\u3089\u306a\u3044\u9023\u7d9a\u653b\u6483\u3067\u30c1\u3007\u30dd\u3092\u8972\u3046\u30ca\u30de\u4e2d\u51fa\u3057\u75f4\u5973\u98a8\u4fd7\uff01 \u5c0f\u90a3\u6d77\u3042\u3084\u30108K\u3011",
+    "size": "14.78 GB",
+    "actress": [
+      "\u5c0f\u90a3\u6d77\u3042\u3084"
+    ],
+    "preview_img_url": "https://pics.dmm.co.jp/digital/video/pxvr00266/pxvr00266pl.jpg",
+    "sell_date": "2025/04/09",
+    "duration": "72\u5206",
+    "seed_download_link": "magnet:?xt=urn:btih:c346076fa23b83d7fdb0b03dcc89be8148b57c9f&dn=pxvr-266&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce",
+    "director": [
+      "\u30a2\u30ab\u30ae\u5149\u4e00"
+    ],
+    "maker": [
+      "P-BOX VR"
+    ],
+    "series": [
+      "10\u56de\u767a\u5c04\u3059\u308b\u307e\u3067\u7d42\u308f\u3089\u306a\u3044\u75f4\u5973\u98a8\u4fd7"
+    ],
+    "label": [
+      "P-BOX VR"
+    ],
+    "keyword": [
+      "\u30cf\u30a4\u30af\u30aa\u30ea\u30c6\u30a3VR",
+      "\u75f4\u5973",
+      "\u9a0e\u4e57\u4f4d",
+      "\u30d5\u30a7\u30e9",
+      "\u4e2d\u51fa\u3057",
+      "\u72ec\u5360\u914d\u4fe1",
+      "VR\u5c02\u7528",
+      "\u5358\u4f53\u4f5c\u54c1",
+      "8KVR",
+      "\u5de8\u4e73"
+    ]
+  },
+  {
+    "id": "pxvr00265",
+    "title": "\u3010VR\u3011\u6700\u5f8c\u306e\u4e00\u6ef4\u307e\u3067\u643e\u308a\u51fa\u3055\u305b\u3066\u304f\u3060\u3055\u3044\u3002\u65b0\u4eba\u3054\u5949\u4ed5\u98a8\u4fd7\u5b22 \u9ed2\u6728\u308c\u3044\u306a \u30108K\u3011",
+    "size": "12.71 GB",
+    "actress": [
+      "\u9ed2\u6728\u308c\u3044\u306a"
+    ],
+    "preview_img_url": "https://pics.dmm.co.jp/digital/video/pxvr00265/pxvr00265pl.jpg",
+    "sell_date": "2025/04/09",
+    "duration": "70\u5206",
+    "seed_download_link": "magnet:?xt=urn:btih:d4acd09fc11b6a575795a356828d5848d3375b0b&dn=pxvr-265&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce",
+    "director": [
+      "\u767d\u9ce5\u30cb\u30c9\u30df"
+    ],
+    "maker": [
+      "P-BOX VR"
+    ],
+    "series": [
+      "\u75f4\u5973\u5de8\u4e73\u98a8\u4fd7"
+    ],
+    "label": [
+      "P-BOX VR"
+    ],
+    "keyword": [
+      "\u30cf\u30a4\u30af\u30aa\u30ea\u30c6\u30a3VR",
+      "\u75f4\u5973",
+      "\u4e2d\u51fa\u3057",
+      "\u30d5\u30a7\u30e9",
+      "\u9a0e\u4e57\u4f4d",
+      "\u72ec\u5360\u914d\u4fe1",
+      "VR\u5c02\u7528",
+      "\u5358\u4f53\u4f5c\u54c1",
+      "8KVR",
+      "\u5de8\u4e73"
+    ]
+  },
+  {
+    "id": "pxvr00264",
+    "title": "\u3010VR\u3011\u5965\u3055\u307e\u306f\u5143\u6559\u3048\u5b50\uff01\u6e05\u695a\u306b\u898b\u3048\u3066\u30c6\u30af\u30cb\u30b7\u30e3\u30f3\uff01 \u677e\u4e95\u65e5\u5948\u5b50 \u30108K\u3011",
+    "size": "25.17 GB",
+    "actress": [
+      "\u677e\u4e95\u65e5\u5948\u5b50"
+    ],
+    "preview_img_url": "https://pics.dmm.co.jp/digital/video/pxvr00264/pxvr00264pl.jpg",
+    "sell_date": "2025/04/09",
+    "duration": "90\u5206",
+    "seed_download_link": "magnet:?xt=urn:btih:fe2220cc98c7a7805b3c54c9503a82859626e090&dn=pxvr-264&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce",
+    "director": [
+      "\u767d\u9ce5\u30cb\u30c9\u30df"
+    ],
+    "maker": [
+      "P-BOX VR"
+    ],
+    "series": [
+      "\u5922\u306e\u3088\u3046\u306a\u65b0\u5a5a\u6027\u6d3b"
+    ],
+    "label": [
+      "P-BOX VR"
+    ],
+    "keyword": [
+      "\u30cf\u30a4\u30af\u30aa\u30ea\u30c6\u30a3VR",
+      "\u5236\u670d",
+      "\u30d5\u30a7\u30e9",
+      "\u9a0e\u4e57\u4f4d",
+      "\u4e2d\u51fa\u3057",
+      "\u72ec\u5360\u914d\u4fe1",
+      "VR\u5c02\u7528",
+      "\u5358\u4f53\u4f5c\u54c1",
+      "8KVR",
+      "\u7f8e\u5c11\u5973"
+    ]
+  },
+  {
+    "id": "pxvr00263",
+    "title": "\u3010VR\u3011\u50ac\u6deb\u306e\u6e6f \u3042\u306a\u305f\u306e\u671b\u307f\u3092\u53f6\u3048\u308b\u795e\u5c55\u958b \u9577\u6fa4\u308a\u3064 \u30108K\u3011",
+    "size": "17.87 GB",
+    "actress": [
+      "\u9577\u6fa4\u308a\u3064"
+    ],
+    "preview_img_url": "https://pics.dmm.co.jp/digital/video/pxvr00263/pxvr00263pl.jpg",
+    "sell_date": "2025/04/09",
+    "duration": "76\u5206",
+    "seed_download_link": "magnet:?xt=urn:btih:e3c1e4be804acfb7c29d27e2adc199f026352717&dn=pxvr-263&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce",
+    "director": [
+      "\u767d\u9ce5\u30cb\u30c9\u30df"
+    ],
+    "maker": [
+      "P-BOX VR"
+    ],
+    "series": [
+      "\u50ac\u6deb\u306e\u6e6f"
+    ],
+    "label": [
+      "P-BOX VR"
+    ],
+    "keyword": [
+      "\u30cf\u30a4\u30af\u30aa\u30ea\u30c6\u30a3VR",
+      "\u5de8\u4e73",
+      "\u548c\u670d\u30fb\u6d74\u8863",
+      "\u9a0e\u4e57\u4f4d",
+      "\u4e2d\u51fa\u3057",
+      "\u72ec\u5360\u914d\u4fe1",
+      "VR\u5c02\u7528",
+      "\u5358\u4f53\u4f5c\u54c1",
+      "8KVR",
+      "\u6e29\u6cc9"
+    ]
+  },
+  {
+    "id": "urvrsp00438",
+    "title": "\u3010VR\u3011\u30108K VR\u30114\u4eba\u306e\u30e4\u30ea\u30de\u30f3\u5973\u5b50\u5927\u751f\u305f\u3061\u3068\u884c\u304f\u629c\u304b\u308c\u307e\u304f\u308a\u30cf\u30e1\u307e\u304f\u308a\u6e29\u6cc9\u5408\u5bbf",
+    "size": "38.36 GB",
+    "actress": [],
+    "preview_img_url": "https://pics.dmm.co.jp/digital/video/urvrsp00438/urvrsp00438pl.jpg",
+    "sell_date": "2025/04/08",
+    "duration": "161\u5206",
+    "seed_download_link": "magnet:?xt=urn:btih:c1d1857b039c6fbbb80c8c0ba0bc99a143c51c94&dn=urvrsp-438&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce",
+    "director": [
+      "\u30df\u30c5\u30ad\u30fb\u6539"
+    ],
+    "maker": [
+      "unfinished"
+    ],
+    "series": [
+      "unfinished VR"
+    ],
+    "label": [
+      "Marrion Group VR"
+    ],
+    "keyword": [
+      "\u30cf\u30a4\u30af\u30aa\u30ea\u30c6\u30a3VR",
+      "\u5973\u5b50\u5927\u751f",
+      "\u30d3\u30c3\u30c1",
+      "\u30cf\u30fc\u30ec\u30e0",
+      "3P\u30fb4P",
+      "\u4e71\u4ea4",
+      "8KVR",
+      "\u72ec\u5360\u914d\u4fe1",
+      "VR\u5c02\u7528",
+      "\u4e2d\u51fa\u3057"
+    ]
+  },
+  {
+    "id": "ipvr00312",
+    "title": "\u3010VR\u3011\u767a\u5c04\u7121\u5236\u9650 \u5373\u5c3a\u5373\u30cf\u30e1 \u5929\u7136H\u30ab\u30c3\u30d7\u7f8e\u5de8\u4e73\u300c\u5f79\u91ce\u6e80\u91cc\u5948\u300d\u5b22\u306e\u6975\u4e0a\u30bd\u30fc\u30d7\u30d7\u30ec\u30a4\u8d85\u4f53\u611f8K VR",
+    "size": "12.69 GB",
+    "actress": [
+      "\u5f79\u91ce\u6e80\u91cc\u5948"
+    ],
+    "preview_img_url": "https://pics.dmm.co.jp/digital/video/ipvr00312/ipvr00312pl.jpg",
+    "sell_date": "2025/04/08",
+    "duration": "77\u5206",
+    "seed_download_link": "magnet:?xt=urn:btih:77ecb056697a234ec686132c472cabf8ad975784&dn=ipvr-312&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce",
+    "director": [
+      "ZAMPA"
+    ],
+    "maker": [
+      "\u30a2\u30a4\u30c7\u30a2\u30dd\u30b1\u30c3\u30c8"
+    ],
+    "series": [
+      "\u30a2\u30a4\u30dd\u30b18KVR"
+    ],
+    "label": [
+      "IP-VR"
+    ],
+    "keyword": [
+      "\u30cf\u30a4\u30af\u30aa\u30ea\u30c6\u30a3VR",
+      "\u30ad\u30e3\u30d0\u5b22\u30fb\u98a8\u4fd7\u5b22",
+      "\u5de8\u4e73",
+      "\u7f8e\u5c11\u5973",
+      "\u30d5\u30a7\u30e9",
+      "\u72ec\u5360\u914d\u4fe1",
+      "VR\u5c02\u7528",
+      "\u5358\u4f53\u4f5c\u54c1",
+      "8KVR",
+      "\u4e3b\u89b3"
+    ]
+  },
+  {
+    "id": "55tmavr00242",
+    "title": "\u3010VR\u3011\u30b9\u30af\u6c34\u65e5\u713c\u3051\u7f8e\u5c11\u5973\u308f\u3044\u305b\u3064\u30a4\u30bf\u30ba\u30e9 VR BEST",
+    "size": "25.87 GB",
+    "actress": [
+      "\u671b\u6708\u3064\u307c\u307f",
+      "\u524d\u4e43\u83dc\u3005",
+      "\u677e\u4e95\u65e5\u5948\u5b50",
+      "\u7d14\u771f\u304b\u308c\u3093",
+      "\u9ad8\u702c\u308a\u306a",
+      "\u7531\u826f\u304b\u306a",
+      "\u661f\u4ef2\u3053\u3053\u307f"
+    ],
+    "preview_img_url": "https://pics.dmm.co.jp/digital/video/55tmavr00242/55tmavr00242pl.jpg",
+    "sell_date": "2025/04/08",
+    "duration": "291\u5206",
+    "seed_download_link": "magnet:?xt=urn:btih:770f999aaa6ef3df8d7e36080202b77be8104377&dn=tmavr00242&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce",
+    "director": [],
+    "maker": [
+      "TMA"
+    ],
+    "series": [],
+    "label": [
+      "TMAVR"
+    ],
+    "keyword": [
+      "4\u6642\u9593\u4ee5\u4e0a\u4f5c\u54c1",
+      "\u30cf\u30a4\u30af\u30aa\u30ea\u30c6\u30a3VR",
+      "VR\u5c02\u7528",
+      "3P\u30fb4P",
+      "\u30d1\u30a4\u30d1\u30f3",
+      "\u8ca7\u4e73\u30fb\u5fae\u4e73",
+      "\u4e2d\u51fa\u3057",
+      "\u65e5\u713c\u3051"
+    ]
+  },
+  {
+    "id": "sivr00407",
+    "title": "\u3010VR\u3011\u9aa8\u6298\u3057\u3066\u30aa\u30ca\u30cb\u30fc\u3067\u304d\u306a\u3044\u30aa\u30ec\uff08\u5144\uff09\u306e\u4ee3\u308f\u308a\u306b\u3053\u3063\u305d\u308a\u6238\u60d1\u3044\u6065\u3058\u3089\u3044\u306a\u304c\u3089\u3082\u6027\u51e6\u7406\u3057\u3066\u304f\u308c\u308b\u30d6\u30e9\u30b3\u30f3\u59b9\u30ca\u30fc\u30b9\u00d7\u5929\u4e95\u7279\u5316\u00d7\u304a\u3063\u3071\u3044\u8d85\u63fa\u308c\u9a0e\u4e57\u4f4d \u6751\u4e0a\u60a0\u83ef",
+    "size": "17.28 GB",
+    "actress": [
+      "\u6751\u4e0a\u60a0\u83ef"
+    ],
+    "preview_img_url": "https://pics.dmm.co.jp/digital/video/sivr00407/sivr00407pl.jpg",
+    "sell_date": "2025/04/07",
+    "duration": "92\u5206",
+    "seed_download_link": "magnet:?xt=urn:btih:356c08ad54683c77a2e2d00cebb39581296c8f74&dn=sivr-407&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce",
+    "director": [
+      "\u3053\u3042\u3089\u592a\u90ce\uff08\u308f\uff09"
+    ],
+    "maker": [
+      "\u30a8\u30b9\u30ef\u30f3 \u30ca\u30f3\u30d0\u30fc\u30ef\u30f3\u30b9\u30bf\u30a4\u30eb"
+    ],
+    "series": [
+      "S1 VR"
+    ],
+    "label": [
+      "S1 VR"
+    ],
+    "keyword": [
+      "\u30cf\u30a4\u30af\u30aa\u30ea\u30c6\u30a3VR",
+      "\u9a0e\u4e57\u4f4d",
+      "\u5de8\u4e73",
+      "\u59c9\u30fb\u59b9",
+      "\u4e3b\u89b3",
+      "\u72ec\u5360\u914d\u4fe1",
+      "VR\u5c02\u7528",
+      "\u5358\u4f53\u4f5c\u54c1",
+      "8KVR",
+      "\u770b\u8b77\u5a66\u30fb\u30ca\u30fc\u30b9"
+    ]
+  },
+  {
+    "id": "mdvr00346",
+    "title": "\u3010VR\u3011\u5929\u5bae\u82b1\u5357\u5f0fHowTo\u30e2\u30c6\u7537\u6307\u5357\u587e \u5ea7\u5b66\u7de8\u3001\u5b9f\u8df5\u7de8\u3092\u7d4c\u3066\u5973\u5b50\u3068\u4e2d\u51fa\u3057SEX\u3067\u304d\u308b\u307e\u3067\u3092\u4f53\u611f\uff01",
+    "size": "17.13 GB",
+    "actress": [
+      "\u5929\u5bae\u82b1\u5357"
+    ],
+    "preview_img_url": "https://pics.dmm.co.jp/digital/video/mdvr00346/mdvr00346pl.jpg",
+    "sell_date": "2025/04/07",
+    "duration": "101\u5206",
+    "seed_download_link": "magnet:?xt=urn:btih:94a42f959e640496734bcde7240ff772b2cec48f&dn=mdvr-346&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce",
+    "director": [
+      "\u3053\u3042\u3089\u592a\u90ce\uff08\u308f\uff09"
+    ],
+    "maker": [
+      "\u30e0\u30fc\u30c7\u30a3\u30fc\u30ba"
+    ],
+    "series": [
+      "MOODYZ 8KVR"
+    ],
+    "label": [
+      "MOODYZ VR"
+    ],
+    "keyword": [
+      "\u30cf\u30a4\u30af\u30aa\u30ea\u30c6\u30a3VR",
+      "\u5de8\u4e73",
+      "\u30b9\u30ec\u30f3\u30c0\u30fc",
+      "\u30d5\u30a7\u30e9",
+      "\u9a0e\u4e57\u4f4d",
+      "\u72ec\u5360\u914d\u4fe1",
+      "VR\u5c02\u7528",
+      "\u5358\u4f53\u4f5c\u54c1",
+      "8KVR",
+      "\u4e2d\u51fa\u3057"
+    ]
+  },
+  {
+    "id": "savr00607",
+    "title": "\u3010VR\u3011\u8d85\u654f\u611f\u30ae\u30e3\u30eb\u7fa9\u59c9\u306e\u964d\u53c2\u30a2\u30af\u30e1 \u3042\u307e\u308a\u306e\u8272\u6c17\u306b\u80a1\u9593\u3092\u81a8\u3089\u307e\u3057\u305f\u7fa9\u5f1f\u3092\u512a\u3057\u304f\u30ea\u30fc\u30c9\u3059\u308b\u3064\u3082\u308a\u304c\u7d76\u502b\u30de\u30e9\u3067\u4f55\u5ea6\u3082\u7d76\u9802\u3057\u3066\u30a4\u30ad\u9854\u3092\u6652\u3057\u3066\u3057\u307e\u3063\u305f \u6c37\u5802\u308a\u308a\u3042",
+    "size": "16.08 GB",
+    "actress": [
+      "\u6c37\u5802\u308a\u308a\u3042"
+    ],
+    "preview_img_url": "https://pics.dmm.co.jp/digital/video/savr00607/savr00607pl.jpg",
+    "sell_date": "2025/04/07",
+    "duration": "85\u5206",
+    "seed_download_link": "magnet:?xt=urn:btih:d470d05ccb749a579bb941b5dc65b023a7927700&dn=savr-607&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce",
+    "director": [
+      "\u3059\u305a\u304d\u3080NEO"
+    ],
+    "maker": [
+      "KMPVR-\u5f69-"
+    ],
+    "series": [],
+    "label": [
+      "KMPVR-\u5f69-"
+    ],
+    "keyword": [
+      "\u30cf\u30a4\u30af\u30aa\u30ea\u30c6\u30a3VR",
+      "\u30a2\u30af\u30e1\u30fb\u30aa\u30fc\u30ac\u30ba\u30e0",
+      "\u4e2d\u51fa\u3057",
+      "M\u5973",
+      "\u9a0e\u4e57\u4f4d",
+      "\u72ec\u5360\u914d\u4fe1",
+      "VR\u5c02\u7528",
+      "\u5358\u4f53\u4f5c\u54c1",
+      "8KVR",
+      "\u30ae\u30e3\u30eb"
+    ]
+  },
+  {
+    "id": "kiwvr00742",
+    "title": "\u3010VR\u3011\u30b7\u30e3\u30ef\u30fc\u4e2d\u306b\u9003\u3052\u51fa\u3057\u305f\u5869\u5bfe\u5fdc\u306e\u30d1\u30d1\u6d3b\u5973\u5b50\u5927\u751f\u3092\u6355\u307e\u3048\u4ffa\u306e\u30c1\u3007\u30dd\u3067\u3044\u3044\u306a\u308a\u306b\u3055\u305b\u3066\u3084\u3063\u305f \u7fbd\u6708\u4e43\u84bc",
+    "size": "9.43 GB",
+    "actress": [
+      "\u7fbd\u6708\u4e43\u84bc"
+    ],
+    "preview_img_url": "https://pics.dmm.co.jp/digital/video/kiwvr00742/kiwvr00742pl.jpg",
+    "sell_date": "2025/04/07",
+    "duration": "104\u5206",
+    "seed_download_link": "magnet:?xt=urn:btih:071321fc59665d8a8c662ccbc0c569771d8f8c86&dn=kiwvr-742&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce",
+    "director": [
+      "\u5927\u5d0e\u5e83\u6d69\u6cbb"
+    ],
+    "maker": [
+      "\u3053\u3042\u3089VR"
+    ],
+    "series": [
+      "\u5869\u5bfe\u5fdc\u306e\u30d1\u30d1\u6d3bJD\u3092\u3044\u3044\u306a\u308a\u751f\u30cf\u30e1"
+    ],
+    "label": [
+      "\u6975\u30b0\u30eb\u30fc\u30d7"
+    ],
+    "keyword": [
+      "\u30cf\u30a4\u30af\u30aa\u30ea\u30c6\u30a3VR",
+      "\u9a0e\u4e57\u4f4d",
+      "\u5973\u5b50\u5927\u751f",
+      "\u30d1\u30a4\u30ba\u30ea",
+      "\u4e2d\u51fa\u3057",
+      "\u9854\u5c04",
+      "\u72ec\u5360\u914d\u4fe1",
+      "VR\u5c02\u7528",
+      "\u5358\u4f53\u4f5c\u54c1",
+      "\u5de8\u4e73"
+    ]
+  },
+  {
+    "id": "13dsvr01721",
+    "title": "\u3010VR\u3011\u30108K\u3011\u4e0d\u611f\u75c7\u3067\u60a9\u3080\u5de8\u4e73\u5973\u5b50\u3072\u304b\u308b\u3061\u3083\u3093 \u4e73\u9996\u958b\u767a\u3067\u30a4\u30ad\u9854\u30a2\u30d8\u30a2\u3078\u691c\u8a3a \u5bae\u897f\u3072\u304b\u308b",
+    "size": "7.21 GB",
+    "actress": [
+      "\u5bae\u897f\u3072\u304b\u308b"
+    ],
+    "preview_img_url": "https://pics.dmm.co.jp/digital/video/13dsvr01721/13dsvr01721pl.jpg",
+    "sell_date": "2025/04/07",
+    "duration": "84\u5206",
+    "seed_download_link": "magnet:?xt=urn:btih:fe85bf5bf5dcafed61fd9f4a454912403156d59f&dn=dsvr01721_8k&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce",
+    "director": [
+      "\u732b\u53c8\u3088\u3084"
+    ],
+    "maker": [
+      "SOD\u30af\u30ea\u30a8\u30a4\u30c8"
+    ],
+    "series": [],
+    "label": [
+      "SODVR"
+    ],
+    "keyword": [
+      "\u30cf\u30a4\u30af\u30aa\u30ea\u30c6\u30a3VR",
+      "8KVR",
+      "\u5358\u4f53\u4f5c\u54c1",
+      "VR\u5c02\u7528",
+      "\u5236\u670d",
+      "\u7f8e\u5c11\u5973",
+      "\u5de8\u4e73",
+      "\u75c5\u9662\u30fb\u30af\u30ea\u30cb\u30c3\u30af",
+      "\u5973\u5b50\u6821\u751f"
+    ]
+  },
+  {
+    "id": "savr00627",
+    "title": "\u3010VR\u3011\u7528\u52d9\u54e1\u306e\u4ffa\u3092\u8511\u3093\u3060\u5b66\u5712\u306e\u30d1\u30a4\u30d1\u30f3\u30de\u30c9\u30f3\u30ca\u304c\u5f8c\u6094\u3059\u308b\u307e\u3067\u65e9\u671d\u3061\u304f\u3057\u3087\u3046\u30ec\u25cf\u30d7",
+    "size": "15.81 GB",
+    "actress": [],
+    "preview_img_url": "https://pics.dmm.co.jp/digital/video/savr00627/savr00627pl.jpg",
+    "sell_date": "2025/04/07",
+    "duration": "63\u5206",
+    "seed_download_link": "magnet:?xt=urn:btih:3f74de27a11f3f4bfd35a9d5b8dd41e31f3bc5c9&dn=savr-627&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce",
+    "director": [
+      "\u5305\u4e01M"
+    ],
+    "maker": [
+      "KMPVR-\u5f69-"
+    ],
+    "series": [],
+    "label": [
+      "KMPVR-\u5f69-"
+    ],
+    "keyword": [
+      "\u30cf\u30a4\u30af\u30aa\u30ea\u30c6\u30a3VR",
+      "8KVR",
+      "VR\u5c02\u7528",
+      "\u72ec\u5360\u914d\u4fe1",
+      "\u30a4\u30e9\u30de\u30c1\u30aa",
+      "\u5b66\u751f\u670d",
+      "\u30d1\u30a4\u30d1\u30f3",
+      "\u5de8\u4e73",
+      "\u5973\u5b50\u6821\u751f"
+    ]
+  },
+  {
+    "id": "savr00586",
+    "title": "\u3010VR\u3011\u3053\u308c\u304c\u65e5\u672c\u4e00\u30a8\u30ed\u3044\u9b3c\u9000\u6cbb\uff01\u5168\u3066\u306e\u7cbe\u6db2\u3092\u7d5e\u308a\u51fa\u3059\u6700\u5f37\u306e\u9b3c \u516b\u4e43\u3064\u3070\u3055",
+    "size": "6.50 GB",
+    "actress": [
+      "\u516b\u4e43\u3064\u3070\u3055"
+    ],
+    "preview_img_url": "https://pics.dmm.co.jp/digital/video/savr00586/savr00586pl.jpg",
+    "sell_date": "2025/04/07",
+    "duration": "65\u5206",
+    "seed_download_link": "magnet:?xt=urn:btih:f4b224e24d15405b4af7623e2317dd9275b27569&dn=savr-586&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce",
+    "director": [
+      "K\u592a\u90ce"
+    ],
+    "maker": [
+      "KMPVR-\u5f69-"
+    ],
+    "series": [
+      "\u3053\u308c\u304c\u65e5\u672c\u4e00\u30a8\u30ed\u3044\u9b3c\u9000\u6cbb\uff01"
+    ],
+    "label": [
+      "KMPVR-\u5f69-"
+    ],
+    "keyword": [
+      "\u5358\u4f53\u4f5c\u54c1",
+      "\u30cf\u30a4\u30af\u30aa\u30ea\u30c6\u30a3VR",
+      "VR\u5c02\u7528",
+      "\u72ec\u5360\u914d\u4fe1",
+      "\u9a0e\u4e57\u4f4d",
+      "\u304a\u59c9\u3055\u3093",
+      "\u5de8\u4e73",
+      "\u75f4\u5973",
+      "\u4e2d\u51fa\u3057"
+    ]
+  },
+  {
+    "id": "kavr00409",
+    "title": "\u3010VR\u3011\u30ab\u30ef\u30a4\u30a4\u5973\u306e\u5b50\u306b\u30dc\u30ed\u30af\u30bd\u8cb6\u3055\u308c\u305f\u3044\uff01\uff01\u30aa\u30f3\u30ea\u30fc\u30ef\u30f3\u7f75\u5012\u5973\u5b50\u304c\u96c6\u3046\u30c7\u30ea\u30d0\u30ea\u30fcM\u6027\u611f \u30aa\u30e2\u30b1\u30ca\u30b7Club\u3078\u3088\u3046\u3053\u305d \u4f0a\u85e4\u821e\u96ea",
+    "size": "31.89 GB",
+    "actress": [
+      "\u4f0a\u85e4\u821e\u96ea"
+    ],
+    "preview_img_url": "https://pics.dmm.co.jp/digital/video/kavr00409/kavr00409pl.jpg",
+    "sell_date": "2025/04/06",
+    "duration": "143\u5206",
+    "seed_download_link": "magnet:?xt=urn:btih:bbf1e99752d5010c00b81dfb75f2078f1d4f1172&dn=kavr-409&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce",
+    "director": [
+      "ZAMPA"
+    ],
+    "maker": [
+      "kawaii"
+    ],
+    "series": [
+      "kawaii*VR"
+    ],
+    "label": [
+      "kawaii* VR"
+    ],
+    "keyword": [
+      "\u30cf\u30a4\u30af\u30aa\u30ea\u30c6\u30a3VR",
+      "\u75f4\u5973",
+      "\u6deb\u8a9e",
+      "\u30ad\u30e3\u30d0\u5b22\u30fb\u98a8\u4fd7\u5b22",
+      "\u4e3b\u89b3",
+      "\u72ec\u5360\u914d\u4fe1",
+      "VR\u5c02\u7528",
+      "\u5358\u4f53\u4f5c\u54c1",
+      "8KVR",
+      "\u5de8\u4e73"
+    ]
+  },
+  {
+    "id": "savr00603",
+    "title": "\u3010VR\u3011\u4e0a\u306e\u968e\u306e\u4eba\u59bb\u3055\u3093\u306f\u3001\u96e8\u5929\u3092\u7406\u7531\u306b\u30dc\u30af\u3092\u8a98\u60d1\u3059\u308b\u3002\u3057\u3063\u3068\u308a\u6fe1\u308c\u305f\u5b98\u80fd\u30dc\u30c7\u30a3\u306b\u8e0a\u3089\u3055\u308c\u3001\u7cbe\u5de3\u3092\u8caa\u308b\u30ad\u30e9\u30fc\u9a0e\u4e57\u4f4d\u3067\u6c17\u304c\u6e08\u3080\u307e\u3067\u30aa\u30ab\u3055\u308c\u307e\u3057\u305f\u3002401\u53f7\u5ba4 \u3086\u304b\u308a\u3055\u3093",
+    "size": "15.63 GB",
+    "actress": [],
+    "preview_img_url": "https://pics.dmm.co.jp/digital/video/savr00603/savr00603pl.jpg",
+    "sell_date": "2025/04/06",
+    "duration": "71\u5206",
+    "seed_download_link": "magnet:?xt=urn:btih:df09709ccf044d10c59d1c3200fc1ef81cd24131&dn=savr-603&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce",
+    "director": [
+      "\u5473\u564c\u716eKOMI"
+    ],
+    "maker": [
+      "KMPVR-\u5f69-"
+    ],
+    "series": [
+      "\u4e0a\u306e\u968e\u306e\u4eba\u59bb\u3055\u3093\u306f\u3001\u96e8\u5929\u3092\u7406\u7531\u306b\u30dc\u30af\u3092\u8a98\u60d1\u3059\u308b\u3002"
+    ],
+    "label": [
+      "KMPVR-\u5f69-"
+    ],
+    "keyword": [
+      "\u30cf\u30a4\u30af\u30aa\u30ea\u30c6\u30a3VR",
+      "8KVR",
+      "VR\u5c02\u7528",
+      "\u72ec\u5360\u914d\u4fe1",
+      "\u75f4\u5973",
+      "\u9a0e\u4e57\u4f4d",
+      "\u5de8\u4e73",
+      "\u4e2d\u51fa\u3057",
+      "\u4e3b\u89b3"
+    ]
+  },
+  {
+    "id": "savr00621",
+    "title": "\u3010VR\u3011\u6687\u3092\u6301\u3066\u4f59\u3057\u305f\u7518\u30b5\u30c9\u75f4\u5973\u306e\u62d8\u675f\u304a\u3057\u3083\u3076\u308a\u5c04\u7cbe\u7ba1\u7406 \u3042\u3084\u3055\u3093\uff0827\uff09",
+    "size": "13.31 GB",
+    "actress": [],
+    "preview_img_url": "https://pics.dmm.co.jp/digital/video/savr00621/savr00621pl.jpg",
+    "sell_date": "2025/04/06",
+    "duration": "76\u5206",
+    "seed_download_link": "magnet:?xt=urn:btih:544173077bf369af3b9962524082c56b35ca5b11&dn=savr-621&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce",
+    "director": [
+      "\u30cf\u30eb\u30af\u30fb\u30b3\u30fc\u30ac\u30f3"
+    ],
+    "maker": [
+      "KMPVR-\u5f69-"
+    ],
+    "series": [
+      "\u82e5\u59bb\u30aa\u30a4\u30eb\u307e\u307f\u308c"
+    ],
+    "label": [
+      "KMPVR-\u5f69-"
+    ],
+    "keyword": [
+      "\u30cf\u30a4\u30af\u30aa\u30ea\u30c6\u30a3VR",
+      "8KVR",
+      "VR\u5c02\u7528",
+      "\u72ec\u5360\u914d\u4fe1",
+      "\u4e2d\u51fa\u3057",
+      "\u30d5\u30a7\u30e9",
+      "\u5c3b\u30d5\u30a7\u30c1",
+      "\u75f4\u5973",
+      "\u62d8\u675f"
+    ]
+  },
+  {
+    "id": "savr00623",
+    "title": "\u3010VR\u3011\u8996\u754c\u64cd\u4f5cVR \u3084\u3084\u4e3b\u5f93\u95a2\u4fc2\u306e\u50d5\u3068\u5e74\u4e0a\u5f7c\u5973\u3002\u654f\u611f\u306b\u306a\u3063\u305f\u8074\u899a\u3001\u3088\u308a\u9bae\u660e\u306a\u8996\u899a\u3067\u75f4\u5973\u3089\u308c\u308b\u30a2\u30d6\u30ce\u30fc\u30de\u30eb\u306a\u540c\u68f2\u751f\u6d3b \u6708\u91ce\u304b\u3059\u307f",
+    "size": "19.13 GB",
+    "actress": [
+      "\u6708\u91ce\u304b\u3059\u307f"
+    ],
+    "preview_img_url": "https://pics.dmm.co.jp/digital/video/savr00623/savr00623pl.jpg",
+    "sell_date": "2025/04/06",
+    "duration": "80\u5206",
+    "seed_download_link": "magnet:?xt=urn:btih:5bf1aea020e8950a1db57802936b3fea8e698b87&dn=savr-623&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce",
+    "director": [
+      "\u5473\u564c\u716eKOMI"
+    ],
+    "maker": [
+      "KMPVR-\u5f69-"
+    ],
+    "series": [],
+    "label": [
+      "KMPVR-\u5f69-"
+    ],
+    "keyword": [
+      "\u30cf\u30a4\u30af\u30aa\u30ea\u30c6\u30a3VR",
+      "\u4e2d\u51fa\u3057",
+      "\u75f4\u5973",
+      "\u5de8\u4e73",
+      "\u30d1\u30a4\u30ba\u30ea",
+      "\u72ec\u5360\u914d\u4fe1",
+      "VR\u5c02\u7528",
+      "\u5358\u4f53\u4f5c\u54c1",
+      "8KVR",
+      "\u4e3b\u89b3"
+    ]
+  },
+  {
+    "id": "savr00614",
+    "title": "\u3010VR\u30113\u5ea6\u306e\u98ef\u3088\u308a\u30d5\u30a7\u30e9\u304c\u597d\u304d\uff01\u6027\u6b32\u304c\u30d0\u30ab\u3059\u304e\u308b\u6e05\u695a\u30d3\u30c3\u30c1\u306aJK\u59b9\u306b\u90fd\u5408\u306e\u3044\u3044\u30bf\u30c0\u30c1\u30f3\u3068\u3057\u3066\u6271\u308f\u308c\u308b\u30b6\u30b3\u5144\u306e\u30dc\u30af \u8679\u6751\u3086\u307f",
+    "size": "5.45 GB",
+    "actress": [
+      "\u8679\u6751\u3086\u307f"
+    ],
+    "preview_img_url": "https://pics.dmm.co.jp/digital/video/savr00614/savr00614pl.jpg",
+    "sell_date": "2025/04/05",
+    "duration": "73\u5206",
+    "seed_download_link": "magnet:?xt=urn:btih:553aa4468f6f515e41401aa2557c1569debc61b3&dn=savr-614&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce",
+    "director": [
+      "\u52d5\u7dda\u6f70\u3057"
+    ],
+    "maker": [
+      "KMPVR-\u5f69-"
+    ],
+    "series": [],
+    "label": [
+      "KMPVR-\u5f69-"
+    ],
+    "keyword": [
+      "\u30cf\u30a4\u30af\u30aa\u30ea\u30c6\u30a3VR",
+      "\u5973\u5b50\u6821\u751f",
+      "\u30d5\u30a7\u30e9",
+      "\u4e2d\u51fa\u3057",
+      "\u9a0e\u4e57\u4f4d",
+      "\u72ec\u5360\u914d\u4fe1",
+      "VR\u5c02\u7528",
+      "\u5358\u4f53\u4f5c\u54c1",
+      "8KVR",
+      "\u75f4\u5973"
+    ]
+  },
+  {
+    "id": "savr00620",
+    "title": "\u3010VR\u3011\u9854\u9762\u5468\u308a180\u00b0\u30d1\u30fc\u30bd\u30ca\u30eb\u30b9\u30da\u30fc\u30b9\u5168\u7121\u8996\u3067\u5168\u5426\u5b9a\u3055\u308c\u308b\u30cf\u30a4\u30b9\u30da\u59b9\u306e\u5632\u7b11\u3044\u6deb\u8a9e \u7686\u6708\u3072\u304b\u308b",
+    "size": "14.55 GB",
+    "actress": [
+      "\u7686\u6708\u3072\u304b\u308b"
+    ],
+    "preview_img_url": "https://pics.dmm.co.jp/digital/video/savr00620/savr00620pl.jpg",
+    "sell_date": "2025/04/05",
+    "duration": "82\u5206",
+    "seed_download_link": "magnet:?xt=urn:btih:54cb37dc48f48368267bd051f3c38415270e65e4&dn=savr-620&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce",
+    "director": [
+      "\u5473\u564c\u716eKOMI"
+    ],
+    "maker": [
+      "KMPVR-\u5f69-"
+    ],
+    "series": [],
+    "label": [
+      "KMPVR-\u5f69-"
+    ],
+    "keyword": [
+      "\u30cf\u30a4\u30af\u30aa\u30ea\u30c6\u30a3VR",
+      "\u4e2d\u51fa\u3057",
+      "\u75f4\u5973",
+      "\u5973\u5b50\u6821\u751f",
+      "\u7f8e\u5c11\u5973",
+      "\u72ec\u5360\u914d\u4fe1",
+      "VR\u5c02\u7528",
+      "\u5358\u4f53\u4f5c\u54c1",
+      "8KVR",
+      "\u4e3b\u89b3"
+    ]
+  },
+  {
+    "id": "vrkm01562",
+    "title": "\u3010VR\u3011\u3042\u306e\u7537\u306e\u6012\u308a\u304c\u518d\u3073\uff01\u5ea6\u91cd\u306a\u308b\u30d4\u30f3\u30b5\u30ed\u6458\u767a\u306b\u6fc0\u6012\u3057\u305f\u30b9\u30ba\u30bf\u30b1\u304c\u81ea\u5206\u306e\u305f\u3081\u3001\u3044\u3084\u4e16\u306e\u4e2d\u306e\u30d4\u30f3\u30b5\u30ed\u30d5\u30a1\u30f3\u306e\u305f\u3081\u306b\u7406\u60f3\u306e\u30d4\u30f3\u30b5\u30ed\u518d\u73feVR\uff01\u5927\u69fb\u3072\u3073\u304d\u30fb\u5c3e\u5d0e\u3048\u308a\u304b",
+    "size": "18.34 GB",
+    "actress": [
+      "\u5927\u69fb\u3072\u3073\u304d",
+      "\u5c3e\u5d0e\u3048\u308a\u304b"
+    ],
+    "preview_img_url": "https://pics.dmm.co.jp/digital/video/vrkm01562/vrkm01562pl.jpg",
+    "sell_date": "2025/04/05",
+    "duration": "62\u5206",
+    "seed_download_link": "magnet:?xt=urn:btih:7fa55ccb031d9b531439e315f9232767f92eaba0&dn=vrkm-1562&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce",
+    "director": [
+      "\u30d4\u30f3\u30b5\u30ed\u5927\u597d\u304d\u30b9\u30ba\u30bf\u30b1\u3055\u3093"
+    ],
+    "maker": [
+      "\u30b1\u30a4\u30fb\u30a8\u30e0\u30fb\u30d7\u30ed\u30c7\u30e5\u30fc\u30b9"
+    ],
+    "series": [
+      "\u30d4\u30f3\u30b5\u30ed\u518d\u73fe"
+    ],
+    "label": [
+      "KMPVR"
+    ],
+    "keyword": [
+      "\u30cf\u30a4\u30af\u30aa\u30ea\u30c6\u30a3VR",
+      "8KVR",
+      "VR\u5c02\u7528",
+      "\u72ec\u5360\u914d\u4fe1",
+      "3P\u30fb4P",
+      "\u4e2d\u51fa\u3057",
+      "\u30d5\u30a7\u30e9",
+      "\u4e3b\u89b3"
+    ]
+  },
+  {
+    "id": "savr00626",
+    "title": "\u3010VR\u3011\u696d\u52d9\u4e2d\u306b\u3082\u95a2\u308f\u3089\u305a\u4ffa\u306e\u907a\u4f1d\u5b50\u3092\u6b32\u3057\u304c\u308a\u30a8\u30c3\u30ed\u3044\u304a\u3063\u3071\u3044\u3067\u8a98\u60d1\u3057\u3066\u304f\u308b\u598a\u6d3b\u79d8\u66f8",
+    "size": "17.67 GB",
+    "actress": [],
+    "preview_img_url": "https://pics.dmm.co.jp/digital/video/savr00626/savr00626pl.jpg",
+    "sell_date": "2025/04/05",
+    "duration": "90\u5206",
+    "seed_download_link": "magnet:?xt=urn:btih:8c705ee54221750209cb83e51382fc3dd261a7b9&dn=savr-626&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce",
+    "director": [
+      "\u5305\u4e01M"
+    ],
+    "maker": [
+      "KMPVR-\u5f69-"
+    ],
+    "series": [],
+    "label": [
+      "KMPVR-\u5f69-"
+    ],
+    "keyword": [
+      "\u30cf\u30a4\u30af\u30aa\u30ea\u30c6\u30a3VR",
+      "8KVR",
+      "VR\u5c02\u7528",
+      "\u72ec\u5360\u914d\u4fe1",
+      "\u4e2d\u51fa\u3057",
+      "\u9a0e\u4e57\u4f4d",
+      "\u5de8\u4e73\u30d5\u30a7\u30c1",
+      "\u5de8\u4e73",
+      "\u79d8\u66f8"
+    ]
+  },
+  {
+    "id": "kiwvr00754",
+    "title": "\u3010VR\u3011\u30108K\u3011\u6fc0\u5b89\u98a8\u4fd7\u5e97\u3067\u5927\u5f53\u305f\u308a\uff01\uff01\uff01\u307e\u3055\u304b\u306e\u30a2\u30a4\u30c9\u30eb\u7d1a\u306eS\u7d1a\u7f8e\u5973\u306b\u30b4\u30e0\u3092\u5916\u3055\u308c\u751f\u4e2d\u51fa\u3057\u672c\u756a\u3057\u307e\u304f\u3063\u305f \u8679\u6751\u3086\u307f",
+    "size": "13.96 GB",
+    "actress": [
+      "\u8679\u6751\u3086\u307f"
+    ],
+    "preview_img_url": "https://pics.dmm.co.jp/digital/video/kiwvr00754/kiwvr00754pl.jpg",
+    "sell_date": "2025/04/04",
+    "duration": "77\u5206",
+    "seed_download_link": "magnet:?xt=urn:btih:ce2c6fddb18063527cbd5ce7c07feb79bc78df02&dn=kiwvr-754&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce",
+    "director": [
+      "\u30b6\u30c3\u30af\u8352\u4e95"
+    ],
+    "maker": [
+      "\u3053\u3042\u3089VR"
+    ],
+    "series": [
+      "8KVR\u3010\u751f\u4e2d\u51fa\u3057\u51fa\u6765\u305f\u5922\u306e\u6fc0\u5b89\u98a8\u4fd7\u5e97\uff01\u3011"
+    ],
+    "label": [
+      "\u6975\u30b0\u30eb\u30fc\u30d7"
+    ],
+    "keyword": [
+      "\u30cf\u30a4\u30af\u30aa\u30ea\u30c6\u30a3VR",
+      "\u30a2\u30af\u30e1\u30fb\u30aa\u30fc\u30ac\u30ba\u30e0",
+      "\u30de\u30c3\u30b5\u30fc\u30b8\u30fb\u30ea\u30d5\u30ec",
+      "\u30ed\u30fc\u30b7\u30e7\u30f3\u30fb\u30aa\u30a4\u30eb",
+      "\u4e2d\u51fa\u3057",
+      "8KVR",
+      "\u72ec\u5360\u914d\u4fe1",
+      "VR\u5c02\u7528",
+      "\u5358\u4f53\u4f5c\u54c1",
+      "\u7f8e\u5c11\u5973"
+    ]
+  },
+  {
+    "id": "juvr00229",
+    "title": "\u3010VR\u3011\u8d85\u9ad8\u753b\u8cea8K VR \u85e4\u68ee\u91cc\u7a42\u306eG\u30ab\u30c3\u30d7\u30b0\u30e9\u30de\u30e9\u30b9\u30dc\u30c7\u30a3\u3092\u582a\u80fd\uff01\uff01 \u59bb\u306e\u53cb\u4eba\u304c\u50cd\u304f\u30de\u30c3\u30b5\u30fc\u30b8\u5e97\u306b\u884c\u3063\u3066\u307f\u305f\u3089\u9023\u7d9a\u5c04\u7cbe\u3067\u30c1\u3007\u30dd\u304c\u30d0\u30ab\u306b\u306a\u308b\u307e\u3067\u30cc\u30a4\u3066\u304f\u308c\u308b\u8d85\u512a\u826f\u306a\u4eba\u59bb\u5949\u4ed5\u30e1\u30f3\u30ba\u30a8\u30b9\u30c6\u3060\u3063\u305f\uff01\uff01",
+    "size": "28.45 GB",
+    "actress": [
+      "\u85e4\u68ee\u91cc\u7a42"
+    ],
+    "preview_img_url": "https://pics.dmm.co.jp/digital/video/juvr00229/juvr00229pl.jpg",
+    "sell_date": "2025/04/04",
+    "duration": "111\u5206",
+    "seed_download_link": "magnet:?xt=urn:btih:202c7fc5d570ec1bd30b9f410635faaeae126bc6&dn=juvr-229&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce",
+    "director": [
+      "\u77e2\u6fa4\u30ec\u30b7\u30fc\u30d6"
+    ],
+    "maker": [
+      "\u30de\u30c9\u30f3\u30ca"
+    ],
+    "series": [
+      "\u59bb\u306e\u53cb\u4eba\u304c\u50cd\u304f\u30de\u30c3\u30b5\u30fc\u30b8\u5e97\u306b\u884c\u3063\u3066\u307f\u305f\u3089\u9023\u7d9a\u5c04\u7cbe\u3067\u30c1\u25cb\u30dd\u304c\u30d0\u30ab\u306b\u306a\u308b\u307e\u3067\u30cc\u30a4\u3066\u304f\u308c\u308b\u8d85\u512a\u826f\u306a\u4eba\u59bb\u5949\u4ed5\u30e1\u30f3\u30ba\u30a8\u30b9\u30c6\u3060\u3063\u305f\uff01\uff01"
+    ],
+    "label": [
+      "MadonnaVR"
+    ],
+    "keyword": [
+      "\u30cf\u30a4\u30af\u30aa\u30ea\u30c6\u30a3VR",
+      "\u4eba\u59bb\u30fb\u4e3b\u5a66",
+      "\u30a8\u30b9\u30c6",
+      "\u30ed\u30fc\u30b7\u30e7\u30f3\u30fb\u30aa\u30a4\u30eb",
+      "\u75f4\u5973",
+      "\u72ec\u5360\u914d\u4fe1",
+      "VR\u5c02\u7528",
+      "\u5358\u4f53\u4f5c\u54c1",
+      "8KVR",
+      "\u719f\u5973"
+    ]
+  },
+  {
+    "id": "aquma00084",
+    "title": "\u3010VR\u3011\u30c7\u30a3\u30eb\u30c9\u30d1\u30a4\u30ba\u30eaVR",
+    "size": "8.60 GB",
+    "actress": [
+      "\u8fbb\u3055\u304f\u3089",
+      "\u5343\u9db4\u3048\u307e",
+      "\u82e5\u5bae\u306f\u305a\u304d",
+      "\u5c0f\u5742\u3072\u307e\u308a",
+      "\u5c0f\u91ce\u5742\u3086\u3044\u304b",
+      "\u5982\u6708\u308a\u3044\u3055",
+      "\u5800\u5317\u5b9f\u6765\uff08\u6afb\u8309\u65e5\uff09"
+    ],
+    "preview_img_url": "https://pics.dmm.co.jp/digital/video/aquma00084/aquma00084pl.jpg",
+    "sell_date": "2025/04/04",
+    "duration": "91\u5206",
+    "seed_download_link": "magnet:?xt=urn:btih:0f4809e764d28284a53cccee92a4cd4dcace7f6a&dn=aquma-084&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce",
+    "director": [
+      "\u30ed\u30fc\u30b7\u30e7\u30f3\u30dc\u30fc\u30a4"
+    ],
+    "maker": [
+      "AQUA\uff1c\u30a2\u30af\u30a2\uff1e"
+    ],
+    "series": [],
+    "label": [
+      "AQUA MANIAC"
+    ],
+    "keyword": [
+      "\u30cf\u30a4\u30af\u30aa\u30ea\u30c6\u30a3VR",
+      "VR\u5c02\u7528",
+      "\u72ec\u5360\u914d\u4fe1",
+      "\u30c7\u30a3\u30eb\u30c9",
+      "\u30d1\u30a4\u30ba\u30ea",
+      "\u5de8\u4e73\u30d5\u30a7\u30c1",
+      "\u7f8e\u4e73",
+      "\u5de8\u4e73"
+    ]
+  },
+  {
+    "id": "aqula00068",
+    "title": "\u3010VR\u3011\u59bb\u3068\u306f\u3058\u3081\u3066\u306e\u30dd\u30ea\u30cd\u30b7\u30a2\u30f3\u30bb\u30c3\u30af\u30b9\uff5e\u5357\u592a\u5e73\u6d0b\u306e\u30bb\u30c3\u30af\u30b9\uff5e \u7389\u57ce\u590f\u5e06",
+    "size": "6.71 GB",
+    "actress": [
+      "\u7389\u57ce\u590f\u5e06"
+    ],
+    "preview_img_url": "https://pics.dmm.co.jp/digital/video/aqula00068/aqula00068pl.jpg",
+    "sell_date": "2025/04/04",
+    "duration": "72\u5206",
+    "seed_download_link": "magnet:?xt=urn:btih:f6c51b65567cd1acf1485011796022f21762eaff&dn=aqula-068&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce",
+    "director": [
+      "\u30ed\u30fc\u30b7\u30e7\u30f3\u30dc\u30fc\u30a4"
+    ],
+    "maker": [
+      "AQUA\uff1c\u30a2\u30af\u30a2\uff1e"
+    ],
+    "series": [],
+    "label": [
+      "AQUA LADY"
+    ],
+    "keyword": [
+      "\u5358\u4f53\u4f5c\u54c1",
+      "\u30cf\u30a4\u30af\u30aa\u30ea\u30c6\u30a3VR",
+      "VR\u5c02\u7528",
+      "\u72ec\u5360\u914d\u4fe1",
+      "\u9a0e\u4e57\u4f4d",
+      "\u30d5\u30a7\u30e9",
+      "\u30ab\u30c3\u30d7\u30eb",
+      "\u4eba\u59bb\u30fb\u4e3b\u5a66",
+      "\u719f\u5973"
+    ]
+  },
+  {
+    "id": "savr00600",
+    "title": "\u3010VR\u3011\u300c\u3044\u3063\u3071\u3044\u4e2d\u306b\u51fa\u3057\u3066\u266a\u300d\u59bb\u5b50\u304c\u3044\u308b\u306e\u3092\u77e5\u3063\u3066\u308b\u306b\u3082\u95a2\u308f\u3089\u305a\u3001\u30aa\u30d5\u30a3\u30b9\u3092\u30db\u30c6\u30eb\u4ee3\u308f\u308a\u306b\u5229\u7528\u3057\u3001\u7537\u3092\u5f04\u3076\u9b54\u6027\u306e\u7206\u4e73 \u59eb\u54b2\u306f\u306a",
+    "size": "12.62 GB",
+    "actress": [
+      "\u59eb\u54b2\u306f\u306a"
+    ],
+    "preview_img_url": "https://pics.dmm.co.jp/digital/video/savr00600/savr00600pl.jpg",
+    "sell_date": "2025/04/04",
+    "duration": "72\u5206",
+    "seed_download_link": "magnet:?xt=urn:btih:f150c010f77c47350570e2f13e1ab985a33a2c94&dn=savr-600&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce",
+    "director": [
+      "\u30a6\u30a3\u30eb\u30c1\u30f3\u30c1\u30f3"
+    ],
+    "maker": [
+      "KMPVR-\u5f69-"
+    ],
+    "series": [],
+    "label": [
+      "KMPVR-\u5f69-"
+    ],
+    "keyword": [
+      "\u30cf\u30a4\u30af\u30aa\u30ea\u30c6\u30a3VR",
+      "\u5236\u670d",
+      "\u5de8\u4e73",
+      "\u75f4\u5973",
+      "\u30d1\u30a4\u30ba\u30ea",
+      "\u72ec\u5360\u914d\u4fe1",
+      "VR\u5c02\u7528",
+      "\u5358\u4f53\u4f5c\u54c1",
+      "8KVR",
+      "\u4e2d\u51fa\u3057"
+    ]
+  },
+  {
+    "id": "savr00576",
+    "title": "\u3010VR\u3011\u300c\u5fc3\u304c\u3050\u3061\u3083\u3050\u3061\u3083\u306b\u306a\u308b\u307e\u3067\u56c1\u3044\u3066\u30e1\u30b9\u5815\u3061\u3055\u305b\u3066\u3042\u3052\u308b\u266a\u300d\u3042\u307e\uff5e\u3044\u58f0\u3067\u3055\u3055\u3084\u3044\u3066\u597d\u304d\u3092\u52a0\u901f\u3055\u305b\u308bNo\uff0c1JK\u30ea\u30d5\u30ec\u5b22 \u5317\u5ca1\u679c\u6797",
+    "size": "18.72 GB",
+    "actress": [
+      "\u5317\u5ca1\u679c\u6797"
+    ],
+    "preview_img_url": "https://pics.dmm.co.jp/digital/video/savr00576/savr00576pl.jpg",
+    "sell_date": "2025/04/04",
+    "duration": "80\u5206",
+    "seed_download_link": "magnet:?xt=urn:btih:8b91b9f952df7f0ad875fc0c0e5d3f0f0dfae054&dn=savr-576&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce",
+    "director": [
+      "\u66fe\u6839\u5927\u5922@\u4e2d\u91ce"
+    ],
+    "maker": [
+      "KMPVR-\u5f69-"
+    ],
+    "series": [],
+    "label": [
+      "KMPVR-\u5f69-"
+    ],
+    "keyword": [
+      "\u30cf\u30a4\u30af\u30aa\u30ea\u30c6\u30a3VR",
+      "\u4e2d\u51fa\u3057",
+      "\u30ad\u30b9\u30fb\u63a5\u543b",
+      "\u30ad\u30e3\u30d0\u5b22\u30fb\u98a8\u4fd7\u5b22",
+      "\u30de\u30c3\u30b5\u30fc\u30b8\u30fb\u30ea\u30d5\u30ec",
+      "\u72ec\u5360\u914d\u4fe1",
+      "VR\u5c02\u7528",
+      "\u5358\u4f53\u4f5c\u54c1",
+      "8KVR",
+      "\u7f8e\u5c11\u5973"
+    ]
+  },
+  {
+    "id": "savr00571",
+    "title": "\u3010VR\u3011\u3044\u3064\u3082\u306e\u914d\u9054\u3001\u904e\u6fc0\u306a\u4e0b\u7740\u2026 \u591c\u52e4\u660e\u3051\u30e0\u30e9\u30e0\u30e9\u9650\u754c\u30c7\u30ea\u30d8\u30eb\u5b22\u306b\u30dc\u30af\u306f\u91d1\u7389\u30d0\u30ab\u306b\u306a\u308b\u307e\u3067\u9a0e\u4e57\u4f4d\u3067\u72af\u25cf\u308c\u3066\u3002",
+    "size": "16.52 GB",
+    "actress": [],
+    "preview_img_url": "https://pics.dmm.co.jp/digital/video/savr00571/savr00571pl.jpg",
+    "sell_date": "2025/04/04",
+    "duration": "76\u5206",
+    "seed_download_link": "magnet:?xt=urn:btih:a8ec1ca04e0cc2ce32cd4ec60ddc1e5dd7bb4607&dn=savr-571&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce",
+    "director": [
+      "\u66fe\u6839\u5927\u5922@\u4e2d\u91ce"
+    ],
+    "maker": [
+      "KMPVR-\u5f69-"
+    ],
+    "series": [],
+    "label": [
+      "KMPVR-\u5f69-"
+    ],
+    "keyword": [
+      "\u30cf\u30a4\u30af\u30aa\u30ea\u30c6\u30a3VR",
+      "8KVR",
+      "\u72ec\u5360\u914d\u4fe1",
+      "\u9a0e\u4e57\u4f4d",
+      "\u75f4\u5973",
+      "\u30b9\u30ec\u30f3\u30c0\u30fc",
+      "\u4e2d\u51fa\u3057",
+      "\u7f8e\u5c11\u5973",
+      "VR\u5c02\u7528"
+    ]
+  },
+  {
+    "id": "urvrsp00436",
+    "title": "\u3010VR\u3011\u30108K VR\u3011J\u7cfb\u00d7\u8cac\u3081\u3089\u308c\u9854\u7279\u5316 \u308c\u3047\u306a\u3061\u3083\u3093",
+    "size": "16.51 GB",
+    "actress": [],
+    "preview_img_url": "https://pics.dmm.co.jp/digital/video/urvrsp00436/urvrsp00436pl.jpg",
+    "sell_date": "2025/04/04",
+    "duration": "78\u5206",
+    "seed_download_link": "magnet:?xt=urn:btih:ae49c10a874114d40c7e8334b7a6c7fea6ea24e0&dn=urvrsp-436&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce",
+    "director": [
+      "\u77e2\u6fa4\u30ec\u30b7\u30fc\u30d6"
+    ],
+    "maker": [
+      "unfinished"
+    ],
+    "series": [
+      "unfinished VR"
+    ],
+    "label": [
+      "Marrion Group VR"
+    ],
+    "keyword": [
+      "\u30cf\u30a4\u30af\u30aa\u30ea\u30c6\u30a3VR",
+      "VR\u5c02\u7528",
+      "\u72ec\u5360\u914d\u4fe1",
+      "8KVR",
+      "\u7f8e\u4e73",
+      "\u5236\u670d",
+      "\u5b66\u751f\u670d",
+      "\u5973\u5b50\u6821\u751f",
+      "\u4e2d\u51fa\u3057"
+    ]
+  },
+  {
+    "id": "oavr00003",
+    "title": "\u3010VR\u3011\u5727\u5012\u7684\u7f8e\u5c11\u5973\u306b\u5c48\u3057\u308d\uff01\uff01\uff01\uff01\u4e43\u6728\u7d50\u5922\u00d78KVR",
+    "size": "9.05 GB",
+    "actress": [
+      "\u4e43\u6728\u7d50\u5922"
+    ],
+    "preview_img_url": "https://pics.dmm.co.jp/digital/video/oavr00003/oavr00003pl.jpg",
+    "sell_date": "2025/04/03",
+    "duration": "47\u5206",
+    "seed_download_link": "magnet:?xt=urn:btih:4829981907bfbbf780fd2ce71af047d91644d2bb&dn=oavr-003&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce",
+    "director": [
+      "Paul Dodd"
+    ],
+    "maker": [
+      "Aircontrol"
+    ],
+    "series": [],
+    "label": [
+      "antenna"
+    ],
+    "keyword": [
+      "\u30cf\u30a4\u30af\u30aa\u30ea\u30c6\u30a3VR",
+      "\u30b9\u30ec\u30f3\u30c0\u30fc",
+      "\u30e9\u30f3\u30b8\u30a7\u30ea\u30fc",
+      "\u7f8e\u5c11\u5973",
+      "\u5c3b\u30d5\u30a7\u30c1",
+      "\u72ec\u5360\u914d\u4fe1",
+      "VR\u5c02\u7528",
+      "\u5358\u4f53\u4f5c\u54c1",
+      "8KVR",
+      "\u30a4\u30e1\u30fc\u30b8\u30d3\u30c7\u30aa"
+    ]
+  },
+  {
+    "id": "urvrsp00435",
+    "title": "\u3010VR\u3011\u30108K VR\u3011\u76ee\u899a\u3081\u308b\u3068\u76ee\u306e\u524d\u306b\u306f\u61a7\u308c\u306e\u5148\u8f29OL\u2026\u9154\u3063\u3066\u5f7c\u5973\u3068\u9593\u9055\u3048\u3066\u3001\u4e2d\u51fa\u3057\u65e2\u6210\u4e8b\u5b9f\u4f5c\u3089\u308c\u308bNTR\u30ef\u30f3\u30ca\u30a4\u30c8 \u90a3\u8cc0\u5d0e\u3086\u304d\u306d",
+    "size": "11.86 GB",
+    "actress": [
+      "\u90a3\u8cc0\u5d0e\u3086\u304d\u306d"
+    ],
+    "preview_img_url": "https://pics.dmm.co.jp/digital/video/urvrsp00435/urvrsp00435pl.jpg",
+    "sell_date": "2025/04/03",
+    "duration": "71\u5206",
+    "seed_download_link": "magnet:?xt=urn:btih:317fcafd9f5ee705177b0944a346599ccf5ed94a&dn=urvrsp-435&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce",
+    "director": [
+      "\u30df\u30c5\u30ad\u30fb\u6539"
+    ],
+    "maker": [
+      "unfinished"
+    ],
+    "series": [
+      "unfinished VR"
+    ],
+    "label": [
+      "Marrion Group VR"
+    ],
+    "keyword": [
+      "\u30cf\u30a4\u30af\u30aa\u30ea\u30c6\u30a3VR",
+      "OL",
+      "\u5bdd\u53d6\u308a\u30fb\u5bdd\u53d6\u3089\u308c\u30fbNTR",
+      "\u5973\u4e0a\u53f8",
+      "\u30b9\u30ec\u30f3\u30c0\u30fc",
+      "8KVR",
+      "\u72ec\u5360\u914d\u4fe1",
+      "VR\u5c02\u7528",
+      "\u5358\u4f53\u4f5c\u54c1",
+      "\u4e2d\u51fa\u3057"
+    ]
+  },
+  {
+    "id": "nkkvr00153",
+    "title": "\u3010VR\u3011\u6975\u30fb\u9b3c\u643e\u308a\u70b8\u88c2\uff01\uff01\u30108K\u30d0\u30d6\u30ea\u30fc\u30b9\u30c8\u30ed\u30f3\u30b0\uff01\uff01\u301193\u5206\u9593\u8cac\u3081\u3089\u308c\u629c\u304b\u308c\u3063\u3071\u306a\u3057\uff01\uff01\u3010\u8d85\u8089\u611f\u5373\u30a8\u30ed\u7279\u5316\u301122\u767a\u51fa\u3059\u307e\u3067\u5e30\u3057\u3066\u304f\u308c\u306a\u3044\u30c7\u30ea\u30d8\u30eb\uff01\uff01",
+    "size": "27.71 GB",
+    "actress": [],
+    "preview_img_url": "https://pics.dmm.co.jp/digital/video/nkkvr00153/nkkvr00153pl.jpg",
+    "sell_date": "2025/04/03",
+    "duration": "93\u5206",
+    "seed_download_link": "magnet:?xt=urn:btih:fd980f4e6372782286a5f75d1d15897208ff7c4e&dn=nkkvr-153&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce",
+    "director": [
+      "\u30af\u30ef\u30c3\u30c1\u30fc"
+    ],
+    "maker": [
+      "\u8089\u304d\u3085\u3093\u30d1\u30e9\u30c0\u30a4\u30b9VR"
+    ],
+    "series": [
+      "\u30b9\u30c8\u30ed\u30f3\u30b0\u7a2e\u7d5e\u308a\u25cb\u25cb\u767a\u5c04\uff01\uff01"
+    ],
+    "label": [
+      "\u6975\u30b0\u30eb\u30fc\u30d7"
+    ],
+    "keyword": [
+      "\u30cf\u30a4\u30af\u30aa\u30ea\u30c6\u30a3VR",
+      "\u5de8\u4e73",
+      "\u75f4\u5973",
+      "\u9a0e\u4e57\u4f4d",
+      "\u30d1\u30a4\u30ba\u30ea",
+      "\u30ed\u30fc\u30b7\u30e7\u30f3\u30fb\u30aa\u30a4\u30eb",
+      "\u72ec\u5360\u914d\u4fe1",
+      "VR\u5c02\u7528",
+      "8KVR",
+      "\u4e2d\u51fa\u3057"
+    ]
+  },
+  {
+    "id": "vrprd00087",
+    "title": "\u3010VR\u3011\u300c\u3054\u3081\u3093\u306a\u3055\u3044\u3002\u300d\u5bb6\u5ead\u6559\u5e2b\u3092\u3057\u3066\u3044\u305f\u6559\u3048\u5b50\u306eJ\u25cf\u304c\u7121\u4e8b\u306b\u5fd7\u671b\u6821\u306b\u5408\u683c\u3057\u305f\u306e\u3067\u2026\u6700\u5f8c\u306b\u30b9\u30a4\u30df\u30f3\u3057\u3066\u3044\u308b\u5f7c\u5973\u3092\u30e4\u3063\u3061\u3083\u3044\u307e\u3057\u305f\u3002",
+    "size": "17.54 GB",
+    "actress": [],
+    "preview_img_url": "https://pics.dmm.co.jp/digital/video/vrprd00087/vrprd00087pl.jpg",
+    "sell_date": "2025/04/03",
+    "duration": "73\u5206",
+    "seed_download_link": "magnet:?xt=urn:btih:d450ad1f7536adb686879118a59f90b6ace992b2&dn=vrprd-087&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce",
+    "director": [
+      "\u30af\u30ef\u30c3\u30c1\u30fc"
+    ],
+    "maker": [
+      "VR\u30d1\u30e9\u30c0\u30a4\u30b9"
+    ],
+    "series": [],
+    "label": [
+      "\u6975\u30b0\u30eb\u30fc\u30d7"
+    ],
+    "keyword": [
+      "\u30cf\u30a4\u30af\u30aa\u30ea\u30c6\u30a3VR",
+      "8KVR",
+      "VR\u5c02\u7528",
+      "\u72ec\u5360\u914d\u4fe1",
+      "\u4e2d\u51fa\u3057",
+      "\u7d20\u4eba",
+      "\u6deb\u4e71\u30fb\u30cf\u30fc\u30c9\u7cfb",
+      "\u5973\u5b50\u6821\u751f",
+      "\u5236\u670d"
+    ]
+  },
+  {
+    "id": "vrkm01531",
+    "title": "\u3010VR\u3011\u5351\u7325\u306a\u814b\u306b\u767a\u60c5\u3057\u3066\u3057\u307e\u3063\u305f\u4ef6 \u7f8e\u5973\u306e\u814b\u3068\u4e73\u304c\u4e00\u756a\u30c1\u3007\u30dd\u306b\u52b9\u304f\u8aac\u30ce\u30fc\u30ab\u30c3\u30c8458\u5206BEST",
+    "size": "40.12 GB",
+    "actress": [
+      "\u661f\u4ef2\u3053\u3053\u307f",
+      "\u5009\u591a\u307e\u304a",
+      "\u67a2\u6728\u3042\u304a\u3044",
+      "\u677e\u672c\u83dc\u5948\u5b9f",
+      "\u771f\u5bae\u3042\u3084",
+      "\u6708\u4e0b\u3042\u3044\u308a",
+      "\u52a0\u8cc0\u7f8e\u3055\u3089",
+      "\u521d\u611b\u306d\u3093\u306d",
+      "\u7d3a\u91ce\u3072\u304b\u308b",
+      "\u82b1\u5bae\u3042\u3080"
+    ],
+    "preview_img_url": "https://pics.dmm.co.jp/digital/video/vrkm01531/vrkm01531pl.jpg",
+    "sell_date": "2025/04/03",
+    "duration": "456\u5206",
+    "seed_download_link": "magnet:?xt=urn:btih:e9f4160b30901b70a60158aaf5cdf48b936fd5fd&dn=vrkm-1531&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce",
+    "director": [
+      "K\u592a\u90ce"
+    ],
+    "maker": [
+      "\u30b1\u30a4\u30fb\u30a8\u30e0\u30fb\u30d7\u30ed\u30c7\u30e5\u30fc\u30b9"
+    ],
+    "series": [
+      "VR BEST"
+    ],
+    "label": [
+      "KMPVR"
+    ],
+    "keyword": [
+      "4\u6642\u9593\u4ee5\u4e0a\u4f5c\u54c1",
+      "\u30bb\u30c3\u30c8\u5546\u54c1",
+      "\u30cf\u30a4\u30af\u30aa\u30ea\u30c6\u30a3VR",
+      "VR\u5c02\u7528",
+      "\u72ec\u5360\u914d\u4fe1",
+      "\u7f8e\u5c11\u5973",
+      "\u305d\u306e\u4ed6\u30d5\u30a7\u30c1",
+      "\u5de8\u4e73",
+      "\u7f8e\u4e73"
+    ]
+  },
+  {
+    "id": "vrkm01529",
+    "title": "\u3010VR\u3011\u4e71\u308c\u308b\u5236\u670d\u3001\u6b8b\u308b\u3042\u3069\u3051\u306a\u3055\u2026 \u30ae\u30e3\u30eb\u3082\u6e05\u695a\u3082\uff01\uff01\u5973\u5b50\u6821\u751f\u3060\u3063\u3066H\u306a\u3093\u3060\u3082\u3093\uff01\uff01JK\u00d7\u9a0e\u4e57\u4f4d BEST",
+    "size": "26.62 GB",
+    "actress": [
+      "\u677e\u672c\u3044\u3061\u304b",
+      "\u6728\u4e0b\u3072\u307e\u308a\uff08\u82b1\u6ca2\u3072\u307e\u308a\uff09",
+      "\u67cf\u6728\u3053\u306a\u3064",
+      "\u6709\u5ca1\u307f\u3046",
+      "\u7dbe\u702c\u3053\u3053\u308d",
+      "\u5800\u5317\u308f\u3093",
+      "\u5357\u6761\u3044\u3061\u304b",
+      "\u3042\u304a\u3044\u308c\u306a",
+      "\u862d\u3005",
+      "\u59eb\u54b2\u306f\u306a"
+    ],
+    "preview_img_url": "https://pics.dmm.co.jp/digital/video/vrkm01529/vrkm01529pl.jpg",
+    "sell_date": "2025/04/03",
+    "duration": "302\u5206",
+    "seed_download_link": "magnet:?xt=urn:btih:8dc619952af3058d56cefd22f65267e0ab7cffe3&dn=vrkm-1529&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce",
+    "director": [
+      "K\u592a\u90ce"
+    ],
+    "maker": [
+      "\u30b1\u30a4\u30fb\u30a8\u30e0\u30fb\u30d7\u30ed\u30c7\u30e5\u30fc\u30b9"
+    ],
+    "series": [
+      "VR BEST"
+    ],
+    "label": [
+      "KMPVR"
+    ],
+    "keyword": [
+      "4\u6642\u9593\u4ee5\u4e0a\u4f5c\u54c1",
+      "\u30cf\u30a4\u30af\u30aa\u30ea\u30c6\u30a3VR",
+      "\u72ec\u5360\u914d\u4fe1",
+      "\u30d9\u30b9\u30c8\u30fb\u7dcf\u96c6\u7de8",
+      "VR\u5c02\u7528",
+      "\u9a0e\u4e57\u4f4d",
+      "\u4e2d\u51fa\u3057"
+    ]
+  },
+  {
+    "id": "urvrsp00429",
+    "title": "\u3010VR\u3011\u30108K VR\u3011\u3044\u3064\u3082\u30b9\u30c8\u30ec\u30b9\u306e\u306f\u3051\u53e3\u3068\u3057\u3066\u7f75\u5012\u3055\u308c\u811a\u3067\u30a4\u30ab\u3055\u308c\u30cf\u30e1\u3089\u308c\u308b\u50d5 \u7f8e\u811a\u5f8c\u8f29OL \u306b\u3042\u3055\u3093",
+    "size": "10.66 GB",
+    "actress": [],
+    "preview_img_url": "https://pics.dmm.co.jp/digital/video/urvrsp00429/urvrsp00429pl.jpg",
+    "sell_date": "2025/03/25",
+    "duration": "72\u5206",
+    "seed_download_link": "magnet:?xt=urn:btih:10f26b78d19c7f7ea1d729b8d4b67fddca09b29b&dn=urvrsp00429&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce",
+    "director": [
+      "\u51db\u3005\uff08un\uff09"
+    ],
+    "maker": [
+      "unfinished"
+    ],
+    "series": [
+      "unfinished VR"
+    ],
+    "label": [
+      "Marrion Group VR"
+    ],
+    "keyword": [
+      "\u30cf\u30a4\u30af\u30aa\u30ea\u30c6\u30a3VR",
+      "OL",
+      "\u90e8\u4e0b\u30fb\u540c\u50da",
+      "\u30d1\u30f3\u30b9\u30c8\u30fb\u30bf\u30a4\u30c4",
+      "\u30b9\u30ec\u30f3\u30c0\u30fc",
+      "\u30d3\u30b8\u30cd\u30b9\u30b9\u30fc\u30c4",
+      "\u7f75\u5012",
+      "8KVR",
+      "\u72ec\u5360\u914d\u4fe1",
+      "VR\u5c02\u7528",
+      "\u4e2d\u51fa\u3057"
+    ]
+  },
+  {
+    "id": "mdvr00344",
+    "title": "\u3010VR\u3011\u679c\u6c41100\uff05\uff01\u5929\u7136Juice\u30ab\u30c3\u30d7\u73fe\u5f79JD\u5f7c\u5973\u3068\u9752\u6625\u3092\u3084\u308a\u76f4\u3059\u30b9\u30af\u30fc\u30eb\u6c34\u7740\u30d1\u30a4\u30ba\u30ea\uff06\u5236\u670d\u30bb\u30c3\u30af\u30b9 \u4e09\u6728\u74b0\u5948",
+    "size": "18.69 GB",
+    "actress": [
+      "\u4e09\u6728\u74b0\u5948"
+    ],
+    "preview_img_url": "https://pics.dmm.co.jp/digital/video/mdvr00344/mdvr00344pl.jpg",
+    "sell_date": "2025/03/24",
+    "duration": "104\u5206",
+    "seed_download_link": "magnet:?xt=urn:btih:562be2dd6e9eb7ce6d65d08c2c0535f1619a9db0&dn=mdvr00344&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce",
+    "director": [
+      "\u6fe1\u308c\u305f\u5b50\u72ac"
+    ],
+    "maker": [
+      "\u30e0\u30fc\u30c7\u30a3\u30fc\u30ba"
+    ],
+    "series": [
+      "MOODYZ 8KVR"
+    ],
+    "label": [
+      "MOODYZ VR"
+    ],
+    "keyword": [
+      "\u5de8\u4e73",
+      "8KVR",
+      "\u5358\u4f53\u4f5c\u54c1",
+      "VR\u5c02\u7528",
+      "\u72ec\u5360\u914d\u4fe1",
+      "\u4e3b\u89b3",
+      "\u7af6\u6cf3\u30fb\u30b9\u30af\u30fc\u30eb\u6c34\u7740",
+      "\u30ab\u30c3\u30d7\u30eb",
+      "\u30d1\u30a4\u30ba\u30ea",
+      "\u30cf\u30a4\u30af\u30aa\u30ea\u30c6\u30a3VR"
+    ]
+  },
+  {
+    "id": "13dsvr01691",
+    "title": "\u3010VR\u3011\u30108K\u3011\u3010VR\u3011\u30b7\u30f3\u30fb\u900f\u660e\u4eba\u9593\u304a\u3093\u306a\u6e6f\u306e\u305e\u304d4 \u4fee\u5b66\u65c5\u884c\u751f\u305f\u3061\u306e\u5973\u98a8\u5442\u306b\u6f5c\u5165\u4e2d\uff01\uff01\u5168\u672a\u6210\u719f\u30de\u25cf\u30b3\u306b\u30cf\u30e1\u30cf\u30e1SPECIAL",
+    "size": "26.23 GB",
+    "actress": [],
+    "preview_img_url": "https://pics.dmm.co.jp/digital/video/13dsvr01691/13dsvr01691pl.jpg",
+    "sell_date": "2025/03/24",
+    "duration": "121\u5206",
+    "seed_download_link": "magnet:?xt=urn:btih:cb77ad51ebc01a7bf955cb7ba82e83c2fd76c6be&dn=dsvr01691&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce",
+    "director": [
+      "\u77e2\u6fa4\u30ec\u30b7\u30fc\u30d6"
+    ],
+    "maker": [
+      "SOD\u30af\u30ea\u30a8\u30a4\u30c8"
+    ],
+    "series": [
+      "\u30b7\u30f3\u30fb\u900f\u660e\u4eba\u9593\u304a\u3093\u306a\u6e6f\u306e\u305e\u304d"
+    ],
+    "label": [
+      "SODVR"
+    ],
+    "keyword": [
+      "\u30cf\u30a4\u30af\u30aa\u30ea\u30c6\u30a3VR",
+      "8KVR",
+      "VR\u5c02\u7528",
+      "\u6e29\u6cc9",
+      "SF",
+      "\u5973\u5b50\u6821\u751f",
+      "\u7f8e\u5c11\u5973",
+      "\u5236\u670d"
+    ]
+  },
+  {
+    "id": "kavr00410",
+    "title": "\u3010VR\u3011\u8272\u6c17\u30e0\u30f3\u30e0\u30f3\u304a\u59c9\u3055\u3093\u5927\u69fb\u3072\u3073\u304d \u81ea\u7531\u5954\u653e\u30dc\u30a4\u30f3GAL\u4e59\u30a2\u30ea\u30b9 \u66b4\u8d70\u30e4\u30ea\u3059\u304e\u7f8e\u5c11\u5973\u8679\u6751\u3086\u307f \u30aa\u30f3\u30ca\u3092\u559c\u3070\u305b\u308b\u5929\u624d\u306b\u306a\u308c\u308b\uff01\u66b4\u767aOK\uff01\u4e2d\u51fa\u3057OK\uff01\u304a\u307e\u25cf\u3053\u30cf\u30e1\u653e\u984c\uff01\u30cf\u30e1\u307e\u304f\u308aHow To Sex\u6559\u7fd2\u6240",
+    "size": "23.71 GB",
+    "actress": [
+      "\u8679\u6751\u3086\u307f",
+      "\u4e59\u30a2\u30ea\u30b9",
+      "\u5927\u69fb\u3072\u3073\u304d"
+    ],
+    "preview_img_url": "https://pics.dmm.co.jp/digital/video/kavr00410/kavr00410pl.jpg",
+    "sell_date": "2025/03/22",
+    "duration": "107\u5206",
+    "seed_download_link": "magnet:?xt=urn:btih:be741e4819999bfda4c632a9017c7a7d6ed9c2cc&dn=kavr00410&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce",
+    "director": [
+      "\u3053\u3042\u3089\u592a\u90ce\uff08\u308f\uff09"
+    ],
+    "maker": [
+      "kawaii"
+    ],
+    "series": [
+      "kawaii*VR"
+    ],
+    "label": [
+      "kawaii* VR"
+    ],
+    "keyword": [
+      "\u30cf\u30a4\u30af\u30aa\u30ea\u30c6\u30a3VR",
+      "8KVR",
+      "VR\u5c02\u7528",
+      "\u72ec\u5360\u914d\u4fe1",
+      "\u4e3b\u89b3",
+      "How To",
+      "\u4e2d\u51fa\u3057",
+      "\u75f4\u5973",
+      "\u30cf\u30fc\u30ec\u30e0"
+    ]
+  },
+  {
+    "id": "mdvr00345",
+    "title": "\u3010VR\u3011\u3042\u306e\u2026\u3058\u3083\u306a\u3044\u3088\u3001\u3086\u306e\u3060\u3088\u3002\u611b\u5b0c1\u4e07\u70b9\uff01Gcup\u5de8\u4e73\uff01\u30af\u30bb\u306b\u306a\u308b\u5e7c\u3044\u58f0\uff01\u5929\u771f\u721b\u6f2b\u3067\u3061\u3087\u3063\u3074\u308a\uff1f\u72ec\u5360\u6b32\u304c\u5f37\u3044\u5f7c\u5973\u3068\u5fc3\u304c\u7a81\u304d\u52d5\u304b\u3055\u308c\u308b\u80f8\u30ad\u30e5\u30f3\u7aff\u30ad\u30e5\u30f3\u540c\u68f2\u751f\u6d3b \u685c\u3086\u306e",
+    "size": "15.26 GB",
+    "actress": [
+      "\u685c\u3086\u306e"
+    ],
+    "preview_img_url": "https://pics.dmm.co.jp/digital/video/mdvr00345/mdvr00345pl.jpg",
+    "sell_date": "2025/03/20",
+    "duration": "78\u5206",
+    "seed_download_link": "magnet:?xt=urn:btih:b5b42c6988d576bdfd5f981ecaa33bc8dafb30a6&dn=mdvr00345&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce",
+    "director": [
+      "\u6fe1\u308c\u305f\u5b50\u72ac"
+    ],
+    "maker": [
+      "\u30e0\u30fc\u30c7\u30a3\u30fc\u30ba"
+    ],
+    "series": [
+      "MOODYZ 8KVR"
+    ],
+    "label": [
+      "MOODYZ VR"
+    ],
+    "keyword": [
+      "\u30cf\u30a4\u30af\u30aa\u30ea\u30c6\u30a3VR",
+      "\u30d1\u30a4\u30ba\u30ea",
+      "\u7f8e\u5c11\u5973",
+      "\u9a0e\u4e57\u4f4d",
+      "\u4e3b\u89b3",
+      "\u72ec\u5360\u914d\u4fe1",
+      "VR\u5c02\u7528",
+      "\u5358\u4f53\u4f5c\u54c1",
+      "8KVR",
+      "\u30ab\u30c3\u30d7\u30eb"
+    ]
+  },
+  {
+    "id": "kavr00414",
+    "title": "\u3010VR\u3011\u30aa\u30c8\u30ca\u306e\u514e\u30ab\u30d5\u30a7\uff1c\u30e0\u30e9\u30e0\u30e9\u8089\u98df\u30d0\u30cb\u30fc\u3068\u8349\u98df\u7537\u5b50\u3061\u3083\u3093\uff1e\u30cf\u30a4\u30a8\u30ca\u306e\u3088\u3046\u306b\u30c1\u25cf\u30dd\u306b\u7fa4\u304c\u308a\u9aa8\u306e\u9ac4\u307e\u3067\u75f4\u5973\u3089\u308c\u308b\u30cf\u30fc\u30ec\u30e0\u90064P \u68ee\u6ca2\u304b\u306a \u6c99\u6708\u6075\u5948 \u6709\u6751\u306e\u305e\u307f",
+    "size": "23.13 GB",
+    "actress": [
+      "\u68ee\u6ca2\u304b\u306a\uff08\u98ef\u5ca1\u304b\u306a\u3053\uff09",
+      "\u6c99\u6708\u6075\u5948",
+      "\u6709\u6751\u306e\u305e\u307f"
+    ],
+    "preview_img_url": "https://pics.dmm.co.jp/digital/video/kavr00414/kavr00414pl.jpg",
+    "sell_date": "2025/03/18",
+    "duration": "103\u5206",
+    "seed_download_link": "magnet:?xt=urn:btih:ab953d5f31bf5e1cb0876d96e7b52d60b30a90e0&dn=kavr00414&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce",
+    "director": [
+      "\u3053\u3042\u3089\u592a\u90ce\uff08\u308f\uff09"
+    ],
+    "maker": [
+      "kawaii"
+    ],
+    "series": [
+      "kawaii*VR"
+    ],
+    "label": [
+      "kawaii* VR"
+    ],
+    "keyword": [
+      "\u30cf\u30a4\u30af\u30aa\u30ea\u30c6\u30a3VR",
+      "8KVR",
+      "VR\u5c02\u7528",
+      "\u72ec\u5360\u914d\u4fe1",
+      "\u4e3b\u89b3",
+      "\u9a0e\u4e57\u4f4d",
+      "\u4e2d\u51fa\u3057",
+      "\u75f4\u5973",
+      "\u30cf\u30fc\u30ec\u30e0"
+    ]
+  },
+  {
+    "id": "urvrsp00427",
+    "title": "\u3010VR\u3011\u30108K VR\u3011\u4e0b\u8846\u306a\u7fa9\u7236\u306b\u5f31\u307f\u3092\u63e1\u3089\u308c\u305f\u79c1\u306f\u3001\u592b\u304c\u898b\u3066\u3044\u306a\u3044\u9699\u3092\u72d9\u3063\u305f\u6642\u77ed\u4e2d\u51fa\u3057\u30bb\u30c3\u30af\u30b9\u3092\u57f7\u62d7\u306b\u8feb\u3089\u308c\u3001\u62b5\u6297\u865a\u3057\u304f\u5b55\u307e\u3055\u308c\u307e\u3057\u305f\u3002\u90a3\u8cc0\u5d0e\u3086\u304d\u306d",
+    "size": "8.05 GB",
+    "actress": [
+      "\u90a3\u8cc0\u5d0e\u3086\u304d\u306d"
+    ],
+    "preview_img_url": "https://pics.dmm.co.jp/digital/video/urvrsp00427/urvrsp00427pl.jpg",
+    "sell_date": "2025/03/14",
+    "duration": "65\u5206",
+    "seed_download_link": "magnet:?xt=urn:btih:81b416884ed6bcd652fcde8f5461b64f7863c3de&dn=urvrsp00427&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce",
+    "director": [
+      "DJ\u30b8\u30e3\u30e0"
+    ],
+    "maker": [
+      "unfinished"
+    ],
+    "series": [
+      "unfinished VR"
+    ],
+    "label": [
+      "Marrion Group VR"
+    ],
+    "keyword": [
+      "\u30cf\u30a4\u30af\u30aa\u30ea\u30c6\u30a3VR",
+      "\u4eba\u59bb\u30fb\u4e3b\u5a66",
+      "\u8fd1\u89aa\u76f8\u59e6",
+      "\u5bdd\u53d6\u308a\u30fb\u5bdd\u53d6\u3089\u308c\u30fbNTR",
+      "\u7f9e\u6065",
+      "\u8fb1\u3081",
+      "8KVR",
+      "\u72ec\u5360\u914d\u4fe1",
+      "VR\u5c02\u7528",
+      "\u5358\u4f53\u4f5c\u54c1",
+      "\u4e2d\u51fa\u3057"
+    ]
+  },
+  {
+    "id": "mdvr00341",
+    "title": "\u3010VR\u3011\u65b0\u3042\u308a\u306a\u304c\u6975\u4e0a\u306e\u5c04\u7cbe\u3078\u5c0e\u304f \u4e2d\u51fa\u3057\u98a8\u4fd7\u30de\u30f3\u30b7\u30e7\u30f3VR 5\u30b7\u30c1\u30e5\u30a8\u30fc\u30b7\u30e7\u30f3120\u5206",
+    "size": "21.43 GB",
+    "actress": [
+      "\u65b0\u3042\u308a\u306a"
+    ],
+    "preview_img_url": "https://pics.dmm.co.jp/digital/video/mdvr00341/mdvr00341pl.jpg",
+    "sell_date": "2025/03/13",
+    "duration": "124\u5206",
+    "seed_download_link": "magnet:?xt=urn:btih:4ec7032c5464b259b24e6692f895bed41df14465&dn=mdvr-341&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce",
+    "director": [
+      "ZAMPA"
+    ],
+    "maker": [
+      "\u30e0\u30fc\u30c7\u30a3\u30fc\u30ba"
+    ],
+    "series": [],
+    "label": [
+      "MOODYZ VR"
+    ],
+    "keyword": [
+      "\u30cf\u30a4\u30af\u30aa\u30ea\u30c6\u30a3VR",
+      "\u4e2d\u51fa\u3057",
+      "\u30ad\u30b9\u30fb\u63a5\u543b",
+      "\u304a\u59c9\u3055\u3093",
+      "\u9a0e\u4e57\u4f4d",
+      "\u72ec\u5360\u914d\u4fe1",
+      "VR\u5c02\u7528",
+      "\u5358\u4f53\u4f5c\u54c1",
+      "8KVR",
+      "\u30ad\u30e3\u30d0\u5b22\u30fb\u98a8\u4fd7\u5b22"
+    ]
+  },
+  {
+    "id": "13dsvr01574",
+    "title": "\u3010VR\u3011\u30108K\u3011\u83ef\u91d1\u306e\u591c\u3001\u30db\u30c6\u30eb\u3067\u82b8\u80fd\u4eba\u3068\u5bc6\u4f1a \u50d5\u3057\u304b\u77e5\u3089\u306a\u3044\u30de\u30be\u6027\u3001\u88f8\u4f53\u3001\u5168\u3066\u8caa\u308a\u5c3d\u304f\u3059\u3002 \u6e1a\u604b\u751f",
+    "size": "15.11 GB",
+    "actress": [
+      "\u6e1a\u604b\u751f"
+    ],
+    "preview_img_url": "https://pics.dmm.co.jp/digital/video/13dsvr01574/13dsvr01574pl.jpg",
+    "sell_date": "2025/03/13",
+    "duration": "90\u5206",
+    "seed_download_link": "magnet:?xt=urn:btih:1991bc44368785a8b62394bc5b3376d8df03cb6c&dn=dsvr01574&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce",
+    "director": [
+      "\u5915\u520a"
+    ],
+    "maker": [
+      "SOD\u30af\u30ea\u30a8\u30a4\u30c8"
+    ],
+    "series": [],
+    "label": [
+      "SODVR"
+    ],
+    "keyword": [
+      "\u30cf\u30a4\u30af\u30aa\u30ea\u30c6\u30a3VR",
+      "8KVR",
+      "\u5358\u4f53\u4f5c\u54c1",
+      "VR\u5c02\u7528",
+      "\u30ed\u30fc\u30b7\u30e7\u30f3\u30fb\u30aa\u30a4\u30eb",
+      "\u62d8\u675f",
+      "\u8edf\u4f53",
+      "\u30b9\u30ec\u30f3\u30c0\u30fc",
+      "\u304a\u98a8\u5442"
+    ]
+  },
+  {
+    "id": "urvrsp00424",
+    "title": "\u3010VR\u3011\u30108K VR\u3011\u304a\u7236\u3055\u3093\u306e\u501f\u91d1\u306e\u80a9\u4ee3\u308f\u308a\u306b\u306a\u3063\u305f\u5a18\u3067\u3001\u8105\u8feb\u540c\u4eba\u30a8\u30ed\u64ae\u5f71\u3002\u3044\u3068",
+    "size": "15.73 GB",
+    "actress": [],
+    "preview_img_url": "https://pics.dmm.co.jp/digital/video/urvrsp00424/urvrsp00424pl.jpg",
+    "sell_date": "2025/03/13",
+    "duration": "75\u5206",
+    "seed_download_link": "magnet:?xt=urn:btih:faa3d43f2cf8a345c8e42bd8d8b782c535548d5f&dn=urvrsp-424&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce",
+    "director": [
+      "\u77e2\u6fa4\u30ec\u30b7\u30fc\u30d6"
+    ],
+    "maker": [
+      "unfinished"
+    ],
+    "series": [
+      "unfinished VR"
+    ],
+    "label": [
+      "Marrion Group VR"
+    ],
+    "keyword": [
+      "\u30cf\u30a4\u30af\u30aa\u30ea\u30c6\u30a3VR",
+      "\u5973\u5b50\u6821\u751f",
+      "\u5b66\u751f\u670d",
+      "\u5236\u670d",
+      "\u6deb\u4e71\u30fb\u30cf\u30fc\u30c9\u7cfb",
+      "\u62d8\u675f",
+      "\u7f9e\u6065",
+      "\u8fb1\u3081",
+      "8KVR",
+      "\u72ec\u5360\u914d\u4fe1",
+      "VR\u5c02\u7528",
+      "\u4e2d\u51fa\u3057"
+    ]
+  },
+  {
+    "id": "vrprd00083",
+    "title": "\u3010VR\u3011\u30108K\u3011\u5869\u5bfe\u5fdc\u30d1\u25cf\u6d3b\u5973\u5b50\u25cf\u751f\u30c1\u25cf\u30dd\u751f\u3067\u30a4\u30ab\u305b\u307e\u304f\u3063\u305f\uff5e5\u4eba\u76ee\uff5e",
+    "size": "13.05 GB",
+    "actress": [],
+    "preview_img_url": "https://pics.dmm.co.jp/digital/video/vrprd00083/vrprd00083pl.jpg",
+    "sell_date": "2025/03/13",
+    "duration": "72\u5206",
+    "seed_download_link": "magnet:?xt=urn:btih:45974164a26cf42137c2ad6368ec746f3a1eb6e2&dn=vrprd-083&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce",
+    "director": [
+      "\u30af\u30ef\u30c3\u30c1\u30fc"
+    ],
+    "maker": [
+      "VR\u30d1\u30e9\u30c0\u30a4\u30b9"
+    ],
+    "series": [
+      "\u5869\u5bfe\u5fdc"
+    ],
+    "label": [
+      "\u6975\u30b0\u30eb\u30fc\u30d7"
+    ],
+    "keyword": [
+      "\u30cf\u30a4\u30af\u30aa\u30ea\u30c6\u30a3VR",
+      "8KVR",
+      "VR\u5c02\u7528",
+      "\u72ec\u5360\u914d\u4fe1",
+      "\u5236\u670d",
+      "\u30d5\u30a7\u30e9",
+      "\u4e2d\u51fa\u3057",
+      "\u30ae\u30e3\u30eb",
+      "\u5973\u5b50\u6821\u751f"
+    ]
+  },
+  {
+    "id": "vrkm01506",
+    "title": "\u3010VR\u3011\u4ffa\u3089\u306e\u6700\u63a8\u3057\uff01\u3069\u30b9\u30b1\u30d9\u3067\u7f8e\u3057\u3044\u30c7\u30ab\u30b1\u30c4\u306b300\u5206\u30e0\u30e9\u3064\u304d\u307e\u304f\u308a\uff01\uff01\u6975\u4e0a\u30aa\u30ca\u30cb\u30fc\u4eba\u751f\u30b9\u30bf\u30fc\u30bf\u30fcBEST\uff01\uff01",
+    "size": "25.61 GB",
+    "actress": [
+      "\u677e\u672c\u3044\u3061\u304b",
+      "\u79cb\u5143\u3055\u3061\u304b",
+      "\u6728\u4e0b\u3072\u307e\u308a\uff08\u82b1\u6ca2\u3072\u307e\u308a\uff09",
+      "\u590f\u5ddd\u3042\u3086\u307f",
+      "\u5009\u591a\u307e\u304a",
+      "\u4e59\u30a2\u30ea\u30b9",
+      "\u5c3e\u5d0e\u3048\u308a\u304b",
+      "\u7389\u6728\u304f\u308b\u307f",
+      "\u5e0c\u4ee3\u3042\u307f",
+      "\u512a\u68a8\u307e\u3044\u306a"
+    ],
+    "preview_img_url": "https://pics.dmm.co.jp/digital/video/vrkm01506/vrkm01506pl.jpg",
+    "sell_date": "2025/03/13",
+    "duration": "302\u5206",
+    "seed_download_link": "magnet:?xt=urn:btih:9a0f10a50394e9ffd11e0151ed78f87347fa21d8&dn=vrkm-1506&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce",
+    "director": [
+      "K\u592a\u90ce"
+    ],
+    "maker": [
+      "\u30b1\u30a4\u30fb\u30a8\u30e0\u30fb\u30d7\u30ed\u30c7\u30e5\u30fc\u30b9"
+    ],
+    "series": [
+      "VR BEST"
+    ],
+    "label": [
+      "KMPVR"
+    ],
+    "keyword": [
+      "4\u6642\u9593\u4ee5\u4e0a\u4f5c\u54c1",
+      "\u30cf\u30a4\u30af\u30aa\u30ea\u30c6\u30a3VR",
+      "VR\u5c02\u7528",
+      "\u7f8e\u5c11\u5973",
+      "\u30d9\u30b9\u30c8\u30fb\u7dcf\u96c6\u7de8",
+      "\u5c3b\u30d5\u30a7\u30c1",
+      "\u5de8\u5c3b"
+    ]
+  },
+  {
+    "id": "pxvr00255",
+    "title": "\u3010VR\u3011\u4ffa\u306e\u3053\u3068\u304c\u597d\u304d\u3059\u304e\u308b\u5de8\u4e73\u306e\u5973\u4e0a\u53f8\u5f7c\u5973\u3068\u30aa\u30d5\u30a3\u30b9\u3067\u30c4\u30f3\u30c7\u30ec\u304a\u306d\u3060\u308a\u5168\u958b\u5b8c\u5168\u53d7\u8eab\u306e\u751f\u4e2dSEX \u693f\u308a\u304b\u30108K\u3011",
+    "size": "11.67 GB",
+    "actress": [
+      "\u693f\u308a\u304b"
+    ],
+    "preview_img_url": "https://pics.dmm.co.jp/digital/video/pxvr00255/pxvr00255pl.jpg",
+    "sell_date": "2025/03/12",
+    "duration": "73\u5206",
+    "seed_download_link": "magnet:?xt=urn:btih:566c69bc50f0a0798be9a2efbb19d49b15d822b3&dn=pxvr00255&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce",
+    "director": [
+      "\u30ea\u30d0\u30d5\u30a3\u30fc\u5c06"
+    ],
+    "maker": [
+      "P-BOX VR"
+    ],
+    "series": [
+      "\u4ffa\u306e\u4e8b\u304c\u597d\u304d\u3059\u304e\u308b"
+    ],
+    "label": [
+      "P-BOX VR"
+    ],
+    "keyword": [
+      "\u30cf\u30a4\u30af\u30aa\u30ea\u30c6\u30a3VR",
+      "OL",
+      "\u4e2d\u51fa\u3057",
+      "\u9a0e\u4e57\u4f4d",
+      "\u30d5\u30a7\u30e9",
+      "\u72ec\u5360\u914d\u4fe1",
+      "VR\u5c02\u7528",
+      "\u5358\u4f53\u4f5c\u54c1",
+      "8KVR",
+      "\u5de8\u4e73"
+    ]
+  },
+  {
+    "id": "fcvr00041",
+    "title": "\u3010VR\u3011\u3010Fitch\u9ad8\u753b\u8cea8K\u8089\u611fVR\u3011\u5e74\u4e0b\u306e\u5357\u56fd\u7f8e\u5973\u3068\u6c57\u3060\u304f\u30d9\u30ed\u30ad\u30b9\u8089\u611fSEX \u6c96\u7e04\u306e\u5b9f\u5bb6\u306b\u5e30\u3063\u305f\u3089\u5f93\u59b9\u306e\u65e5\u83dc\u304c\u4ffa\u597d\u307f\u306e\u8089\u611f\u30dc\u30c7\u30a3\u306b\u6210\u9577\u3057\u3066\u3044\u305f\u2026\u3002 \u4f3c\u9ce5\u65e5\u83dc",
+    "size": "13.99 GB",
+    "actress": [
+      "\u4f3c\u9ce5\u65e5\u83dc"
+    ],
+    "preview_img_url": "https://pics.dmm.co.jp/digital/video/fcvr00041/fcvr00041pl.jpg",
+    "sell_date": "2025/03/11",
+    "duration": "65\u5206",
+    "seed_download_link": "magnet:?xt=urn:btih:7045d48299352fa129e1ee6b0baf49c0d68f409a&dn=fcvr00041&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce",
+    "director": [
+      "ZAMPA"
+    ],
+    "maker": [
+      "Fitch"
+    ],
+    "series": [],
+    "label": [
+      "Fitch\u8089\u611fVR"
+    ],
+    "keyword": [
+      "\u30cf\u30a4\u30af\u30aa\u30ea\u30c6\u30a3VR",
+      "\u5de8\u4e73",
+      "\u4e2d\u51fa\u3057",
+      "\u30d5\u30a7\u30e9",
+      "\u30d1\u30a4\u30ba\u30ea",
+      "\u72ec\u5360\u914d\u4fe1",
+      "VR\u5c02\u7528",
+      "\u5358\u4f53\u4f5c\u54c1",
+      "8KVR",
+      "\u59c9\u30fb\u59b9"
+    ]
+  },
+  {
+    "id": "kavr00412",
+    "title": "\u3010VR\u3011\u83ef\u5962\u306aFcup\u30b0\u30e9\u30d3\u30a2\u30dc\u30c7\u30a3\u3092\u72ec\u5360\uff01\u30a8\u30f3\u30b8\u30a7\u30eb\u7518\u3005\u30dc\u30a4\u30b9\u3067\u56c1\u304d\u306a\u304c\u3089\u5bc6\u7740\u3044\u3061\u3083\u3044\u3061\u3083\uff01\u80f8\u30ad\u30e5\u30f3\uff01\u81a3\u30ad\u30e5\u30f3\uff01\u552f\u4e00\u306e\u79c1\u3092\u9b45\u305b\u3089\u308c\u308b\u7d14\u611b\u4e2d\u51fa\u3057\u540c\u68f2VR \u5929\u7fbd\u308a\u308a\u304b",
+    "size": "24.22 GB",
+    "actress": [
+      "\u5929\u7fbd\u308a\u308a\u304b"
+    ],
+    "preview_img_url": "https://pics.dmm.co.jp/digital/video/kavr00412/kavr00412pl.jpg",
+    "sell_date": "2025/03/11",
+    "duration": "113\u5206",
+    "seed_download_link": "magnet:?xt=urn:btih:0fd12f2d26d8b9c5e6bfd7de672c097ed72c1eb8&dn=kavr00412&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce",
+    "director": [
+      "\u30b8\u30fc\u30cb\u30a2\u30b9\u819d"
+    ],
+    "maker": [
+      "kawaii"
+    ],
+    "series": [
+      "kawaii*VR"
+    ],
+    "label": [
+      "kawaii* VR"
+    ],
+    "keyword": [
+      "\u30cf\u30a4\u30af\u30aa\u30ea\u30c6\u30a3VR",
+      "\u7f8e\u5c11\u5973",
+      "\u30b9\u30ec\u30f3\u30c0\u30fc",
+      "\u30ad\u30b9\u30fb\u63a5\u543b",
+      "\u4e3b\u89b3",
+      "\u72ec\u5360\u914d\u4fe1",
+      "VR\u5c02\u7528",
+      "\u5358\u4f53\u4f5c\u54c1",
+      "8KVR",
+      "\u30a2\u30a4\u30c9\u30eb\u30fb\u82b8\u80fd\u4eba"
+    ]
+  },
+  {
+    "id": "sivr00400",
+    "title": "\u3010VR\u3011\u50d5\u306b\u60da\u308c\u3001\u50d5\u306e\u30c1\u25cf\u30dd\u3092\u6c42\u3081\u308b\u306e\u306b\u3001\u5bb6\u5ead\u306b\u306f\u4e00\u5207\u5e72\u6e09\u3057\u3066\u3053\u306a\u3044\u3002\u6700\u9ad8\uff08\u306b\u90fd\u5408\u306e\u3044\u3044\uff09\u306a\u611b\u4eba\u3068\u300c\u7d76\u5bfe\u670d\u5f93\u300d\u6e29\u6cc9\u4e0d\u502bVR \u4f9d\u672c\u3057\u304a\u308a",
+    "size": "15.17 GB",
+    "actress": [
+      "\u4f9d\u672c\u3057\u304a\u308a"
+    ],
+    "preview_img_url": "https://pics.dmm.co.jp/digital/video/sivr00400/sivr00400pl.jpg",
+    "sell_date": "2025/03/10",
+    "duration": "73\u5206",
+    "seed_download_link": "magnet:?xt=urn:btih:6f967c5a9371461c99d178dfd3ad33afa6e9289f&dn=sivr00400&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce",
+    "director": [
+      "ZAMPA"
+    ],
+    "maker": [
+      "\u30a8\u30b9\u30ef\u30f3 \u30ca\u30f3\u30d0\u30fc\u30ef\u30f3\u30b9\u30bf\u30a4\u30eb"
+    ],
+    "series": [
+      "S1 VR"
+    ],
+    "label": [
+      "S1 VR"
+    ],
+    "keyword": [
+      "\u30cf\u30a4\u30af\u30aa\u30ea\u30c6\u30a3VR",
+      "\u4e0d\u502b",
+      "\u30c7\u30fc\u30c8",
+      "M\u5973",
+      "\u30a2\u30af\u30e1\u30fb\u30aa\u30fc\u30ac\u30ba\u30e0",
+      "\u72ec\u5360\u914d\u4fe1",
+      "VR\u5c02\u7528",
+      "\u5358\u4f53\u4f5c\u54c1",
+      "8KVR",
+      "\u6e29\u6cc9"
+    ]
+  },
+  {
+    "id": "13dsvr01678",
+    "title": "\u3010VR\u3011\u30108K\u3011\u9006NTR\u3061\u3093\u3057\u3083\u3076\u30bb\u30d5\u30ec \u5f7c\u5973\u304c\u51fa\u6765\u3066\u547c\u3070\u306a\u304f\u306a\u3063\u305f\u30bb\u30d5\u30ec\u3002\u7a81\u7136\u5bb6\u306b\u3084\u3063\u3066\u6765\u3066\u50d5\u306e\u7cbe\u5b50\u3092\u4e00\u6ef4\u6b8b\u3055\u305a\u643e\u308a\u53d6\u308b \u6c99\u6708\u6075\u5948",
+    "size": "14.18 GB",
+    "actress": [
+      "\u6c99\u6708\u6075\u5948"
+    ],
+    "preview_img_url": "https://pics.dmm.co.jp/digital/video/13dsvr01678/13dsvr01678pl.jpg",
+    "sell_date": "2025/03/10",
+    "duration": "85\u5206",
+    "seed_download_link": "magnet:?xt=urn:btih:d3ba08d2f0422ddb6ded00d1f9475bae412da582&dn=dsvr01678&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce",
+    "director": [
+      "\u3044\u3056\u3044\u3056\u304d"
+    ],
+    "maker": [
+      "SOD\u30af\u30ea\u30a8\u30a4\u30c8"
+    ],
+    "series": [],
+    "label": [
+      "SODVR"
+    ],
+    "keyword": [
+      "\u30cf\u30a4\u30af\u30aa\u30ea\u30c6\u30a3VR",
+      "8KVR",
+      "\u5358\u4f53\u4f5c\u54c1",
+      "VR\u5c02\u7528",
+      "\u5973\u5b50\u5927\u751f",
+      "\u9a0e\u4e57\u4f4d",
+      "\u7f8e\u4e73",
+      "\u3054\u3063\u304f\u3093",
+      "\u30d5\u30a7\u30e9"
+    ]
+  },
+  {
+    "id": "13dsvr01674",
+    "title": "\u3010VR\u3011\u30108K\u3011\u30ce\u30fc\u30de\u30eb\u30d7\u30ec\u30a4\u3058\u3083\u6e80\u8db3\u3067\u304d\u306a\u3044\u30c9\u6deb\u4e71\u79d8\u66f8\u3068\u3001\u79d8\u5bc6\u306e\u6027\u7656\u3092\u3076\u3064\u3051\u5408\u3046\u8210\u3081\u3057\u3083\u3076\u308a\u4f53\u6db2\u4ea4\u63db\u4e0d\u502b \u82e5\u5bae\u306f\u305a\u304d",
+    "size": "10.94 GB",
+    "actress": [
+      "\u82e5\u5bae\u306f\u305a\u304d"
+    ],
+    "preview_img_url": "https://pics.dmm.co.jp/digital/video/13dsvr01674/13dsvr01674pl.jpg",
+    "sell_date": "2025/03/10",
+    "duration": "82\u5206",
+    "seed_download_link": "magnet:?xt=urn:btih:276db1403cc05511ddb17926513a1860193b2199&dn=dsvr01674&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce",
+    "director": [
+      "\u732b\u53c8\u3088\u3084"
+    ],
+    "maker": [
+      "SOD\u30af\u30ea\u30a8\u30a4\u30c8"
+    ],
+    "series": [],
+    "label": [
+      "SODVR"
+    ],
+    "keyword": [
+      "\u30cf\u30a4\u30af\u30aa\u30ea\u30c6\u30a3VR",
+      "8KVR",
+      "\u5358\u4f53\u4f5c\u54c1",
+      "VR\u5c02\u7528",
+      "\u653e\u5c3f\u30fb\u304a\u6f0f\u3089\u3057",
+      "\u6f6e\u5439\u304d",
+      "\u98f2\u5c3f",
+      "\u4e0d\u502b",
+      "\u79d8\u66f8"
+    ]
+  },
+  {
+    "id": "mdvr00343",
+    "title": "\u3010VR\u3011\u300c\u7ae5\u8c9e\u72e9\u308a\u306e\u30ab\u30ea\u30f3\u69d8\u300d\u306e\u30bf\u30fc\u30b2\u30c3\u30c8\u306b\u2026\u30cb\u30e4\u30cb\u30e4\u6311\u767a\u7684\u306b\u75f4\u5973\u3089\u308c\u7ae5\u8c9e\u5352\u696d \u304b\u3089\u306e\uff01\u7d76\u502b\u30c1\u25cf\u30dd\u3067\u6065\u305a\u304b\u3057\u3044\u307b\u3069\u30a4\u30ab\u305b\u307e\u304f\u308a\uff01\u30e1\u30ed\u30e1\u30ed\u306b\u304a\u307e\u25cf\u3053\u5feb\u697d\u5815\u3061\u3055\u305b\u3066\u4ffa\u306e\u30aa\u30f3\u30ca\u306b\u3057\u305f\u8a71 \u5854\u4e43\u82b1\u9234",
+    "size": "15.23 GB",
+    "actress": [
+      "\u5854\u4e43\u82b1\u9234"
+    ],
+    "preview_img_url": "https://pics.dmm.co.jp/digital/video/mdvr00343/mdvr00343pl.jpg",
+    "sell_date": "2025/03/09",
+    "duration": "98\u5206",
+    "seed_download_link": "magnet:?xt=urn:btih:cec4b9562b78a3ff018c58bc4ab55c8d2d29c32b&dn=mdvr00343&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce",
+    "director": [
+      "\u3053\u3042\u3089\u592a\u90ce\uff08\u308f\uff09"
+    ],
+    "maker": [
+      "\u30e0\u30fc\u30c7\u30a3\u30fc\u30ba"
+    ],
+    "series": [
+      "MOODYZ 8KVR"
+    ],
+    "label": [
+      "MOODYZ VR"
+    ],
+    "keyword": [
+      "\u30cf\u30a4\u30af\u30aa\u30ea\u30c6\u30a3VR",
+      "\u5de8\u4e73",
+      "\u75f4\u5973",
+      "\u30a2\u30af\u30e1\u30fb\u30aa\u30fc\u30ac\u30ba\u30e0",
+      "\u30ab\u30c3\u30d7\u30eb",
+      "\u72ec\u5360\u914d\u4fe1",
+      "VR\u5c02\u7528",
+      "\u5358\u4f53\u4f5c\u54c1",
+      "8KVR",
+      "\u4e3b\u89b3"
+    ]
+  },
+  {
+    "id": "savr00591",
+    "title": "\u3010VR\u3011\u300c\u305d\u3093\u306a\u58f0\u51fa\u3057\u305f\u3089\u2026\u5965\u3055\u3093\u8d77\u304d\u306f\u308a\u307e\u3059\u3088\uff1f\u300d\u592b\u5a66\u65c5\u884c\u5148\u3067\u306e\u307e\u3055\u304b\u306e\u51fa\u6765\u4e8b \u81f3\u8fd1\u8ddd\u96e2\u3067\u95a2\u897f\u5f01\u3055\u3055\u3084\u304d\u8a98\u60d1\u3092\u3059\u308b\u9b54\u6027\u306e\u5de8\u4e73\u30a8\u30b9\u30c6\u30c6\u30a3\u30b7\u30e3\u30f3\u306b\u30dc\u30af\u306f\u8ca0\u3051\u3001\u59bb\u306e\u96a3\u3067\u4e0d\u502bSEX\u3057\u3066\u3057\u307e\u3063\u305f\u3002 \u82a6\u540d\u307b\u306e\u304b",
+    "size": "9.80 GB",
+    "actress": [
+      "\u82a6\u540d\u307b\u306e\u304b"
+    ],
+    "preview_img_url": "https://pics.dmm.co.jp/digital/video/savr00591/savr00591pl.jpg",
+    "sell_date": "2025/03/09",
+    "duration": "90\u5206",
+    "seed_download_link": "magnet:?xt=urn:btih:b891a9ade0e91adf1eb4cb44ed845d820e6aaf1d&dn=savr00591&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce",
+    "director": [
+      "MUNPEE"
+    ],
+    "maker": [
+      "KMPVR-\u5f69-"
+    ],
+    "series": [],
+    "label": [
+      "KMPVR-\u5f69-"
+    ],
+    "keyword": [
+      "\u30cf\u30a4\u30af\u30aa\u30ea\u30c6\u30a3VR",
+      "\u5358\u4f53\u4f5c\u54c1",
+      "VR\u5c02\u7528",
+      "\u72ec\u5360\u914d\u4fe1",
+      "8KVR",
+      "\u30a8\u30b9\u30c6",
+      "\u5de8\u4e73",
+      "\u75f4\u5973",
+      "\u30ed\u30fc\u30b7\u30e7\u30f3\u30fb\u30aa\u30a4\u30eb"
+    ]
+  },
+  {
+    "id": "vrkm01518",
+    "title": "\u3010VR\u3011\u5927\u597d\u304d\u306a\u5f7c\u5973\u3068\u666e\u901a\u306e\u30bb\u30c3\u30af\u30b9 \u6625\u967d\u30e2\u30ab",
+    "size": "8.60 GB",
+    "actress": [
+      "\u6625\u967d\u30e2\u30ab"
+    ],
+    "preview_img_url": "https://pics.dmm.co.jp/digital/video/vrkm01518/vrkm01518pl.jpg",
+    "sell_date": "2025/03/08",
+    "duration": "77\u5206",
+    "seed_download_link": "magnet:?xt=urn:btih:600e0300673da3fab14133810a1b26f3c01bb6aa&dn=vrkm01518&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce",
+    "director": [
+      "\u5bae\u8feb\u30e1\u30f3\u30d0\u30fc"
+    ],
+    "maker": [
+      "\u30b1\u30a4\u30fb\u30a8\u30e0\u30fb\u30d7\u30ed\u30c7\u30e5\u30fc\u30b9"
+    ],
+    "series": [],
+    "label": [
+      "KMPVR"
+    ],
+    "keyword": [
+      "\u30cf\u30a4\u30af\u30aa\u30ea\u30c6\u30a3VR",
+      "8KVR",
+      "\u5358\u4f53\u4f5c\u54c1",
+      "VR\u5c02\u7528",
+      "\u4e2d\u51fa\u3057",
+      "\u9a0e\u4e57\u4f4d",
+      "\u7f8e\u4e73",
+      "\u4e3b\u89b3"
+    ]
+  },
+  {
+    "id": "savr00585",
+    "title": "\u3010VR\u3011\u8ddd\u96e2\u611f\u304c\u8fd1\u3059\u304e\u308b\u9ad8\u7d1a\u30e9\u30a6\u30f3\u30b8\u5b22 \u9154\u3046\u3068\u3059\u3050\u306b\u5507\u3092\u91cd\u306d\u3066\u304f\u308b\u5f7c\u5973\u3068VIP\u30eb\u30fc\u30e0\u3067\u307b\u308d\u9154\u3044\u7d76\u9802\u30ca\u30de\u6027\u4ea4 \u85cd\u82bd\u307f\u305a\u304d",
+    "size": "11.81 GB",
+    "actress": [
+      "\u85cd\u82bd\u307f\u305a\u304d"
+    ],
+    "preview_img_url": "https://pics.dmm.co.jp/digital/video/savr00585/savr00585pl.jpg",
+    "sell_date": "2025/03/08",
+    "duration": "77\u5206",
+    "seed_download_link": "magnet:?xt=urn:btih:d16f4b5acb9a63a6d8329b3e5f92215af2037e03&dn=savr00585&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce",
+    "director": [
+      "\u30cf\u30e1\u30e9\u30cb\u30a2\u30f3\u4eac\u90fd"
+    ],
+    "maker": [
+      "KMPVR-\u5f69-"
+    ],
+    "series": [],
+    "label": [
+      "KMPVR-\u5f69-"
+    ],
+    "keyword": [
+      "\u30cf\u30a4\u30af\u30aa\u30ea\u30c6\u30a3VR",
+      "\u30ad\u30e3\u30d0\u5b22\u30fb\u98a8\u4fd7\u5b22",
+      "\u30b9\u30ec\u30f3\u30c0\u30fc",
+      "\u9a0e\u4e57\u4f4d",
+      "\u4e2d\u51fa\u3057",
+      "\u72ec\u5360\u914d\u4fe1",
+      "VR\u5c02\u7528",
+      "\u5358\u4f53\u4f5c\u54c1",
+      "8KVR",
+      "\u304a\u59c9\u3055\u3093"
+    ]
+  },
+  {
+    "id": "savr00580",
+    "title": "\u3010VR\u3011\u3069\u30b9\u30b1\u30d9\u65b9\u8a00\u8133\u30a4\u30ad\u62d8\u675f \u3069\u6deb\u4e71\u306a\u56c1\u304d\u3067\u6027\u30da\u30c3\u30c8\u306a\u30dc\u30af\u3092\u4f55\u5ea6\u3082\u5c04\u7cbe\u306b\u5c0e\u304f\u5317\u4e5d\u5dde\u306e\u30bb\u30d5\u30ec\u5e7c\u99b4\u67d3 \u5f25\u751f\u307f\u3065\u304d",
+    "size": "9.62 GB",
+    "actress": [
+      "\u5f25\u751f\u307f\u3065\u304d"
+    ],
+    "preview_img_url": "https://pics.dmm.co.jp/digital/video/savr00580/savr00580pl.jpg",
+    "sell_date": "2025/03/07",
+    "duration": "84\u5206",
+    "seed_download_link": "magnet:?xt=urn:btih:c176e677cfd4c4b22509a21ee37a2e8d9aa8367c&dn=savr00580&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce",
+    "director": [
+      "\u52d5\u7dda\u6f70\u3057"
+    ],
+    "maker": [
+      "KMPVR-\u5f69-"
+    ],
+    "series": [],
+    "label": [
+      "KMPVR-\u5f69-"
+    ],
+    "keyword": [
+      "\u30cf\u30a4\u30af\u30aa\u30ea\u30c6\u30a3VR",
+      "\u5de8\u4e73",
+      "\u6deb\u8a9e",
+      "\u4e2d\u51fa\u3057",
+      "\u5de8\u5c3b",
+      "\u72ec\u5360\u914d\u4fe1",
+      "VR\u5c02\u7528",
+      "\u5358\u4f53\u4f5c\u54c1",
+      "8KVR",
+      "\u75f4\u5973"
+    ]
+  },
+  {
+    "id": "sivr00395",
+    "title": "\u3010VR\u3011\u5acc\u304c\u308bmiru\uff08\u5f7c\u5973\uff09\u3092\u53e3\u8aac\u3044\u30663P\u3057\u305f\u3089\u4ed6\u4eba\u68d2\u3067\u5ac9\u59ac\u3059\u308b\u307b\u3069\u5b99\u306b\u6d6e\u3044\u3066\u4ef0\u3051\u53cd\u308a\u30aa\u30fc\u30ac\u30ba\u30e0 \u6094\u3057\u3044\u2026\u80f8\u7cde\u60aa\u3044\u2026miru\u3092\u596a\u308f\u308c\u305f\u304f\u306a\u3044\uff01\u52a3\u7b49\u611f\u3092\u611b\u3067\u30ab\u30d0\u30fc\u3059\u308b\u8d77\u6b7b\u56de\u751f\u3044\u3061\u3083\u30e9\u30d6SEX",
+    "size": "23.11 GB",
+    "actress": [
+      "miru"
+    ],
+    "preview_img_url": "https://pics.dmm.co.jp/digital/video/sivr00395/sivr00395pl.jpg",
+    "sell_date": "2025/03/06",
+    "duration": "104\u5206",
+    "seed_download_link": "magnet:?xt=urn:btih:6dc4a79deb054179f27bc9d183a6bfe6844da01d&dn=sivr00395&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce",
+    "director": [
+      "\u3053\u3042\u3089\u592a\u90ce\uff08\u308f\uff09"
+    ],
+    "maker": [
+      "\u30a8\u30b9\u30ef\u30f3 \u30ca\u30f3\u30d0\u30fc\u30ef\u30f3\u30b9\u30bf\u30a4\u30eb"
+    ],
+    "series": [
+      "S1 VR"
+    ],
+    "label": [
+      "S1 VR"
+    ],
+    "keyword": [
+      "\u30cf\u30a4\u30af\u30aa\u30ea\u30c6\u30a3VR",
+      "\u5bdd\u53d6\u308a\u30fb\u5bdd\u53d6\u3089\u308c\u30fbNTR",
+      "\u30ad\u30b9\u30fb\u63a5\u543b",
+      "\u30a2\u30af\u30e1\u30fb\u30aa\u30fc\u30ac\u30ba\u30e0",
+      "\u4e3b\u89b3",
+      "\u72ec\u5360\u914d\u4fe1",
+      "VR\u5c02\u7528",
+      "\u5358\u4f53\u4f5c\u54c1",
+      "8KVR",
+      "3P\u30fb4P"
+    ]
+  },
+  {
+    "id": "pxvr00252",
+    "title": "\u3010VR\u3011\u4ffa\u306e\u3053\u3068\u304c\u597d\u304d\u3059\u304e\u308b\u7b11\u9854\u6e80\u70b9\u306e\u5f7c\u5973\u3068\u30a4\u30c1\u30e3\u30e9\u30d6\u5168\u958b\u5b8c\u5168\u53d7\u8eab\u306e\u4e2d\u51fa\u3057SEX \u5bae\u897f\u3072\u304b\u308b\u30108K\u3011",
+    "size": "13.29 GB",
+    "actress": [
+      "\u5bae\u897f\u3072\u304b\u308b"
+    ],
+    "preview_img_url": "https://pics.dmm.co.jp/digital/video/pxvr00252/pxvr00252pl.jpg",
+    "sell_date": "2025/03/05",
+    "duration": "68\u5206",
+    "seed_download_link": "magnet:?xt=urn:btih:2210735a28f43be57c1f6e77836fb46047ed1f7c&dn=pxvr00252&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce",
+    "director": [
+      "\u3053\u3042\u3089\u592a\u90ce\uff08\u308f\uff09"
+    ],
+    "maker": [
+      "P-BOX VR"
+    ],
+    "series": [
+      "\u30a4\u30c1\u30e3\u30e9\u30d6\u5168\u958b\u5b8c\u5168\u53d7\u8eab"
+    ],
+    "label": [
+      "P-BOX VR"
+    ],
+    "keyword": [
+      "\u30cf\u30a4\u30af\u30aa\u30ea\u30c6\u30a3VR",
+      "\u9a0e\u4e57\u4f4d",
+      "\u75f4\u5973",
+      "\u30d5\u30a7\u30e9",
+      "\u4e2d\u51fa\u3057",
+      "\u72ec\u5360\u914d\u4fe1",
+      "VR\u5c02\u7528",
+      "\u5358\u4f53\u4f5c\u54c1",
+      "8KVR",
+      "\u7f8e\u5c11\u5973"
+    ]
+  },
+  {
+    "id": "kiwvr00749",
+    "title": "\u3010VR\u3011\u300c\u3082\u3046\u6211\u6162\u3067\u304d\u306a\u3044\uff01\u3044\u307e\u3059\u3050\u3053\u3053\u3067\u633f\u308c\u3066\u25c6\u30a8\u30c3\u30c1\u3057\u3088\u300d\u5909\u614b\u5f7c\u5973\u304c\u30e0\u30e9\u30e0\u30e9\u8a98\u60d1\u2026\u516c\u8846\u7537\u5b50\u30c8\u30a4\u30ec\u3067\u7d76\u53eb\u30a4\u30adSEX \u690e\u540d\u5fc3\u6625",
+    "size": "13.35 GB",
+    "actress": [
+      "\u690e\u540d\u5fc3\u6625"
+    ],
+    "preview_img_url": "https://pics.dmm.co.jp/digital/video/kiwvr00749/kiwvr00749pl.jpg",
+    "sell_date": "2025/03/04",
+    "duration": "78\u5206",
+    "seed_download_link": "magnet:?xt=urn:btih:d605e38f1b652dc48b1013d71a2cd8b1e1ffd160&dn=kiwvr00749&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce",
+    "director": [
+      "\u5927\u5d0e\u5e83\u6d69\u6cbb"
+    ],
+    "maker": [
+      "\u3053\u3042\u3089VR"
+    ],
+    "series": [
+      "\u30e0\u30e9\u30e0\u30e9\u5f7c\u5973\u3068\u516c\u8846\u30c8\u30a4\u30ecSEX"
+    ],
+    "label": [
+      "\u6975\u30b0\u30eb\u30fc\u30d7"
+    ],
+    "keyword": [
+      "\u30cf\u30a4\u30af\u30aa\u30ea\u30c6\u30a3VR",
+      "\u75f4\u5973",
+      "\u30a2\u30af\u30e1\u30fb\u30aa\u30fc\u30ac\u30ba\u30e0",
+      "\u30d1\u30a4\u30ba\u30ea",
+      "\u4e2d\u51fa\u3057",
+      "\u9854\u5c04",
+      "\u72ec\u5360\u914d\u4fe1",
+      "VR\u5c02\u7528",
+      "\u5358\u4f53\u4f5c\u54c1",
+      "\u5de8\u4e73"
+    ]
+  },
+  {
+    "id": "mdvr00342",
+    "title": "\u3010VR\u3011\u4f55\u5ea6\u8ee2\u751f\u3092\u7e70\u308a\u8fd4\u3057\u3066\u3082\u516b\u6728\u5948\u3005\u306b\u6065\u3058\u3089\u3044\u306a\u304c\u3089\u544a\u767d\u3055\u308c\u3066\u8d85\u30a4\u30c1\u30e3\u30a4\u30c1\u30e3\u604b\u4eba\u30a8\u30c3\u30c1\u3067\u304d\u3061\u3083\u30464\u3064\u306e\u4e16\u754c\u7dda2SEX\uff01146\u5206\uff01\uff01",
+    "size": "28.62 GB",
+    "actress": [
+      "\u516b\u6728\u5948\u3005"
+    ],
+    "preview_img_url": "https://pics.dmm.co.jp/digital/video/mdvr00342/mdvr00342pl.jpg",
+    "sell_date": "2025/03/03",
+    "duration": "146\u5206",
+    "seed_download_link": "magnet:?xt=urn:btih:e3538d3f6faa7bd55962b9c4d696251ed327bdd6&dn=mdvr00342&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce",
+    "director": [
+      "ZAMPA"
+    ],
+    "maker": [
+      "\u30e0\u30fc\u30c7\u30a3\u30fc\u30ba"
+    ],
+    "series": [
+      "MOODYZ 8KVR"
+    ],
+    "label": [
+      "MOODYZ VR"
+    ],
+    "keyword": [
+      "\u30cf\u30a4\u30af\u30aa\u30ea\u30c6\u30a3VR",
+      "\u7f8e\u5c11\u5973",
+      "\u30d5\u30a7\u30e9",
+      "\u9a0e\u4e57\u4f4d",
+      "\u4e3b\u89b3",
+      "\u72ec\u5360\u914d\u4fe1",
+      "VR\u5c02\u7528",
+      "\u5358\u4f53\u4f5c\u54c1",
+      "8KVR",
+      "\u30ab\u30c3\u30d7\u30eb"
+    ]
+  },
+  {
+    "id": "13dsvr01701",
+    "title": "\u3010VR\u3011\u30108K\u3011\u3010VR\u3011\uff08\u8d85\u30ea\u30a2\u30eb\u4f53\u9a13\uff09\u30d0\u30b9\u30b8\u30e3\u30c3\u30afVR \u203b\u88ab\u5bb3\u80057\u540d\u5973\u5b50\u25cf\u751f \u30b9\u30af\u30fc\u30eb\u30d0\u30b9\u3067\u3001\u672a\u6210\u719f\u304a\u30de\u30f3\u30b3\u3092\u597d\u304d\u52dd\u624b\u306b\u72af\u3057\u307e\u304f\u308aSPECIAL",
+    "size": "34.18 GB",
+    "actress": [],
+    "preview_img_url": "https://pics.dmm.co.jp/digital/video/13dsvr01701/13dsvr01701pl.jpg",
+    "sell_date": "2025/03/03",
+    "duration": "157\u5206",
+    "seed_download_link": "magnet:?xt=urn:btih:4bc8069325bfd78d8a758e8a3effa7833b9fa6d9&dn=dsvr01701&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce",
+    "director": [
+      "\u77e2\u6fa4\u30ec\u30b7\u30fc\u30d6"
+    ],
+    "maker": [
+      "SOD\u30af\u30ea\u30a8\u30a4\u30c8"
+    ],
+    "series": [],
+    "label": [
+      "SODVR"
+    ],
+    "keyword": [
+      "\u30cf\u30a4\u30af\u30aa\u30ea\u30c6\u30a3VR",
+      "8KVR",
+      "VR\u5c02\u7528",
+      "\u30df\u30cb\u7cfb",
+      "\u7f8e\u5c11\u5973",
+      "\u5236\u670d"
+    ]
+  },
+  {
+    "id": "sivr00398",
+    "title": "\u3010VR\u3011\u300c\u30bb\u30f3\u30d1\u30a4\u306b\u5f7c\u5973\u3067\u304d\u305f\u306a\u3093\u3066\u8a31\u3057\u307e\u305b\u3093\u3063\uff01\u300d\u5ac9\u59ac\u3057\u305f\u30d0\u30a4\u30c8\u5148\u306e\u3042\u3056\u3068\u30ab\u30ef\u30a4\u30a4\u5f8c\u8f29\u304c\u5f7c\u5973\u51fa\u6765\u305f\u3066\u306e\u50d5\u3092\u9154\u308f\u305b\u3066\u9006NTR\u3092\u3057\u304b\u3051\u3066\u304d\u305f\uff01\uff01 \u5ddd\u8d8a\u306b\u3053",
+    "size": "21.94 GB",
+    "actress": [
+      "\u5ddd\u8d8a\u306b\u3053"
+    ],
+    "preview_img_url": "https://pics.dmm.co.jp/digital/video/sivr00398/sivr00398pl.jpg",
+    "sell_date": "2025/03/02",
+    "duration": "107\u5206",
+    "seed_download_link": "magnet:?xt=urn:btih:53403f7eb6bae2689fb9f7b30ad136fd169e801f&dn=sivr00398&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce",
+    "director": [
+      "\u3053\u3042\u3089\u592a\u90ce\uff08\u308f\uff09"
+    ],
+    "maker": [
+      "\u30a8\u30b9\u30ef\u30f3 \u30ca\u30f3\u30d0\u30fc\u30ef\u30f3\u30b9\u30bf\u30a4\u30eb"
+    ],
+    "series": [
+      "S1 VR"
+    ],
+    "label": [
+      "S1 VR"
+    ],
+    "keyword": [
+      "\u30cf\u30a4\u30af\u30aa\u30ea\u30c6\u30a3VR",
+      "\u30a4\u30bf\u30ba\u30e9",
+      "\u4e3b\u89b3",
+      "\u7f8e\u5c11\u5973",
+      "\u9a0e\u4e57\u4f4d",
+      "\u72ec\u5360\u914d\u4fe1",
+      "VR\u5c02\u7528",
+      "\u5358\u4f53\u4f5c\u54c1",
+      "8KVR",
+      "\u5bdd\u53d6\u308a\u30fb\u5bdd\u53d6\u3089\u308c\u30fbNTR"
+    ]
+  },
+  {
+    "id": "savr00583",
+    "title": "\u3010VR\u3011\u5148\u8f29\u306e\u4ed8\u304d\u6dfb\u3044\u3067\u5acc\u3005\u8a2a\u308c\u305f\u30ae\u30e3\u30eb\u5c02\u9580\u30d8\u30eb\u30b9\u3067\u5927\u5f53\u305f\u308a\uff01\uff01\u6700\u30db\u30b9\u30d4\u30bf\u30ea\u30c6\u30a3\uff06\u6700\u30ab\u30ef\u5b22\u306e\u5834\u6240\u3092\u9078\u3070\u306a\u3044\u5bc6\u7740\u30b5\u30fc\u30d3\u30b9\u306b\u3001\u6700\u5f8c\u307e\u3067\u52c3\u8d77\u304c\u6b62\u307e\u308a\u307e\u305b\u3093\u3067\u3057\u305f\u3002",
+    "size": "9.88 GB",
+    "actress": [],
+    "preview_img_url": "https://pics.dmm.co.jp/digital/video/savr00583/savr00583pl.jpg",
+    "sell_date": "2025/03/02",
+    "duration": "72\u5206",
+    "seed_download_link": "magnet:?xt=urn:btih:c5dff4d4f33e0103756d7495a195f3b21a9be028&dn=savr00583&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce",
+    "director": [
+      "\u5473\u564c\u716eKOMI"
+    ],
+    "maker": [
+      "KMPVR-\u5f69-"
+    ],
+    "series": [],
+    "label": [
+      "KMPVR-\u5f69-"
+    ],
+    "keyword": [
+      "\u30cf\u30a4\u30af\u30aa\u30ea\u30c6\u30a3VR",
+      "8KVR",
+      "VR\u5c02\u7528",
+      "\u72ec\u5360\u914d\u4fe1",
+      "\u7f8e\u4e73",
+      "\u30ad\u30e3\u30d0\u5b22\u30fb\u98a8\u4fd7\u5b22",
+      "\u7f8e\u5c11\u5973",
+      "\u4e2d\u51fa\u3057",
+      "\u4e3b\u89b3"
+    ]
+  },
+  {
+    "id": "maxvr00150",
+    "title": "\u3010VR\u3011\u8d85\u30d1\u30ef\u30cf\u30e9\uff01\u30d7\u30e9\u30a4\u30c9\u306e\u9ad8\u3044\u4e0b\u7740\u30c7\u30b6\u30a4\u30ca\u30fc\u3092\u8105\u3057\u7d9a\u3051\u308b\u5c48\u8fb1SEX \u53cb\u7530\u5f69\u4e5f\u9999",
+    "size": "18.25 GB",
+    "actress": [
+      "\u53cb\u7530\u5f69\u4e5f\u9999"
+    ],
+    "preview_img_url": "https://pics.dmm.co.jp/digital/video/maxvr00150/maxvr00150pl.jpg",
+    "sell_date": "2025/03/01",
+    "duration": "94\u5206",
+    "seed_download_link": "magnet:?xt=urn:btih:9ee90330e0d6d67c926f016042d82831e8709763&dn=maxvr00150&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce",
+    "director": [
+      "\u30e2\u30f3\u30c1\u30e3\u30c3\u30af"
+    ],
+    "maker": [
+      "\u30de\u30c3\u30af\u30b9\u30a8\u30fc"
+    ],
+    "series": [
+      "MAX-A8KVR \u30d7\u30e9\u30a4\u30c9\u306e\u9ad8\u3044\u30ad\u30e3\u30ea\u5973"
+    ],
+    "label": [
+      "MAX-AVR"
+    ],
+    "keyword": [
+      "\u30cf\u30a4\u30af\u30aa\u30ea\u30c6\u30a3VR",
+      "\u30bb\u30ec\u30d6",
+      "OL",
+      "\u7f75\u5012",
+      "\u30a4\u30e9\u30de\u30c1\u30aa",
+      "\u653e\u5c3f\u30fb\u304a\u6f0f\u3089\u3057",
+      "\u30aa\u30ca\u30cb\u30fc",
+      "\u6f6e\u5439\u304d",
+      "\u4e2d\u51fa\u3057",
+      "\u5c40\u90e8\u30a2\u30c3\u30d7",
+      "8KVR",
+      "\u72ec\u5360\u914d\u4fe1",
+      "VR\u5c02\u7528",
+      "\u5358\u4f53\u4f5c\u54c1"
+    ]
+  },
+  {
+    "id": "55tmavr00238",
+    "title": "\u3010VR\u3011\u4e00\u4eba\u66ae\u3089\u3057\u3092\u59cb\u3081\u305f\u50d5\u306e\u90e8\u5c4b\u3078\u901a\u3046\u6bcd\u89aa\u7b46\u304a\u308d\u3057\u6fc3\u5bc6\u6027\u4ea4 \u8475\u767e\u5408\u9999\u30fb\u6ce2\u591a\u91ce\u7d50\u8863\u30fb\u771f\u6728\u4eca\u65e5\u5b50",
+    "size": "27.00 GB",
+    "actress": [
+      "\u8475\u767e\u5408\u9999",
+      "\u6ce2\u591a\u91ce\u7d50\u8863",
+      "\u771f\u6728\u4eca\u65e5\u5b50"
+    ],
+    "preview_img_url": "https://pics.dmm.co.jp/digital/video/55tmavr00238/55tmavr00238pl.jpg",
+    "sell_date": "2025/03/01",
+    "duration": "179\u5206",
+    "seed_download_link": "magnet:?xt=urn:btih:9cc6dc474fb087e9ddbbb1a5fa9ebadcaef4e5c6&dn=tmavr00238&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce",
+    "director": [],
+    "maker": [
+      "TMA"
+    ],
+    "series": [
+      "\u4e00\u4eba\u66ae\u3089\u3057\u3092\u59cb\u3081\u305f\u50d5\u306e\u90e8\u5c4b\u3078\u901a\u3046\u6bcd"
+    ],
+    "label": [
+      "TMAVR"
+    ],
+    "keyword": [
+      "\u30cf\u30a4\u30af\u30aa\u30ea\u30c6\u30a3VR",
+      "8KVR",
+      "VR\u5c02\u7528",
+      "\u30d5\u30a7\u30e9",
+      "\u8fd1\u89aa\u76f8\u59e6",
+      "\u4e2d\u51fa\u3057",
+      "\u5de8\u4e73"
+    ]
+  },
+  {
+    "id": "savr00573",
+    "title": "\u3010VR\u3011\u3042\u306a\u305f\u306e\u3053\u3068\u2026\u63a8\u3057\u3067\u3059\u3002\u5927\u5b66\u4e00\u306e\u9ad8\u5dba\u306e\u82b1\u306b\u8a00\u3044\u5bc4\u3089\u308c\u3001\u9762\u767d\u534a\u5206\u3067\u30bb\u30d5\u30ec\u306b\u3057\u305f\u3082\u306e\u306e\u2026\u3002\u597d\u304d\u304c\u6ea2\u308c\u7d9a\u3051\u308b\u2019\u3060\u3044\u3057\u3085\u304d\u30ad\u30b9\u2019\u306b\u60f3\u3044\u304c\u9006\u8ee2\u3057\u305f\u304b\u3082\u3057\u308c\u307e\u305b\u3093\u3002\u9cf3\u307f\u3086",
+    "size": "10.00 GB",
+    "actress": [
+      "\u9cf3\u307f\u3086"
+    ],
+    "preview_img_url": "https://pics.dmm.co.jp/digital/video/savr00573/savr00573pl.jpg",
+    "sell_date": "2025/02/28",
+    "duration": "74\u5206",
+    "seed_download_link": "magnet:?xt=urn:btih:8d884548bceb6df599e4526f34ef3f6920b87023&dn=savr00573&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce",
+    "director": [
+      "\u5473\u564c\u716eKOMI"
+    ],
+    "maker": [
+      "KMPVR-\u5f69-"
+    ],
+    "series": [],
+    "label": [
+      "KMPVR-\u5f69-"
+    ],
+    "keyword": [
+      "\u30cf\u30a4\u30af\u30aa\u30ea\u30c6\u30a3VR",
+      "\u5358\u4f53\u4f5c\u54c1",
+      "\u4e3b\u89b3",
+      "\u4e2d\u51fa\u3057",
+      "\u30ad\u30b9\u30fb\u63a5\u543b",
+      "\u7f8e\u5c11\u5973",
+      "\u7f8e\u4e73",
+      "\u72ec\u5360\u914d\u4fe1",
+      "8KVR",
+      "VR\u5c02\u7528"
+    ]
+  },
+  {
+    "id": "mdvr00339",
+    "title": "\u3010VR\u3011\u30a6\u30c1\u304cSEX\u4e0a\u624b\u304f\u306a\u308b\u3088\u3046\u306b\u6cbb\u7642\u3057\u3066\u30a2\u30b2\u30eb \u7f8e\u5973\u30ca\u30fc\u30b9\u306eHowTo\u4e2d\u51fa\u3057\u30bb\u30c3\u30af\u30b9\u3067\u30c1\u30f3\u30ddlevel100\u306b\u306a\u3089\u306a\u3044\u3068\u9000\u9662\u3067\u304d\u306a\u3044\u75c5\u9662 \u30de\u30f3\u30c4\u30fc\u30de\u30f3\u306e\u30cc\u30b1\u3066\u5b66\u3079\u308b\u4e2d\u51fa\u30572SEX\u6cbb\u7642\uff015\u30c1\u30e3\u30d7\u30bf\u30fc135\u5206\uff01 \u77f3\u539f\u5e0c\u671b",
+    "size": "27.74 GB",
+    "actress": [
+      "\u77f3\u539f\u5e0c\u671b"
+    ],
+    "preview_img_url": "https://pics.dmm.co.jp/digital/video/mdvr00339/mdvr00339pl.jpg",
+    "sell_date": "2025/02/27",
+    "duration": "135\u5206",
+    "seed_download_link": "magnet:?xt=urn:btih:4c13cb2ad6b696fb368ecd614b85a25c3cb8bea7&dn=mdvr00339&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce",
+    "director": [
+      "\u3053\u3042\u3089\u592a\u90ce\uff08\u308f\uff09"
+    ],
+    "maker": [
+      "\u30e0\u30fc\u30c7\u30a3\u30fc\u30ba"
+    ],
+    "series": [],
+    "label": [
+      "MOODYZ VR"
+    ],
+    "keyword": [
+      "\u30cf\u30a4\u30af\u30aa\u30ea\u30c6\u30a3VR",
+      "\u4e2d\u51fa\u3057",
+      "\u770b\u8b77\u5a66\u30fb\u30ca\u30fc\u30b9",
+      "\u9a0e\u4e57\u4f4d",
+      "\u624b\u30b3\u30ad",
+      "\u72ec\u5360\u914d\u4fe1",
+      "VR\u5c02\u7528",
+      "\u5358\u4f53\u4f5c\u54c1",
+      "8KVR",
+      "How To"
+    ]
+  },
+  {
+    "id": "sivr00397",
+    "title": "\u3010VR\u3011VR NO.1 STYLE \u7cf8\u4e95\u7460\u82b1 \u89e3\u7981 \u300cAV\u5973\u512a\u306b\u306a\u3063\u305f\u306e\u3067\u3001\u30a8\u30c3\u30c1\u731b\u52c9\u5f37\u3057\u307e\u3057\u305f\u2026\u3044\u3063\u3071\u3044\u3054\u5949\u4ed5\u3059\u308b\u306e\u3067\u7460\u82b1\u3068\u9752\u6625\u3001\u4e00\u7dd2\u306b\u53d6\u308a\u623b\u3057\u3066\u304f\u308c\u307e\u305b\u3093\u304b\uff1f\u300d\u8ce2\u304f\u3066\u3001\u3069\u3059\u3051\u3079\u3067\u3001\u30a8\u30ed\u3044\u4f53\u306e\u30dc\u30fc\u30a4\u30c3\u30b7\u30e5\u6559\u80b2\u5b9f\u7fd2\u751f",
+    "size": "14.02 GB",
+    "actress": [
+      "\u7cf8\u4e95\u7460\u82b1"
+    ],
+    "preview_img_url": "https://pics.dmm.co.jp/digital/video/sivr00397/sivr00397pl.jpg",
+    "sell_date": "2025/02/26",
+    "duration": "67\u5206",
+    "seed_download_link": "magnet:?xt=urn:btih:a2d79038704f143d17bdd7b2054e0d05abc258af&dn=sivr00397&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce",
+    "director": [
+      "ZAMPA"
+    ],
+    "maker": [
+      "\u30a8\u30b9\u30ef\u30f3 \u30ca\u30f3\u30d0\u30fc\u30ef\u30f3\u30b9\u30bf\u30a4\u30eb"
+    ],
+    "series": [
+      "S1 VR"
+    ],
+    "label": [
+      "S1 VR"
+    ],
+    "keyword": [
+      "\u30cf\u30a4\u30af\u30aa\u30ea\u30c6\u30a3VR",
+      "\u30b9\u30ec\u30f3\u30c0\u30fc",
+      "\u9a0e\u4e57\u4f4d",
+      "\u30ad\u30b9\u30fb\u63a5\u543b",
+      "\u4e3b\u89b3",
+      "\u72ec\u5360\u914d\u4fe1",
+      "VR\u5c02\u7528",
+      "\u5358\u4f53\u4f5c\u54c1",
+      "8KVR",
+      "\u7f8e\u5c11\u5973"
+    ]
+  },
+  {
+    "id": "mevr00009",
+    "title": "\u3010VR\u3011\u300c\u30ef\u30bf\u30b7\u306b\u8cac\u3081\u3089\u308c\u3066\u611f\u3058\u3066\u3044\u308b\u304b\u308f\u3044\u3044\u30a2\u30ca\u30bf\u3092\u3044\u3063\u3071\u3044\u898b\u305b\u3066\u2026\u300d \u5922\u5b9f\u304b\u306a\u3048\u521dVR \u6700\u9ad8\u306b\u30a4\u30a4\u30aa\u30f3\u30ca\u306e\u6700\u5f37\u75f4\u5973\u30d1\u30d5\u30a98K SPECIAL\uff01\u6deb\u8a9e\u00d7\u5bf8\u6b62\u3081\u00d7\u5c04\u7cbe\u7ba1\u7406\uff01\uff01",
+    "size": "34.70 GB",
+    "actress": [
+      "\u5922\u5b9f\u304b\u306a\u3048"
+    ],
+    "preview_img_url": "https://pics.dmm.co.jp/digital/video/mevr00009/mevr00009pl.jpg",
+    "sell_date": "2025/02/25",
+    "duration": "164\u5206",
+    "seed_download_link": "magnet:?xt=urn:btih:9b18a75a96afe331508d83054dff1e3b2ecc0d86&dn=mevr00009&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce",
+    "director": [
+      "\u77e2\u6fa4\u30ec\u30b7\u30fc\u30d6"
+    ],
+    "maker": [
+      "\u6e9c\u6c60\u30b4\u30ed\u30fc"
+    ],
+    "series": [],
+    "label": [
+      "\u6e9c\u6c60\u30b4\u30ed\u30fcVR"
+    ],
+    "keyword": [
+      "\u30cf\u30a4\u30af\u30aa\u30ea\u30c6\u30a3VR",
+      "\u4eba\u59bb\u30fb\u4e3b\u5a66",
+      "\u4e2d\u51fa\u3057",
+      "\u75f4\u5973",
+      "\u6deb\u8a9e",
+      "\u72ec\u5360\u914d\u4fe1",
+      "VR\u5c02\u7528",
+      "\u5358\u4f53\u4f5c\u54c1",
+      "8KVR",
+      "\u719f\u5973"
+    ]
+  },
+  {
+    "id": "kavr00403",
+    "title": "\u3010VR\u3011\u5f7c\u6c0f\u306b\u632f\u3089\u308c\u305f\u5bc2\u3057\u304c\u308a\u306e\u5148\u8f292\u4eba\u306b\u983c\u307e\u308c\u540c\u5c45\u2026\u5bb6\u4e8b\u3068\u5f15\u304d\u63db\u3048\u306b\u9694\u65e5\u304a\u304d\u306b\u304a\u3063\u3071\u3044\uff06\u304a\u5c3b\u30c6\u30ec\u30b3\u4f5c\u6226\u3067\u30aa\u30ca\u30cb\u30fc\u30b5\u30dd\u30fc\u30c8\u3057\u3066\u304f\u308c\u308b\u59732:\u75371 \u8ab0\u3082\u304c\u7fa8\u3080\u3048\u3061\u3048\u3061\u30b7\u30a7\u30a2\u30cf\u30a6\u30b9\u6027\u6d3b \u5c71\u5cb8\u3042\u3084\u82b1 \u4f0a\u85e4\u821e\u96ea",
+    "size": "30.87 GB",
+    "actress": [
+      "\u5c71\u5cb8\u3042\u3084\u82b1\uff08\u5c71\u5cb8\u9022\u82b1\uff09",
+      "\u4f0a\u85e4\u821e\u96ea"
+    ],
+    "preview_img_url": "https://pics.dmm.co.jp/digital/video/kavr00403/kavr00403pl.jpg",
+    "sell_date": "2025/02/24",
+    "duration": "149\u5206",
+    "seed_download_link": "magnet:?xt=urn:btih:d26d1aa4b753b3389f27470de22aaa1d94470122&dn=kavr00403&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce",
+    "director": [
+      "ZAMPA"
+    ],
+    "maker": [
+      "kawaii"
+    ],
+    "series": [
+      "kawaii*VR"
+    ],
+    "label": [
+      "kawaii* VR"
+    ],
+    "keyword": [
+      "\u30cf\u30a4\u30af\u30aa\u30ea\u30c6\u30a3VR",
+      "8KVR",
+      "VR\u5c02\u7528",
+      "\u72ec\u5360\u914d\u4fe1",
+      "\u4e3b\u89b3",
+      "\u75f4\u5973",
+      "\u5de8\u5c3b",
+      "\u4e2d\u51fa\u3057",
+      "\u30cf\u30fc\u30ec\u30e0"
+    ]
+  },
+  {
+    "id": "savr00574",
+    "title": "\u3010VR\u3011\u5165\u9662\u4e2d\u306e\u8ab0\u3082\u898b\u3066\u3044\u306a\u3044\u3068\u3053\u308d\u3067\u732e\u8eab\u7684\u306b\u5c04\u7cbe\u3092\u4fc3\u3057\u751f\u304d\u308b\u6d3b\u529b\u3092\u4e0e\u3048\u3066\u304f\u308c\u308b\u56de\u6625\u30ca\u30fc\u30b9 \u9ed2\u5ddd\u3059\u307f\u308c",
+    "size": "10.02 GB",
+    "actress": [
+      "\u9ed2\u5ddd\u3059\u307f\u308c"
+    ],
+    "preview_img_url": "https://pics.dmm.co.jp/digital/video/savr00574/savr00574pl.jpg",
+    "sell_date": "2025/02/24",
+    "duration": "89\u5206",
+    "seed_download_link": "magnet:?xt=urn:btih:cb3fcb663375ab57f99f71a1db1f85ea588be069&dn=savr00574&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce",
+    "director": [
+      "\u5305\u4e01M"
+    ],
+    "maker": [
+      "KMPVR-\u5f69-"
+    ],
+    "series": [],
+    "label": [
+      "KMPVR-\u5f69-"
+    ],
+    "keyword": [
+      "\u30cf\u30a4\u30af\u30aa\u30ea\u30c6\u30a3VR",
+      "\u30b9\u30ec\u30f3\u30c0\u30fc",
+      "\u5de8\u4e73",
+      "\u75c5\u9662\u30fb\u30af\u30ea\u30cb\u30c3\u30af",
+      "\u4e2d\u51fa\u3057",
+      "\u72ec\u5360\u914d\u4fe1",
+      "VR\u5c02\u7528",
+      "\u5358\u4f53\u4f5c\u54c1",
+      "8KVR",
+      "\u770b\u8b77\u5a66\u30fb\u30ca\u30fc\u30b9"
+    ]
+  },
+  {
+    "id": "13dsvr01688",
+    "title": "\u3010VR\u3011\u30108K\u3011\u96a3\u306e\u5965\u3055\u3093\u304c\u30bf\u30aa\u30eb1\u679a\u3067\u50d5\u306e\u304a\u5bb6\u306b\u304a\u98a8\u5442\u3092\u501f\u308a\u306b\u304d\u305f \u5357\u689d\u5f69",
+    "size": "14.34 GB",
+    "actress": [
+      "\u5357\u689d\u5f69"
+    ],
+    "preview_img_url": "https://pics.dmm.co.jp/digital/video/13dsvr01688/13dsvr01688pl.jpg",
+    "sell_date": "2025/02/24",
+    "duration": "85\u5206",
+    "seed_download_link": "magnet:?xt=urn:btih:0e17a5a02549fd78ee62ac3d58f562008781e476&dn=dsvr01688&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce",
+    "director": [
+      "\u30bb\u30ab\u30f3\u30c9\u658e\u85e4"
+    ],
+    "maker": [
+      "SOD\u30af\u30ea\u30a8\u30a4\u30c8"
+    ],
+    "series": [],
+    "label": [
+      "SODVR"
+    ],
+    "keyword": [
+      "\u30cf\u30a4\u30af\u30aa\u30ea\u30c6\u30a3VR",
+      "8KVR",
+      "\u5358\u4f53\u4f5c\u54c1",
+      "VR\u5c02\u7528",
+      "\u30d5\u30a7\u30e9",
+      "\u4e2d\u51fa\u3057",
+      "\u304a\u98a8\u5442",
+      "\u5de8\u4e73",
+      "\u4eba\u59bb\u30fb\u4e3b\u5a66"
+    ]
+  },
+  {
+    "id": "sivr00396",
+    "title": "\u3010VR\u3011VR NO.1 STYLE \u30b7\u30ed\u30a6\u30c8\u53f2\u4e0a\u6700\u7d30J\uff1c\u7be0 \u771f\u6709\uff1e8KVR\u89e3\u7981 \u9650\u754c\u30b9\u30ec\u30f3\u30c0\u30fc\u306b\u305f\u308f\u308f\u306b\u5b9f\u3063\u305f\u304a\u3063\u3071\u3044\u582a\u80fdspecial",
+    "size": "15.35 GB",
+    "actress": [
+      "\u7be0\u771f\u6709"
+    ],
+    "preview_img_url": "https://pics.dmm.co.jp/digital/video/sivr00396/sivr00396pl.jpg",
+    "sell_date": "2025/02/23",
+    "duration": "70\u5206",
+    "seed_download_link": "magnet:?xt=urn:btih:d204537e7eef70833952e6feb3f8e5dd0901759b&dn=sivr00396&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce",
+    "director": [
+      "ZAMPA"
+    ],
+    "maker": [
+      "\u30a8\u30b9\u30ef\u30f3 \u30ca\u30f3\u30d0\u30fc\u30ef\u30f3\u30b9\u30bf\u30a4\u30eb"
+    ],
+    "series": [
+      "S1 VR"
+    ],
+    "label": [
+      "S1 VR"
+    ],
+    "keyword": [
+      "\u30cf\u30a4\u30af\u30aa\u30ea\u30c6\u30a3VR",
+      "\u30b9\u30ec\u30f3\u30c0\u30fc",
+      "\u5de8\u4e73",
+      "\u4e3b\u89b3",
+      "\u30d1\u30a4\u30ba\u30ea",
+      "\u72ec\u5360\u914d\u4fe1",
+      "VR\u5c02\u7528",
+      "\u5358\u4f53\u4f5c\u54c1",
+      "8KVR",
+      "\u7d20\u4eba"
+    ]
+  },
+  {
+    "id": "vrkm01501",
+    "title": "\u3010VR\u3011\u3053\u308c\u305e8K\uff01\u9854\u9762\u7279\u5316\u30a2\u30f3\u30b0\u30ebVR \uff5e\u7b11\u9854\u304c\u7729\u3057\u3044\uff01\u6700\u5f37\u9854\u9762\u30ae\u30e3\u30eb\uff01\u30e2\u30ab\u306e\u2019\u7652\u3055\u308c\u30ad\u30b9\u2019\u3068\u2019\u8089\u98dfSEX\u2019\u3067\u4e2d\u51fa\u3057\u3057\u307e\u304f\u3063\u305f\u4f11\u65e5\uff5e \u6625\u967d\u30e2\u30ab",
+    "size": "8.61 GB",
+    "actress": [
+      "\u6625\u967d\u30e2\u30ab"
+    ],
+    "preview_img_url": "https://pics.dmm.co.jp/digital/video/vrkm01501/vrkm01501pl.jpg",
+    "sell_date": "2025/02/22",
+    "duration": "68\u5206",
+    "seed_download_link": "magnet:?xt=urn:btih:a1d532945139f868fe93019f67e6be47acfcd03e&dn=vrkm01501&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce",
+    "director": [
+      "\u30d4\u30f3\u30b5\u30ed\u5927\u597d\u304d\u30b9\u30ba\u30bf\u30b1\u3055\u3093"
+    ],
+    "maker": [
+      "\u30b1\u30a4\u30fb\u30a8\u30e0\u30fb\u30d7\u30ed\u30c7\u30e5\u30fc\u30b9"
+    ],
+    "series": [
+      "\u7279\u5316VR"
+    ],
+    "label": [
+      "KMPVR"
+    ],
+    "keyword": [
+      "\u30cf\u30a4\u30af\u30aa\u30ea\u30c6\u30a3VR",
+      "8KVR",
+      "\u5358\u4f53\u4f5c\u54c1",
+      "VR\u5c02\u7528",
+      "\u4e2d\u51fa\u3057",
+      "\u9a0e\u4e57\u4f4d",
+      "\u7f8e\u4e73",
+      "\u4e3b\u89b3"
+    ]
+  },
+  {
+    "id": "savr00582",
+    "title": "\u3010VR\u3011\u98df\u3044\u8fbc\u307f\u30aa\u30ca\u30b5\u30dd \u4e2d\u6bd2\u6027\u306e\u9ad8\u3044\u30d5\u30a7\u30c1\u30a2\u30f3\u30b0\u30eb\u3067\u7537\u3092\u865c\u306b\u3059\u308b\u30cf\u30a4\u30ec\u30b0\u7279\u5316VR \u5f25\u751f\u307f\u3065\u304d",
+    "size": "13.63 GB",
+    "actress": [
+      "\u5f25\u751f\u307f\u3065\u304d"
+    ],
+    "preview_img_url": "https://pics.dmm.co.jp/digital/video/savr00582/savr00582pl.jpg",
+    "sell_date": "2025/02/22",
+    "duration": "93\u5206",
+    "seed_download_link": "magnet:?xt=urn:btih:8264d3eef257541a69ee9829bb8ccc279f008ab8&dn=savr00582-1&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce",
+    "director": [
+      "\u5473\u564c\u716eKOMI"
+    ],
+    "maker": [
+      "KMPVR-\u5f69-"
+    ],
+    "series": [],
+    "label": [
+      "KMPVR-\u5f69-"
+    ],
+    "keyword": [
+      "\u30cf\u30a4\u30af\u30aa\u30ea\u30c6\u30a3VR",
+      "\u4e2d\u51fa\u3057",
+      "\u7af6\u6cf3\u30fb\u30b9\u30af\u30fc\u30eb\u6c34\u7740",
+      "\u9a0e\u4e57\u4f4d",
+      "\u75f4\u5973",
+      "\u72ec\u5360\u914d\u4fe1",
+      "VR\u5c02\u7528",
+      "\u5358\u4f53\u4f5c\u54c1",
+      "8KVR",
+      "\u4e3b\u89b3"
+    ]
+  },
+  {
+    "id": "savr00584",
+    "title": "\u3010VR\u3011\u91ce\u7403\u30ac\u30c1\u52e2\u5973\u5b50\u306e\u7537\u6839\u30d0\u30c3\u30c8\u55b0\u3044\u3002\u30d7\u30ed\u91ce\u7403\u9078\u624b\u306b\u81ea\u6162\u306e\u30d7\u30ea\u30b1\u30c4\u3067\u30a2\u30d7\u30ed\u30fc\u30c1\u3057\u3066\u30aa\u30b9\u81ed\u3044\u7cbe\u5b50\u3092\u643e\u308a\u53d6\u308b\u30ae\u30a2\u30c1\u30a7\u30f3\u9a0e\u4e57\u4f4dSEX\u3002\u672b\u5e83\u7d14",
+    "size": "10.20 GB",
+    "actress": [
+      "\u672b\u5e83\u7d14"
+    ],
+    "preview_img_url": "https://pics.dmm.co.jp/digital/video/savr00584/savr00584pl.jpg",
+    "sell_date": "2025/02/22",
+    "duration": "85\u5206",
+    "seed_download_link": "magnet:?xt=urn:btih:c201564accf7cef56a50d89f3210f81bd1324ead&dn=savr00584-1&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce",
+    "director": [
+      "\u3059\u305a\u304d\u3080NEO"
+    ],
+    "maker": [
+      "KMPVR-\u5f69-"
+    ],
+    "series": [],
+    "label": [
+      "KMPVR-\u5f69-"
+    ],
+    "keyword": [
+      "\u30cf\u30a4\u30af\u30aa\u30ea\u30c6\u30a3VR",
+      "\u5c3b\u30d5\u30a7\u30c1",
+      "\u4e2d\u51fa\u3057",
+      "\u30b9\u30dd\u30fc\u30c4",
+      "\u7f8e\u5c11\u5973",
+      "\u72ec\u5360\u914d\u4fe1",
+      "VR\u5c02\u7528",
+      "\u5358\u4f53\u4f5c\u54c1",
+      "8KVR",
+      "\u9a0e\u4e57\u4f4d"
+    ]
+  },
+  {
+    "id": "savr00542",
+    "title": "\u3010VR\u3011\u6027\u6b32\u512a\u5148\u266a \u3069\u3059\u3051\u307924H\u767a\u60c5\u30e1\u30a4\u30c9 \u5bb6\u4e8b\u305d\u3063\u3061\u306e\u3051\u3067\u3061\u3093\u3057\u3083\u3076\u5949\u4ed5 \u5b8d\u6238\u91cc\u5e06",
+    "size": "11.21 GB",
+    "actress": [
+      "\u5b8d\u6238\u91cc\u5e06"
+    ],
+    "preview_img_url": "https://pics.dmm.co.jp/digital/video/savr00542/savr00542pl.jpg",
+    "sell_date": "2025/02/21",
+    "duration": "80\u5206",
+    "seed_download_link": "magnet:?xt=urn:btih:ddeb62b136ef34368e703e2876a8cb7700775446&dn=savr00542&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce",
+    "director": [
+      "\u30cf\u30eb\u30af\u30fb\u30b3\u30fc\u30ac\u30f3"
+    ],
+    "maker": [
+      "KMPVR-\u5f69-"
+    ],
+    "series": [],
+    "label": [
+      "KMPVR-\u5f69-"
+    ],
+    "keyword": [
+      "\u30cf\u30a4\u30af\u30aa\u30ea\u30c6\u30a3VR",
+      "\u5de8\u4e73",
+      "\u5c3b\u30d5\u30a7\u30c1",
+      "\u9a0e\u4e57\u4f4d",
+      "\u4e2d\u51fa\u3057",
+      "\u72ec\u5360\u914d\u4fe1",
+      "VR\u5c02\u7528",
+      "\u5358\u4f53\u4f5c\u54c1",
+      "8KVR",
+      "\u30e1\u30a4\u30c9"
+    ]
+  },
+  {
+    "id": "urvrsp00418",
+    "title": "\u3010VR\u3011\u30108K VR\u3011\u30c1\u30a2J\u7cfb\u751f\u30cf\u30e1\u4e2d\u51fa\u3057\u4f55\u5ea6\u3082\u30c1\u25cb\u30dd\u3067\u6559\u80b2\u7684\u308f\u304b\u3089\u305b\u30bb\u30c3\u30af\u30b9\uff01 \u7686\u702c\u3042\u304b\u308a\u30fb\u3086\u3081\u8389\u308a\u304b",
+    "size": "16.74 GB",
+    "actress": [
+      "\u7686\u702c\u3042\u304b\u308a",
+      "\u3086\u3081\u8389\u308a\u304b"
+    ],
+    "preview_img_url": "https://pics.dmm.co.jp/digital/video/urvrsp00418/urvrsp00418pl.jpg",
+    "sell_date": "2025/02/21",
+    "duration": "112\u5206",
+    "seed_download_link": "magnet:?xt=urn:btih:55ba7225874a2c92214b850e02e08eb4f01a729b&dn=urvrsp00418-1&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce",
+    "director": [
+      "\u51db\u3005\uff08un\uff09"
+    ],
+    "maker": [
+      "unfinished"
+    ],
+    "series": [
+      "unfinished VR"
+    ],
+    "label": [
+      "Marrion Group VR"
+    ],
+    "keyword": [
+      "\u30cf\u30a4\u30af\u30aa\u30ea\u30c6\u30a3VR",
+      "\u5973\u5b50\u6821\u751f",
+      "\u7f8e\u5c11\u5973",
+      "3P\u30fb4P",
+      "\u7f8e\u4e73",
+      "\u5b66\u751f\u670d",
+      "\u5236\u670d",
+      "\u30b3\u30b9\u30d7\u30ec",
+      "8KVR",
+      "\u72ec\u5360\u914d\u4fe1",
+      "VR\u5c02\u7528",
+      "\u4e2d\u51fa\u3057"
+    ]
+  },
+  {
+    "id": "juvr00219",
+    "title": "\u3010VR\u3011\u8d85\u9ad8\u753b\u8cea8K VR \u300c\u79c1\u3060\u3051\u3058\u3083\u306a\u304f\u30de\u30de\u306b\u3082\u624b\u3092\u51fa\u3057\u3066\u305f\u3093\u3060\u300d\uff08\u7b11\uff09 \u6559\u3048\u5b50\u306e\u6bcd\u5a18\u306b\u305d\u308c\u305e\u308c\u30b3\u30c3\u30bd\u30ea\u624b\u3092\u51fa\u3057\u3066\u305f\u30a4\u30f3\u30b9\u30c8\u30e9\u30af\u30bf\u30fc\u306e\u50d5 \u6012\u308b\u3069\u3053\u308d\u304b\u5171\u6709\u8089\u30d0\u30a4\u30d6\u3068\u3057\u3066 2\u4eba\u304c\u6e80\u8db3\u3059\u308b\u307e\u3067\u643e\u308a\u5c3d\u304f\u3055\u308c\u305f\u6bcd\u5a18\u90063P",
+    "size": "23.23 GB",
+    "actress": [
+      "\u5e02\u6765\u307e\u3072\u308d",
+      "\u52a0\u85e4\u3042\u3084\u306e"
+    ],
+    "preview_img_url": "https://pics.dmm.co.jp/digital/video/juvr00219/juvr00219pl.jpg",
+    "sell_date": "2025/02/21",
+    "duration": "116\u5206",
+    "seed_download_link": "magnet:?xt=urn:btih:42f33d6a465d9a2729a6e22856e93b5e56eb38d7&dn=juvr00219&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce",
+    "director": [
+      "\u30b8\u30fc\u30cb\u30a2\u30b9\u819d"
+    ],
+    "maker": [
+      "\u30de\u30c9\u30f3\u30ca"
+    ],
+    "series": [],
+    "label": [
+      "MadonnaVR"
+    ],
+    "keyword": [
+      "\u30cf\u30a4\u30af\u30aa\u30ea\u30c6\u30a3VR",
+      "8KVR",
+      "VR\u5c02\u7528",
+      "\u72ec\u5360\u914d\u4fe1",
+      "\u4e0d\u502b",
+      "\u30b9\u30ec\u30f3\u30c0\u30fc",
+      "3P\u30fb4P",
+      "\u6c34\u7740",
+      "\u4eba\u59bb\u30fb\u4e3b\u5a66"
+    ]
+  },
+  {
+    "id": "savr00549",
+    "title": "\u3010VR\u3011\u4e00\u756a\u30ad\u30e2\u30c1\u3088\u304f\u30c8\u30ed\u3051\u3055\u305b\u2026\u305d\u3057\u3066\u30a4\u30ab\u305b\u308b\u3002\u548c\u670d\u7f8e\u5973\u304c\u6b63\u3057\u304f\u78ba\u5b9f\u306b\u5b55\u307e\u305b\u308b\u65b9\u6cd5\u3092\u81ea\u3089\u306e\u30ab\u30e9\u30c0\u3067\u512a\u3057\u304f\u6deb\u3089\u306b\u6559\u3048\u3066\u304f\u308c\u308b\u598a\u6d3b\u30de\u30ca\u30fc\u6559\u5ba4 \u6238\u5ddd\u306a\u307f",
+    "size": "14.87 GB",
+    "actress": [
+      "\u6238\u5ddd\u306a\u307f"
+    ],
+    "preview_img_url": "https://pics.dmm.co.jp/digital/video/savr00549/savr00549pl.jpg",
+    "sell_date": "2025/02/20",
+    "duration": "91\u5206",
+    "seed_download_link": "magnet:?xt=urn:btih:893f69faaebd6867611b64b753bed0c4a63cbc90&dn=savr00549&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce",
+    "director": [
+      "\u52d5\u7dda\u6f70\u3057"
+    ],
+    "maker": [
+      "KMPVR-\u5f69-"
+    ],
+    "series": [],
+    "label": [
+      "KMPVR-\u5f69-"
+    ],
+    "keyword": [
+      "\u30cf\u30a4\u30af\u30aa\u30ea\u30c6\u30a3VR",
+      "\u72ec\u5360\u914d\u4fe1",
+      "VR\u5c02\u7528",
+      "\u5358\u4f53\u4f5c\u54c1",
+      "\u4e2d\u51fa\u3057",
+      "\u548c\u670d\u30fb\u6d74\u8863",
+      "How To",
+      "\u7f8e\u4e73",
+      "8KVR",
+      "\u5b55\u307e\u305b"
+    ]
+  },
+  {
+    "id": "pxvr00248",
+    "title": "\u3010VR\u3011\u9854\u306f\u53ef\u611b\u3044\u304c\u751f\u610f\u6c17\u306a\u90e8\u6d3b\u306e\u5f8c\u8f29\u3092\u5a9a\u85ac\u6f2c\u3051\uff01\u30ad\u30e1\u30bb\u30af\u8abf\u6559\u306e\u4e2d\u51fa\u3057SEX\u3067\u5feb\u697d\u5815\u3061\u30e1\u30b9\u5974\u25cf\uff01\uff01\u6c38\u91ce\u9234\u30108K\u3011",
+    "size": "16.51 GB",
+    "actress": [
+      "\u6c38\u91ce\u9234"
+    ],
+    "preview_img_url": "https://pics.dmm.co.jp/digital/video/pxvr00248/pxvr00248pl.jpg",
+    "sell_date": "2025/02/19",
+    "duration": "77\u5206",
+    "seed_download_link": "magnet:?xt=urn:btih:60e368a40e3af0c0089856f1a13ce4dc439ff0e0&dn=pxv-248&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce",
+    "director": [
+      "\u30ea\u30d0\u30d5\u30a3\u30fc\u5c06"
+    ],
+    "maker": [
+      "P-BOX VR"
+    ],
+    "series": [
+      "\u30ad\u30e1\u30bb\u30afJ\u25cf"
+    ],
+    "label": [
+      "P-BOX VR"
+    ],
+    "keyword": [
+      "\u30cf\u30a4\u30af\u30aa\u30ea\u30c6\u30a3VR",
+      "\u5358\u4f53\u4f5c\u54c1",
+      "\u7f8e\u5c11\u5973",
+      "\u5236\u670d",
+      "\u30d5\u30a7\u30e9",
+      "\u9a0e\u4e57\u4f4d",
+      "\u4e2d\u51fa\u3057",
+      "\u72ec\u5360\u914d\u4fe1",
+      "8KVR",
+      "VR\u5c02\u7528"
+    ]
+  },
+  {
+    "id": "pxvr00247",
+    "title": "\u3010VR\u3011\u59b9\u3067\u30aa\u30ca\u30cb\u30fc\u3057\u3066\u308b\u306e\u304c\u672c\u4eba\u306b\u30d0\u30ec\u305f\uff01 \u3067\u3082\u300c\u304a\u5144\u3061\u3083\u3093\u306e\u3057\u305f\u3044\u3053\u3068\u3001\u306a\u3093\u3067\u3082\u3057\u3066\u3042\u3052\u308b\u2026\u300d\u3068\u7518\u3005\u5168\u80af\u5b9a\u5144\u59b9\u611b\uff01\u7f8e\u6728\u3072\u306a\u306e\u30108K\u3011",
+    "size": "12.43 GB",
+    "actress": [
+      "\u7f8e\u6728\u3072\u306a\u306e"
+    ],
+    "preview_img_url": "https://pics.dmm.co.jp/digital/video/pxvr00247/pxvr00247pl.jpg",
+    "sell_date": "2025/02/19",
+    "duration": "75\u5206",
+    "seed_download_link": "magnet:?xt=urn:btih:05fcfbed1cc924848879a973cd7d3bb544e92f0a&dn=pxv-247&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce",
+    "director": [
+      "\u767d\u9ce5\u30cb\u30c9\u30df"
+    ],
+    "maker": [
+      "P-BOX VR"
+    ],
+    "series": [
+      "\u5168\u529b\u80af\u5b9a\u30aa\u30c3\u30d1\u30a4"
+    ],
+    "label": [
+      "P-BOX VR"
+    ],
+    "keyword": [
+      "\u30cf\u30a4\u30af\u30aa\u30ea\u30c6\u30a3VR",
+      "\u5358\u4f53\u4f5c\u54c1",
+      "\u75f4\u5973",
+      "\u9a0e\u4e57\u4f4d",
+      "\u7f8e\u5c11\u5973",
+      "\u30d5\u30a7\u30e9",
+      "\u4e2d\u51fa\u3057",
+      "\u72ec\u5360\u914d\u4fe1",
+      "8KVR",
+      "VR\u5c02\u7528"
+    ]
+  },
+  {
+    "id": "pxvr00246",
+    "title": "\u3010VR\u3011\u6fc0\u72ed\uff01\u8a33\u30a2\u30ea\u5c45\u5019\uff01\u7121\u81ea\u899a\u30a8\u30ed\u4eba\u59bb\u3068\u4e2d\u51fa\u3057SEX\u3059\u308b\u307e\u3067\u3002\u5317\u6751\u6d77\u667a\u30108K\u3011",
+    "size": "12.18 GB",
+    "actress": [
+      "\u5317\u6751\u6d77\u667a"
+    ],
+    "preview_img_url": "https://pics.dmm.co.jp/digital/video/pxvr00246/pxvr00246pl.jpg",
+    "sell_date": "2025/02/19",
+    "duration": "78\u5206",
+    "seed_download_link": "magnet:?xt=urn:btih:533e7fabeb279b0e2b37d792429564eed6fafaca&dn=pxv-246&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce",
+    "director": [
+      "\u767d\u9ce5\u30cb\u30c9\u30df"
+    ],
+    "maker": [
+      "P-BOX VR"
+    ],
+    "series": [
+      "\u6fc0\u72ed\u30ef\u30f3\u30eb\u30fc\u30e0"
+    ],
+    "label": [
+      "P-BOX VR"
+    ],
+    "keyword": [
+      "\u30cf\u30a4\u30af\u30aa\u30ea\u30c6\u30a3VR",
+      "\u5358\u4f53\u4f5c\u54c1",
+      "\u304a\u59c9\u3055\u3093",
+      "\u5de8\u4e73",
+      "\u5de8\u5c3b",
+      "\u4e2d\u51fa\u3057",
+      "\u75f4\u5973",
+      "\u72ec\u5360\u914d\u4fe1",
+      "8KVR",
+      "VR\u5c02\u7528"
+    ]
+  },
+  {
+    "id": "kavr00407",
+    "title": "\u3010VR\u3011\u306f\u3058\u3081\u3066\u3067\u304d\u305f\u5f7c\u5973\u304c\u3001\u8d85\u7d76\u502b\u3067\u3001\u8d85\u654f\u611f\u3067\u3001\u8d85\u9244\u30de\u30f3\u3067\u3053\u3063\u305d\u308a\u4f55\u5ea6\u3082\u4f55\u5ea6\u3082\u4e2d\u51fa\u3057\u3057\u3066\u3082\u3001\u305a\u3063\u3068\u30d4\u30b9\u30c8\u30f3\u304a\u306d\u3060\u308a\u3061\u3083\u3093 \u6843\u702c\u3072\u307e\u308a",
+    "size": "13.62 GB",
+    "actress": [
+      "\u6843\u702c\u3072\u307e\u308a"
+    ],
+    "preview_img_url": "https://pics.dmm.co.jp/digital/video/kavr00407/kavr00407pl.jpg",
+    "sell_date": "2025/02/19",
+    "duration": "79\u5206",
+    "seed_download_link": "magnet:?xt=urn:btih:5cab7b0a4e39997e132d494090bb8f1eb699bd0d&dn=kavr-407&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce",
+    "director": [
+      "\u3053\u3042\u3089\u592a\u90ce\uff08\u308f\uff09"
+    ],
+    "maker": [
+      "kawaii"
+    ],
+    "series": [
+      "kawaii*VR"
+    ],
+    "label": [
+      "kawaii* VR"
+    ],
+    "keyword": [
+      "\u30cf\u30a4\u30af\u30aa\u30ea\u30c6\u30a3VR",
+      "\u5236\u670d",
+      "\u30ab\u30c3\u30d7\u30eb",
+      "\u4e2d\u51fa\u3057",
+      "\u4e3b\u89b3",
+      "\u72ec\u5360\u914d\u4fe1",
+      "VR\u5c02\u7528",
+      "\u5358\u4f53\u4f5c\u54c1",
+      "8KVR",
+      "\u5973\u5b50\u6821\u751f"
+    ]
+  },
+  {
+    "id": "hnvr00135",
+    "title": "\u3010VR\u3011\u30e4\u30e9\u305b\u3066\u304f\u308c\u306a\u304b\u3063\u305f\u3042\u306e\u30d4\u30f3\u30b5\u30ed\u5b22\u306b\u672c\u30b5\u30ed\u5f37\u8981\uff01 \u4eba\u6c17\u30e9\u30f3\u30ab\u30fc\u5b22\u3092\u51fa\u7981\u899a\u609f\u30ec\u00d7\u30d7 \u677e\u672c\u3044\u3061\u304b",
+    "size": "17.06 GB",
+    "actress": [
+      "\u677e\u672c\u3044\u3061\u304b"
+    ],
+    "preview_img_url": "https://pics.dmm.co.jp/digital/video/hnvr00135/hnvr00135pl.jpg",
+    "sell_date": "2025/02/19",
+    "duration": "76\u5206",
+    "seed_download_link": "magnet:?xt=urn:btih:1f09bb08d09f7c48548a276ffbbad3d7a996d1d5&dn=hnvr-135&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce",
+    "director": [
+      "\u30d4\u30f3\u30b5\u30ed\u5927\u597d\u304d\u30b9\u30ba\u30bf\u30b1\u3055\u3093"
+    ],
+    "maker": [
+      "\u672c\u4e2d"
+    ],
+    "series": [
+      "\u672c\u4e2d-VR"
+    ],
+    "label": [
+      "\u672c\u4e2d-VR"
+    ],
+    "keyword": [
+      "\u30cf\u30a4\u30af\u30aa\u30ea\u30c6\u30a3VR",
+      "\u7f8e\u5c11\u5973",
+      "\u30df\u30cb\u7cfb",
+      "\u30a4\u30e9\u30de\u30c1\u30aa",
+      "\u624b\u30b3\u30ad",
+      "\u72ec\u5360\u914d\u4fe1",
+      "VR\u5c02\u7528",
+      "\u5358\u4f53\u4f5c\u54c1",
+      "8KVR",
+      "\u4e2d\u51fa\u3057"
+    ]
+  },
+  {
+    "id": "sivr00394",
+    "title": "\u3010VR\u3011\u793e\u5185\u7814\u4fee\u76f8\u90e8\u5c4b \u9006NTR \u9670\u30ad\u30e3\u306a\u50d5\u3092\u30b0\u30a4\u30b0\u30a4\u5f15\u3063\u5f35\u3063\u3066\u8912\u3081\u3066\u52c7\u6c17\u3065\u3051\u3066\u304f\u308c\u308b \u7f8e\u4eba\u30b7\u30b4\u30c7\u30ad\u540c\u671f\u3068\u5316\u5b66\u53cd\u5fdc\u304c\u8d77\u304d\u308b\u307b\u3069\u6fc3\u5bc6\u306b\u4ea4\u308f\u308a\u5408\u3063\u305f\u30a2\u30ce\u591c \u6cb3\u5317\u5f69\u4f3d",
+    "size": "17.54 GB",
+    "actress": [
+      "\u6cb3\u5317\u5f69\u4f3d\uff08\u6cb3\u5317\u5f69\u82b1\uff09"
+    ],
+    "preview_img_url": "https://pics.dmm.co.jp/digital/video/sivr00394/sivr00394pl.jpg",
+    "sell_date": "2025/02/18",
+    "duration": "102\u5206",
+    "seed_download_link": "magnet:?xt=urn:btih:c92ed2a2a1a0afd7acd23262d18a05c296f4a4c4&dn=sivr-394&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce",
+    "director": [
+      "ZAMPA"
+    ],
+    "maker": [
+      "\u30a8\u30b9\u30ef\u30f3 \u30ca\u30f3\u30d0\u30fc\u30ef\u30f3\u30b9\u30bf\u30a4\u30eb"
+    ],
+    "series": [
+      "S1 VR"
+    ],
+    "label": [
+      "S1 VR"
+    ],
+    "keyword": [
+      "\u30cf\u30a4\u30af\u30aa\u30ea\u30c6\u30a3VR",
+      "\u30ad\u30b9\u30fb\u63a5\u543b",
+      "OL",
+      "\u9a0e\u4e57\u4f4d",
+      "\u4e3b\u89b3",
+      "\u72ec\u5360\u914d\u4fe1",
+      "VR\u5c02\u7528",
+      "\u5358\u4f53\u4f5c\u54c1",
+      "8KVR",
+      "\u5bdd\u53d6\u308a\u30fb\u5bdd\u53d6\u3089\u308c\u30fbNTR"
+    ]
+  },
+  {
+    "id": "bibivr00142",
+    "title": "\u3010VR\u3011\u4e00\u77ac\u3067\u30a8\u30ed\u30ad\u30e3\u30d1OVER\uff01\uff01\u30ec\u30ba\u3067\u30de\u30be\u306eW\u75f4\u5973\u3068\u8d85\u904e\u6fc0\u306a\u90063PSEXVR \u5927\u69fb\u3072\u3073\u304d \u6d5c\u5d0e\u771f\u7dd2",
+    "size": "5.22 GB",
+    "actress": [
+      "\u5927\u69fb\u3072\u3073\u304d",
+      "\u6d5c\u5d0e\u771f\u7dd2"
+    ],
+    "preview_img_url": "https://pics.dmm.co.jp/digital/video/bibivr00142/bibivr00142pl.jpg",
+    "sell_date": "2025/02/18",
+    "duration": "52\u5206",
+    "seed_download_link": "magnet:?xt=urn:btih:349dac7dd7710f264a8ffcdb2373a88d0048d196&dn=bibivr-142&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce",
+    "director": [
+      "K\u592a\u90ce"
+    ],
+    "maker": [
+      "KMPVR-bibi-"
+    ],
+    "series": [],
+    "label": [
+      "KMPVR-bibi-"
+    ],
+    "keyword": [
+      "\u30cf\u30a4\u30af\u30aa\u30ea\u30c6\u30a3VR",
+      "VR\u5c02\u7528",
+      "3P\u30fb4P",
+      "\u9a0e\u4e57\u4f4d",
+      "\u75f4\u5973",
+      "\u5de8\u4e73",
+      "\u4e2d\u51fa\u3057"
+    ]
+  },
+  {
+    "id": "kiwvr00737",
+    "title": "\u3010VR\u3011\u300c\u3054\u6e80\u8db3\u3044\u305f\u3060\u3051\u308b\u3088\u3046\u7cbe\u4e00\u676f\u63a5\u5f85\u3055\u305b\u3066\u3044\u305f\u3060\u304d\u307e\u3059\u3002\u79c1\u306f\u5909\u614b\u30c9M\u2026\u300d\u4e2d\u51fa\u3057\u6e29\u6cc9\u6795\u55b6\u696d",
+    "size": "9.30 GB",
+    "actress": [],
+    "preview_img_url": "https://pics.dmm.co.jp/digital/video/kiwvr00737/kiwvr00737pl.jpg",
+    "sell_date": "2025/02/18",
+    "duration": "93\u5206",
+    "seed_download_link": "magnet:?xt=urn:btih:24f471f13928f81a92aac0e661d3d5716145837b&dn=kiwvr-737&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce",
+    "director": [],
+    "maker": [
+      "\u3053\u3042\u3089VR"
+    ],
+    "series": [
+      "3D\u30cf\u30e1\u64ae\u308aVR\u6539\u3010\u79c1\u306f\u5909\u614b\u306e\u30c9M\u2026\u4e2d\u51fa\u3057\u6e29\u6cc9\u3011"
+    ],
+    "label": [
+      "\u6975\u30b0\u30eb\u30fc\u30d7"
+    ],
+    "keyword": [
+      "\u30cf\u30a4\u30af\u30aa\u30ea\u30c6\u30a3VR",
+      "VR\u5c02\u7528",
+      "\u72ec\u5360\u914d\u4fe1",
+      "\u9854\u5c04",
+      "\u4e2d\u51fa\u3057",
+      "\u30a2\u30af\u30e1\u30fb\u30aa\u30fc\u30ac\u30ba\u30e0",
+      "OL",
+      "\u30ed\u30fc\u30b7\u30e7\u30f3\u30fb\u30aa\u30a4\u30eb",
+      "\u5de8\u4e73"
+    ]
+  },
+  {
+    "id": "dsvr00051",
+    "title": "\u3010VR\u3011\u5fc3\u306e\u58f0\u304c\u805e\u3053\u3048\u308b\u96fb\u8eca\u75f4\u25cbVR 8K \u7f8e\u8c37\u6731\u97f3",
+    "size": "16.23 GB",
+    "actress": [
+      "\u7f8e\u8c37\u6731\u97f3\uff08\u7f8e\u8c37\u6731\u91cc\uff09"
+    ],
+    "preview_img_url": "https://pics.dmm.co.jp/digital/video/dsvr00051/dsvr00051pl.jpg",
+    "sell_date": "2025/02/18",
+    "duration": "64\u5206",
+    "seed_download_link": "magnet:?xt=urn:btih:5704971c029a5d94c28583ef9b0bc7814474717c&dn=dsvr-051&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce",
+    "director": [
+      "\u30dc\u30eb\u30dc\u4e2d\u91ce"
+    ],
+    "maker": [
+      "\u30c0\u30b9\u30c3\uff01"
+    ],
+    "series": [],
+    "label": [
+      "\u30c0\u30b9\u30c3\uff01\uff08VR\uff09"
+    ],
+    "keyword": [
+      "\u30cf\u30a4\u30af\u30aa\u30ea\u30c6\u30a3VR",
+      "8KVR",
+      "VR\u5c02\u7528",
+      "\u72ec\u5360\u914d\u4fe1",
+      "\u5358\u4f53\u4f5c\u54c1",
+      "\u7f9e\u6065",
+      "\u4e2d\u51fa\u3057",
+      "\u30d5\u30a7\u30e9",
+      "\u4e3b\u89b3"
+    ]
+  },
+  {
+    "id": "urvrsp00419",
+    "title": "\u3010VR\u3011\u30108K VR\u3011\u900f\u304d\u901a\u308b\u808c\u3068\u30d4\u30e5\u30a2\u306a\u7ae5\u9854\u30ed\u30eaJ\u7cfb\u3068\u306e\u899a\u3048\u305f\u3066\u5e7c\u7a74\u3067\u4e2d\u30a4\u30ad\u4e2d\u51fa\u3057\u5b55\u307e\u305b\u30bb\u30c3\u30af\u30b9\uff01 \u5357\u65e5\u83dc\u4e43",
+    "size": "15.50 GB",
+    "actress": [
+      "\u5357\u65e5\u83dc\u4e43"
+    ],
+    "preview_img_url": "https://pics.dmm.co.jp/digital/video/urvrsp00419/urvrsp00419pl.jpg",
+    "sell_date": "2025/02/18",
+    "duration": "99\u5206",
+    "seed_download_link": "magnet:?xt=urn:btih:baff444144dd2f3aa01c60e591d3020af1844539&dn=urvrsp-419&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce",
+    "director": [
+      "\u51db\u3005\uff08un\uff09"
+    ],
+    "maker": [
+      "unfinished"
+    ],
+    "series": [
+      "unfinished VR"
+    ],
+    "label": [
+      "Marrion Group VR"
+    ],
+    "keyword": [
+      "\u30cf\u30a4\u30af\u30aa\u30ea\u30c6\u30a3VR",
+      "\u5973\u5b50\u6821\u751f",
+      "\u5e7c\u306a\u3058\u307f",
+      "\u5b66\u751f\u670d",
+      "\u5236\u670d",
+      "8KVR",
+      "\u72ec\u5360\u914d\u4fe1",
+      "VR\u5c02\u7528",
+      "\u5358\u4f53\u4f5c\u54c1",
+      "\u4e2d\u51fa\u3057"
+    ]
+  },
+  {
+    "id": "fcvr00040",
+    "title": "\u3010VR\u3011\u3010Fitch\u9ad8\u753b\u8cea8K\u8089\u611fVR\u3011 VR\u89e3\u7981 \u5de8\u4e73\u30b0\u30e9\u30de\u30e9\u30b9\u75f4\u5973\u306b\u898b\u3064\u3081\u3089\u308c\u3066\u72af\u25cf\u308c\u305f\u3044 \u83ca\u4e43\u3089\u3093",
+    "size": "24.24 GB",
+    "actress": [
+      "\u83ca\u4e43\u3089\u3093"
+    ],
+    "preview_img_url": "https://pics.dmm.co.jp/digital/video/fcvr00040/fcvr00040pl.jpg",
+    "sell_date": "2025/02/18",
+    "duration": "90\u5206",
+    "seed_download_link": "magnet:?xt=urn:btih:90cd95123c061f87463792e4ba25042f91939629&dn=fcvr-040&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce",
+    "director": [
+      "ZAMPA"
+    ],
+    "maker": [
+      "Fitch"
+    ],
+    "series": [],
+    "label": [
+      "Fitch\u8089\u611fVR"
+    ],
+    "keyword": [
+      "\u30cf\u30a4\u30af\u30aa\u30ea\u30c6\u30a3VR",
+      "\u5de8\u4e73",
+      "\u4e3b\u89b3",
+      "\u30d5\u30a7\u30e9",
+      "M\u7537",
+      "\u72ec\u5360\u914d\u4fe1",
+      "VR\u5c02\u7528",
+      "\u5358\u4f53\u4f5c\u54c1",
+      "8KVR",
+      "\u75f4\u5973"
+    ]
+  },
+  {
+    "id": "vrkm01500",
+    "title": "\u3010VR\u3011\u3053\u308c\u305e8K\uff01\u9854\u9762\u7279\u5316\u30a2\u30f3\u30b0\u30ebVR \uff5e10\u5e74\u3076\u308a\u306b\u518d\u4f1a\u3057\u305f\u6e05\u695a\u306a\u540c\u7d1a\u751f\u304c\u30a8\u30ed\u3059\u304e\u3066\u3081\u3061\u3083\u3081\u3061\u3083\u4e2d\u51fa\u3057\u3057\u305f\u65e5\uff5e \u9759\u6cb3",
+    "size": "16.65 GB",
+    "actress": [
+      "\u9759\u6cb3"
+    ],
+    "preview_img_url": "https://pics.dmm.co.jp/digital/video/vrkm01500/vrkm01500pl.jpg",
+    "sell_date": "2025/02/17",
+    "duration": "76\u5206",
+    "seed_download_link": "magnet:?xt=urn:btih:b452d9c78908b6367570da1456d285b665f13206&dn=vrkm-1500&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce",
+    "director": [
+      "\u30d4\u30f3\u30b5\u30ed\u5927\u597d\u304d\u30b9\u30ba\u30bf\u30b1\u3055\u3093"
+    ],
+    "maker": [
+      "\u30b1\u30a4\u30fb\u30a8\u30e0\u30fb\u30d7\u30ed\u30c7\u30e5\u30fc\u30b9"
+    ],
+    "series": [
+      "\u7279\u5316VR"
+    ],
+    "label": [
+      "KMPVR"
+    ],
+    "keyword": [
+      "\u30cf\u30a4\u30af\u30aa\u30ea\u30c6\u30a3VR",
+      "8KVR",
+      "\u5358\u4f53\u4f5c\u54c1",
+      "VR\u5c02\u7528",
+      "\u4e2d\u51fa\u3057",
+      "\u9a0e\u4e57\u4f4d",
+      "\u7f8e\u4e73",
+      "\u4e3b\u89b3"
+    ]
+  },
+  {
+    "id": "mdvr00337",
+    "title": "\u3010VR\u3011\u521d\u3081\u3066\u3067\u304d\u305f\u5f7c\u5973\u3068\u521d\u3081\u3066\u306e\u3069\u304d\u3069\u304d\u65c5\u9928\u304a\u6cca\u308a\u30c7\u30fc\u30c8 \u3042\u3093\u3065\u674f",
+    "size": "16.12 GB",
+    "actress": [
+      "\u3042\u3093\u3065\u674f"
+    ],
+    "preview_img_url": "https://pics.dmm.co.jp/digital/video/mdvr00337/mdvr00337pl.jpg",
+    "sell_date": "2025/02/17",
+    "duration": "73\u5206",
+    "seed_download_link": "magnet:?xt=urn:btih:b9f47c3720d2dfeb3a1670bc52e496b8a1a94ee3&dn=mdvr-337&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce",
+    "director": [
+      "\u77e2\u6fa4\u30ec\u30b7\u30fc\u30d6"
+    ],
+    "maker": [
+      "\u30e0\u30fc\u30c7\u30a3\u30fc\u30ba"
+    ],
+    "series": [
+      "MOODYZ 8KVR"
+    ],
+    "label": [
+      "MOODYZ VR"
+    ],
+    "keyword": [
+      "\u30cf\u30a4\u30af\u30aa\u30ea\u30c6\u30a3VR",
+      "\u4e3b\u89b3",
+      "\u7f8e\u5c11\u5973",
+      "\u9a0e\u4e57\u4f4d",
+      "\u30d1\u30a4\u30ba\u30ea",
+      "\u72ec\u5360\u914d\u4fe1",
+      "VR\u5c02\u7528",
+      "\u5358\u4f53\u4f5c\u54c1",
+      "8KVR",
+      "\u5de8\u4e73"
+    ]
+  },
+  {
+    "id": "vrprd00076",
+    "title": "\u3010VR\u3011\u3010Fcup\u30fb\u30d0\u30c4\u30a4\u30c1\u30fb32\u6b73\u30fb\u30b8\u30e0\u30c8\u30ec\u30fc\u30ca\u30fc\u3011\u8077\u696d\u30b8\u30e0\u30c8\u30ec\u30fc\u30ca\u30fc\uff01\uff01\u51fa\u52e4\u524d\u306e\u30e9\u30f3\u30cb\u30f3\u30b0\u4e2d\u306b\u30ca\u30f3\u30d1\u3067\u51fa\u4f1a\u3063\u306610\u5206\u3067\u671d\u52c3\u3061\u5373\u30cf\u30e1\u30bb\u30c3\u30af\u30b9",
+    "size": "11.23 GB",
+    "actress": [],
+    "preview_img_url": "https://pics.dmm.co.jp/digital/video/vrprd00076/vrprd00076pl.jpg",
+    "sell_date": "2025/02/17",
+    "duration": "72\u5206",
+    "seed_download_link": "magnet:?xt=urn:btih:09e0874cc75bdcf8b6181b5307013e1691ab623e&dn=vrprd00076&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce",
+    "director": [],
+    "maker": [
+      "VR\u30d1\u30e9\u30c0\u30a4\u30b9"
+    ],
+    "series": [],
+    "label": [
+      "\u6975\u30b0\u30eb\u30fc\u30d7"
+    ],
+    "keyword": [
+      "\u30cf\u30a4\u30af\u30aa\u30ea\u30c6\u30a3VR",
+      "VR\u5c02\u7528",
+      "\u72ec\u5360\u914d\u4fe1",
+      "\u4e2d\u51fa\u3057",
+      "\u5bdd\u53d6\u308a\u30fb\u5bdd\u53d6\u3089\u308c\u30fbNTR",
+      "\u75f4\u5973",
+      "\u7f8e\u4e73",
+      "\u7d20\u4eba"
+    ]
+  },
+  {
+    "id": "savr00551",
+    "title": "\u3010VR\u3011\u30c0\u30a4\u30a8\u30c3\u30c8\u3057\u305f\u3044\u50d5\u3092\u72ed\u3044\u90e8\u5c4b\u3067\u8a98\u60d1\u3059\u308b\u6d3e\u9063\u30c8\u30ec\u30fc\u30ca\u30fc \u30cc\u30eb\u30c6\u30ab\u8089\u611f\u30dc\u30c7\u30a3\u3092\u80a1\u9593\u306b\u64e6\u308a\u4ed8\u3051\u7126\u3089\u3055\u308c\u308b\u5bc6\u7740\u6027\u4ea4\u30c8\u30ec\u30fc\u30cb\u30f3\u30b0 \u702c\u7530\u4e00\u82b1",
+    "size": "9.43 GB",
+    "actress": [
+      "\u702c\u7530\u4e00\u82b1"
+    ],
+    "preview_img_url": "https://pics.dmm.co.jp/digital/video/savr00551/savr00551pl.jpg",
+    "sell_date": "2025/02/16",
+    "duration": "81\u5206",
+    "seed_download_link": "magnet:?xt=urn:btih:c4ef8d8e7bd16ee9c4e1091f9cbbf4f99d9f55e5&dn=savr00551&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce",
+    "director": [
+      "\u30cf\u30e1\u30e9\u30cb\u30a2\u30f3\u4eac\u90fd"
+    ],
+    "maker": [
+      "KMPVR-\u5f69-"
+    ],
+    "series": [],
+    "label": [
+      "KMPVR-\u5f69-"
+    ],
+    "keyword": [
+      "\u30cf\u30a4\u30af\u30aa\u30ea\u30c6\u30a3VR",
+      "\u9a0e\u4e57\u4f4d",
+      "\u4e2d\u51fa\u3057",
+      "\u75f4\u5973",
+      "\u5de8\u5c3b",
+      "\u72ec\u5360\u914d\u4fe1",
+      "VR\u5c02\u7528",
+      "\u5358\u4f53\u4f5c\u54c1",
+      "8KVR",
+      "\u5de8\u4e73"
+    ]
+  },
+  {
+    "id": "vrkm01540",
+    "title": "\u3010VR\u3011\u300c\u30db\u30f3\u30c8\u7537\u3063\u3066\u5358\u7d14\u3060\u3088\u306dw\u300d\u30ce\u30ea\u30ce\u30ea\uff06\u30a8\u30ed\u30a8\u30ed\u30ae\u30e3\u30ebJ\u7cfb\u30d2\u30ca\u30bf\u306e\u30e2\u30c6\u306a\u3044\u304f\u3093\u30c7\u30ab\u5c3bT\u30d0\u30c3\u30af\u8a98\u60d1 \u67da\u6728\u3072\u306a\u305f",
+    "size": "9.67 GB",
+    "actress": [
+      "\u67da\u6728\u3072\u306a\u305f"
+    ],
+    "preview_img_url": "https://pics.dmm.co.jp/digital/video/vrkm01540/vrkm01540pl.jpg",
+    "sell_date": "2025/02/16",
+    "duration": "79\u5206",
+    "seed_download_link": "magnet:?xt=urn:btih:a226fb12a276e1b0bb57c0e4487562ea63a71067&dn=vrkm01540&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce",
+    "director": [
+      "\u30cf\u30eb\u30af\u30fb\u30b3\u30fc\u30ac\u30f3"
+    ],
+    "maker": [
+      "\u30b1\u30a4\u30fb\u30a8\u30e0\u30fb\u30d7\u30ed\u30c7\u30e5\u30fc\u30b9"
+    ],
+    "series": [],
+    "label": [
+      "KMPVR"
+    ],
+    "keyword": [
+      "\u30cf\u30a4\u30af\u30aa\u30ea\u30c6\u30a3VR",
+      "8KVR",
+      "\u5358\u4f53\u4f5c\u54c1",
+      "VR\u5c02\u7528",
+      "\u4e2d\u51fa\u3057",
+      "\u9a0e\u4e57\u4f4d",
+      "\u5c3b\u30d5\u30a7\u30c1",
+      "\u30ae\u30e3\u30eb",
+      "\u5973\u5b50\u6821\u751f"
+    ]
+  },
+  {
+    "id": "savr00555",
+    "title": "\u3010VR\u3011\u9ad8\u7d1a\u30c7\u30ea\u5b22\u3092\u30ad\u30e1\u30bb\u30af\u3067\u5815\u3068\u3059\uff01\u81ea\u3089\u306e\u30eb\u30c3\u30af\u30b9\u3068\u30c6\u30af\u30cb\u30c3\u30af\u3092\u81ea\u6162\u3057\u3066\u304f\u308b\u751f\u610f\u6c17\u672c\u6307No.1\u306b\u5a9a\u85ac\u3092\u4ed5\u8fbc\u3093\u3067\u9023\u7d9a\u30a2\u30af\u30e1\u3067\u5fb9\u5e95\u7684\u306b\u8ffd\u3044\u8fbc\u3093\u3067\u307f\u305f\u3002 \u6c99\u6708\u6075\u5948",
+    "size": "11.02 GB",
+    "actress": [
+      "\u6c99\u6708\u6075\u5948"
+    ],
+    "preview_img_url": "https://pics.dmm.co.jp/digital/video/savr00555/savr00555pl.jpg",
+    "sell_date": "2025/02/16",
+    "duration": "76\u5206",
+    "seed_download_link": "magnet:?xt=urn:btih:53956ae97d03604f95efafd7291d97a7b379cdea&dn=savr00555&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce",
+    "director": [
+      "\u3059\u305a\u304d\u3080NEO"
+    ],
+    "maker": [
+      "KMPVR-\u5f69-"
+    ],
+    "series": [],
+    "label": [
+      "KMPVR-\u5f69-"
+    ],
+    "keyword": [
+      "\u30cf\u30a4\u30af\u30aa\u30ea\u30c6\u30a3VR",
+      "\u7f8e\u5c11\u5973",
+      "\u75f4\u5973",
+      "\u30c9\u30e9\u30c3\u30b0",
+      "\u4e2d\u51fa\u3057",
+      "\u72ec\u5360\u914d\u4fe1",
+      "VR\u5c02\u7528",
+      "\u5358\u4f53\u4f5c\u54c1",
+      "8KVR",
+      "\u30ad\u30e3\u30d0\u5b22\u30fb\u98a8\u4fd7\u5b22"
+    ]
+  },
+  {
+    "id": "savr00562",
+    "title": "\u3010VR\u3011\u30c1\u3007\u30dd\u72c2\u3044\u306e\u7206\u4e73\u6559\u5e2b\u306b\u53e3\u6deb\u30d1\u30a4\u30ba\u30ea\u3067\u643e\u308a\u53d6\u3089\u308c\u308b \u6559\u3048\u5b50\u3092\u8d85\u30c9\u75f4\u5973\u30d7\u30ec\u30a4\u3067\u8cac\u3081\u308b\u643e\u7cbe\u30c6\u30a3\u30fc\u30c1\u30e3\u30fc",
+    "size": "12.19 GB",
+    "actress": [],
+    "preview_img_url": "https://pics.dmm.co.jp/digital/video/savr00562/savr00562pl.jpg",
+    "sell_date": "2025/02/15",
+    "duration": "86\u5206",
+    "seed_download_link": "magnet:?xt=urn:btih:9f26bfcb2ec2b8f64764225684009d7b17b7cca0&dn=savr00562&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce",
+    "director": [
+      "\u66fe\u6839\u5927\u5922@\u4e2d\u91ce"
+    ],
+    "maker": [
+      "KMPVR-\u5f69-"
+    ],
+    "series": [],
+    "label": [
+      "KMPVR-\u5f69-"
+    ],
+    "keyword": [
+      "\u30cf\u30a4\u30af\u30aa\u30ea\u30c6\u30a3VR",
+      "8KVR",
+      "VR\u5c02\u7528",
+      "\u72ec\u5360\u914d\u4fe1",
+      "\u5de8\u5c3b",
+      "\u75f4\u5973",
+      "\u4e2d\u51fa\u3057",
+      "\u5973\u6559\u5e2b",
+      "\u5de8\u4e73"
+    ]
+  },
+  {
+    "id": "savr00553",
+    "title": "\u3010VR\u3011\u3053\u3093\u306a\u306b\u4e43\u84bc\u3061\u3083\u3093\u306e\u4e8b\u304c\u597d\u304d\u306a\u306e\u306b\u2026 \u6d6e\u6c17\u3092\u3055\u308c\u305f\u306e\u3067\u3001\u30dc\u30af\u306e\u4e8b\u3057\u304b\u8003\u3048\u3089\u308c\u306a\u3044\u3088\u3046\u306b\u3001\u305f\u308f\u308f\u306a\u4e73\u3092\u63c9\u307f\u3057\u3060\u304d\u3001\u4e2d\u51fa\u3057\u8abf\u6559\u3057\u3066\u3044\u308b\u3002 \u7fbd\u6708\u4e43\u84bc",
+    "size": "11.19 GB",
+    "actress": [
+      "\u7fbd\u6708\u4e43\u84bc"
+    ],
+    "preview_img_url": "https://pics.dmm.co.jp/digital/video/savr00553/savr00553pl.jpg",
+    "sell_date": "2025/02/15",
+    "duration": "74\u5206",
+    "seed_download_link": "magnet:?xt=urn:btih:47dbaa8c7089256b00c0fdb71a91dd4ac96e9e66&dn=savr00553&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce",
+    "director": [
+      "\u9752\u7a7a\u5c04\u7cbe\u30c6\u30a3\u30fc\u30c1\u30e3\u30fc"
+    ],
+    "maker": [
+      "KMPVR-\u5f69-"
+    ],
+    "series": [],
+    "label": [
+      "KMPVR-\u5f69-"
+    ],
+    "keyword": [
+      "\u30cf\u30a4\u30af\u30aa\u30ea\u30c6\u30a3VR",
+      "\u5de8\u5c3b",
+      "\u5973\u5b50\u6821\u751f",
+      "\u30a4\u30e9\u30de\u30c1\u30aa",
+      "\u62d8\u675f",
+      "\u72ec\u5360\u914d\u4fe1",
+      "VR\u5c02\u7528",
+      "\u5358\u4f53\u4f5c\u54c1",
+      "8KVR",
+      "\u5de8\u4e73"
+    ]
+  },
+  {
+    "id": "savr00567",
+    "title": "\u3010VR\u3011\u30d1\u30f3\u30c1\u30e9\u9006\u75f4\u25cf \u30dc\u30af\u306e\u76ee\u306e\u524d\u3067\u8a98\u60d1\u3057\u3066\u304d\u305fJK\u306b\u96fb\u8eca\u306e\u4e2d\u3067\u3053\u3063\u305d\u308a\u75f4\u5973\u3089\u308c\u30a4\u30ab\u3055\u308c\u3066\u2026 \u9cf3\u307f\u3086",
+    "size": "9.98 GB",
+    "actress": [
+      "\u9cf3\u307f\u3086"
+    ],
+    "preview_img_url": "https://pics.dmm.co.jp/digital/video/savr00567/savr00567pl.jpg",
+    "sell_date": "2025/02/14",
+    "duration": "80\u5206",
+    "seed_download_link": "magnet:?xt=urn:btih:97fff72f591add45417bd0e34f97e831079ca350&dn=savr00567&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce",
+    "director": [
+      "\u66fe\u6839\u5927\u5922@\u4e2d\u91ce"
+    ],
+    "maker": [
+      "KMPVR-\u5f69-"
+    ],
+    "series": [],
+    "label": [
+      "KMPVR-\u5f69-"
+    ],
+    "keyword": [
+      "\u30cf\u30a4\u30af\u30aa\u30ea\u30c6\u30a3VR",
+      "\u7f8e\u5c11\u5973",
+      "\u30b3\u30b9\u30d7\u30ec",
+      "\u30ad\u30e3\u30d0\u5b22\u30fb\u98a8\u4fd7\u5b22",
+      "\u30e1\u30a4\u30c9",
+      "\u72ec\u5360\u914d\u4fe1",
+      "VR\u5c02\u7528",
+      "\u5358\u4f53\u4f5c\u54c1",
+      "8KVR",
+      "\u4e2d\u51fa\u3057"
+    ]
+  },
+  {
+    "id": "sivr00393",
+    "title": "\u3010VR\u3011VR NO.1 STYLE \u590f\u7a7a\u308a\u304b \u89e3\u7981 \u723d\u3084\u304b\u306a\u7b11\u9854\u306b\u96a0\u3055\u308c\u305f\u30c9\u30b9\u30b1\u30d9\u306a\u7d20\u9854 \u597d\u5947\u5fc3\u306e\u584a\u3067\u5909\u614b\u7684\u306b\u3054\u5949\u4ed5\u3057\u307e\u304f\u308aSpecial\uff01\uff01",
+    "size": "14.86 GB",
+    "actress": [
+      "\u590f\u7a7a\u308a\u304b"
+    ],
+    "preview_img_url": "https://pics.dmm.co.jp/digital/video/sivr00393/sivr00393pl.jpg",
+    "sell_date": "2025/02/14",
+    "duration": "96\u5206",
+    "seed_download_link": "magnet:?xt=urn:btih:e494069d2f60ef8a5d2637609feff0e8be359844&dn=sivr00393&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce",
+    "director": [
+      "\u3053\u3042\u3089\u592a\u90ce\uff08\u308f\uff09"
+    ],
+    "maker": [
+      "\u30a8\u30b9\u30ef\u30f3 \u30ca\u30f3\u30d0\u30fc\u30ef\u30f3\u30b9\u30bf\u30a4\u30eb"
+    ],
+    "series": [
+      "S1 VR"
+    ],
+    "label": [
+      "S1 VR"
+    ],
+    "keyword": [
+      "\u30cf\u30a4\u30af\u30aa\u30ea\u30c6\u30a3VR",
+      "8KVR",
+      "\u72ec\u5360\u914d\u4fe1",
+      "\u4e3b\u89b3",
+      "\u5358\u4f53\u4f5c\u54c1",
+      "\u9a0e\u4e57\u4f4d",
+      "\u7f8e\u5c11\u5973",
+      "\u5de8\u4e73",
+      "VR\u5c02\u7528"
+    ]
+  },
+  {
+    "id": "juvr00218",
+    "title": "\u3010VR\u3011\u8d85\u9ad8\u753b\u8cea8KVR 24H\u55b6\u696d\u306e\u30d5\u30a3\u30c3\u30c8\u30cd\u30b9\u30b8\u30e0\u3067\u61a7\u308c\u306e\u308a\u3087\u3046\u3055\u3093\u3068\u6df1\u591c\u306b2\u4eba\u304d\u308a\uff01\uff01\u6b32\u6c42\u4e0d\u6e80\u306a\u4eba\u59bb\u306b\u7b4b\u30c8\u30ec\u3067\u9ad8\u307e\u3063\u305f\u6027\u6b32\u3092\u3076\u3064\u3051\u3089\u308c\u3066\u4e2d\u51fa\u3057SEX\u3057\u307e\u304f\u3063\u305f\u50d5\u3002 \u611b\u5f13\u308a\u3087\u3046",
+    "size": "29.57 GB",
+    "actress": [
+      "\u611b\u5f13\u308a\u3087\u3046"
+    ],
+    "preview_img_url": "https://pics.dmm.co.jp/digital/video/juvr00218/juvr00218pl.jpg",
+    "sell_date": "2025/02/14",
+    "duration": "104\u5206",
+    "seed_download_link": "magnet:?xt=urn:btih:477f806fe36d7115f9ef52e76f9744ee17d4d510&dn=juvr-218&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce",
+    "director": [
+      "\u30b8\u30fc\u30cb\u30a2\u30b9\u819d"
+    ],
+    "maker": [
+      "\u30de\u30c9\u30f3\u30ca"
+    ],
+    "series": [],
+    "label": [
+      "MadonnaVR"
+    ],
+    "keyword": [
+      "\u30cf\u30a4\u30af\u30aa\u30ea\u30c6\u30a3VR",
+      "\u5358\u4f53\u4f5c\u54c1",
+      "\u4eba\u59bb\u30fb\u4e3b\u5a66",
+      "\u6c57\u3060\u304f",
+      "\u4e0d\u502b",
+      "\u4e2d\u51fa\u3057",
+      "\u719f\u5973",
+      "\u72ec\u5360\u914d\u4fe1",
+      "8KVR",
+      "VR\u5c02\u7528"
+    ]
+  },
+  {
+    "id": "juvr00216",
+    "title": "\u3010VR\u3011\u8d85\u9ad8\u753b\u8cea8K VR \u671d\u65e5\u308a\u304a\u306e\u300e\u7f8e\u30dc\u30c7\u30a3\u300f\u3092\u582a\u80fd\uff01\uff01 \u89aa\u621a\u4e00\u540c\u306e\u6e29\u6cc9\u65c5\u884c\u3067\u518d\u4f1a\u3057\u305f\u3044\u3068\u3053\u306e\u308a\u304a\u3055\u3093\uff08\u4eba\u59bb\uff09\u3068 \u671d\u307e\u3067\u6c57\u3060\u304f\u3067\u30e4\u30ea\u307e\u304f\u3063\u3066 \u9023\u7d9a\u4e2d\u51fa\u3057\u3082\u30ad\u30e1\u307e\u304f\u3063\u305f\u4e00\u6cca\u4e8c\u65e5",
+    "size": "22.82 GB",
+    "actress": [
+      "\u671d\u5983\u308a\u304a\uff08\u671d\u65e5\u308a\u304a\uff09"
+    ],
+    "preview_img_url": "https://pics.dmm.co.jp/digital/video/juvr00216/juvr00216pl.jpg",
+    "sell_date": "2025/02/14",
+    "duration": "94\u5206",
+    "seed_download_link": "magnet:?xt=urn:btih:2587ada4534b2fba4d29c26e7f65d0d22b0c33a8&dn=juvr-216&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce",
+    "director": [
+      "\u77e2\u6fa4\u30ec\u30b7\u30fc\u30d6"
+    ],
+    "maker": [
+      "\u30de\u30c9\u30f3\u30ca"
+    ],
+    "series": [],
+    "label": [
+      "MadonnaVR"
+    ],
+    "keyword": [
+      "VR\u5c02\u7528",
+      "8KVR",
+      "\u72ec\u5360\u914d\u4fe1",
+      "\u4e2d\u51fa\u3057",
+      "\u304a\u59c9\u3055\u3093",
+      "\u6c57\u3060\u304f",
+      "\u6e29\u6cc9",
+      "\u4eba\u59bb\u30fb\u4e3b\u5a66",
+      "\u5358\u4f53\u4f5c\u54c1",
+      "\u30cf\u30a4\u30af\u30aa\u30ea\u30c6\u30a3VR"
+    ]
+  },
+  {
+    "id": "ipvr00302",
+    "title": "\u3010VR\u3011\u8d85\u9ad8\u753b\u8cea8K\u6620\u50cf\uff01\u5f7c\u5973\u304c\u3044\u308b\u306e\u306b2\u4eba\u304d\u308a\u306b\u306a\u308b\u3068\u5bc6\u7740\u3055\u3055\u3084\u304d\u6deb\u8a9e\u3068\u3080\u306b\u3085\u3080\u306b\u3085\u30aa\u30c3\u30d1\u30a4\u8a98\u60d1\u3067\u30dc\u30af\u3092\u60d1\u308f\u305b\u3066\u304f\u308b\u5c0f\u60aa\u9b54\u59b9 \u9577\u5c3a135\u5206\uff012SEX\uff016\u5c04\u7cbe\uff01 \u5f79\u91ce\u6e80\u91cc\u5948",
+    "size": "27.97 GB",
+    "actress": [
+      "\u5f79\u91ce\u6e80\u91cc\u5948"
+    ],
+    "preview_img_url": "https://pics.dmm.co.jp/digital/video/ipvr00302/ipvr00302pl.jpg",
+    "sell_date": "2025/02/14",
+    "duration": "134\u5206",
+    "seed_download_link": "magnet:?xt=urn:btih:e3e7e4228f44dba08a86676add9e3a3f49374aaa&dn=ipvr-302&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce",
+    "director": [],
+    "maker": [
+      "\u30a2\u30a4\u30c7\u30a2\u30dd\u30b1\u30c3\u30c8"
+    ],
+    "series": [
+      "\u30a2\u30a4\u30dd\u30b18KVR"
+    ],
+    "label": [
+      "IP-VR"
+    ],
+    "keyword": [
+      "\u30cf\u30a4\u30af\u30aa\u30ea\u30c6\u30a3VR",
+      "8KVR",
+      "\u72ec\u5360\u914d\u4fe1",
+      "\u9a0e\u4e57\u4f4d",
+      "\u7f8e\u5c11\u5973",
+      "\u75f4\u5973",
+      "\u5358\u4f53\u4f5c\u54c1",
+      "\u5de8\u4e73",
+      "VR\u5c02\u7528"
+    ]
+  },
+  {
+    "id": "urvrsp00421",
+    "title": "\u3010VR\u3011\u30108K VR\u3011\u767a\u80b2\u7f8e\u4e73\u304c\u3053\u307c\u308c\u308b\u7121\u9632\u5099\u30ce\u30fc\u30d6\u30e9\u8a98\u60d1\u3067\u3042\u3056\u3068\u304f\u8ddd\u96e2\u611f\u3092\u8a70\u3081\u3066\u304f\u308b\u59ea\u3063\u5b50\u3068\u7406\u6027\u63fa\u3055\u3076\u3089\u308c\u307e\u304f\u308a\u306e\u540c\u5c45\u751f\u6d3b \u96db\u4e43\u3086\u306a",
+    "size": "10.10 GB",
+    "actress": [
+      "\u96db\u4e43\u3086\u306a"
+    ],
+    "preview_img_url": "https://pics.dmm.co.jp/digital/video/urvrsp00421/urvrsp00421pl.jpg",
+    "sell_date": "2025/02/14",
+    "duration": "72\u5206",
+    "seed_download_link": "magnet:?xt=urn:btih:f6d4bd12219aa57d5d65fdac772d6d16450229af&dn=urvrsp00421&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce",
+    "director": [
+      "DJ\u30b8\u30e3\u30e0"
+    ],
+    "maker": [
+      "unfinished"
+    ],
+    "series": [
+      "unfinished VR"
+    ],
+    "label": [
+      "Marrion Group VR"
+    ],
+    "keyword": [
+      "\u30cf\u30a4\u30af\u30aa\u30ea\u30c6\u30a3VR",
+      "\u5de8\u4e73",
+      "\u7f8e\u4e73",
+      "\u80f8\u30c1\u30e9",
+      "\u30b9\u30ec\u30f3\u30c0\u30fc",
+      "\u8fd1\u89aa\u76f8\u59e6",
+      "8KVR",
+      "\u72ec\u5360\u914d\u4fe1",
+      "VR\u5c02\u7528",
+      "\u5358\u4f53\u4f5c\u54c1",
+      "\u4e2d\u51fa\u3057"
+    ]
+  },
+  {
+    "id": "mdvr00336",
+    "title": "\u3010VR\u3011\u3010\u4ffa\u5c02\u7528\u30e1\u30a4\u30c9\u306f\u30c4\u30f3\u30c7\u30ec\u304c\u904e\u304e\u308b\u3011\u7d76\u5bfe\u306b\u8a00\u3044\u305f\u304f\u306a\u3044\u6065\u305a\u304b\u3057\u6deb\u8a9e\u3092\u9023\u547c\u3055\u305b\u3066\u610f\u5730\u60aa\u3057\u307e\u304f\u3063\u305f\u3089\u30c1\u25cf\u30dd\u63e1\u3063\u305f\u77ac\u9593\u306b\u30cb\u30e4\u30cb\u30e4\u9854\u3067\u30b7\u30b3\u3089\u308c\u307e\u304f\u308b\u7acb\u5834\u9006\u8ee2\u30a4\u30c1\u30e3\u30e9\u30d6SEX \u77f3\u5ddd\u6faa",
+    "size": "25.74 GB",
+    "actress": [
+      "\u77f3\u5ddd\u6faa"
+    ],
+    "preview_img_url": "https://pics.dmm.co.jp/digital/video/mdvr00336/mdvr00336pl.jpg",
+    "sell_date": "2025/02/13",
+    "duration": "131\u5206",
+    "seed_download_link": "magnet:?xt=urn:btih:478d40ef9a91c0b924c99b25d9634a6bdd7b0574&dn=mdvr00336&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce",
+    "director": [
+      "ZAMPA"
+    ],
+    "maker": [
+      "\u30e0\u30fc\u30c7\u30a3\u30fc\u30ba"
+    ],
+    "series": [
+      "MOODYZ 8KVR"
+    ],
+    "label": [
+      "MOODYZ VR"
+    ],
+    "keyword": [
+      "\u30cf\u30a4\u30af\u30aa\u30ea\u30c6\u30a3VR",
+      "\u5358\u4f53\u4f5c\u54c1",
+      "\u30e1\u30a4\u30c9",
+      "\u6deb\u8a9e",
+      "\u7f9e\u6065",
+      "\u75f4\u5973",
+      "\u4e3b\u89b3",
+      "\u72ec\u5360\u914d\u4fe1",
+      "8KVR",
+      "VR\u5c02\u7528"
+    ]
+  },
+  {
+    "id": "pxvr00241",
+    "title": "\u3010VR\u3011\u4ffa\u3092\u597d\u304d\u3059\u304e\u308b\u30c4\u30f3\u30c7\u30ec\u4e0a\u53f8\u306f\u591c\u306e\u30aa\u30d5\u30a3\u30b9\u3067\u8170\u632f\u308a\u304a\u306d\u3060\u308a\u3059\u308b \u6c34\u5ddd\u6f64\u30108K\u3011",
+    "size": "11.96 GB",
+    "actress": [
+      "\u6c34\u5ddd\u6f64"
+    ],
+    "preview_img_url": "https://pics.dmm.co.jp/digital/video/pxvr00241/pxvr00241pl.jpg",
+    "sell_date": "2025/02/12",
+    "duration": "76\u5206",
+    "seed_download_link": "magnet:?xt=urn:btih:733780657eb21238cbbd36360c74d479118da269&dn=pxvr00241&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce",
+    "director": [
+      "\u767d\u9ce5\u30cb\u30c9\u30df"
+    ],
+    "maker": [
+      "P-BOX VR"
+    ],
+    "series": [
+      "\u30a4\u30c1\u30e3\u30e9\u30d6\u5168\u958b\u5b8c\u5168\u53d7\u8eab"
+    ],
+    "label": [
+      "P-BOX VR"
+    ],
+    "keyword": [
+      "\u30cf\u30a4\u30af\u30aa\u30ea\u30c6\u30a3VR",
+      "\u5358\u4f53\u4f5c\u54c1",
+      "OL",
+      "\u9a0e\u4e57\u4f4d",
+      "\u5de8\u5c3b",
+      "\u30d5\u30a7\u30e9",
+      "\u4e2d\u51fa\u3057",
+      "\u72ec\u5360\u914d\u4fe1",
+      "8KVR",
+      "VR\u5c02\u7528"
+    ]
+  },
+  {
+    "id": "pxvr00240",
+    "title": "\u3010VR\u3011\u4ffa\u306e\u4e8b\u3068SEX\u304c\u597d\u304d\u3059\u304e\u308b\u6027\u6b32\u7206\u5f37\u306e\u6fc0\u30ab\u30ef\u5f7c\u5973\u3068\u30a4\u30c1\u30e3\u30e9\u30d6\u5168\u958b\u3067\u671d\u307e\u3067\u4f55\u5ea6\u3082\u4e2d\u51fa\u3057\u751f\u4ea4\u5c3e \u5bae\u57ce\u308a\u3048\u30108K\u3011",
+    "size": "14.46 GB",
+    "actress": [
+      "\u5bae\u57ce\u308a\u3048"
+    ],
+    "preview_img_url": "https://pics.dmm.co.jp/digital/video/pxvr00240/pxvr00240pl.jpg",
+    "sell_date": "2025/02/12",
+    "duration": "83\u5206",
+    "seed_download_link": "magnet:?xt=urn:btih:68ee1683cb157c2616f8c1fd440d0824dc11a94e&dn=pxvr00240&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce",
+    "director": [
+      "\u30a2\u30ab\u30ae\u5149\u4e00"
+    ],
+    "maker": [
+      "P-BOX VR"
+    ],
+    "series": [
+      "\u4ffa\u306e\u4e8b\u3068SEX\u304c\u597d\u304d\u3059\u304e\u308b"
+    ],
+    "label": [
+      "P-BOX VR"
+    ],
+    "keyword": [
+      "\u30cf\u30a4\u30af\u30aa\u30ea\u30c6\u30a3VR",
+      "\u5358\u4f53\u4f5c\u54c1",
+      "\u7f8e\u5c11\u5973",
+      "\u9a0e\u4e57\u4f4d",
+      "\u75f4\u5973",
+      "\u30d5\u30a7\u30e9",
+      "\u4e2d\u51fa\u3057",
+      "\u72ec\u5360\u914d\u4fe1",
+      "8KVR",
+      "VR\u5c02\u7528"
+    ]
+  },
+  {
+    "id": "meta00003",
+    "title": "\u3010VR\u3011\u73fe\u5f79\u30d0\u30fc\u30c1\u30e3\u30eb\u30a2\u30a4\u30c9\u30eb \u6b21\u5143\u30a2\u30a4\u30ea\u306e\u6fc3\u539a\u30a4\u30c1\u30e3\u75f4\u5973 \u7518\u3005\u5bc6\u7740\u30ce\u30f3\u30b9\u30c8\u30c3\u30d7\u643e\u7cbePlay\uff01",
+    "size": "7.51 GB",
+    "actress": [
+      "\u6b21\u5143\u30a2\u30a4\u30ea"
+    ],
+    "preview_img_url": "https://pics.dmm.co.jp/digital/video/meta00003/meta00003pl.jpg",
+    "sell_date": "2025/02/12",
+    "duration": "117\u5206",
+    "seed_download_link": "magnet:?xt=urn:btih:8bc3c4945b6d5e498a4ad50ab9827edaa23ac08e&dn=meta-003&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce",
+    "director": [
+      "\u30d7\u30ea\u30f3\u3042\u3089\u30c9\uff5e\u30e2\u3002"
+    ],
+    "maker": [
+      "\u30e1\u30bf\u30d7\u30ea"
+    ],
+    "series": [],
+    "label": [
+      "\u30e1\u30bf\u30d7\u30ea"
+    ],
+    "keyword": [
+      "\u5358\u4f53\u4f5c\u54c1",
+      "\u30cf\u30a4\u30af\u30aa\u30ea\u30c6\u30a3VR",
+      "VR\u5c02\u7528",
+      "\u72ec\u5360\u914d\u4fe1",
+      "3D",
+      "\u4e2d\u51fa\u3057",
+      "\u9a0e\u4e57\u4f4d",
+      "\u30d5\u30a7\u30e9",
+      "\u5de8\u4e73"
+    ]
+  },
+  {
+    "id": "savr00563",
+    "title": "\u3010VR\u3011\u3010\u548c\u4e45\u4e95\u7f8e\u514e \u9006\u30aa\u30d5\u30a1\u30fc\u4f01\u753b\u4f5c\u54c1\u3011\u75c5\u307f\u30bb\u30afVR\uff5e\u597d\u304d\u3060\u304b\u3089\u30d1\u30ad\u3063\u3061\u3083\u3046\u3001\u3053\u3093\u306a\u79c1\u3092\u3082\u3063\u3068\u898b\u3066 \u30aa\u30fc\u30d0\u30fc\u30c9\u30fc\u30baSEX\uff5e \u548c\u4e45\u4e95\u7f8e\u514e",
+    "size": "12.01 GB",
+    "actress": [
+      "\u548c\u4e45\u4e95\u7f8e\u514e"
+    ],
+    "preview_img_url": "https://pics.dmm.co.jp/digital/video/savr00563/savr00563pl.jpg",
+    "sell_date": "2025/02/11",
+    "duration": "84\u5206",
+    "seed_download_link": "magnet:?xt=urn:btih:bd6d9323c4dbe0de35a72ad5339cbc6aa7c9e5ea&dn=savr00563&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce",
+    "director": [
+      "\u30d4\u30f3\u30b5\u30ed\u5927\u597d\u304d\u30b9\u30ba\u30bf\u30b1\u3055\u3093"
+    ],
+    "maker": [
+      "KMPVR-\u5f69-"
+    ],
+    "series": [],
+    "label": [
+      "KMPVR-\u5f69-"
+    ],
+    "keyword": [
+      "\u30cf\u30a4\u30af\u30aa\u30ea\u30c6\u30a3VR",
+      "\u305d\u306e\u4ed6\u30d5\u30a7\u30c1",
+      "\u30c0\u30fc\u30af\u7cfb",
+      "\u4e2d\u51fa\u3057",
+      "\u9a0e\u4e57\u4f4d",
+      "\u72ec\u5360\u914d\u4fe1",
+      "VR\u5c02\u7528",
+      "\u5358\u4f53\u4f5c\u54c1",
+      "8KVR",
+      "\u5de8\u4e73"
+    ]
+  },
+  {
+    "id": "fcvr00039",
+    "title": "\u3010VR\u3011\u3010Fitch\u9ad8\u753b\u8cea 8K\u8089\u611fVR\u3011 \u6700\u9ad8\u7d1aW\u8089\u611f\u5171\u6f14\uff01\u7206\u4e73\u5c3b\u30b0\u30e9\u30de\u30e9\u30b9\u75f4\u5973\u306e\u7121\u9650M\u7537\u8cac\u3081\uff01\u5929\u4e95\u7279\u5316\u30b9\u30da\u30b7\u30e3\u30eb \u5915\u5b63\u3061\u3068\u305b \u6c38\u4e95\u30de\u30ea\u30a2",
+    "size": "23.25 GB",
+    "actress": [
+      "\u5915\u5b63\u3061\u3068\u305b",
+      "\u6c38\u4e95\u30de\u30ea\u30a2"
+    ],
+    "preview_img_url": "https://pics.dmm.co.jp/digital/video/fcvr00039/fcvr00039pl.jpg",
+    "sell_date": "2025/02/11",
+    "duration": "105\u5206",
+    "seed_download_link": "magnet:?xt=urn:btih:0d221011e4601f64e1c6758e343f9db8c6a23ebf&dn=fcvr00039&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce",
+    "director": [
+      "ZAMPA"
+    ],
+    "maker": [
+      "Fitch"
+    ],
+    "series": [],
+    "label": [
+      "Fitch\u8089\u611fVR"
+    ],
+    "keyword": [
+      "\u30cf\u30a4\u30af\u30aa\u30ea\u30c6\u30a3VR",
+      "8KVR",
+      "VR\u5c02\u7528",
+      "\u72ec\u5360\u914d\u4fe1",
+      "\u4e3b\u89b3",
+      "M\u7537",
+      "\u5de8\u5c3b",
+      "\u5de8\u4e73",
+      "\u75f4\u5973"
+    ]
+  },
+  {
+    "id": "sivr00392",
+    "title": "\u3010VR\u3011\u5929\u771f\u721b\u6f2b\u3067\u5143\u6c17\u3044\u3063\u3071\u3044\u306a\u30a2\u30ce\u5b50\u306f\u4e8c\u4eba\u304d\u308a\u306b\u306a\u308b\u3068\u6c50\u3089\u3057\u304f\u5f93\u9806\u3067\u8d85\u30c9M \u6700\u9ad8\u306e\u30bb\u30d5\u30ec\u3068\u5b8c\u5168\u3044\u3044\u306a\u308a\u6e29\u6cc9\u8abf\u6559\u30c7\u30fc\u30c8 \u6751\u4e0a\u60a0\u83ef",
+    "size": "21.26 GB",
+    "actress": [
+      "\u6751\u4e0a\u60a0\u83ef"
+    ],
+    "preview_img_url": "https://pics.dmm.co.jp/digital/video/sivr00392/sivr00392pl.jpg",
+    "sell_date": "2025/02/10",
+    "duration": "97\u5206",
+    "seed_download_link": "magnet:?xt=urn:btih:4edd4c05abc999ba7b36cbb3f0b3effb79a3d76c&dn=sivr00392&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce",
+    "director": [
+      "\u3053\u3042\u3089\u592a\u90ce\uff08\u308f\uff09"
+    ],
+    "maker": [
+      "\u30a8\u30b9\u30ef\u30f3 \u30ca\u30f3\u30d0\u30fc\u30ef\u30f3\u30b9\u30bf\u30a4\u30eb"
+    ],
+    "series": [
+      "S1 VR"
+    ],
+    "label": [
+      "S1 VR"
+    ],
+    "keyword": [
+      "\u30cf\u30a4\u30af\u30aa\u30ea\u30c6\u30a3VR",
+      "\u5358\u4f53\u4f5c\u54c1",
+      "\u548c\u670d\u30fb\u6d74\u8863",
+      "\u62d8\u675f",
+      "M\u5973",
+      "\u30a4\u30e9\u30de\u30c1\u30aa",
+      "\u4e3b\u89b3",
+      "\u72ec\u5360\u914d\u4fe1",
+      "8KVR",
+      "VR\u5c02\u7528"
+    ]
+  },
+  {
+    "id": "urvrsp00415",
+    "title": "\u3010VR\u3011\u30108K VR\u3011\u8133\u304c\u30c8\u30ed\u3051\u308b\u307b\u3069\u306e\u597d\u304d\u597d\u304d\u6d17\u8133\u653b\u6483\u3067\u6559\u3048\u5b50\u306b\u624b\u7c60\u3081\u306b\u3055\u308c\u305f\u5bb6\u5ead\u6559\u5e2b\u306e\u30dc\u30af \u3086\u3081\u8389\u308a\u304b",
+    "size": "11.52 GB",
+    "actress": [
+      "\u3086\u3081\u8389\u308a\u304b"
+    ],
+    "preview_img_url": "https://pics.dmm.co.jp/digital/video/urvrsp00415/urvrsp00415pl.jpg",
+    "sell_date": "2025/02/10",
+    "duration": "82\u5206",
+    "seed_download_link": "magnet:?xt=urn:btih:df74efd705fa3a9a449ebdcf568db09b3ea5d519&dn=urvrsp00415&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce",
+    "director": [
+      "DJ\u30b8\u30e3\u30e0"
+    ],
+    "maker": [
+      "unfinished"
+    ],
+    "series": [
+      "unfinished VR"
+    ],
+    "label": [
+      "Marrion Group VR"
+    ],
+    "keyword": [
+      "\u30cf\u30a4\u30af\u30aa\u30ea\u30c6\u30a3VR",
+      "\u5973\u5b50\u6821\u751f",
+      "\u5b66\u751f\u670d",
+      "\u5236\u670d",
+      "\u5bb6\u5ead\u6559\u5e2b",
+      "\u7f8e\u4e73",
+      "8KVR",
+      "\u72ec\u5360\u914d\u4fe1",
+      "VR\u5c02\u7528",
+      "\u5358\u4f53\u4f5c\u54c1",
+      "\u4e2d\u51fa\u3057"
+    ]
+  },
+  {
+    "id": "vrkm01535",
+    "title": "\u3010VR\u3011\u7f8e\u767d\u30b9\u30ec\u30f3\u30c0\u30fc\u00d7\u30d9\u30ed\u30c6\u30af\u5bc6\u7740\u6307\u5c0e \u75f4\u5973\u30c8\u30ec\u30fc\u30ca\u30fc\u306a\u307f\u3055\u3093\u306e\u5c04\u7cbe\u30b5\u30dd\u30fc\u30c8\u30ec\u30c3\u30b9\u30f3 \u6238\u5ddd\u306a\u307f",
+    "size": "7.20 GB",
+    "actress": [
+      "\u6238\u5ddd\u306a\u307f"
+    ],
+    "preview_img_url": "https://pics.dmm.co.jp/digital/video/vrkm01535/vrkm01535pl.jpg",
+    "sell_date": "2025/02/09",
+    "duration": "75\u5206",
+    "seed_download_link": "magnet:?xt=urn:btih:a740efb8884ffe114675ec4dc7d07f60cff8f473&dn=vrkm01535&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce",
+    "director": [
+      "\u30cf\u30eb\u30af\u30fb\u30b3\u30fc\u30ac\u30f3"
+    ],
+    "maker": [
+      "\u30b1\u30a4\u30fb\u30a8\u30e0\u30fb\u30d7\u30ed\u30c7\u30e5\u30fc\u30b9"
+    ],
+    "series": [],
+    "label": [
+      "KMPVR"
+    ],
+    "keyword": [
+      "\u30cf\u30a4\u30af\u30aa\u30ea\u30c6\u30a3VR",
+      "8KVR",
+      "\u5358\u4f53\u4f5c\u54c1",
+      "VR\u5c02\u7528",
+      "\u4e2d\u51fa\u3057",
+      "\u9a0e\u4e57\u4f4d",
+      "\u30b9\u30ec\u30f3\u30c0\u30fc",
+      "\u75f4\u5973"
+    ]
+  },
+  {
+    "id": "savr00577",
+    "title": "\u3010VR\u3011\u7530\u820e\u30ae\u30e3\u30eb\u306e\u6027\u6b32\u306f\u2026\u30d1\u306a\u3044\u3088\uff1f \u82e5\u3044\u7537\u306e\u3044\u306a\u3044\u30c9\u7530\u820e\u3001\u5e7c\u99b4\u67d3\u306e\u30ae\u30e3\u30ebJ\u25cf\u306b\u62bc\u3057\u5012\u3055\u308c\u3066\u671d\u307e\u3067\u6c57\u3060\u304f\u30ca\u30de\u6027\u4ea4 \u6625\u967d\u30e2\u30ab",
+    "size": "10.76 GB",
+    "actress": [
+      "\u6625\u967d\u30e2\u30ab"
+    ],
+    "preview_img_url": "https://pics.dmm.co.jp/digital/video/savr00577/savr00577pl.jpg",
+    "sell_date": "2025/02/09",
+    "duration": "69\u5206",
+    "seed_download_link": "magnet:?xt=urn:btih:e55e5d813d4ac8f27a5a8273064456e11020fbed&dn=savr00577&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce",
+    "director": [
+      "\u30cf\u30e1\u30e9\u30cb\u30a2\u30f3\u4eac\u90fd"
+    ],
+    "maker": [
+      "KMPVR-\u5f69-"
+    ],
+    "series": [],
+    "label": [
+      "KMPVR-\u5f69-"
+    ],
+    "keyword": [
+      "\u30cf\u30a4\u30af\u30aa\u30ea\u30c6\u30a3VR",
+      "\u5358\u4f53\u4f5c\u54c1",
+      "\u4e2d\u51fa\u3057",
+      "\u30ae\u30e3\u30eb",
+      "\u6c57\u3060\u304f",
+      "\u5de8\u4e73",
+      "\u5973\u5b50\u6821\u751f",
+      "\u72ec\u5360\u914d\u4fe1",
+      "8KVR",
+      "VR\u5c02\u7528"
+    ]
+  },
+  {
+    "id": "mdvr00334",
+    "title": "\u3010VR\u3011\u4f1a\u793e\u30a4\u30c1\u53ef\u611b\u304f\u3066\u6c17\u3055\u304f\u306a\u5973\u4e0a\u53f8\u3068\u7d42\u96fb\u9003\u304c\u3057\u3066\u5b85\u98f2\u307f\u7d99\u7d9a\u30c3\u2026\uff01 \u9154\u3044\u3069\u308c\u7518\u3005\u30d9\u30ed\u30ad\u30b9\u9b54\u306e\u5168\u4f53\u4f4d\u30ad\u30b9\u30ad\u30b9\u4e2d\u51fa\u3057SEX\u306b\u307e\u307f\u308c\u305f\u6700\u9ad8\u306e\u4e00\u65e5\u2026\u3002 \u8475\u3044\u3076\u304d",
+    "size": "35.39 GB",
+    "actress": [
+      "\u8475\u3044\u3076\u304d"
+    ],
+    "preview_img_url": "https://pics.dmm.co.jp/digital/video/mdvr00334/mdvr00334pl.jpg",
+    "sell_date": "2025/02/08",
+    "duration": "170\u5206",
+    "seed_download_link": "magnet:?xt=urn:btih:efd2d59dfb59a61c5837e291e67d8ef1cf63f8d3&dn=mdvr00334&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce",
+    "director": [
+      "\u6fe1\u308c\u305f\u5b50\u72ac"
+    ],
+    "maker": [
+      "\u30e0\u30fc\u30c7\u30a3\u30fc\u30ba"
+    ],
+    "series": [
+      "MOODYZ 8KVR"
+    ],
+    "label": [
+      "MOODYZ VR"
+    ],
+    "keyword": [
+      "\u30cf\u30a4\u30af\u30aa\u30ea\u30c6\u30a3VR",
+      "\u5358\u4f53\u4f5c\u54c1",
+      "\u5973\u4e0a\u53f8",
+      "\u75f4\u5973",
+      "\u30ad\u30b9\u30fb\u63a5\u543b",
+      "\u9a0e\u4e57\u4f4d",
+      "\u4e2d\u51fa\u3057",
+      "\u72ec\u5360\u914d\u4fe1",
+      "8KVR",
+      "VR\u5c02\u7528"
+    ]
+  },
+  {
+    "id": "hnvr00139",
+    "title": "\u3010VR\u3011\u305f\u3060\u3072\u305f\u3059\u3089\u306b\u30a8\u30ed\u3044\u4e2d\u51fa\u3057 \u795e\u30c6\u30af\u30cb\u30c3\u30af\u3092\u6301\u3064\u3068\u3044\u3046\u88cf\u57a2\u7537\u5b50\u306e\u50d5\u306bDM\u3092\u304a\u304f\u3063\u3066\u304d\u3066\u9001\u3063\u3066\u6765\u3066\u4f1a\u3044\u306b\u6765\u305fAV\u5973\u512a\u306e\u3042\u304b\u308a\u3093\u3068\u672c\u80fd\u306e\u307e\u307e\u306b\u3084\u308a\u307e\u304f\u3063\u305f\u3002 \u7f8e\u8c37\u6731\u97f3",
+    "size": "19.02 GB",
+    "actress": [
+      "\u7f8e\u8c37\u6731\u97f3\uff08\u7f8e\u8c37\u6731\u91cc\uff09"
+    ],
+    "preview_img_url": "https://pics.dmm.co.jp/digital/video/hnvr00139/hnvr00139pl.jpg",
+    "sell_date": "2025/02/08",
+    "duration": "93\u5206",
+    "seed_download_link": "magnet:?xt=urn:btih:ecaabf7ba8a83d9c6c5ad80c8b9f14c0074d45c2&dn=hnvr00139&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce",
+    "director": [
+      "ZAMPA"
+    ],
+    "maker": [
+      "\u672c\u4e2d"
+    ],
+    "series": [
+      "\u672c\u4e2d-VR"
+    ],
+    "label": [
+      "\u672c\u4e2d-VR"
+    ],
+    "keyword": [
+      "\u30cf\u30a4\u30af\u30aa\u30ea\u30c6\u30a3VR",
+      "\u4e2d\u51fa\u3057",
+      "\u30b9\u30ec\u30f3\u30c0\u30fc",
+      "\u30d5\u30a7\u30e9",
+      "\u9a0e\u4e57\u4f4d",
+      "\u30ad\u30b9\u30fb\u63a5\u543b",
+      "\u72ec\u5360\u914d\u4fe1",
+      "VR\u5c02\u7528",
+      "8KVR",
+      "\u5358\u4f53\u4f5c\u54c1"
+    ]
+  },
+  {
+    "id": "savr00550",
+    "title": "\u3010VR\u3011\u8ab0\u3088\u308a\u3082\u50d5\u3092\u597d\u304d\u3067\u3044\u3066\u304f\u308c\u308b\u5f7c\u5973\u3068\u611b\u304c\u91cd\u3044\u540c\u68f2\u30e9\u30a4\u30d5\uff01\uff01\u30dc\u30af\u306e\u6d6e\u6c17\u3092\u7591\u3063\u3066\u4f53\u5185\u307e\u3067\u72ec\u5360\u3059\u308b\u30e8\u30c0\u30ec\u98f2\u307e\u305b\u6027\u4ea4 \u658e\u85e4\u3042\u307f\u308a",
+    "size": "11.92 GB",
+    "actress": [
+      "\u658e\u85e4\u3042\u307f\u308a"
+    ],
+    "preview_img_url": "https://pics.dmm.co.jp/digital/video/savr00550/savr00550pl.jpg",
+    "sell_date": "2025/02/08",
+    "duration": "73\u5206",
+    "seed_download_link": "magnet:?xt=urn:btih:1a04e7cdd7a6f6b4fc3560cf5f06e73a1af928d6&dn=savr00550&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce",
+    "director": [
+      "\u66fe\u6839\u5927\u5922@\u4e2d\u91ce"
+    ],
+    "maker": [
+      "KMPVR-\u5f69-"
+    ],
+    "series": [],
+    "label": [
+      "KMPVR-\u5f69-"
+    ],
+    "keyword": [
+      "\u30cf\u30a4\u30af\u30aa\u30ea\u30c6\u30a3VR",
+      "\u4e2d\u51fa\u3057",
+      "\u30d5\u30a7\u30e9",
+      "\u30ad\u30b9\u30fb\u63a5\u543b",
+      "\u30b9\u30ec\u30f3\u30c0\u30fc",
+      "\u72ec\u5360\u914d\u4fe1",
+      "VR\u5c02\u7528",
+      "\u5358\u4f53\u4f5c\u54c1",
+      "8KVR",
+      "\u7f8e\u5c11\u5973"
+    ]
+  },
+  {
+    "id": "urvrsp00410",
+    "title": "\u3010VR\u3011\u30108K VR\u3011\u7279\u5225\u6307\u5c0e \u30c6\u30cb\u30b9\u90e83\u5e74 \u5317\u5ca1\u679c\u6797",
+    "size": "8.63 GB",
+    "actress": [
+      "\u5317\u5ca1\u679c\u6797"
+    ],
+    "preview_img_url": "https://pics.dmm.co.jp/digital/video/urvrsp00410/urvrsp00410pl.jpg",
+    "sell_date": "2025/02/07",
+    "duration": "70\u5206",
+    "seed_download_link": "magnet:?xt=urn:btih:b462404383fb0fa092476fd496cfa569a4be1a40&dn=urvrsp00410&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce",
+    "director": [
+      "\u51db\u3005\uff08un\uff09"
+    ],
+    "maker": [
+      "unfinished"
+    ],
+    "series": [
+      "unfinished VR"
+    ],
+    "label": [
+      "Marrion Group VR"
+    ],
+    "keyword": [
+      "\u30cf\u30a4\u30af\u30aa\u30ea\u30c6\u30a3VR",
+      "\u90e8\u6d3b\u30fb\u30de\u30cd\u30fc\u30b8\u30e3\u30fc",
+      "\u5973\u5b50\u6821\u751f",
+      "\u7f8e\u5c11\u5973",
+      "\u5b66\u751f\u670d",
+      "8KVR",
+      "\u72ec\u5360\u914d\u4fe1",
+      "VR\u5c02\u7528",
+      "\u5358\u4f53\u4f5c\u54c1",
+      "\u4e2d\u51fa\u3057"
+    ]
+  },
+  {
+    "id": "ipvr00297",
+    "title": "\u3010VR\u3011\u8d85\u9ad8\u753b\u8cea8K\u6620\u50cf\uff01\u5f7c\u5973\u304c\u3044\u308b\u306e\u306b\u5bc6\u7740\u3055\u3055\u3084\u304d\u6deb\u8a9e\u3068\u7f8e\u811a\u8a98\u60d1\u3067\u30dc\u30af\u3092\u53e3\u8aac\u3044\u3066\u304f\u308b\u30a8\u30c3\u30c1\u306a\u304a\u59c9\u3055\u3093 \u9577\u5c3a133\u5206\uff012SEX\uff016\u5c04\u7cbe\uff01 \u53e4\u5ddd\u307b\u306e\u304b",
+    "size": "27.12 GB",
+    "actress": [
+      "\u53e4\u5ddd\u307b\u306e\u304b"
+    ],
+    "preview_img_url": "https://pics.dmm.co.jp/digital/video/ipvr00297/ipvr00297pl.jpg",
+    "sell_date": "2025/02/07",
+    "duration": "133\u5206",
+    "seed_download_link": "magnet:?xt=urn:btih:612936e7ecd948d90c45694c5a45ec055b1194de&dn=ipvr00297&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce",
+    "director": [],
+    "maker": [
+      "\u30a2\u30a4\u30c7\u30a2\u30dd\u30b1\u30c3\u30c8"
+    ],
+    "series": [],
+    "label": [
+      "IP-VR"
+    ],
+    "keyword": [
+      "\u30cf\u30a4\u30af\u30aa\u30ea\u30c6\u30a3VR",
+      "8KVR",
+      "\u72ec\u5360\u914d\u4fe1",
+      "\u304a\u59c9\u3055\u3093",
+      "\u9a0e\u4e57\u4f4d",
+      "\u5358\u4f53\u4f5c\u54c1",
+      "\u811a\u30d5\u30a7\u30c1",
+      "\u75f4\u5973",
+      "VR\u5c02\u7528"
+    ]
+  },
+  {
+    "id": "savr00564",
+    "title": "\u3010VR\u3011\u591c\u306f\u6deb\u4e71\u30de\u30be\u3001\u671d\u306f\u7d76\u502b\u30b5\u30c9\u3002\u98f2\u307f\u5c4b\u3067\u77e5\u308a\u5408\u3063\u305f\u9ad8\u5dba\u306e\u304a\u59c9\u3055\u3093\u3002\u304a\u6301\u3061\u5e30\u308a\u3057\u305f\u6b21\u306e\u65e5\u3001\u4f55\u5ea6\u3082\u30a4\u30ab\u305b\u305f\u5973\u306b\u4f55\u5ea6\u3082\u30a4\u30ab\u3055\u308c\u3066\u2026\u3002",
+    "size": "10.39 GB",
+    "actress": [],
+    "preview_img_url": "https://pics.dmm.co.jp/digital/video/savr00564/savr00564pl.jpg",
+    "sell_date": "2025/02/07",
+    "duration": "72\u5206",
+    "seed_download_link": "magnet:?xt=urn:btih:73f567e4c4146e8db93034e3bb8f0695b3cddeb3&dn=savr00564&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce",
+    "director": [
+      "\u5473\u564c\u716eKOMI"
+    ],
+    "maker": [
+      "KMPVR-\u5f69-"
+    ],
+    "series": [],
+    "label": [
+      "KMPVR-\u5f69-"
+    ],
+    "keyword": [
+      "\u30cf\u30a4\u30af\u30aa\u30ea\u30c6\u30a3VR",
+      "8KVR",
+      "VR\u5c02\u7528",
+      "\u72ec\u5360\u914d\u4fe1",
+      "\u30b9\u30ec\u30f3\u30c0\u30fc",
+      "\u7f8e\u5c11\u5973",
+      "\u7f8e\u4e73",
+      "\u4e2d\u51fa\u3057",
+      "\u4e3b\u89b3"
+    ]
+  },
+  {
+    "id": "sivr00391",
+    "title": "\u3010VR\u3011\u5e74\u4e0b\u306e\u50d5\u3092\u72c2\u308f\u305b\u308b\u7f8e\u4eba\u3067\u63a8\u3057\u306b\u5f31\u304f\u3066\u3061\u3087\u3063\u3074\u308a\u30a8\u30c3\u30c1\u306a\u5e74\u4e0a\u306e\u5bb6\u5ead\u6559\u5e2b \u5152\u7389\u4e03\u6d77",
+    "size": "16.19 GB",
+    "actress": [
+      "\u5152\u7389\u4e03\u6d77"
+    ],
+    "preview_img_url": "https://pics.dmm.co.jp/digital/video/sivr00391/sivr00391pl.jpg",
+    "sell_date": "2025/02/06",
+    "duration": "85\u5206",
+    "seed_download_link": "magnet:?xt=urn:btih:ce613d18e49e6abbdfbb4e579e75dec70e74f545&dn=sivr00391&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce",
+    "director": [
+      "\u6fe1\u308c\u305f\u5b50\u72ac"
+    ],
+    "maker": [
+      "\u30a8\u30b9\u30ef\u30f3 \u30ca\u30f3\u30d0\u30fc\u30ef\u30f3\u30b9\u30bf\u30a4\u30eb"
+    ],
+    "series": [
+      "S1 VR"
+    ],
+    "label": [
+      "S1 VR"
+    ],
+    "keyword": [
+      "\u30cf\u30a4\u30af\u30aa\u30ea\u30c6\u30a3VR",
+      "\u30b9\u30ec\u30f3\u30c0\u30fc",
+      "\u75f4\u5973",
+      "\u6deb\u8a9e",
+      "\u4e3b\u89b3",
+      "\u72ec\u5360\u914d\u4fe1",
+      "VR\u5c02\u7528",
+      "\u5358\u4f53\u4f5c\u54c1",
+      "8KVR",
+      "\u5bb6\u5ead\u6559\u5e2b"
+    ]
+  },
+  {
+    "id": "urvrsp00409",
+    "title": "\u3010VR\u3011\u30108K VR\u3011\u5f37\u8c6a\u30b5\u30c3\u30ab\u30fc\u90e8\u3092\u652f\u3048\u308b\u5065\u6c17\u3067\u5fc3\u512a\u3057\u3044\u6027\u6b32\u51e6\u7406\u62c5\u5f53\u30de\u30cd\u30fc\u30b8\u30e3\u30fc\u304c\u90e8\u6d3b\u7d42\u308f\u308a\u306b\u4f7f\u3044\u6368\u3066\u30aa\u30ca\u30db\u30fc\u30eb\u306b\u3055\u308c\u3066\u3044\u307e\u3059\u3002 \u67cf\u6728\u3053\u306a\u3064",
+    "size": "8.93 GB",
+    "actress": [
+      "\u67cf\u6728\u3053\u306a\u3064"
+    ],
+    "preview_img_url": "https://pics.dmm.co.jp/digital/video/urvrsp00409/urvrsp00409pl.jpg",
+    "sell_date": "2025/02/06",
+    "duration": "74\u5206",
+    "seed_download_link": "magnet:?xt=urn:btih:28164e79e43b5edf257a5694adafe9a2ed025c7c&dn=urvrsp00409&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce",
+    "director": [
+      "\u77e2\u6fa4\u30ec\u30b7\u30fc\u30d6"
+    ],
+    "maker": [
+      "unfinished"
+    ],
+    "series": [
+      "unfinished VR"
+    ],
+    "label": [
+      "Marrion Group VR"
+    ],
+    "keyword": [
+      "\u30cf\u30a4\u30af\u30aa\u30ea\u30c6\u30a3VR",
+      "\u90e8\u6d3b\u30fb\u30de\u30cd\u30fc\u30b8\u30e3\u30fc",
+      "\u5973\u5b50\u6821\u751f",
+      "\u4f53\u64cd\u7740\u30fb\u30d6\u30eb\u30de",
+      "\u7f8e\u5c11\u5973",
+      "\u5e7c\u306a\u3058\u307f",
+      "8KVR",
+      "\u72ec\u5360\u914d\u4fe1",
+      "VR\u5c02\u7528",
+      "\u5358\u4f53\u4f5c\u54c1",
+      "\u4e2d\u51fa\u3057"
+    ]
+  },
+  {
+    "id": "13dsvr01703",
+    "title": "\u3010VR\u3011\u30108K\u3011\u83ef\u9e97\u5954\u653e\u3059\u304e\u308b\u5e30\u56fd\u2019\u75f4\u5973\u2019\u3068PtoM\u30b5\u30f3\u30d0\u30ab\u30fc\u30cb\u30d0\u30eb \uff5e\u8e0a\u308c\uff01\u3057\u3083\u3076\u308c\uff01\u8170\u3092\u632f\u308c\uff01\uff5e \u68ee\u65e5\u5411\u5b50",
+    "size": "15.54 GB",
+    "actress": [
+      "\u68ee\u65e5\u5411\u5b50"
+    ],
+    "preview_img_url": "https://pics.dmm.co.jp/digital/video/13dsvr01703/13dsvr01703pl.jpg",
+    "sell_date": "2025/02/06",
+    "duration": "75\u5206",
+    "seed_download_link": "magnet:?xt=urn:btih:02f0dfda864bea167a455e4ecda3012c07a65599&dn=dsvr01703&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce",
+    "director": [
+      "\u732b\u53c8\u3088\u3084"
+    ],
+    "maker": [
+      "SOD\u30af\u30ea\u30a8\u30a4\u30c8"
+    ],
+    "series": [],
+    "label": [
+      "SODVR"
+    ],
+    "keyword": [
+      "\u30cf\u30a4\u30af\u30aa\u30ea\u30c6\u30a3VR",
+      "8KVR",
+      "\u5358\u4f53\u4f5c\u54c1",
+      "VR\u5c02\u7528",
+      "\u30c0\u30f3\u30b9",
+      "\u30bb\u30af\u30b7\u30fc",
+      "\u5de8\u4e73",
+      "\u75f4\u5973",
+      "\u5973\u5b50\u6821\u751f"
+    ]
+  },
+  {
+    "id": "vrkm01485",
+    "title": "\u3010VR\u3011\u3042\u306a\u305f\u306f\u7f8e\u5712\u548c\u82b1\u306e\u9a0e\u4e57\u4f4d\u306b\u8010\u3048\u3089\u308c\u307e\u3059\u304b\uff1f",
+    "size": "12.02 GB",
+    "actress": [
+      "\u7f8e\u5712\u548c\u82b1"
+    ],
+    "preview_img_url": "https://pics.dmm.co.jp/digital/video/vrkm01485/vrkm01485pl.jpg",
+    "sell_date": "2025/02/05",
+    "duration": "87\u5206",
+    "seed_download_link": "magnet:?xt=urn:btih:bef1638723804beb628144f65cfb324808b8045a&dn=vrkm01485&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce",
+    "director": [
+      "\u5bae\u8feb\u30e1\u30f3\u30d0\u30fc"
+    ],
+    "maker": [
+      "\u30b1\u30a4\u30fb\u30a8\u30e0\u30fb\u30d7\u30ed\u30c7\u30e5\u30fc\u30b9"
+    ],
+    "series": [
+      "\u30b7\u30f3\u30fb\u5929\u4e95\u7279\u5316\u30a2\u30f3\u30b0\u30eb"
+    ],
+    "label": [
+      "KMPVR"
+    ],
+    "keyword": [
+      "\u30cf\u30a4\u30af\u30aa\u30ea\u30c6\u30a3VR",
+      "8KVR",
+      "\u5358\u4f53\u4f5c\u54c1",
+      "VR\u5c02\u7528",
+      "\u4e2d\u51fa\u3057",
+      "\u9a0e\u4e57\u4f4d",
+      "\u5de8\u4e73",
+      "\u4e3b\u89b3"
+    ]
+  },
+  {
+    "id": "hnvr00151",
+    "title": "\u3010VR\u30114\u4eba\u3067\u30af\u30e9\u30b9\u306e\u7537\u5b50\u5168\u54e1\u5352\u696d\u3055\u305b\u307e\u3057\u305f \u9234\u97f3\u307e\u3086 \u767d\u77f3\u3082\u3082 \u4e45\u548c\u539f\u305b\u3044\u3089 \u5317\u5ca1\u679c\u6797",
+    "size": "27.04 GB",
+    "actress": [
+      "\u9234\u97f3\u307e\u3086",
+      "\u767d\u77f3\u3082\u3082",
+      "\u4e45\u548c\u539f\u305b\u3044\u3089",
+      "\u5317\u5ca1\u679c\u6797"
+    ],
+    "preview_img_url": "https://pics.dmm.co.jp/digital/video/hnvr00151/hnvr00151pl.jpg",
+    "sell_date": "2025/02/05",
+    "duration": "137\u5206",
+    "seed_download_link": "magnet:?xt=urn:btih:e8a8e2ace2d01f15e50554138d8f76b29e28fb2e&dn=hnvr00151&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce",
+    "director": [
+      "\u30b8\u30fc\u30cb\u30a2\u30b9\u819d"
+    ],
+    "maker": [
+      "\u672c\u4e2d"
+    ],
+    "series": [
+      "\u672c\u4e2d-VR"
+    ],
+    "label": [
+      "\u672c\u4e2d-VR"
+    ],
+    "keyword": [
+      "\u30cf\u30a4\u30af\u30aa\u30ea\u30c6\u30a3VR",
+      "8KVR",
+      "VR\u5c02\u7528",
+      "\u72ec\u5360\u914d\u4fe1",
+      "\u9a0e\u4e57\u4f4d",
+      "\u7f8e\u5c11\u5973",
+      "\u5236\u670d",
+      "\u30cf\u30fc\u30ec\u30e0",
+      "\u4e2d\u51fa\u3057"
+    ]
+  },
+  {
+    "id": "pxvr00242",
+    "title": "\u3010VR\u301110\u56de\u767a\u5c04\u3059\u308b\u307e\u3067\u7d42\u308f\u3089\u306a\u3044\u8d85\u51c4\u30d7\u30ec\u30a4\u3067\u30b6\u30fc\u30e1\u30f3\u643e\u53d6\uff01\u6b62\u307e\u3089\u306a\u3044\u9023\u7d9a\u653b\u6483\u3067\u30c1\u3007\u30dd\u3092\u8972\u3046\u30ca\u30de\u4e2d\u51fa\u3057\u5de8\u4e73\u75f4\u5973\u98a8\u4fd7\uff01 \u693f\u308a\u304b\u30108K\u3011",
+    "size": "13.55 GB",
+    "actress": [
+      "\u693f\u308a\u304b"
+    ],
+    "preview_img_url": "https://pics.dmm.co.jp/digital/video/pxvr00242/pxvr00242pl.jpg",
+    "sell_date": "2025/02/05",
+    "duration": "74\u5206",
+    "seed_download_link": "magnet:?xt=urn:btih:4e950cd589d5e48c1eeb43ae32bbce1f80f8248f&dn=pxvr00242&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce",
+    "director": [
+      "\u30ea\u30d0\u30d5\u30a3\u30fc\u5c06"
+    ],
+    "maker": [
+      "P-BOX VR"
+    ],
+    "series": [
+      "10\u56de\u767a\u5c04\u3059\u308b\u307e\u3067\u7d42\u308f\u3089\u306a\u3044\u75f4\u5973\u98a8\u4fd7"
+    ],
+    "label": [
+      "P-BOX VR"
+    ],
+    "keyword": [
+      "\u30cf\u30a4\u30af\u30aa\u30ea\u30c6\u30a3VR",
+      "\u5358\u4f53\u4f5c\u54c1",
+      "\u5de8\u4e73",
+      "\u75f4\u5973",
+      "\u9a0e\u4e57\u4f4d",
+      "\u30d5\u30a7\u30e9",
+      "\u4e2d\u51fa\u3057",
+      "\u72ec\u5360\u914d\u4fe1",
+      "8KVR",
+      "VR\u5c02\u7528"
+    ]
+  },
+  {
+    "id": "pxvr00237",
+    "title": "\u3010VR\u3011\u7aff\u643e\u308a \u6ce5\u25cf\u3057\u3066\u671d\u307e\u3067\u30c1\u25cf\u30b3\u30b7\u30b4\u304b\u308c\u308b\uff08\u60aa\uff09\u5922\u306e\u3088\u3046\u306a\u30ef\u30f3\u30ca\u30a4\u30c8\u7f8e\u5712\u548c\u82b1\u30108K\u3011",
+    "size": "11.08 GB",
+    "actress": [
+      "\u7f8e\u5712\u548c\u82b1"
+    ],
+    "preview_img_url": "https://pics.dmm.co.jp/digital/video/pxvr00237/pxvr00237pl.jpg",
+    "sell_date": "2025/02/05",
+    "duration": "72\u5206",
+    "seed_download_link": "magnet:?xt=urn:btih:9a6bd8b2e8753c37426483137b42877415841f7d&dn=pxvr00237&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce",
+    "director": [
+      "\u767d\u9ce5\u30cb\u30c9\u30df"
+    ],
+    "maker": [
+      "P-BOX VR"
+    ],
+    "series": [
+      "\u7d42\u96fb\u9003\u3057\u3066\u5b85\u98f2\u307f"
+    ],
+    "label": [
+      "P-BOX VR"
+    ],
+    "keyword": [
+      "\u30cf\u30a4\u30af\u30aa\u30ea\u30c6\u30a3VR",
+      "\u5358\u4f53\u4f5c\u54c1",
+      "\u75f4\u5973",
+      "\u9a0e\u4e57\u4f4d",
+      "\u4e2d\u51fa\u3057",
+      "\u5de8\u4e73",
+      "\u72ec\u5360\u914d\u4fe1",
+      "8KVR",
+      "VR\u5c02\u7528"
+    ]
+  },
+  {
+    "id": "hnvr00154",
+    "title": "\u3010VR\u3011\u8239\u6a4b\u767a\u30b5\u30a6\u30ca\u30ec\u30c7\u30a3\u306e\u738b\u69d8\u30b3\u30fc\u30b9\u4f53\u9a13 \u30a2\u30ab\u30b9\u30ea\uff5e\u6d17\u4f53\uff5e\u79d8\u5bc6\u306e\u4e2d\u51fa\u3057\u30de\u30c3\u30b5\u30fc\u30b8\u4ed8\u30d5\u30eb\u30b3\u30fc\u30b9 \u5317\u91ce\u672a\u5948",
+    "size": "23.01 GB",
+    "actress": [
+      "\u5317\u91ce\u672a\u5948"
+    ],
+    "preview_img_url": "https://pics.dmm.co.jp/digital/video/hnvr00154/hnvr00154pl.jpg",
+    "sell_date": "2025/02/04",
+    "duration": "105\u5206",
+    "seed_download_link": "magnet:?xt=urn:btih:425945bc10f2917b027d27eb78e7a852243ccfc3&dn=hnvr00154&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce",
+    "director": [
+      "\u3053\u3042\u3089\u592a\u90ce\uff08\u308f\uff09"
+    ],
+    "maker": [
+      "\u672c\u4e2d"
+    ],
+    "series": [
+      "\u672c\u4e2d-VR"
+    ],
+    "label": [
+      "\u672c\u4e2d-VR"
+    ],
+    "keyword": [
+      "\u30cf\u30a4\u30af\u30aa\u30ea\u30c6\u30a3VR",
+      "\u304a\u59c9\u3055\u3093",
+      "\u5de8\u4e73",
+      "\u30d1\u30a4\u30ba\u30ea",
+      "\u30d5\u30a7\u30e9",
+      "\u72ec\u5360\u914d\u4fe1",
+      "VR\u5c02\u7528",
+      "\u5358\u4f53\u4f5c\u54c1",
+      "8KVR",
+      "\u4e2d\u51fa\u3057"
+    ]
+  },
+  {
+    "id": "kiwvr00736",
+    "title": "\u3010VR\u3011\u30108K\u3011\u4e2d\u51fa\u3057OK\u88cf\u98a8\u4fd7\u30d5\u30eb\u30b3\u30fc\u30b9\uff01\uff01\u8089\u611fBODY\u795e\u4e73H\u30ab\u30c3\u30d7\u3067\u4e00\u6ef4\u6b8b\u3089\u305a\u643e\u53d6\u3055\u308c\u305f\u7121\u5236\u9650\u5c04\u7cbe \u7fbd\u6708\u679c\u97f3",
+    "size": "15.40 GB",
+    "actress": [
+      "\u7fbd\u6708\u679c\u97f3"
+    ],
+    "preview_img_url": "https://pics.dmm.co.jp/digital/video/kiwvr00736/kiwvr00736pl.jpg",
+    "sell_date": "2025/02/04",
+    "duration": "84\u5206",
+    "seed_download_link": "magnet:?xt=urn:btih:29984ff555a06439440054096575fc6e2b0c9cb8&dn=kiwvr00736&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce",
+    "director": [
+      "\u3053\u3042\u3089\u592a\u90ce\uff08\u308f\uff09"
+    ],
+    "maker": [
+      "\u3053\u3042\u3089VR"
+    ],
+    "series": [
+      "8KVR\u3010\u4e2d\u51fa\u3057OK\u306e\u88cf\u98a8\u4fd7\u7121\u5236\u9650\u5c04\u7cbe\u3011"
+    ],
+    "label": [
+      "\u6975\u30b0\u30eb\u30fc\u30d7"
+    ],
+    "keyword": [
+      "\u30cf\u30a4\u30af\u30aa\u30ea\u30c6\u30a3VR",
+      "\u5358\u4f53\u4f5c\u54c1",
+      "\u5de8\u4e73",
+      "\u30ed\u30fc\u30b7\u30e7\u30f3\u30fb\u30aa\u30a4\u30eb",
+      "\u30ad\u30e3\u30d0\u5b22\u30fb\u98a8\u4fd7\u5b22",
+      "\u4e2d\u51fa\u3057",
+      "\u30d1\u30a4\u30ba\u30ea",
+      "8KVR",
+      "\u72ec\u5360\u914d\u4fe1",
+      "VR\u5c02\u7528"
+    ]
+  },
+  {
+    "id": "mdvr00333",
+    "title": "\u3010VR\u3011\u653e\u8ab2\u5f8c\u3001\u521d\u3081\u3066\u50d5\u306e\u5bb6\u306b\u6765\u305f\u5199\u771f\u90e8\u306e\u5973\u5b50\u306b\u544a\u767d\u3055\u308c\u3066\u2015\u4e38\u88f8\u306b\u306a\u3063\u3066\u88f8\u306e\u5199\u771f\u64ae\u308a\u3042\u3063\u3066H\u3057\u305f \u91ce\u5bae\u3042\u3093",
+    "size": "16.68 GB",
+    "actress": [
+      "\u91ce\u5bae\u3042\u3093"
+    ],
+    "preview_img_url": "https://pics.dmm.co.jp/digital/video/mdvr00333/mdvr00333pl.jpg",
+    "sell_date": "2025/02/03",
+    "duration": "82\u5206",
+    "seed_download_link": "magnet:?xt=urn:btih:de6bc5c46c15a4bcf90fec58697f25a17ee93ee3&dn=mdvr00333&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce",
+    "director": [
+      "\u3053\u3042\u3089\u592a\u90ce\uff08\u308f\uff09"
+    ],
+    "maker": [
+      "\u30e0\u30fc\u30c7\u30a3\u30fc\u30ba"
+    ],
+    "series": [
+      "MOODYZ 8KVR"
+    ],
+    "label": [
+      "MOODYZ VR"
+    ],
+    "keyword": [
+      "\u30cf\u30a4\u30af\u30aa\u30ea\u30c6\u30a3VR",
+      "\u5236\u670d",
+      "\u30d5\u30a7\u30e9",
+      "\u9a0e\u4e57\u4f4d",
+      "\u30ad\u30b9\u30fb\u63a5\u543b",
+      "\u72ec\u5360\u914d\u4fe1",
+      "VR\u5c02\u7528",
+      "\u5358\u4f53\u4f5c\u54c1",
+      "8KVR",
+      "\u7f8e\u5c11\u5973"
+    ]
+  },
+  {
+    "id": "13dsvr01692",
+    "title": "\u3010VR\u3011\u30108K\u3011\u3010\u8d85\u9a0e\u4e57\u4f4d\u7279\u5316\u3011\u50d5\u3092\u62c9\u25cb\u3057\u305f\u51c4\u30c6\u30af\u30c8\u30ea\u30d7\u30eb\u30ae\u30e3\u30eb\u306b\u30ce\u30f3\u30b9\u30c8\u30c3\u30d7\u9006\u30ec4P\u3067\u643e\u308a\u53d6\u3089\u308c\u305f\uff01",
+    "size": "23.96 GB",
+    "actress": [
+      "\u693f\u308a\u304b",
+      "\u767e\u6c38\u3055\u308a\u306a",
+      "\u9cf3\u30ab\u30ec\u30f3"
+    ],
+    "preview_img_url": "https://pics.dmm.co.jp/digital/video/13dsvr01692/13dsvr01692pl.jpg",
+    "sell_date": "2025/02/03",
+    "duration": "109\u5206",
+    "seed_download_link": "magnet:?xt=urn:btih:1a6071b1fdc8f8234afcac773e8dd5d897ba7e74&dn=dsvr01692&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce",
+    "director": [
+      "\u732b\u53c8\u3088\u3084"
+    ],
+    "maker": [
+      "SOD\u30af\u30ea\u30a8\u30a4\u30c8"
+    ],
+    "series": [],
+    "label": [
+      "SODVR"
+    ],
+    "keyword": [
+      "\u30cf\u30a4\u30af\u30aa\u30ea\u30c6\u30a3VR",
+      "8KVR",
+      "VR\u5c02\u7528",
+      "3P\u30fb4P",
+      "\u9a0e\u4e57\u4f4d",
+      "\u5de8\u4e73",
+      "\u75f4\u5973",
+      "\u30ae\u30e3\u30eb"
+    ]
+  },
+  {
+    "id": "sivr00390",
+    "title": "\u3010VR\u3011S1\u5973\u512a \u6d45\u91ce\u3053\u3053\u308d \u4e09\u7530\u771f\u9234\u3068\u5922\u306e\u5408\u30b3\u30f3\uff01\u30bf\u30fc\u30b2\u30c3\u30c8\u306b\u3055\u308c\u305f\u50d5\u306f\u2026\u30e9\u30d6\u30db\u6301\u3061\u5e30\u308a\u3055\u308c\u30db\u30ed\u9154\u3044\u30c9\u30b9\u30b1\u30d9\u90063P",
+    "size": "18.57 GB",
+    "actress": [
+      "\u4e09\u7530\u771f\u9234",
+      "\u6d45\u91ce\u3053\u3053\u308d"
+    ],
+    "preview_img_url": "https://pics.dmm.co.jp/digital/video/sivr00390/sivr00390pl.jpg",
+    "sell_date": "2025/02/02",
+    "duration": "95\u5206",
+    "seed_download_link": "magnet:?xt=urn:btih:bec8c2d2d067d9bbabc2771867585add06e12fd5&dn=sivr00390&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce",
+    "director": [
+      "\u6fe1\u308c\u305f\u5b50\u72ac"
+    ],
+    "maker": [
+      "\u30a8\u30b9\u30ef\u30f3 \u30ca\u30f3\u30d0\u30fc\u30ef\u30f3\u30b9\u30bf\u30a4\u30eb"
+    ],
+    "series": [
+      "S1 VR"
+    ],
+    "label": [
+      "S1 VR"
+    ],
+    "keyword": [
+      "\u30cf\u30a4\u30af\u30aa\u30ea\u30c6\u30a3VR",
+      "8KVR",
+      "VR\u5c02\u7528",
+      "\u72ec\u5360\u914d\u4fe1",
+      "\u4e3b\u89b3",
+      "\u6deb\u8a9e",
+      "\u30b9\u30ec\u30f3\u30c0\u30fc",
+      "\u30cf\u30fc\u30ec\u30e0",
+      "\u75f4\u5973"
+    ]
+  },
+  {
+    "id": "savr00540",
+    "title": "\u3010VR\u3011\u771f\u9762\u76ee\u3067\u3001\u51e0\u5e33\u9762\u3067\u3001\u8aa0\u5b9f\u3067\u3001\u7406\u60f3\u7684\u3067\u3001\u5909\u614b\u3067\u3002\u5065\u6c17\u306a\u30df\u30cb\u30e1\u30a4\u30c9\u306f\u3054\u4e3b\u4eba\u69d8\u306e\u624b\u3092\u7169\u308f\u305b\u306a\u3044\u3088\u3046\u306b\u6027\u3092\u5b9f\u611f\u3059\u308b\u3002",
+    "size": "14.17 GB",
+    "actress": [],
+    "preview_img_url": "https://pics.dmm.co.jp/digital/video/savr00540/savr00540pl.jpg",
+    "sell_date": "2025/02/01",
+    "duration": "82\u5206",
+    "seed_download_link": "magnet:?xt=urn:btih:2d32070c96561cdfa97843c7b2adb381bc87467f&dn=savr00540&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce",
+    "director": [
+      "\u5473\u564c\u716eKOMI"
+    ],
+    "maker": [
+      "KMPVR-\u5f69-"
+    ],
+    "series": [
+      "\u3054\u4e3b\u4eba\u69d8\u306e\u624b\u3092\u7169\u308f\u305b\u306a\u3044\u3088\u3046\u306b\u6027\u3092\u5b9f\u611f\u3059\u308b"
+    ],
+    "label": [
+      "KMPVR-\u5f69-"
+    ],
+    "keyword": [
+      "\u30cf\u30a4\u30af\u30aa\u30ea\u30c6\u30a3VR",
+      "8KVR",
+      "VR\u5c02\u7528",
+      "\u72ec\u5360\u914d\u4fe1",
+      "\u30df\u30cb\u7cfb",
+      "\u8ca7\u4e73\u30fb\u5fae\u4e73",
+      "\u5c0f\u67c4",
+      "\u4e2d\u51fa\u3057",
+      "\u4e3b\u89b3"
+    ]
+  },
+  {
+    "id": "h_1127vosm00064",
+    "title": "\u3010VR\u3011HQ\u5287\u7684\u8d85\u9ad8\u753b\u8cea \u6700\u5927M\u30ab\u30c3\u30d710\u4eba\u306e\u795e\u4e73\u5a18 \u5236\u670d\u7f8e\u5c11\u5973\u30fb\u30b9\u30dd\u30fc\u30c4\u5c11\u5973\u30fb\u30a8\u30b9\u30c6\u5b22etc...\u3042\u3089\u3086\u308b\u30b7\u30c1\u30e5\u30a8\u30fc\u30b7\u30e7\u30f3\u3067\u7206\u4e73\u796d4\u6642\u9593",
+    "size": "49.60 GB",
+    "actress": [
+      "\u7a32\u5834\u308b\u304b",
+      "\u97f3\u6d77\u91cc\u5948",
+      "\u5409\u6839\u3086\u308a\u3042",
+      "\u7be0\u5d0e\u304b\u3093\u306a",
+      "\u82e5\u5bae\u7a42\u4e43",
+      "\u5c0f\u6885\u3048\u306a",
+      "\u677e\u672c\u83dc\u5948\u5b9f",
+      "\u5009\u591a\u307e\u304a",
+      "\u671b\u6708\u3042\u3084\u304b",
+      "\u512a\u6708\u307e\u308a\u306a"
+    ],
+    "preview_img_url": "https://pics.dmm.co.jp/digital/video/h_1127vosm00064/h_1127vosm00064pl.jpg",
+    "sell_date": "2025/02/01",
+    "duration": "249\u5206",
+    "seed_download_link": "magnet:?xt=urn:btih:e26fc2d8b22a7241b7d9c41cf5844b216addc6e5&dn=vosm00064&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce",
+    "director": [],
+    "maker": [
+      "\u30d6\u30a4\u30ef\u30f3VR"
+    ],
+    "series": [],
+    "label": [
+      "GO PROJECT"
+    ],
+    "keyword": [
+      "\u30cf\u30a4\u30af\u30aa\u30ea\u30c6\u30a3VR",
+      "4\u6642\u9593\u4ee5\u4e0a\u4f5c\u54c1",
+      "FANZA\u914d\u4fe1\u9650\u5b9a",
+      "\u72ec\u5360\u914d\u4fe1",
+      "\u4e2d\u51fa\u3057",
+      "\u7f8e\u5c11\u5973",
+      "\u5de8\u4e73",
+      "\u30d9\u30b9\u30c8\u30fb\u7dcf\u96c6\u7de8",
+      "VR\u5c02\u7528"
+    ]
+  },
+  {
+    "id": "vrkm01519",
+    "title": "\u3010VR\u3011\u300c\u58f0\u51fa\u3057\u3061\u3083\u30bc\u30c3\u30bf\u30a4\u99c4\u76ee\u3060\u304b\u3089\u306d\uff1f\u300d\u7f8e\u4eba\u53f8\u66f8\u306e\u30ce\u30fc\u30d6\u30e9\u8a98\u60d1\u304c\u51c4\u304f\u3066\u8aad\u66f8\u306b\u96c6\u4e2d\u3067\u304d\u306a\u3044\u2026 \u4e73\u307e\u307f\u308c\u306e\u81f3\u8fd1\u8ddd\u96e2\u3055\u3055\u3084\u304d\u4e2d\u51fa\u3057\u6027\u4ea4 \u306e\u3042\u3055\u3093\uff0824\uff09",
+    "size": "16.34 GB",
+    "actress": [],
+    "preview_img_url": "https://pics.dmm.co.jp/digital/video/vrkm01519/vrkm01519pl.jpg",
+    "sell_date": "2025/01/31",
+    "duration": "82\u5206",
+    "seed_download_link": "magnet:?xt=urn:btih:96baa1afe392e0427bff1ea401cd0976d099ba8b&dn=vrkm-1519&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce",
+    "director": [
+      "\u30cf\u30eb\u30af\u30fb\u30b3\u30fc\u30ac\u30f3"
+    ],
+    "maker": [
+      "\u30b1\u30a4\u30fb\u30a8\u30e0\u30fb\u30d7\u30ed\u30c7\u30e5\u30fc\u30b9"
+    ],
+    "series": [
+      "\u5730\u5473\u53f8\u66f8\u4e73\u307e\u307f\u308c"
+    ],
+    "label": [
+      "KMPVR"
+    ],
+    "keyword": [
+      "\u30cf\u30a4\u30af\u30aa\u30ea\u30c6\u30a3VR",
+      "8KVR",
+      "VR\u5c02\u7528",
+      "\u4e2d\u51fa\u3057",
+      "\u9a0e\u4e57\u4f4d",
+      "\u8d85\u4e73",
+      "\u5de8\u4e73",
+      "\u75f4\u5973"
+    ]
+  },
+  {
+    "id": "savr00538",
+    "title": "\u3010VR\u3011\u5996\u8276\u3067\u3001\u5b98\u80fd\u7684\u3067\u3001\u3057\u306a\u3084\u304b\u306a\u5148\u751f\u306e\u811a\u3002\u8d64\u70b9\u5e38\u9023\u306e\u30dc\u30af\u306f\u3001\u4eca\u65e5\u3082\u30b9\u30ec\u30f3\u30c0\u30fc\u7f8e\u811a\u3092\u7d61\u307f\u3064\u304b\u305b\u3089\u308c\u306a\u304c\u3089\u88dc\u7fd2\u3068\u306f\u540d\u3070\u304b\u308a\u306e\u8abf\u6559\u3092\u53d7\u3051\u3066\u3044\u308b\u3002 \u6c34\u5ddd\u30b9\u30df\u30ec",
+    "size": "15.18 GB",
+    "actress": [
+      "\u6c34\u5ddd\u30b9\u30df\u30ec"
+    ],
+    "preview_img_url": "https://pics.dmm.co.jp/digital/video/savr00538/savr00538pl.jpg",
+    "sell_date": "2025/01/31",
+    "duration": "80\u5206",
+    "seed_download_link": "magnet:?xt=urn:btih:9dc58e1bbebf22b7fb8a75467a740bdaa93b3205&dn=savr-538&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce",
+    "director": [
+      "\u9752\u7a7a\u5c04\u7cbe\u30c6\u30a3\u30fc\u30c1\u30e3\u30fc"
+    ],
+    "maker": [
+      "KMPVR-\u5f69-"
+    ],
+    "series": [],
+    "label": [
+      "KMPVR-\u5f69-"
+    ],
+    "keyword": [
+      "\u30cf\u30a4\u30af\u30aa\u30ea\u30c6\u30a3VR",
+      "\u75f4\u5973",
+      "\u811a\u30d5\u30a7\u30c1",
+      "\u8db3\u30b3\u30ad",
+      "\u30b9\u30ec\u30f3\u30c0\u30fc",
+      "\u72ec\u5360\u914d\u4fe1",
+      "VR\u5c02\u7528",
+      "\u5358\u4f53\u4f5c\u54c1",
+      "8KVR",
+      "\u5973\u6559\u5e2b"
+    ]
+  },
+  {
+    "id": "urvrsp00405",
+    "title": "\u3010VR\u3011\u30108K VR\u3011\u300c\u3054\u3081\u3093\u306a\u3055\u3044\u3001\u90e8\u5c4b\u62bc\u3055\u3048\u3066\u306a\u304f\u3066\u300d\u4ed5\u4e8b\u304c\u51fa\u6765\u306a\u3044\u65b0\u5352\u5973\u5b50\u3068\u30db\u30c6\u30eb\u76f8\u90e8\u5c4b\u3002\u30b7\u30e3\u30ef\u30fc\u30eb\u30fc\u30e0\u306f\u307e\u3055\u304b\u306e\u900f\u3051\u30ac\u30e9\u30b9\u3002\u5f7c\u5973\u306e\u30b7\u30e3\u30ef\u30fc\u59ff\u3067\u601d\u308f\u305a\u8208\u596e\u3057\u3066\u3057\u307e\u3063\u305f\u50d5\u306f\u2026 \u9759\u6cb3",
+    "size": "13.31 GB",
+    "actress": [
+      "\u9759\u6cb3"
+    ],
+    "preview_img_url": "https://pics.dmm.co.jp/digital/video/urvrsp00405/urvrsp00405pl.jpg",
+    "sell_date": "2025/01/31",
+    "duration": "89\u5206",
+    "seed_download_link": "magnet:?xt=urn:btih:a085a3f912f9d646dd39129947dae1cf0c1ff6c7&dn=urvrsp00405&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce",
+    "director": [
+      "\u77e2\u6fa4\u30ec\u30b7\u30fc\u30d6"
+    ],
+    "maker": [
+      "unfinished"
+    ],
+    "series": [
+      "unfinished VR"
+    ],
+    "label": [
+      "Marrion Group VR"
+    ],
+    "keyword": [
+      "\u30cf\u30a4\u30af\u30aa\u30ea\u30c6\u30a3VR",
+      "OL",
+      "\u90e8\u4e0b\u30fb\u540c\u50da",
+      "\u7f8e\u4e73",
+      "\u30db\u30c6\u30eb",
+      "8KVR",
+      "\u72ec\u5360\u914d\u4fe1",
+      "VR\u5c02\u7528",
+      "\u5358\u4f53\u4f5c\u54c1",
+      "\u4e2d\u51fa\u3057"
+    ]
+  },
+  {
+    "id": "bibivr00140",
+    "title": "\u3010VR\u3011\u7537\u306e\u7406\u60f3\u90f7 \u5922\u306e\u697d\u5712 \u8210\u3081\u3058\u3083\u304f\u308a\u90063PSEX \u79d8\u5bc6\u306eW\u30d5\u30a7\u30e9 \u7b39\u5009\u674f \u82e5\u6708\u307f\u3044\u306a \u8c37\u3042\u3065\u3055",
+    "size": "6.65 GB",
+    "actress": [
+      "\u82e5\u6708\u307f\u3044\u306a",
+      "\u7b39\u5009\u674f",
+      "\u8c37\u3042\u3065\u3055"
+    ],
+    "preview_img_url": "https://pics.dmm.co.jp/digital/video/bibivr00140/bibivr00140pl.jpg",
+    "sell_date": "2025/01/31",
+    "duration": "66\u5206",
+    "seed_download_link": "magnet:?xt=urn:btih:1bb797edbc404196c936e7f71cc8795c0e759260&dn=bibivr-140&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce",
+    "director": [
+      "K\u592a\u90ce"
+    ],
+    "maker": [
+      "KMPVR-bibi-"
+    ],
+    "series": [],
+    "label": [
+      "KMPVR-bibi-"
+    ],
+    "keyword": [
+      "\u30cf\u30a4\u30af\u30aa\u30ea\u30c6\u30a3VR",
+      "VR\u5c02\u7528",
+      "3P\u30fb4P",
+      "\u30ad\u30e3\u30d0\u5b22\u30fb\u98a8\u4fd7\u5b22",
+      "\u75f4\u5973",
+      "\u5de8\u4e73",
+      "\u4e2d\u51fa\u3057"
+    ]
+  },
+  {
+    "id": "ssr00024",
+    "title": "\u3010VR\u30118KVR \u5973\u4f53\u89b3\u5bdf\uff06\u9854\u8210\u3081\u553e\u305f\u3089\u3057 \u5b87\u4f50\u7f8e\u307f\u304a\u3093",
+    "size": "3.96 GB",
+    "actress": [
+      "\u5b87\u4f50\u7f8e\u307f\u304a\u3093"
+    ],
+    "preview_img_url": "https://pics.dmm.co.jp/digital/video/ssr00024/ssr00024pl.jpg",
+    "sell_date": "2025/01/31",
+    "duration": "20\u5206",
+    "seed_download_link": "magnet:?xt=urn:btih:91849fb71d4249bbee67424136767a9df2bef7fc&dn=ssr-024&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce",
+    "director": [
+      "\u3075\u3047\u3061\u306b\u3043"
+    ],
+    "maker": [
+      "SSR VR"
+    ],
+    "series": [
+      "8KVR \u5973\u4f53\u89b3\u5bdf\uff06\u9854\u8210\u3081\u553e\u305f\u3089\u3057"
+    ],
+    "label": [],
+    "keyword": [
+      "\u30cf\u30a4\u30af\u30aa\u30ea\u30c6\u30a3VR",
+      "\u5358\u4f53\u4f5c\u54c1",
+      "VR\u5c02\u7528",
+      "\u72ec\u5360\u914d\u4fe1",
+      "\u305d\u306e\u4ed6\u30d5\u30a7\u30c1",
+      "\u30d1\u30a4\u30d1\u30f3",
+      "\u5c40\u90e8\u30a2\u30c3\u30d7",
+      "\u7f8e\u5c11\u5973",
+      "8KVR"
+    ]
+  },
+  {
+    "id": "ssr00023",
+    "title": "\u3010VR\u30118KVR \u5c04\u7cbe\u30b3\u30f3\u30c8\u30ed\u30fc\u30ebJOI \u5b87\u4f50\u7f8e\u307f\u304a\u3093",
+    "size": "4.27 GB",
+    "actress": [
+      "\u5b87\u4f50\u7f8e\u307f\u304a\u3093"
+    ],
+    "preview_img_url": "https://pics.dmm.co.jp/digital/video/ssr00023/ssr00023pl.jpg",
+    "sell_date": "2025/01/31",
+    "duration": "16\u5206",
+    "seed_download_link": "magnet:?xt=urn:btih:71e960ffd713b752952535d353c4ebcce4197818&dn=ssr-023&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce",
+    "director": [
+      "\u3075\u3047\u3061\u306b\u3043"
+    ],
+    "maker": [
+      "SSR VR"
+    ],
+    "series": [
+      "8KVR \u5c04\u7cbe\u30b3\u30f3\u30c8\u30ed\u30fc\u30ebJOI"
+    ],
+    "label": [],
+    "keyword": [
+      "\u30cf\u30a4\u30af\u30aa\u30ea\u30c6\u30a3VR",
+      "\u5358\u4f53\u4f5c\u54c1",
+      "VR\u5c02\u7528",
+      "\u72ec\u5360\u914d\u4fe1",
+      "\u9854\u9762\u9a0e\u4e57",
+      "\u624b\u30b3\u30ad",
+      "\u30aa\u30ca\u30b5\u30dd",
+      "\u7f8e\u5c11\u5973",
+      "8KVR"
+    ]
+  },
+  {
+    "id": "nkkvr00143",
+    "title": "\u3010VR\u3011\u30108K\u8d85\u8089\u611f\u7279\u5316\u3011\u795e\u4e73J\u30ab\u30c3\u30d7\u3080\u3063\u3061\u3080\u3061\u30dc\u30c7\u30a3\u3010\u5727\u5012\u7684\u8d85\u8089\u611f\u7279\u5316\u3011\u306f\u30a8\u30ed\u504f\u5dee\u5024\u9ad8\u3081\u3067\u4f55\u5ea6\u3082\u4f55\u5ea6\u3082\u30b6\u30fc\u30e1\u30f3\u3092\u7d5e\u308a\u53d6\u308a\u6c42\u3081\u3042\u3046\u2026 \u8fbb\u3044\u307e\u308b",
+    "size": "10.73 GB",
+    "actress": [
+      "\u8fbb\u3044\u307e\u308b"
+    ],
+    "preview_img_url": "https://pics.dmm.co.jp/digital/video/nkkvr00143/nkkvr00143pl.jpg",
+    "sell_date": "2025/01/31",
+    "duration": "77\u5206",
+    "seed_download_link": "magnet:?xt=urn:btih:91e9502bfef5d7c8b024445cb281deb6929ad6c3&dn=nkkvr-143&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce",
+    "director": [
+      "\u30af\u30ef\u30c3\u30c1\u30fc"
+    ],
+    "maker": [
+      "\u8089\u304d\u3085\u3093\u30d1\u30e9\u30c0\u30a4\u30b9VR"
+    ],
+    "series": [
+      "\u6975\u30fb\u30a8\u30b0\u30a4\u307b\u3069\u25cb\u25cb\u30dc\u30c7\u30a3\u306f\u30a8\u30ed\u504f\u5dee\u5024\u9ad8\u3081\u306e\u8a3c\u62e0"
+    ],
+    "label": [
+      "\u6975\u30b0\u30eb\u30fc\u30d7"
+    ],
+    "keyword": [
+      "\u30cf\u30a4\u30af\u30aa\u30ea\u30c6\u30a3VR",
+      "\u5de8\u4e73",
+      "\u75f4\u5973",
+      "\u9a0e\u4e57\u4f4d",
+      "\u30d1\u30a4\u30ba\u30ea",
+      "\u30ed\u30fc\u30b7\u30e7\u30f3\u30fb\u30aa\u30a4\u30eb",
+      "\u30d3\u30c3\u30c1",
+      "\u72ec\u5360\u914d\u4fe1",
+      "VR\u5c02\u7528",
+      "\u5358\u4f53\u4f5c\u54c1",
+      "8KVR",
+      "\u4e2d\u51fa\u3057"
+    ]
+  },
+  {
+    "id": "kiwvr00713",
+    "title": "\u3010VR\u3011\u59c9\u306e\u53cb\u9054\u306e\u30e4\u30ea\u30de\u30f3\u30d3\u30c3\u75f4\u306b\u8a98\u60d1\u3055\u308c\u305f\u2026\u7ae5\u8c9e\u3055\u3088\u306a\u3089\u7b46\u304a\u308d\u3057SEX",
+    "size": "6.70 GB",
+    "actress": [],
+    "preview_img_url": "https://pics.dmm.co.jp/digital/video/kiwvr00713/kiwvr00713pl.jpg",
+    "sell_date": "2025/01/31",
+    "duration": "69\u5206",
+    "seed_download_link": "magnet:?xt=urn:btih:d1bc5f8764471aa945bfcae4a66f0775f8226be6&dn=kiwvr-713&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce",
+    "director": [
+      "\u3053\u3042\u3089\u592a\u90ce\uff08\u308f\uff09"
+    ],
+    "maker": [
+      "\u3053\u3042\u3089VR"
+    ],
+    "series": [
+      "3D\u30cf\u30e1\u64ae\u308aVR\u6539"
+    ],
+    "label": [
+      "\u6975\u30b0\u30eb\u30fc\u30d7"
+    ],
+    "keyword": [
+      "\u30cf\u30a4\u30af\u30aa\u30ea\u30c6\u30a3VR",
+      "VR\u5c02\u7528",
+      "\u72ec\u5360\u914d\u4fe1",
+      "\u9854\u5c04",
+      "\u4e2d\u51fa\u3057",
+      "\u6f6e\u5439\u304d",
+      "\u7ae5\u8c9e",
+      "\u75f4\u5973",
+      "\u5de8\u4e73"
+    ]
+  },
+  {
+    "id": "juvr00211",
+    "title": "\u3010VR\u3011\u8d85\u9ad8\u753b\u8cea8KVR \u300e\u3042\u30fc\u3042\u3001\u3082\u3046\u5e30\u308c\u306a\u304f\u306a\u3063\u3061\u3083\u3063\u305f\u306d\u300f \u78ba\u4fe1\u72af\u7684\u306b\u30db\u30c6\u30eb\u3078\u9023\u308c\u8fbc\u307f\u50d5\u3092\u25cf\u3059\u5973\u4e0a\u53f8 \u65b0\u5352\u306e\u50d5\u306f\u4e00\u6b69\u3082\u52d5\u3051\u305a\u306b\u671d\u307e\u3067\u4e2d\u51fa\u3057\u3055\u305b\u3089\u308c\u7d9a\u3051\u3066\u3057\u307e\u3063\u305f\u3002 \u6c96\u5bae\u90a3\u7f8e",
+    "size": "21.08 GB",
+    "actress": [
+      "\u6c96\u5bae\u90a3\u7f8e"
+    ],
+    "preview_img_url": "https://pics.dmm.co.jp/digital/video/juvr00211/juvr00211pl.jpg",
+    "sell_date": "2025/01/31",
+    "duration": "105\u5206",
+    "seed_download_link": "magnet:?xt=urn:btih:a224dcff0cb340cd3be5f73f6331c801414bbce3&dn=juvr00211&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce",
+    "director": [
+      "\u30b8\u30fc\u30cb\u30a2\u30b9\u819d"
+    ],
+    "maker": [
+      "\u30de\u30c9\u30f3\u30ca"
+    ],
+    "series": [
+      "\u78ba\u4fe1\u72af\u7684\u306b\u30db\u30c6\u30eb\u3078\u9023\u308c\u8fbc\u307f\u50d5\u3092\u25cf\u3059\u5973\u4e0a\u53f8"
+    ],
+    "label": [
+      "MadonnaVR"
+    ],
+    "keyword": [
+      "\u30cf\u30a4\u30af\u30aa\u30ea\u30c6\u30a3VR",
+      "\u5de8\u4e73",
+      "\u5973\u4e0a\u53f8",
+      "\u75f4\u5973",
+      "\u4e2d\u51fa\u3057",
+      "\u72ec\u5360\u914d\u4fe1",
+      "VR\u5c02\u7528",
+      "\u5358\u4f53\u4f5c\u54c1",
+      "8KVR",
+      "\u719f\u5973"
+    ]
+  },
+  {
+    "id": "ipvr00298",
+    "title": "\u3010VR\u3011IDEAPOCKET 8KVR GALACTIC BESTII",
+    "size": "37.45 GB",
+    "actress": [
+      "\u685c\u7a7a\u3082\u3082",
+      "\u6953\u30ab\u30ec\u30f3",
+      "\u4f50\u3005\u6728\u3055\u304d",
+      "\u5e0c\u5cf6\u3042\u3044\u308a",
+      "\u5eb5\u3072\u3081\u304b"
+    ],
+    "preview_img_url": "https://pics.dmm.co.jp/digital/video/ipvr00298/ipvr00298pl.jpg",
+    "sell_date": "2025/01/31",
+    "duration": "206\u5206",
+    "seed_download_link": "magnet:?xt=urn:btih:b000b90c8e8341f27fdacb89737d73d5b22ef921&dn=ipvr-298&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce",
+    "director": [],
+    "maker": [
+      "\u30a2\u30a4\u30c7\u30a2\u30dd\u30b1\u30c3\u30c8"
+    ],
+    "series": [
+      "\u30a2\u30a4\u30dd\u30b18KVR"
+    ],
+    "label": [
+      "IP-VR"
+    ],
+    "keyword": [
+      "\u30cf\u30a4\u30af\u30aa\u30ea\u30c6\u30a3VR",
+      "8KVR",
+      "VR\u5c02\u7528",
+      "\u72ec\u5360\u914d\u4fe1",
+      "\u4e3b\u89b3",
+      "\u5de8\u4e73",
+      "\u7f8e\u4e73",
+      "\u7f8e\u5c11\u5973",
+      "\u30d9\u30b9\u30c8\u30fb\u7dcf\u96c6\u7de8"
+    ]
+  },
+  {
+    "id": "aqumam00021",
+    "title": "\u3010VR\u3011\u30bb\u30c3\u30af\u30b9\u30ec\u30b9\u3060\u3063\u305f\u5ac1\u304c\u8d85\u81f3\u8fd1\u8ddd\u96e2\u3067NTR \u4e8c\u4eba\u304d\u308a\u306b\u306a\u3063\u305f\u77ac\u9593\u672c\u80fd\u306e\u307e\u307e\u306b\u5ac1\u3092\u7121\u8336\u82e6\u8336\u306b\u3057\u3066\u3084\u3063\u305f \u8475\u767e\u5408\u9999",
+    "size": "28.30 GB",
+    "actress": [
+      "\u8475\u767e\u5408\u9999"
+    ],
+    "preview_img_url": "https://pics.dmm.co.jp/digital/video/aqumam00021/aqumam00021pl.jpg",
+    "sell_date": "2025/01/31",
+    "duration": "80\u5206",
+    "seed_download_link": "magnet:?xt=urn:btih:d880f6c06067bd6899eb24107fd53b76429a4912&dn=aqumam-021&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce",
+    "director": [
+      "\u5c71\u672c\u30d8\u30f3\u30c9\u30ea\u30af\u30b9"
+    ],
+    "maker": [
+      "AQUA\uff1c\u30a2\u30af\u30a2\uff1e"
+    ],
+    "series": [
+      "\u8d85\u81f3\u8fd1\u8ddd\u96e2\u3067NTR"
+    ],
+    "label": [
+      "AQUA MADAM"
+    ],
+    "keyword": [
+      "\u30cf\u30a4\u30af\u30aa\u30ea\u30c6\u30a3VR",
+      "\u5358\u4f53\u4f5c\u54c1",
+      "\u4eba\u59bb\u30fb\u4e3b\u5a66",
+      "\u719f\u5973",
+      "\u5bdd\u53d6\u308a\u30fb\u5bdd\u53d6\u3089\u308c\u30fbNTR",
+      "\u5de8\u4e73",
+      "\u4e2d\u51fa\u3057",
+      "\u72ec\u5360\u914d\u4fe1",
+      "8KVR",
+      "VR\u5c02\u7528"
+    ]
+  },
+  {
+    "id": "aquma00071",
+    "title": "\u3010VR\u3011\u7af6\u6cf3\u6c34\u7740\u3076\u3063\u304b\u3051\u30aa\u30ca\u30b5\u30dd",
+    "size": "6.26 GB",
+    "actress": [
+      "\u8db3\u7acb\u53cb\u68a8",
+      "\u53ca\u5ddd\u3046\u307f",
+      "\u5343\u5ddd\u3068\u308f",
+      "\u6850\u9999\u3086\u3046\u308a",
+      "\u51ac\u611b\u3053\u3068\u306d"
+    ],
+    "preview_img_url": "https://pics.dmm.co.jp/digital/video/aquma00071/aquma00071pl.jpg",
+    "sell_date": "2025/01/31",
+    "duration": "64\u5206",
+    "seed_download_link": "magnet:?xt=urn:btih:b69ba9a052e95c31bbe124b1e6a0d947e6400bc3&dn=aquma-071&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce",
+    "director": [
+      "\u30e2\u30b0Y"
+    ],
+    "maker": [
+      "AQUA\uff1c\u30a2\u30af\u30a2\uff1e"
+    ],
+    "series": [],
+    "label": [
+      "AQUA MANIAC"
+    ],
+    "keyword": [
+      "\u30cf\u30a4\u30af\u30aa\u30ea\u30c6\u30a3VR",
+      "VR\u5c02\u7528",
+      "\u72ec\u5360\u914d\u4fe1",
+      "\u8ca7\u4e73\u30fb\u5fae\u4e73",
+      "\u7f8e\u5c11\u5973",
+      "\u30b9\u30ec\u30f3\u30c0\u30fc",
+      "\u3076\u3063\u304b\u3051",
+      "\u7af6\u6cf3\u30fb\u30b9\u30af\u30fc\u30eb\u6c34\u7740"
+    ]
+  },
+  {
+    "id": "aquma00070",
+    "title": "\u3010VR\u3011\u30d1\u30f3\u30b9\u30c8\u7279\u5316\uff01\u30e0\u30ec\u30e0\u30ec\u7f8e\u811a\u30a2\u30eb\u30c6\u30a3\u30e1\u30c3\u30c8\uff5e\u773a\u3081\u3066\u8e0f\u307e\u308c\u3066\u75f4\u5973\u3089\u308c\u305f\u3044\uff5e \u30d1\u30fc\u30c82",
+    "size": "23.82 GB",
+    "actress": [
+      "\u51ac\u611b\u3053\u3068\u306d",
+      "\u4e00\u6761\u307f\u304a",
+      "\u304d\u307f\u3068\u6b69\u5b9f",
+      "\u52a0\u8cc0\u7f8e\u3055\u3089",
+      "\u7f8e\u6f84\u73b2\u8863",
+      "\u85e4\u4e95\u30ec\u30a4\u30e9",
+      "\u9999\u690e\u4f73\u7a42",
+      "\u6c38\u91ce\u3064\u304b\u3055"
+    ],
+    "preview_img_url": "https://pics.dmm.co.jp/digital/video/aquma00070/aquma00070pl.jpg",
+    "sell_date": "2025/01/31",
+    "duration": "245\u5206",
+    "seed_download_link": "magnet:?xt=urn:btih:8d0c03d557b3cef24f828e6ca1638eb037235382&dn=aquma-070&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce",
+    "director": [],
+    "maker": [
+      "AQUA\uff1c\u30a2\u30af\u30a2\uff1e"
+    ],
+    "series": [
+      "\u30d1\u30f3\u30b9\u30c8\u7279\u5316\uff01\u30e0\u30ec\u30e0\u30ec\u7f8e\u811a\u30a2\u30eb\u30c6\u30a3\u30e1\u30c3\u30c8\uff5e\u773a\u3081\u3066\u8e0f\u307e\u308c\u3066\u75f4\u5973\u3089\u308c\u305f\u3044"
+    ],
+    "label": [
+      "AQUA MANIAC"
+    ],
+    "keyword": [
+      "4\u6642\u9593\u4ee5\u4e0a\u4f5c\u54c1",
+      "\u30cf\u30a4\u30af\u30aa\u30ea\u30c6\u30a3VR",
+      "VR\u5c02\u7528",
+      "\u72ec\u5360\u914d\u4fe1",
+      "\u30d9\u30b9\u30c8\u30fb\u7dcf\u96c6\u7de8",
+      "\u8db3\u30b3\u30ad",
+      "\u811a\u30d5\u30a7\u30c1",
+      "\u30d1\u30f3\u30b9\u30c8\u30fb\u30bf\u30a4\u30c4",
+      "\u75f4\u5973"
+    ]
+  },
+  {
+    "id": "aqula00063",
+    "title": "\u3010VR\u3011\u653e\u8ab2\u5f8c\u306e\u4fdd\u5065\u5ba4\u3002\u5148\u751f\u306b\u5927\u304d\u306a\u304a\u3061\u25cf\u3061\u3093\u3092\u898b\u305b\u3064\u3051\u3066\u3069\u3046\u306b\u304b\u3057\u305f\u3044\uff01 \u76f8\u6ca2\u6faa",
+    "size": "15.91 GB",
+    "actress": [
+      "\u76f8\u6ca2\u6faa"
+    ],
+    "preview_img_url": "https://pics.dmm.co.jp/digital/video/aqula00063/aqula00063pl.jpg",
+    "sell_date": "2025/01/31",
+    "duration": "71\u5206",
+    "seed_download_link": "magnet:?xt=urn:btih:d026aec1822d44b246b4e0f094b5fd89b3de0aab&dn=aqula-063&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce",
+    "director": [
+      "\u30ed\u30fc\u30b7\u30e7\u30f3\u30dc\u30fc\u30a4"
+    ],
+    "maker": [
+      "AQUA\uff1c\u30a2\u30af\u30a2\uff1e"
+    ],
+    "series": [
+      "\u653e\u8ab2\u5f8c\u306e\u4fdd\u5065\u5ba4\u3002\u5148\u751f\u306b\u5927\u304d\u306a\u304a\u3061\u25cf\u3061\u3093\u3092\u898b\u305b\u3064\u3051\u3066\u3069\u3046\u306b\u304b\u3057\u305f\u3044\uff01"
+    ],
+    "label": [
+      "AQUA LADY"
+    ],
+    "keyword": [
+      "\u30cf\u30a4\u30af\u30aa\u30ea\u30c6\u30a3VR",
+      "\u30aa\u30ca\u30cb\u30fc",
+      "\u624b\u30b3\u30ad",
+      "\u30d5\u30a7\u30e9",
+      "\u9a0e\u4e57\u4f4d",
+      "\u72ec\u5360\u914d\u4fe1",
+      "VR\u5c02\u7528",
+      "\u5358\u4f53\u4f5c\u54c1",
+      "8KVR",
+      "\u5973\u6559\u5e2b"
+    ]
+  },
+  {
+    "id": "ajvr00259",
+    "title": "\u3010VR\u3011\u30a8\u30a2\u30b3\u30f3\u7121\u3057\u56db\u7573\u534a\u3067\u8a00\u8449\u3082\u304b\u308f\u3055\u305a\u6c57\u3060\u304f\u3060\u304fSEX\u6ca1\u982d\u30b1\u30c4\u8089\u3071\u3061\u3085\u3093\u3071\u3061\u3085\u3093\u5f53\u305f\u308b\u30d4\u30b9\u30c8\u30f3\u97f3\u3068\u8033\u5143\u3067\u6f0f\u3089\u3059\u30cf\u30a1\u30cf\u30a1\u97f3\u304c\u9f13\u819c\u3092\u304f\u3059\u3050\u308bASMR\u30b5\u30a4\u30ec\u30f3\u30c8\u6027\u4ea4 \u6d41\u5ddd\u8389\u592e",
+    "size": "21.32 GB",
+    "actress": [
+      "\u6d41\u5ddd\u8389\u592e"
+    ],
+    "preview_img_url": "https://pics.dmm.co.jp/digital/video/ajvr00259/ajvr00259pl.jpg",
+    "sell_date": "2025/01/31",
+    "duration": "71\u5206",
+    "seed_download_link": "magnet:?xt=urn:btih:b1acd35f9566529cefadb50319d4ba188321d7a8&dn=ajvr-259&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce",
+    "director": [
+      "\u77e2\u6fa4\u30ec\u30b7\u30fc\u30d6"
+    ],
+    "maker": [
+      "\u30a2\u30ea\u30b9JAPAN"
+    ],
+    "series": [],
+    "label": [
+      "\u30a2\u30ea\u30b9JAPAN VR"
+    ],
+    "keyword": [
+      "\u30cf\u30a4\u30af\u30aa\u30ea\u30c6\u30a3VR",
+      "\u4e3b\u89b3",
+      "\u5358\u4f53\u4f5c\u54c1",
+      "8KVR",
+      "\u9a0e\u4e57\u4f4d",
+      "\u30d0\u30c3\u30af",
+      "\u4e2d\u51fa\u3057",
+      "\u5de8\u4e73",
+      "\u6c57\u3060\u304f",
+      "\u624b\u30b3\u30ad",
+      "\u30d5\u30a7\u30e9",
+      "\u5de8\u5c3b",
+      "\u72ec\u5360\u914d\u4fe1",
+      "VR\u5c02\u7528"
+    ]
+  },
+  {
+    "id": "ajvr00258",
+    "title": "\u3010VR\u3011\u5c04\u7cbe\u3057\u3066\u3082\u629c\u304b\u305a\u306b\u8170\u632f\u3089\u308c\u7cbe\u6db2\u611b\u6db2\u3054\u3061\u3083\u6df7\u305c\u30de\u25cb\u30b3\u304c\u30b0\u30c3\u30c1\u30e7\u30cc\u30c3\u30c1\u30e3\u5351\u7325\u97f3\u3092\u594f\u3067\u308b\u6c41\u3060\u304f\u676d\u6253\u3061\u30d4\u30b9\u30c8\u30f3\u3067\u643e\u7cbe\u3055\u308c\u307e\u304f\u308a\u629c\u304b\u305a\u306e\u751f\u4e2d\u51fa\u305710\u9023\u767a\u3010\u5c04\u7cbe\u524d\uff5e\u4e2d\uff5e\u5f8c\u305a\u3063\u3068\u81f3\u8fd1\u8ddd\u96e2\u3067\u898b\u3064\u3081\u5408\u3044\u7279\u5316\u3011 \u5009\u6728\u3057\u304a\u308a",
+    "size": "34.60 GB",
+    "actress": [
+      "\u5009\u6728\u3057\u304a\u308a"
+    ],
+    "preview_img_url": "https://pics.dmm.co.jp/digital/video/ajvr00258/ajvr00258pl.jpg",
+    "sell_date": "2025/01/31",
+    "duration": "89\u5206",
+    "seed_download_link": "magnet:?xt=urn:btih:0a5afdf7916ba5754b5f3fd61651651a44434f2e&dn=ajvr-258&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce",
+    "director": [
+      "\u4e0a\u5dde\u529b",
+      "\u30b8\u30fc\u30cb\u30a2\u30b9\u819d"
+    ],
+    "maker": [
+      "\u30a2\u30ea\u30b9JAPAN"
+    ],
+    "series": [
+      "\u629c\u304b\u305a\u306e\u751f\u4e2d\u51fa\u305710\u9023\u767a\u3010\u5c04\u7cbe\u524d\uff5e\u4e2d\uff5e\u5f8c\u305a\u3063\u3068\u81f3\u8fd1\u8ddd\u96e2\u3067\u898b\u3064\u3081\u5408\u3044\u7279\u5316\u3011"
+    ],
+    "label": [
+      "\u30a2\u30ea\u30b9JAPAN VR"
+    ],
+    "keyword": [
+      "\u30cf\u30a4\u30af\u30aa\u30ea\u30c6\u30a3VR",
+      "\u4e3b\u89b3",
+      "\u5358\u4f53\u4f5c\u54c1",
+      "\u6deb\u8a9e",
+      "\u4e2d\u51fa\u3057",
+      "\u604b\u611b",
+      "\u75f4\u5973",
+      "\u9a0e\u4e57\u4f4d",
+      "\u7f8e\u4e73",
+      "\u30ad\u30b9\u30fb\u63a5\u543b",
+      "\u7f8e\u5c11\u5973",
+      "\u30b9\u30ec\u30f3\u30c0\u30fc",
+      "\u30d5\u30a7\u30e9",
+      "\u5b55\u307e\u305b",
+      "8KVR",
+      "\u72ec\u5360\u914d\u4fe1",
+      "VR\u5c02\u7528"
+    ]
+  },
+  {
+    "id": "vrkm01534",
+    "title": "\u3010VR\u3011\u300c\u79c1\u306e\u304a\u3063\u3071\u3044\u89e6\u3063\u3066\u307f\u308b\uff1fw\u300d\u30e4\u3063\u305f\u3089\u5373\u7d42\u4e86\uff01\uff01\u304a\u7bc0\u4ecb\u5e7c\u99b4\u67d3\u30a4\u30c1\u30ab\u306e114cm\u3080\u306b\u3085\u3080\u306b\u3085\u30aa\u30c3\u30d1\u30a4\u8a98\u60d1 \u702c\u7530\u4e00\u82b1",
+    "size": "18.73 GB",
+    "actress": [
+      "\u702c\u7530\u4e00\u82b1"
+    ],
+    "preview_img_url": "https://pics.dmm.co.jp/digital/video/vrkm01534/vrkm01534pl.jpg",
+    "sell_date": "2025/01/31",
+    "duration": "76\u5206",
+    "seed_download_link": "magnet:?xt=urn:btih:996fc6f13dd9a3ab4eff91a5ff9e0977f5fbce6e&dn=vrkm-1534&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce",
+    "director": [
+      "\u30cf\u30eb\u30af\u30fb\u30b3\u30fc\u30ac\u30f3"
+    ],
+    "maker": [
+      "\u30b1\u30a4\u30fb\u30a8\u30e0\u30fb\u30d7\u30ed\u30c7\u30e5\u30fc\u30b9"
+    ],
+    "series": [],
+    "label": [
+      "KMPVR"
+    ],
+    "keyword": [
+      "\u30cf\u30a4\u30af\u30aa\u30ea\u30c6\u30a3VR",
+      "8KVR",
+      "\u5358\u4f53\u4f5c\u54c1",
+      "VR\u5c02\u7528",
+      "\u4e2d\u51fa\u3057",
+      "\u9a0e\u4e57\u4f4d",
+      "\u8d85\u4e73",
+      "\u5de8\u4e73",
+      "\u75f4\u5973"
+    ]
+  },
+  {
+    "id": "savr00552",
+    "title": "\u3010VR\u3011\u5feb\u697d\u3060\u3051\u3092\u6c42\u3081\u3066\u71b1\u4e2d\u3059\u308b\u30c8\u30ec\u30fc\u30cb\u30f3\u30b0\u3068\u79f0\u3057\u305f\u4e73\u63fa\u308c\u9a0e\u4e57\u4f4d\u4e0d\u502b \u30de\u30de\u3055\u3093\u30d0\u30ec\u30fc\u6240\u5c5e\u30b5\u30e4\u30ab\u3055\u3093",
+    "size": "15.27 GB",
+    "actress": [],
+    "preview_img_url": "https://pics.dmm.co.jp/digital/video/savr00552/savr00552pl.jpg",
+    "sell_date": "2025/01/31",
+    "duration": "80\u5206",
+    "seed_download_link": "magnet:?xt=urn:btih:e7bd622847ab77960c03b12ab0045339097ff852&dn=savr-552&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce",
+    "director": [
+      "\u66fe\u6839\u5927\u5922@\u4e2d\u91ce"
+    ],
+    "maker": [
+      "KMPVR-\u5f69-"
+    ],
+    "series": [],
+    "label": [
+      "KMPVR-\u5f69-"
+    ],
+    "keyword": [
+      "\u30cf\u30a4\u30af\u30aa\u30ea\u30c6\u30a3VR",
+      "8KVR",
+      "VR\u5c02\u7528",
+      "\u72ec\u5360\u914d\u4fe1",
+      "\u5de8\u4e73",
+      "\u4e0d\u502b",
+      "\u9a0e\u4e57\u4f4d",
+      "\u4e2d\u51fa\u3057",
+      "\u4eba\u59bb\u30fb\u4e3b\u5a66"
+    ]
+  },
+  {
+    "id": "vrkm01502",
+    "title": "\u3010VR\u3011\u5929\u4e95\u7279\u5316\u30a2\u30f3\u30b0\u30ebVR \uff5e\u4e00\u7dd2\u306b\u30bb\u30af\u30b5\u30b5\u30a4\u30ba\u3057\u3088\uff1f\uff5e \u5929\u6708\u3042\u305a",
+    "size": "11.45 GB",
+    "actress": [
+      "\u5929\u6708\u3042\u305a"
+    ],
+    "preview_img_url": "https://pics.dmm.co.jp/digital/video/vrkm01502/vrkm01502pl.jpg",
+    "sell_date": "2025/01/30",
+    "duration": "75\u5206",
+    "seed_download_link": "magnet:?xt=urn:btih:edf8ee091d851064894f5b1a6f15dcd8750fe298&dn=vrkm-1502&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce",
+    "director": [
+      "\u5bae\u8feb\u30e1\u30f3\u30d0\u30fc"
+    ],
+    "maker": [
+      "\u30b1\u30a4\u30fb\u30a8\u30e0\u30fb\u30d7\u30ed\u30c7\u30e5\u30fc\u30b9"
+    ],
+    "series": [
+      "\u5929\u4e95\u7279\u5316\u30a2\u30f3\u30b0\u30eb"
+    ],
+    "label": [
+      "KMPVR"
+    ],
+    "keyword": [
+      "\u30cf\u30a4\u30af\u30aa\u30ea\u30c6\u30a3VR",
+      "8KVR",
+      "\u5358\u4f53\u4f5c\u54c1",
+      "VR\u5c02\u7528",
+      "\u4e2d\u51fa\u3057",
+      "\u9a0e\u4e57\u4f4d",
+      "\u5de8\u4e73",
+      "\u4e3b\u89b3"
+    ]
+  },
+  {
+    "id": "13dsvr01687",
+    "title": "\u3010VR\u3011\u30108K\u3011\u5f15\u304d\u3053\u3082\u308a\u81ea\u7acb\u652f\u63f4\u30bb\u30f3\u30bf\u30fc\u304b\u3089\u6765\u305f\u30dc\u30e9\u30f3\u30c6\u30a3\u30a2\u5965\u3055\u3093 \u300c\u793e\u4f1a\u5fa9\u5e30\u306e\u305f\u3081\u306a\u3089\u2026\u300d\u3068\u5fc3\u512a\u3057\u3044\u5965\u3055\u3093\u306b\u4f55\u5ea6\u3082\u4e2d\u51fa\u3057\u30bb\u30c3\u30af\u30b9\u3092\u305b\u304c\u3080\u50d5 \u5357\u689d\u5f69",
+    "size": "14.90 GB",
+    "actress": [
+      "\u5357\u689d\u5f69"
+    ],
+    "preview_img_url": "https://pics.dmm.co.jp/digital/video/13dsvr01687/13dsvr01687pl.jpg",
+    "sell_date": "2025/01/30",
+    "duration": "82\u5206",
+    "seed_download_link": "magnet:?xt=urn:btih:c090f10d8a3b23ce007c42580e709b7e30544909&dn=dsvr01687&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce",
+    "director": [
+      "\u30bb\u30ab\u30f3\u30c9\u658e\u85e4"
+    ],
+    "maker": [
+      "SOD\u30af\u30ea\u30a8\u30a4\u30c8"
+    ],
+    "series": [],
+    "label": [
+      "SODVR"
+    ],
+    "keyword": [
+      "\u30cf\u30a4\u30af\u30aa\u30ea\u30c6\u30a3VR",
+      "8KVR",
+      "\u30d5\u30a7\u30e9",
+      "\u4e2d\u51fa\u3057",
+      "\u304a\u98a8\u5442",
+      "\u5de8\u4e73",
+      "\u4eba\u59bb\u30fb\u4e3b\u5a66",
+      "\u5358\u4f53\u4f5c\u54c1",
+      "VR\u5c02\u7528"
+    ]
+  },
+  {
+    "id": "13dsvr01662",
+    "title": "\u3010VR\u3011\u30108K\u3011\u9154\u3063\u3071\u3089\u3063\u3066\u8a18\u61b6\u304c\u306a\u3044\u304c\u6628\u65e5\u3001\u3053\u306e\u5b50\u3068\u30bb\u30c3\u30af\u30b9\u3057\u305f\u3089\u3057\u3044\u2026\u7d20\u6027\u304c\u5206\u304b\u3089\u306a\u3044\u30b9\u30ec\u30f3\u30c0\u30fc\u5a18\uff08\u30e1\u30f3\u30d8\u30e9\uff09\u306b\u52e2\u3044\u3067\u7d50\u5a5a\u306e\u8a71\u3092\u3057\u305f\u3089\u3057\u304f\u65e9\u901f\u3001\u5b50\u4f5c\u308a\u30bb\u30c3\u30af\u30b9\u3092\u6c42\u3081\u3089\u308c\u308b\u30dc\u30af \u6708\u4e43\u30eb\u30ca",
+    "size": "12.52 GB",
+    "actress": [
+      "\u6708\u4e43\u30eb\u30ca"
+    ],
+    "preview_img_url": "https://pics.dmm.co.jp/digital/video/13dsvr01662/13dsvr01662pl.jpg",
+    "sell_date": "2025/01/30",
+    "duration": "79\u5206",
+    "seed_download_link": "magnet:?xt=urn:btih:04f81bdac790f6e1b270789be99986af7253ca8a&dn=dsvr01662&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce",
+    "director": [
+      "\u30bb\u30ab\u30f3\u30c9\u658e\u85e4"
+    ],
+    "maker": [
+      "SOD\u30af\u30ea\u30a8\u30a4\u30c8"
+    ],
+    "series": [],
+    "label": [
+      "SODVR"
+    ],
+    "keyword": [
+      "\u30cf\u30a4\u30af\u30aa\u30ea\u30c6\u30a3VR",
+      "8KVR",
+      "\u9a0e\u4e57\u4f4d",
+      "\u30b9\u30ec\u30f3\u30c0\u30fc",
+      "\u30d5\u30a7\u30e9",
+      "\u4e2d\u51fa\u3057",
+      "\u30ad\u30b9\u30fb\u63a5\u543b",
+      "\u5358\u4f53\u4f5c\u54c1",
+      "VR\u5c02\u7528"
+    ]
+  },
+  {
+    "id": "13dsvr01659",
+    "title": "\u3010VR\u3011\u30108K\u3011\u3010VR\u96c6\u56e3\u30ec\u00d7\u30d7\u3011\u4e00\u5bb6\u307e\u308b\u3054\u3068\u306e\u5973\u3069\u3082\u3092\u3001\u3053\u308c\u304b\u3089\u8972\u3044\u307e\u3059\u3002",
+    "size": "33.50 GB",
+    "actress": [],
+    "preview_img_url": "https://pics.dmm.co.jp/digital/video/13dsvr01659/13dsvr01659pl.jpg",
+    "sell_date": "2025/01/30",
+    "duration": "150\u5206",
+    "seed_download_link": "magnet:?xt=urn:btih:2bd3753c1e7492a28a27b392897460d340da885e&dn=dsvr01659&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce",
+    "director": [
+      "\u77e2\u6fa4\u30ec\u30b7\u30fc\u30d6"
+    ],
+    "maker": [
+      "SOD\u30af\u30ea\u30a8\u30a4\u30c8"
+    ],
+    "series": [],
+    "label": [
+      "SODVR"
+    ],
+    "keyword": [
+      "\u30cf\u30a4\u30af\u30aa\u30ea\u30c6\u30a3VR",
+      "8KVR",
+      "\u5de8\u4e73",
+      "\u8ca7\u4e73\u30fb\u5fae\u4e73",
+      "\u7f8e\u5c11\u5973",
+      "\u4e71\u4ea4",
+      "VR\u5c02\u7528"
+    ]
+  },
+  {
+    "id": "urvrsp00412",
+    "title": "\u3010VR\u3011\u30108K VR\u3011\u4fe1\u983c\u3057\u3066\u3044\u305f\u4f1a\u793e\u306e\u5148\u8f29\u306b\u88cf\u5207\u3089\u308c\u7d76\u671b\u5815\u3061\u4e2d\u51fa\u3057\u3055\u308c\u7d9a\u3051\u308b\u7f8e\u4ebaOL \u5c0f\u90a3\u6d77\u3042\u3084",
+    "size": "9.05 GB",
+    "actress": [
+      "\u5c0f\u90a3\u6d77\u3042\u3084"
+    ],
+    "preview_img_url": "https://pics.dmm.co.jp/digital/video/urvrsp00412/urvrsp00412pl.jpg",
+    "sell_date": "2025/01/30",
+    "duration": "67\u5206",
+    "seed_download_link": "magnet:?xt=urn:btih:9e11fac60e7e98a103bb6ac2d42479758803b322&dn=urvrsp00412&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce",
+    "director": [
+      "\u30ea\u30c8\u30eb\u4f8d"
+    ],
+    "maker": [
+      "unfinished"
+    ],
+    "series": [
+      "unfinished VR"
+    ],
+    "label": [
+      "Marrion Group VR"
+    ],
+    "keyword": [
+      "\u30cf\u30a4\u30af\u30aa\u30ea\u30c6\u30a3VR",
+      "OL",
+      "\u90e8\u4e0b\u30fb\u540c\u50da",
+      "\u5bdd\u53d6\u308a\u30fb\u5bdd\u53d6\u3089\u308c\u30fbNTR",
+      "\u62d8\u675f",
+      "\u8fb1\u3081",
+      "8KVR",
+      "\u72ec\u5360\u914d\u4fe1",
+      "VR\u5c02\u7528",
+      "\u5358\u4f53\u4f5c\u54c1",
+      "\u4e2d\u51fa\u3057"
+    ]
+  },
+  {
+    "id": "sivr00389",
+    "title": "\u3010VR\u3011\u3075\u308f\u3068\u308dL\u30ab\u30c3\u30d7\u3092\u5b8c\u5168\u72ec\u5360\uff01\u5b8c\u5168\u5305\u56f2\u30d1\u30a4\u30ba\u30ea\u304c\u6700\u9ad8\u3059\u304e\u3066\u6012\u3089\u305b\u3061\u3083\u3046\u3053\u3068\u3082\u3042\u308b\u3051\u3069\u7b11\u9854\u6ea2\u308c\u308b\u30bc\u30ed\u8ddd\u96e2\u5bc6\u7740\u3044\u3061\u3083\u3044\u3061\u3083\u540c\u68f2\u751f\u6d3b \u7530\u91ce\u6182",
+    "size": "18.24 GB",
+    "actress": [
+      "\u7530\u91ce\u6182"
+    ],
+    "preview_img_url": "https://pics.dmm.co.jp/digital/video/sivr00389/sivr00389pl.jpg",
+    "sell_date": "2025/01/29",
+    "duration": "87\u5206",
+    "seed_download_link": "magnet:?xt=urn:btih:addcd1e2a19807bc902eefb89d72be9a6d94436a&dn=sivr00389&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce",
+    "director": [
+      "\u30b8\u30fc\u30cb\u30a2\u30b9\u819d"
+    ],
+    "maker": [
+      "\u30a8\u30b9\u30ef\u30f3 \u30ca\u30f3\u30d0\u30fc\u30ef\u30f3\u30b9\u30bf\u30a4\u30eb"
+    ],
+    "series": [
+      "S1 VR"
+    ],
+    "label": [
+      "S1 VR"
+    ],
+    "keyword": [
+      "\u30cf\u30a4\u30af\u30aa\u30ea\u30c6\u30a3VR",
+      "\u30d1\u30a4\u30ba\u30ea",
+      "\u30ab\u30c3\u30d7\u30eb",
+      "\u9a0e\u4e57\u4f4d",
+      "\u4e3b\u89b3",
+      "\u72ec\u5360\u914d\u4fe1",
+      "VR\u5c02\u7528",
+      "\u5358\u4f53\u4f5c\u54c1",
+      "8KVR",
+      "\u5de8\u4e73"
+    ]
+  },
+  {
+    "id": "vrkm01499",
+    "title": "\u3010VR\u3011\u3053\u308c\u305e8K\uff01\u5507\u3068\u304a\u5c3b\u3068\u6fe1\u308c\u9aea\u3068\u2019\u30a8\u30ed\u627f\u8a8d\u6b32\u6c42\u30ab\u30ce\u30b8\u30e7\u2019\u3068\u540c\u68f2\u751f\u6d3b \u5c3e\u5d0e\u3048\u308a\u304b",
+    "size": "10.45 GB",
+    "actress": [
+      "\u5c3e\u5d0e\u3048\u308a\u304b"
+    ],
+    "preview_img_url": "https://pics.dmm.co.jp/digital/video/vrkm01499/vrkm01499pl.jpg",
+    "sell_date": "2025/01/29",
+    "duration": "67\u5206",
+    "seed_download_link": "magnet:?xt=urn:btih:dd7a54826a32670f51fc9ee4dd5cc14615fd5cda&dn=vrkm01499&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce",
+    "director": [
+      "\u30d4\u30f3\u30b5\u30ed\u5927\u597d\u304d\u30b9\u30ba\u30bf\u30b1\u3055\u3093"
+    ],
+    "maker": [
+      "\u30b1\u30a4\u30fb\u30a8\u30e0\u30fb\u30d7\u30ed\u30c7\u30e5\u30fc\u30b9"
+    ],
+    "series": [
+      "\u6fe1\u308c\u9aea"
+    ],
+    "label": [
+      "KMPVR"
+    ],
+    "keyword": [
+      "\u30cf\u30a4\u30af\u30aa\u30ea\u30c6\u30a3VR",
+      "8KVR",
+      "\u5358\u4f53\u4f5c\u54c1",
+      "VR\u5c02\u7528",
+      "\u4e2d\u51fa\u3057",
+      "\u9a0e\u4e57\u4f4d",
+      "\u5c3b\u30d5\u30a7\u30c1",
+      "\u4e3b\u89b3"
+    ]
+  },
+  {
+    "id": "vrprd00063",
+    "title": "\u3010VR\u3011\u6700\u9ad8\u7d1a\u6975\u7f8e\u5973\u306e\u3072\u305d\u3072\u305d\u5bc6\u7740\u6deb\u8a9e\uff08ASMR\uff09\u3068\u306d\u3063\u3068\u308a\u6fc3\u539a\u306a\u30b9\u30ed\u30fc\u30bb\u30c3\u30af\u30b9\u306b\u9676\u9154\u3059\u308b\u904a\u90ed\u904a\u3073\u82b1\u9b41VR \u308f\u304b\u83dc\u307b\u306e",
+    "size": "13.82 GB",
+    "actress": [
+      "\u308f\u304b\u83dc\u307b\u306e"
+    ],
+    "preview_img_url": "https://pics.dmm.co.jp/digital/video/vrprd00063/vrprd00063pl.jpg",
+    "sell_date": "2025/01/29",
+    "duration": "84\u5206",
+    "seed_download_link": "magnet:?xt=urn:btih:5e9a6c068af2262806769615434755c22debd17c&dn=vrprd00063&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce",
+    "director": [
+      "\u30af\u30ef\u30c3\u30c1\u30fc"
+    ],
+    "maker": [
+      "VR\u30d1\u30e9\u30c0\u30a4\u30b9"
+    ],
+    "series": [],
+    "label": [
+      "\u6975\u30b0\u30eb\u30fc\u30d7"
+    ],
+    "keyword": [
+      "\u30cf\u30a4\u30af\u30aa\u30ea\u30c6\u30a3VR",
+      "\u7f8e\u4e73",
+      "\u30ad\u30e3\u30d0\u5b22\u30fb\u98a8\u4fd7\u5b22",
+      "\u75f4\u5973",
+      "\u4e2d\u51fa\u3057",
+      "\u72ec\u5360\u914d\u4fe1",
+      "VR\u5c02\u7528",
+      "\u5358\u4f53\u4f5c\u54c1",
+      "8KVR",
+      "\u5de8\u4e73"
+    ]
+  },
+  {
+    "id": "crvr00358",
+    "title": "\u3010VR\u3011\u30108KVR\u3011\u5f93\u9806\u306a\u6027\u683c\u306b\u611f\u6fc0 \u3053\u308c\u304b\u3089\u3053\u306e\u5236\u670d\u5973\u5b50\u3068SEX\u3057\u307e\u3059\uff01\u4e88\u60f3\u3092\u8d85\u3048\u308b\u304b\u308f\u3044\u3044\u7b11\u9854\u3068\u5de8\u4e73\u306e\u7834\u58ca\u529b\u306b\u3082\u3046\u597d\u304d\u304c\u6b62\u307e\u3089\u306a\u3044 \u6625\u967d\u30e2\u30ab",
+    "size": "15.41 GB",
+    "actress": [
+      "\u6625\u967d\u30e2\u30ab"
+    ],
+    "preview_img_url": "https://pics.dmm.co.jp/digital/video/crvr00358/crvr00358pl.jpg",
+    "sell_date": "2025/01/29",
+    "duration": "68\u5206",
+    "seed_download_link": "magnet:?xt=urn:btih:a850f8c10af3d3b85b9c9dea31cd73657871133d&dn=crvr-358&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce",
+    "director": [
+      "\u304f\u308a\u305e\u3046"
+    ],
+    "maker": [
+      "CRYSTAL VR"
+    ],
+    "series": [
+      "\u3053\u306e\u25cb\u25cb\u25cb\u3068\u3053\u308c\u304b\u3089SEX\u3057\u307e\u3059\u3002"
+    ],
+    "label": [
+      "CRYSTAL VR"
+    ],
+    "keyword": [
+      "\u4e3b\u89b3",
+      "\u5236\u670d",
+      "\u30bb\u30fc\u30e9\u30fc\u670d",
+      "\u30d1\u30a4\u30d1\u30f3",
+      "\u7f8e\u4e73",
+      "\u30ae\u30e3\u30eb",
+      "\u30cf\u30a4\u30af\u30aa\u30ea\u30c6\u30a3VR",
+      "8KVR",
+      "VR\u5c02\u7528",
+      "\u5358\u4f53\u4f5c\u54c1",
+      "\u30eb\u30fc\u30ba\u30bd\u30c3\u30af\u30b9",
+      "\u30d1\u30f3\u30c1\u30e9",
+      "\u4e2d\u51fa\u3057",
+      "\u9a0e\u4e57\u4f4d",
+      "\u30aa\u30ca\u30cb\u30fc",
+      "\u96fb\u30de",
+      "\u30d5\u30a7\u30e9",
+      "\u6307\u30de\u30f3",
+      "\u30ad\u30b9\u30fb\u63a5\u543b",
+      "\u6c34\u7740",
+      "\u7af6\u6cf3\u30fb\u30b9\u30af\u30fc\u30eb\u6c34\u7740",
+      "\u5de8\u4e73"
+    ]
+  },
+  {
+    "id": "crvr00359",
+    "title": "\u3010VR\u3011\u30108KVR\u3011\u5f7c\u5973\u304c\u30dc\u30f3\u30c7\u30fc\u30b8\u306b\u7740\u66ff\u3048\u305f\u3089\u2026\u304b\u308f\u3044\u3044\u5f7c\u5973\u304c\u8d85\u7a4d\u6975\u7684\u306a\u75f4\u5973\u306b\u8c79\u5909\uff01\uff01\u3044\u3064\u3082\u3068\u306f\u9055\u3046\u5f7c\u5973\u306e\u30d1\u30ef\u30d5\u30eb\u306a\u8170\u4f7f\u3044\u3068\u6311\u767a\u884c\u70ba\u306b\u4f55\u5ea6\u3082\u4e2d\u51fa\u3057\u3057\u3066\u3057\u307e\u3063\u305f\u2026 \u5c0f\u90a3\u6d77\u3042\u3084",
+    "size": "24.86 GB",
+    "actress": [
+      "\u5c0f\u90a3\u6d77\u3042\u3084"
+    ],
+    "preview_img_url": "https://pics.dmm.co.jp/digital/video/crvr00359/crvr00359pl.jpg",
+    "sell_date": "2025/01/29",
+    "duration": "85\u5206",
+    "seed_download_link": "magnet:?xt=urn:btih:f486315cfd009387e6739b4d08c0bd556827b0ff&dn=crvr-359&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce",
+    "director": [
+      "\u304f\u308a\u305e\u3046"
+    ],
+    "maker": [
+      "CRYSTAL VR"
+    ],
+    "series": [
+      "\u5f7c\u5973\u304c\u25cf\u25cf\u306b\u7740\u66ff\u3048\u305f\u3089\u2026"
+    ],
+    "label": [
+      "CRYSTAL VR"
+    ],
+    "keyword": [
+      "\u4e3b\u89b3",
+      "\u4e2d\u51fa\u3057",
+      "\u5358\u4f53\u4f5c\u54c1",
+      "VR\u5c02\u7528",
+      "8KVR",
+      "\u30cf\u30a4\u30af\u30aa\u30ea\u30c6\u30a3VR",
+      "\u30b9\u30ec\u30f3\u30c0\u30fc",
+      "\u7f8e\u4e73",
+      "\u30d1\u30a4\u30d1\u30f3",
+      "\u6c34\u7740",
+      "\u30dc\u30f3\u30c6\u30fc\u30b8",
+      "\u30d5\u30a7\u30e9",
+      "\u30ad\u30b9\u30fb\u63a5\u543b",
+      "\u8db3\u30b3\u30ad",
+      "\u30af\u30f3\u30cb",
+      "\u9a0e\u4e57\u4f4d",
+      "\u75f4\u5973"
+    ]
+  },
+  {
+    "id": "vrkm01483",
+    "title": "\u3010VR\u3011\u5929\u4e95\u7279\u5316\u30a2\u30f3\u30b0\u30ebVR \uff5e\u6e05\u695a\u7cfbJ\u3007\u30ea\u30d5\u30ec\uff5e \u96eb\u6708\u5fc3\u685c",
+    "size": "10.34 GB",
+    "actress": [
+      "\u96eb\u6708\u5fc3\u685c"
+    ],
+    "preview_img_url": "https://pics.dmm.co.jp/digital/video/vrkm01483/vrkm01483pl.jpg",
+    "sell_date": "2025/01/28",
+    "duration": "76\u5206",
+    "seed_download_link": "magnet:?xt=urn:btih:d072f384ca457ee380da6fddb207ba3c042edd59&dn=vrkm01483&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce",
+    "director": [
+      "\u5bae\u8feb\u30e1\u30f3\u30d0\u30fc"
+    ],
+    "maker": [
+      "\u30b1\u30a4\u30fb\u30a8\u30e0\u30fb\u30d7\u30ed\u30c7\u30e5\u30fc\u30b9"
+    ],
+    "series": [
+      "\u5929\u4e95\u7279\u5316\u30a2\u30f3\u30b0\u30eb"
+    ],
+    "label": [
+      "KMPVR"
+    ],
+    "keyword": [
+      "\u4e3b\u89b3",
+      "\u7f8e\u4e73",
+      "\u9a0e\u4e57\u4f4d",
+      "\u4e2d\u51fa\u3057",
+      "VR\u5c02\u7528",
+      "\u5358\u4f53\u4f5c\u54c1",
+      "8KVR",
+      "\u30cf\u30a4\u30af\u30aa\u30ea\u30c6\u30a3VR"
+    ]
+  },
+  {
+    "id": "urvrsp00403",
+    "title": "\u3010VR\u3011\u30108K VR\u3011\u30de\u30c1\u30a2\u30d7\u306b\u6f5c\u3080\u6b32\u6c42\u4e0d\u6e80\u306e\u30b5\u30c7\u30a3\u30b9\u30c6\u30a3\u30c3\u30afJD\u306e\u5c0f\u60aa\u9b54\u4e0a\u304b\u3089\u76ee\u7dda\uff5e\u308a\u304b\uff5e",
+    "size": "12.21 GB",
+    "actress": [],
+    "preview_img_url": "https://pics.dmm.co.jp/digital/video/urvrsp00403/urvrsp00403pl.jpg",
+    "sell_date": "2025/01/28",
+    "duration": "73\u5206",
+    "seed_download_link": "magnet:?xt=urn:btih:a1a48b8c51d5ce0084b9dbc569752c2e2ebd2eae&dn=urvrsp00403&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce",
+    "director": [
+      "\u30ea\u30c8\u30eb\u4f8d"
+    ],
+    "maker": [
+      "unfinished"
+    ],
+    "series": [
+      "unfinished VR"
+    ],
+    "label": [
+      "Marrion Group VR"
+    ],
+    "keyword": [
+      "\u30cf\u30a4\u30af\u30aa\u30ea\u30c6\u30a3VR",
+      "\u5973\u5b50\u5927\u751f",
+      "\u304a\u59c9\u3055\u3093",
+      "M\u7537",
+      "\u75f4\u5973",
+      "\u7f8e\u4e73",
+      "8KVR",
+      "\u72ec\u5360\u914d\u4fe1",
+      "VR\u5c02\u7528",
+      "\u4e2d\u51fa\u3057"
+    ]
+  },
+  {
+    "id": "kiwvr00730",
+    "title": "\u3010VR\u3011\u30a2\u30ca\u30bf\u306e\u81ea\u5b85\u306b\u5feb\u697d\u5927\u597d\u304dSEX\u72c2\u3044\u306eIcup100cm\u7f8e\u7206\u4e73\u30c9\u5909\u614b\u5973\u5b50\u5927\u751f\u3092\u6d3e\u9063\u3057\u307e\u3059\u3002 \u5c0f\u5742\u3072\u307e\u308a",
+    "size": "6.61 GB",
+    "actress": [
+      "\u5c0f\u5742\u3072\u307e\u308a"
+    ],
+    "preview_img_url": "https://pics.dmm.co.jp/digital/video/kiwvr00730/kiwvr00730pl.jpg",
+    "sell_date": "2025/01/28",
+    "duration": "71\u5206",
+    "seed_download_link": "magnet:?xt=urn:btih:9b2f6c93188e920ce8ca2542d0f4f7b547d59b6d&dn=kiwvr-730&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce",
+    "director": [
+      "\u3053\u3042\u3089\u592a\u90ce\uff08\u308f\uff09"
+    ],
+    "maker": [
+      "\u3053\u3042\u3089VR"
+    ],
+    "series": [
+      "3D\u30cf\u30e1\u64ae\u308aVR\u6539\u3010\u81ea\u5b85\u306b\u30c9\u5909\u614b\u3007\u3007\u3092\u6d3e\u9063\u3057\u307e\u3059\u3002\u3011"
+    ],
+    "label": [
+      "\u6975\u30b0\u30eb\u30fc\u30d7"
+    ],
+    "keyword": [
+      "\u30cf\u30a4\u30af\u30aa\u30ea\u30c6\u30a3VR",
+      "\u5358\u4f53\u4f5c\u54c1",
+      "VR\u5c02\u7528",
+      "\u72ec\u5360\u914d\u4fe1",
+      "\u9854\u5c04",
+      "\u4e2d\u51fa\u3057",
+      "\u5973\u5b50\u5927\u751f",
+      "\u9a0e\u4e57\u4f4d",
+      "\u5de8\u4e73"
+    ]
+  },
+  {
+    "id": "vrkm01468",
+    "title": "\u3010VR\u3011KMP\u53b3\u9078\uff01\u8d85\u7f8e\u9e9720\u540d\u8276\u3084\u304b \u9ed2\u9aea\u5973\u5b508K\u30d9\u30b9\u30c8VR\u5727\u5012\u7684\u6e05\u695a\u7f8e\u5973300\u5206\u30aa\u30fc\u30d0\u30fc\uff01\uff01",
+    "size": "49.90 GB",
+    "actress": [
+      "\u7530\u4e2d\u306d\u306d",
+      "\u672c\u7530\u3082\u3082",
+      "\u5c0f\u90a3\u6d77\u3042\u3084",
+      "\u661f\u4e43\u590f\u6708",
+      "Nia\uff08\u4f0a\u6771\u3081\u308b\uff09",
+      "\u6708\u91ce\u304b\u3059\u307f",
+      "\u59eb\u91ce\u3089\u3093",
+      "\u6a58\u30e1\u30a2\u30ea\u30fc",
+      "\u685c\u6728\u7f8e\u97f3",
+      "\u5bae\u897f\u3072\u304b\u308b"
+    ],
+    "preview_img_url": "https://pics.dmm.co.jp/digital/video/vrkm01468/vrkm01468pl.jpg",
+    "sell_date": "2025/01/28",
+    "duration": "300\u5206",
+    "seed_download_link": "magnet:?xt=urn:btih:f2ce38af14ebcbe8d1a523ec3ca6c3ea7fd77331&dn=vrkm-1468&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce",
+    "director": [
+      "K\u592a\u90ce"
+    ],
+    "maker": [
+      "\u30b1\u30a4\u30fb\u30a8\u30e0\u30fb\u30d7\u30ed\u30c7\u30e5\u30fc\u30b9"
+    ],
+    "series": [
+      "VR BEST"
+    ],
+    "label": [
+      "KMPVR"
+    ],
+    "keyword": [
+      "\u30cf\u30a4\u30af\u30aa\u30ea\u30c6\u30a3VR",
+      "8KVR",
+      "4\u6642\u9593\u4ee5\u4e0a\u4f5c\u54c1",
+      "VR\u5c02\u7528",
+      "\u30d9\u30b9\u30c8\u30fb\u7dcf\u96c6\u7de8",
+      "\u7f8e\u5c11\u5973",
+      "\u7f8e\u4e73",
+      "\u4e2d\u51fa\u3057",
+      "\u5de8\u4e73"
+    ]
+  },
+  {
+    "id": "savr00532",
+    "title": "\u3010VR\u3011\u4e73\u6211\u6162Sweet Room \u65e5\u9803\u7518\u3048\u3066\u3044\u308b\u5e74\u4e0a\u5f7c\u5973\u3092\u601d\u3044\u901a\u308a\u306b\u3055\u305b\u3066\u3057\u307e\u3063\u305f\u7d50\u679c\u3002\u89e6\u308c\u306a\u3044\u304a\u3063\u3071\u3044\u3092\u4f55\u5ea6\u3082\u898b\u305b\u3064\u3051\u3089\u308c\u3001\u307f\u3063\u3068\u3082\u306a\u304f\u30ac\u30de\u30f3\u5c04\u7cbe\u3092\u3057\u3066\u3057\u307e\u3063\u305f\u3002\u5b8d\u6238\u91cc\u5e06",
+    "size": "11.55 GB",
+    "actress": [
+      "\u5b8d\u6238\u91cc\u5e06"
+    ],
+    "preview_img_url": "https://pics.dmm.co.jp/digital/video/savr00532/savr00532pl.jpg",
+    "sell_date": "2025/01/27",
+    "duration": "77\u5206",
+    "seed_download_link": "magnet:?xt=urn:btih:4cfc472535d2b6b80b0cb2585c5a6800980ce0ee&dn=savr00532&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce",
+    "director": [
+      "\u5473\u564c\u716eKOMI"
+    ],
+    "maker": [
+      "KMPVR-\u5f69-"
+    ],
+    "series": [],
+    "label": [
+      "KMPVR-\u5f69-"
+    ],
+    "keyword": [
+      "\u30cf\u30a4\u30af\u30aa\u30ea\u30c6\u30a3VR",
+      "8KVR",
+      "\u5358\u4f53\u4f5c\u54c1",
+      "VR\u5c02\u7528",
+      "\u72ec\u5360\u914d\u4fe1",
+      "\u75f4\u5973",
+      "\u5de8\u4e73",
+      "\u4e2d\u51fa\u3057",
+      "\u4e3b\u89b3"
+    ]
+  },
+  {
+    "id": "vrprd00071",
+    "title": "\u3010VR\u3011\u3010\u5371\u967a\u65e5\u9006NTR\u3011\u8840\u6db2\u578b\u304c\u65e6\u90a3\u3068\u4e00\u7dd2\u306e\u7981\u6b32\u72ec\u8eab\u30c1\u25cb\u30dd\u304c\u5927\u597d\u7269\u306a\u7740\u5e8a\u9858\u671b\u30e4\u30d0\u3059\u304e\u598a\u6d3b\u4e0d\u502b\u3057\u307e\u304f\u308b\u5de8\u4e73\u4eba\u59bb",
+    "size": "14.15 GB",
+    "actress": [],
+    "preview_img_url": "https://pics.dmm.co.jp/digital/video/vrprd00071/vrprd00071pl.jpg",
+    "sell_date": "2025/01/27",
+    "duration": "77\u5206",
+    "seed_download_link": "magnet:?xt=urn:btih:bc72ebf065d3c7830e79b143a0a008124d3e11fc&dn=vrprd00071&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce",
+    "director": [],
+    "maker": [
+      "VR\u30d1\u30e9\u30c0\u30a4\u30b9"
+    ],
+    "series": [],
+    "label": [
+      "\u6975\u30b0\u30eb\u30fc\u30d7"
+    ],
+    "keyword": [
+      "\u30cf\u30a4\u30af\u30aa\u30ea\u30c6\u30a3VR",
+      "8KVR",
+      "VR\u5c02\u7528",
+      "\u72ec\u5360\u914d\u4fe1",
+      "\u5bdd\u53d6\u308a\u30fb\u5bdd\u53d6\u3089\u308c\u30fbNTR",
+      "\u75f4\u5973",
+      "\u6deb\u4e71\u30fb\u30cf\u30fc\u30c9\u7cfb",
+      "\u4eba\u59bb\u30fb\u4e3b\u5a66",
+      "\u5de8\u4e73"
+    ]
+  },
+  {
+    "id": "13dsvr01690",
+    "title": "\u3010VR\u3011\u30108K\u3011\u6deb\u9761\u306a\u30bb\u30af\u30b7\u30fc\u30e9\u30f3\u30b8\u30a7\u30ea\u30fc\u00d7\u3010HQ\u9ad8\u753b\u8cea\u3011\u76ee\u306e\u524d\u3067\u898b\u3066\u8208\u596e\u3057\u306a\u3044\u7537\u306f\u3044\u306a\u3044\uff01\u7537\u306e\u672c\u80fd\u3092\u523a\u6fc0\u3059\u308b\u8a98\u60d1\u30e9\u30f3\u30b8\u30a7\u30ea\u30fc\u3067\u50d5\u3092\u865c\u306b\u3059\u308b\u5f7c\u5973\u306e\u59b9\u3061\u3083\u3093\u3002 \u690e\u540d\u5fc3\u6625",
+    "size": "11.05 GB",
+    "actress": [
+      "\u690e\u540d\u5fc3\u6625"
+    ],
+    "preview_img_url": "https://pics.dmm.co.jp/digital/video/13dsvr01690/13dsvr01690pl.jpg",
+    "sell_date": "2025/01/27",
+    "duration": "72\u5206",
+    "seed_download_link": "magnet:?xt=urn:btih:c79f2709c0db036eb40134bbf8064ea77554b0b6&dn=dsvr01690&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce",
+    "director": [
+      "\u77e2\u6fa4\u30ec\u30b7\u30fc\u30d6"
+    ],
+    "maker": [
+      "SOD\u30af\u30ea\u30a8\u30a4\u30c8"
+    ],
+    "series": [],
+    "label": [
+      "SODVR"
+    ],
+    "keyword": [
+      "\u30cf\u30a4\u30af\u30aa\u30ea\u30c6\u30a3VR",
+      "8KVR",
+      "\u5bdd\u53d6\u308a\u30fb\u5bdd\u53d6\u3089\u308c\u30fbNTR",
+      "\u4e2d\u51fa\u3057",
+      "\u75f4\u5973",
+      "\u30e9\u30f3\u30b8\u30a7\u30ea\u30fc",
+      "\u59c9\u30fb\u59b9",
+      "\u5358\u4f53\u4f5c\u54c1",
+      "VR\u5c02\u7528"
+    ]
+  },
+  {
+    "id": "savr00547",
+    "title": "\u3010VR\u3011\u5f7c\u5973\u304c\u3044\u308b\u524d\u3067\u88cf\u5207\u308a\u5c04\u7cbe\u3055\u305b\u3089\u308c\u305f\u65e5 \u898b\u305f\u76ee\u6e05\u695a\u306a\u306e\u306b\u4eba\u306e\u5f7c\u6c0f\u3092\u5bdd\u53d6\u308b\u306e\u304c\u5927\u597d\u304d\u306a\u60aa\u9b54\u7684\u30d3\u30c3\u30c1 \u65b0\u4e95\u30ea\u30de",
+    "size": "12.85 GB",
+    "actress": [
+      "\u65b0\u4e95\u30ea\u30de"
+    ],
+    "preview_img_url": "https://pics.dmm.co.jp/digital/video/savr00547/savr00547pl.jpg",
+    "sell_date": "2025/01/26",
+    "duration": "79\u5206",
+    "seed_download_link": "magnet:?xt=urn:btih:96d8ad7bec5cad1770f29cca4fb890e8fe0c611d&dn=savr00547&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce",
+    "director": [
+      "\u30cf\u30e1\u30e9\u30cb\u30a2\u30f3\u4eac\u90fd"
+    ],
+    "maker": [
+      "KMPVR-\u5f69-"
+    ],
+    "series": [],
+    "label": [
+      "KMPVR-\u5f69-"
+    ],
+    "keyword": [
+      "\u30cf\u30a4\u30af\u30aa\u30ea\u30c6\u30a3VR",
+      "\u4e2d\u51fa\u3057",
+      "\u5de8\u4e73",
+      "\u30d1\u30a4\u30ba\u30ea",
+      "\u30d3\u30c3\u30c1",
+      "\u72ec\u5360\u914d\u4fe1",
+      "VR\u5c02\u7528",
+      "\u5358\u4f53\u4f5c\u54c1",
+      "8KVR",
+      "\u5bdd\u53d6\u308a\u30fb\u5bdd\u53d6\u3089\u308c\u30fbNTR"
+    ]
+  },
+  {
+    "id": "savr00534",
+    "title": "\u3010VR\u3011\u300c\u30a2\u30bf\u30b7\u304c1\u4eba\u524d\u306e\u30c1\u30f3\u30c1\u30f3\u306b\u3057\u3066\u3042\u3052\u308b\u266a\u300d\u6e05\u695a\u306a\u898b\u305f\u76ee\u306e\u8cac\u3081\u597d\u304d\u30de\u30cd\u304c\u731b\u70c8\u624b\u30b3\u30ad\u3067\u65e9\u6f0f\u30c1\u25cb\u30dd\u3092\u30a4\u30b8\u3081\u308b\u4e80\u982d\u3053\u306d\u304f\u308a\u6027\u4ea4 \u80e1\u6843\u3055\u304f\u3089",
+    "size": "16.77 GB",
+    "actress": [
+      "\u80e1\u6843\u3055\u304f\u3089"
+    ],
+    "preview_img_url": "https://pics.dmm.co.jp/digital/video/savr00534/savr00534pl.jpg",
+    "sell_date": "2025/01/25",
+    "duration": "90\u5206",
+    "seed_download_link": "magnet:?xt=urn:btih:999586afa376525a89d027e663fbd3faa7928d30&dn=savr-534&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce",
+    "director": [
+      "\u3059\u305a\u304d\u3080NEO"
+    ],
+    "maker": [
+      "KMPVR-\u5f69-"
+    ],
+    "series": [],
+    "label": [
+      "KMPVR-\u5f69-"
+    ],
+    "keyword": [
+      "\u30cf\u30a4\u30af\u30aa\u30ea\u30c6\u30a3VR",
+      "\u75f4\u5973",
+      "\u5973\u5b50\u6821\u751f",
+      "\u624b\u30b3\u30ad",
+      "\u9a0e\u4e57\u4f4d",
+      "\u72ec\u5360\u914d\u4fe1",
+      "VR\u5c02\u7528",
+      "\u5358\u4f53\u4f5c\u54c1",
+      "8KVR",
+      "\u7f8e\u5c11\u5973"
+    ]
+  },
+  {
+    "id": "oycvr00102",
+    "title": "\u3010VR\u3011\u30108KVR\u3011\u307b\u307c\u30cf\u30ba\u30ec\u7121\u3057\uff01\u5973\u5b50\u5927\u751f3\u4eba\u306b\u7537\u306f\u30dc\u30af1\u4eba\u306e\u30ac\u30c1\u738b\u69d8\u30b2\u30fc\u30e0\u306f\u52dd\u3061\u78ba\u5b9a\uff01\u7d42\u96fb\u3092\u9003\u3057\u305f3\u4eba\u306e\u30b5\u30fc\u30af\u30eb\u306e\u5f8c\u8f29\u5973\u5b50\u5927\u751f\u3068\u30dc\u30af\u306e\u90e8\u5c4b\u3067\u5b85\u98f2\u307f\uff01\u3057\u3066\u305f\u3089\u738b\u69d8\u30b2\u30fc\u30e0\u3092\u3084\u308b\u795e\u5c55\u958b\u3078\uff01",
+    "size": "48.67 GB",
+    "actress": [],
+    "preview_img_url": "https://pics.dmm.co.jp/digital/video/oycvr00102/oycvr00102pl.jpg",
+    "sell_date": "2025/01/25",
+    "duration": "199\u5206",
+    "seed_download_link": "magnet:?xt=urn:btih:090edb919e6ae092035c53e390fc8ab57b9f8952&dn=oycvr-102&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce",
+    "director": [
+      "\u307e\u3061\u308b\u3060"
+    ],
+    "maker": [
+      "\u304a\u591c\u98df\u30ab\u30f3\u30d1\u30cb\u30fc"
+    ],
+    "series": [
+      "H\u306a\u738b\u69d8\u30b2\u30fc\u30e0\u304c\u59cb\u307e\u3063\u3061\u3083\u3063\u3066\u2026"
+    ],
+    "label": [
+      "HHH-VR\uff08HHH\u30b0\u30eb\u30fc\u30d7\uff09"
+    ],
+    "keyword": [
+      "\u30cf\u30a4\u30af\u30aa\u30ea\u30c6\u30a3VR",
+      "\u5de8\u4e73",
+      "\u5973\u5b50\u5927\u751f",
+      "\u30cf\u30fc\u30ec\u30e0",
+      "\u98f2\u307f\u4f1a\u30fb\u5408\u30b3\u30f3",
+      "3P\u30fb4P",
+      "\u4e2d\u51fa\u3057",
+      "\u9a0e\u4e57\u4f4d",
+      "\u30d5\u30a7\u30e9",
+      "VR\u5c02\u7528",
+      "8KVR",
+      "\u72ec\u5360\u914d\u4fe1"
+    ]
+  },
+  {
+    "id": "bibivr00144",
+    "title": "\u3010VR\u3011\u9732\u51fa\u306e\u6fc0\u3057\u3044\u5236\u670d\u30d8\u30eb\u30b9\u306eG\u30ab\u30c3\u30d7\u5de8\u4e73\u5b22\u306b\u95a2\u897f\u5f01\u3067\u3055\u3055\u3084\u304b\u308c\u306a\u304c\u3089\u306e\u30bc\u30ed\u8ddd\u96e2\u3054\u5949\u4ed5 \u7f8e\u6728\u3072\u306a\u306e",
+    "size": "21.67 GB",
+    "actress": [
+      "\u7f8e\u6728\u3072\u306a\u306e"
+    ],
+    "preview_img_url": "https://pics.dmm.co.jp/digital/video/bibivr00144/bibivr00144pl.jpg",
+    "sell_date": "2025/01/25",
+    "duration": "84\u5206",
+    "seed_download_link": "magnet:?xt=urn:btih:532f10bee99f1e4eac4e8b5ad8da04db26fd2e01&dn=bibivr-144&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce",
+    "director": [
+      "\u30cf\u30e1\u30e9\u30cb\u30a2\u30f3\u4eac\u90fd"
+    ],
+    "maker": [
+      "KMPVR-bibi-"
+    ],
+    "series": [],
+    "label": [
+      "KMPVR-bibi-"
+    ],
+    "keyword": [
+      "\u30cf\u30a4\u30af\u30aa\u30ea\u30c6\u30a3VR",
+      "8KVR",
+      "\u5358\u4f53\u4f5c\u54c1",
+      "VR\u5c02\u7528",
+      "\u5de8\u4e73",
+      "\u4e2d\u51fa\u3057",
+      "\u9a0e\u4e57\u4f4d",
+      "\u7f8e\u5c11\u5973",
+      "\u30ad\u30e3\u30d0\u5b22\u30fb\u98a8\u4fd7\u5b22"
+    ]
+  },
+  {
+    "id": "savr00548",
+    "title": "\u3010VR\u3011\u4f55\u3082\u60aa\u3044\u4e8b\u3092\u3057\u3066\u3044\u306a\u3044\u30dc\u30af\u3092\u653e\u8ab2\u5f8c\u547c\u3073\u51fa\u3057\u305f\u6821\u5185\u30a4\u30c1\u306e\u30de\u30c9\u30f3\u30ca\u6559\u5e2b\u306f\u7cbe\u5b50\u3092\u9854\u306b\u6d74\u3073\u305f\u304c\u308b\u30b6\u30fc\u30e1\u30f3\u72c2 \u4f50\u85e4\u306e\u306e\u304b",
+    "size": "8.90 GB",
+    "actress": [
+      "\u4f50\u85e4\u306e\u306e\u304b\uff08\u52a0\u85e4\u3082\u3082\u304b\uff09"
+    ],
+    "preview_img_url": "https://pics.dmm.co.jp/digital/video/savr00548/savr00548pl.jpg",
+    "sell_date": "2025/01/25",
+    "duration": "62\u5206",
+    "seed_download_link": "magnet:?xt=urn:btih:99c5221030ec9dab8d464836c20f5967d008f74f&dn=savr-548&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce",
+    "director": [
+      "\u5305\u4e01M"
+    ],
+    "maker": [
+      "KMPVR-\u5f69-"
+    ],
+    "series": [],
+    "label": [
+      "KMPVR-\u5f69-"
+    ],
+    "keyword": [
+      "\u30cf\u30a4\u30af\u30aa\u30ea\u30c6\u30a3VR",
+      "\u7f8e\u4e73",
+      "\u5b66\u5712\u3082\u306e",
+      "\u305d\u306e\u4ed6\u30d5\u30a7\u30c1",
+      "\u9854\u5c04",
+      "\u72ec\u5360\u914d\u4fe1",
+      "VR\u5c02\u7528",
+      "\u5358\u4f53\u4f5c\u54c1",
+      "8KVR",
+      "\u5973\u6559\u5e2b"
+    ]
+  },
+  {
+    "id": "vrkm01486",
+    "title": "\u3010VR\u3011\u8ab0\u304b\u3089\u3082\u76f8\u624b\u306b\u3055\u308c\u306a\u3044\u30c1\u30fc\u725b\uff08\u50d5\uff09\u304c\u50ac\u25cf\u8853\u3092\u4f7f\u3063\u3066\u30af\u30e9\u30b9\u3092\u4e57\u3063\u53d6\u308b\uff01\u99ac\u9e7f\u306b\u3057\u3066\u304d\u305f\u30ab\u30fc\u30b9\u30c8\u4e0a\u4f4d\u306e\u5973\u5b50\u30af\u30e9\u30b9\u30e1\u30a4\u30c8\u3068\u5973\u6559\u5e2b\u306e\u610f\u8b58\u3092\u64cd\u3063\u3066\u30e2\u30c6\u30e2\u30c6\u306b\uff01\u5b66\u6821\u3067\u5b50\u4f9b\u4f5c\u308a\u653e\u984c\uff01\u4eba\u751f\u304c\u4e00\u5909\u3059\u308b\uff01\uff01 \u5927\u69fb\u3072\u3073\u304d\u30fb\u5c3e\u5d0e\u3048\u308a\u304b\u30fb\u82b1\u72e9\u307e\u3044\u30fb\u80e1\u6843\u3055\u304f\u3089\u30fb\u52a0\u8cc0\u7f8e\u307e\u308a\u30fb\u2026",
+    "size": "58.10 GB",
+    "actress": [
+      "\u5927\u69fb\u3072\u3073\u304d",
+      "\u5c3e\u5d0e\u3048\u308a\u304b",
+      "\u82b1\u72e9\u307e\u3044",
+      "\u80e1\u6843\u3055\u304f\u3089",
+      "\u6d77\u91ce\u3044\u304f\u3089",
+      "\u5e7e\u91ce\u307e\u3061",
+      "\u52a0\u8cc0\u7f8e\u307e\u308a"
+    ],
+    "preview_img_url": "https://pics.dmm.co.jp/digital/video/vrkm01486/vrkm01486pl.jpg",
+    "sell_date": "2025/01/24",
+    "duration": "205\u5206",
+    "seed_download_link": "magnet:?xt=urn:btih:72d9e139b779a3c3cadc6c6f1ca50181ed6b5b2c&dn=vrkm-1486&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce",
+    "director": [
+      "\u30d4\u30f3\u30b5\u30ed\u5927\u597d\u304d\u30b9\u30ba\u30bf\u30b1\u3055\u3093",
+      "\u77e2\u6fa4\u30ec\u30b7\u30fc\u30d6"
+    ],
+    "maker": [
+      "\u30b1\u30a4\u30fb\u30a8\u30e0\u30fb\u30d7\u30ed\u30c7\u30e5\u30fc\u30b9"
+    ],
+    "series": [],
+    "label": [
+      "KMPVR"
+    ],
+    "keyword": [
+      "\u30cf\u30a4\u30af\u30aa\u30ea\u30c6\u30a3VR",
+      "8KVR",
+      "VR\u5c02\u7528",
+      "\u4e2d\u51fa\u3057",
+      "\u9a0e\u4e57\u4f4d",
+      "\u4e3b\u89b3",
+      "\u5973\u5b50\u6821\u751f"
+    ]
+  },
+  {
+    "id": "ipvr00295",
+    "title": "\u3010VR\u3011\u5165\u9662\u3057\u3066\u3044\u308b\u50d5\u3092\u30a8\u30c3\u30c1\u3067\u52b1\u307e\u3059\u795e\u5bfe\u5fdc\u30ca\u30fc\u30b9 \u521d\u30ca\u30fc\u30b9VR\uff01\u732e\u8eab\u7684\u306a\u5c04\u7cbe\u770b\u8b77\u306b\u5408\u8a086\u5c04\u7cbe\uff01\uff01\u9577\u5c3a111\u5206\uff012SEX\uff015\u30b7\u30c1\u30e5\u30a8\u30fc\u30b7\u30e7\u30f3SP\uff01 \u6953\u30ab\u30ec\u30f3",
+    "size": "9.24 GB",
+    "actress": [
+      "\u6953\u30ab\u30ec\u30f3"
+    ],
+    "preview_img_url": "https://pics.dmm.co.jp/digital/video/ipvr00295/ipvr00295pl.jpg",
+    "sell_date": "2025/01/24",
+    "duration": "111\u5206",
+    "seed_download_link": "magnet:?xt=urn:btih:4a483e649c639576aa95c8ca04cdfc3633a58e03&dn=ipvr-295&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce",
+    "director": [
+      "ZAMPA"
+    ],
+    "maker": [
+      "\u30a2\u30a4\u30c7\u30a2\u30dd\u30b1\u30c3\u30c8"
+    ],
+    "series": [],
+    "label": [
+      "IP-VR"
+    ],
+    "keyword": [
+      "\u30cf\u30a4\u30af\u30aa\u30ea\u30c6\u30a3VR",
+      "\u5358\u4f53\u4f5c\u54c1",
+      "VR\u5c02\u7528",
+      "\u72ec\u5360\u914d\u4fe1",
+      "\u30e9\u30f3\u30b8\u30a7\u30ea\u30fc",
+      "\u30d5\u30a7\u30e9",
+      "\u30b9\u30ec\u30f3\u30c0\u30fc",
+      "\u30ad\u30b9\u30fb\u63a5\u543b",
+      "\u770b\u8b77\u5a66\u30fb\u30ca\u30fc\u30b9"
+    ]
+  },
+  {
+    "id": "sivr00388",
+    "title": "\u3010VR\u3011\u300c\u5f7c\u6c0f\u304c\u5bdd\u53d6\u3089\u308c\u9858\u671b\u3042\u3063\u3066\u20263\u4eba\u3067\u30a8\u30c3\u30c1\u3057\u3066\u304f\u308c\u306a\u3044\uff1f\u300d\u305a\u3063\u3068\u5927\u597d\u304d\u3060\u3063\u305f\u5e7c\u99b4\u67d3\uff08\u306a\u306a\uff09\u304c\u4ed6\u4eba\u68d2\u3067\u30a4\u30ad\u307e\u304f\u308b\u59ff\u306b\u5ac9\u59ac\u3057\u71c3\u3048\u4e0a\u304c\u308b\u5b8c\u5168\u7565\u596aNTR \u672a\u6b69\u306a\u306a",
+    "size": "33.72 GB",
+    "actress": [
+      "\u672a\u6b69\u306a\u306a"
+    ],
+    "preview_img_url": "https://pics.dmm.co.jp/digital/video/sivr00388/sivr00388pl.jpg",
+    "sell_date": "2025/01/24",
+    "duration": "117\u5206",
+    "seed_download_link": "magnet:?xt=urn:btih:ab0429bb8e1d4aff64b4cb1afc181bbbb8fbc03d&dn=sivr-388&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce",
+    "director": [
+      "\u30b8\u30fc\u30cb\u30a2\u30b9\u819d"
+    ],
+    "maker": [
+      "\u30a8\u30b9\u30ef\u30f3 \u30ca\u30f3\u30d0\u30fc\u30ef\u30f3\u30b9\u30bf\u30a4\u30eb"
+    ],
+    "series": [
+      "S1 VR"
+    ],
+    "label": [
+      "S1 VR"
+    ],
+    "keyword": [
+      "\u30cf\u30a4\u30af\u30aa\u30ea\u30c6\u30a3VR",
+      "\u5e7c\u306a\u3058\u307f",
+      "\u30ad\u30b9\u30fb\u63a5\u543b",
+      "\u9a0e\u4e57\u4f4d",
+      "\u4e3b\u89b3",
+      "\u72ec\u5360\u914d\u4fe1",
+      "VR\u5c02\u7528",
+      "\u5358\u4f53\u4f5c\u54c1",
+      "8KVR",
+      "\u5bdd\u53d6\u308a\u30fb\u5bdd\u53d6\u3089\u308c\u30fbNTR"
+    ]
+  },
+  {
+    "id": "juvr00215",
+    "title": "\u3010VR\u3011\u62bc\u3057\u306b\u5f31\u3044Gcup\u59bb\u306e\u654f\u611f\u306a\u8089\u4f53\u3092\u7523\u5f8c\u691c\u8a3a\u3067\u9685\u3005\u307e\u3067\u5f04\u3076 \u8077\u6a29\u4e71\u7528\uff01\uff01\u5909\u614b\u533b\u5e2b\u306e\u30c9\u30af\u30cf\u30e9\u4e2d\u51fa\u3057\u5065\u5eb7\u8a3a\u65ad \u8d85\u9ad8\u753b\u8cea8KVR \u4e00\u4e43\u3042\u304a\u3044",
+    "size": "12.69 GB",
+    "actress": [
+      "\u4e00\u4e43\u3042\u304a\u3044"
+    ],
+    "preview_img_url": "https://pics.dmm.co.jp/digital/video/juvr00215/juvr00215pl.jpg",
+    "sell_date": "2025/01/24",
+    "duration": "79\u5206",
+    "seed_download_link": "magnet:?xt=urn:btih:6e0f02d4e0f22de170822a24186dbc9e72bc0392&dn=juvr-215&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce",
+    "director": [
+      "\u3053\u3042\u3089\u592a\u90ce\uff08\u308f\uff09"
+    ],
+    "maker": [
+      "\u30de\u30c9\u30f3\u30ca"
+    ],
+    "series": [
+      "Madonna8KVR"
+    ],
+    "label": [
+      "MadonnaVR"
+    ],
+    "keyword": [
+      "\u30cf\u30a4\u30af\u30aa\u30ea\u30c6\u30a3VR",
+      "\u5de8\u4e73",
+      "\u7f9e\u6065",
+      "\u4e2d\u51fa\u3057",
+      "\u719f\u5973",
+      "\u72ec\u5360\u914d\u4fe1",
+      "VR\u5c02\u7528",
+      "\u5358\u4f53\u4f5c\u54c1",
+      "8KVR",
+      "\u4eba\u59bb\u30fb\u4e3b\u5a66"
+    ]
+  },
+  {
+    "id": "kiwvr00740",
+    "title": "\u3010VR\u3011\u30108K\u3011\u6700\u7d42\u96fb\u8eca\u3067\u75f4\u5973\u308a\u307e\u3057\u305f\u3002\u30aa\u30c9\u30aa\u30c9\u3057\u305f\u7537\u5b50\u306b\u72d9\u3044\u3092\u5b9a\u3081\u6e80\u54e1\u96fb\u8eca\u5185\u3067\u9006\u75f4\u25cf\u8a98\u60d1\uff01\u8033\u5143\u3067\u30a4\u30e4\u30e9\u3057\u3044\u8a00\u8449\u8cac\u3081\u3092\u7e70\u308a\u8fd4\u3057\u4f55\u5ea6\u3082\u5f37\u25cf\u7684\u5c04\u7cbe\u2026 \u6a58\u5185\u3072\u306a\u305f",
+    "size": "18.05 GB",
+    "actress": [
+      "\u6a58\u5185\u3072\u306a\u305f"
+    ],
+    "preview_img_url": "https://pics.dmm.co.jp/digital/video/kiwvr00740/kiwvr00740pl.jpg",
+    "sell_date": "2025/01/24",
+    "duration": "85\u5206",
+    "seed_download_link": "magnet:?xt=urn:btih:5030772bfb01d78be1bc41f162b3beac2fa9365f&dn=kiwvr-740&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce",
+    "director": [
+      "\u66f2\u304c\u308a\u574269"
+    ],
+    "maker": [
+      "\u3053\u3042\u3089VR"
+    ],
+    "series": [
+      "8KVR\u3010\u6700\u7d42\u96fb\u8eca\u3067\u75f4\u5973\u308a\u307e\u3057\u305f\u3002\u3011"
+    ],
+    "label": [
+      "\u6975\u30b0\u30eb\u30fc\u30d7"
+    ],
+    "keyword": [
+      "\u30cf\u30a4\u30af\u30aa\u30ea\u30c6\u30a3VR",
+      "\u6deb\u4e71\u30fb\u30cf\u30fc\u30c9\u7cfb",
+      "\u75f4\u5973",
+      "\u4e2d\u51fa\u3057",
+      "\u30d1\u30a4\u30ba\u30ea",
+      "\u6deb\u8a9e",
+      "\u72ec\u5360\u914d\u4fe1",
+      "VR\u5c02\u7528",
+      "\u5358\u4f53\u4f5c\u54c1",
+      "8KVR",
+      "\u5de8\u4e73"
+    ]
+  },
+  {
+    "id": "juvr00210",
+    "title": "\u3010VR\u3011\u53f6\u611b \u521d8KVR \u8d85\u30c9\u8feb\u529b\u306eMcup\u306b\u57cb\u3082\u308c\u30b7\u30b4\u304b\u308c\u308b\u5929\u56fd\u4f53\u9a13 \u3082\u306e\u3059\u3054\u3044\u7206\u4e73\u306a\u4e0a\u53f8\u306e\u5965\u3055\u3093\u304c\u5185\u7dd2\u3067\u55b6\u3080\u300a\u629c\u304d\u30a2\u30ea\u300b\u6975\u4e0a\u30a2\u30b8\u30a2\u30f3\u30a8\u30b9\u30c6",
+    "size": "36.66 GB",
+    "actress": [
+      "\u53f6\u611b"
+    ],
+    "preview_img_url": "https://pics.dmm.co.jp/digital/video/juvr00210/juvr00210pl.jpg",
+    "sell_date": "2025/01/24",
+    "duration": "87\u5206",
+    "seed_download_link": "magnet:?xt=urn:btih:226b9d666082bcdaee54f0b6f4608d584e051aab&dn=juvr-210&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce",
+    "director": [
+      "\u30b8\u30fc\u30cb\u30a2\u30b9\u819d"
+    ],
+    "maker": [
+      "\u30de\u30c9\u30f3\u30ca"
+    ],
+    "series": [
+      "Madonna8KVR"
+    ],
+    "label": [
+      "MadonnaVR"
+    ],
+    "keyword": [
+      "\u30cf\u30a4\u30af\u30aa\u30ea\u30c6\u30a3VR",
+      "\u4eba\u59bb\u30fb\u4e3b\u5a66",
+      "\u4e2d\u51fa\u3057",
+      "\u4e0d\u502b",
+      "\u719f\u5973",
+      "\u72ec\u5360\u914d\u4fe1",
+      "VR\u5c02\u7528",
+      "\u5358\u4f53\u4f5c\u54c1",
+      "8KVR",
+      "\u30a8\u30b9\u30c6"
+    ]
+  },
+  {
+    "id": "aquma00069",
+    "title": "\u3010VR\u3011\u5302\u3044\u3092\u611f\u3058\u308b\u304f\u3089\u3044\u63a5\u8fd1\u3057\u3066\u304f\u308b\u958b\u811a\u898b\u305b\u3064\u3051\u30aa\u30ca\u30b5\u30dd",
+    "size": "6.18 GB",
+    "actress": [
+      "\u5929\u6708\u3042\u305a",
+      "\u65e9\u898b\u306a\u306a",
+      "\u6728\u4e4b\u5185\u5948\u3005\u8449",
+      "\u7f8e\u6cc9\u54b2",
+      "\u9808\u5d0e\u7f8e\u7fbd",
+      "\u5929\u4e43\u306e\u3042",
+      "\u4e09\u30f6\u5cf6\u3044\u304a"
+    ],
+    "preview_img_url": "https://pics.dmm.co.jp/digital/video/aquma00069/aquma00069pl.jpg",
+    "sell_date": "2025/01/24",
+    "duration": "66\u5206",
+    "seed_download_link": "magnet:?xt=urn:btih:7c44f777b6f9233a685cfe3be051e198e0e641e0&dn=aquma-069&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce",
+    "director": [
+      "\u5c71\u672c\u30d8\u30f3\u30c9\u30ea\u30af\u30b9"
+    ],
+    "maker": [
+      "AQUA\uff1c\u30a2\u30af\u30a2\uff1e"
+    ],
+    "series": [],
+    "label": [
+      "AQUA MANIAC"
+    ],
+    "keyword": [
+      "\u30cf\u30a4\u30af\u30aa\u30ea\u30c6\u30a3VR",
+      "VR\u5c02\u7528",
+      "\u72ec\u5360\u914d\u4fe1",
+      "\u5236\u670d",
+      "\u30aa\u30ca\u30cb\u30fc",
+      "\u6deb\u8a9e",
+      "\u305d\u306e\u4ed6\u30d5\u30a7\u30c1",
+      "\u30aa\u30ca\u30b5\u30dd"
+    ]
+  },
+  {
+    "id": "aquco00081",
+    "title": "\u3010VR\u3011\u304a\u59c9\u3061\u3083\u3093\u304c\u30aa\u30ca\u30cb\u30fc\u3057\u3066\u3044\u308b\u306e\u3092\u898b\u3066\u3057\u307e\u3063\u305f\u50d5\u306f.. \u5b87\u6d41\u6728\u3055\u3089\u3089",
+    "size": "16.00 GB",
+    "actress": [
+      "\u5b87\u6d41\u6728\u3055\u3089\u3089"
+    ],
+    "preview_img_url": "https://pics.dmm.co.jp/digital/video/aquco00081/aquco00081pl.jpg",
+    "sell_date": "2025/01/24",
+    "duration": "70\u5206",
+    "seed_download_link": "magnet:?xt=urn:btih:1fb683196e6545645bcfc0cc0d171ddb7a50ecb1&dn=aquco-081&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce",
+    "director": [
+      "\u30ed\u30fc\u30b7\u30e7\u30f3\u30dc\u30fc\u30a4"
+    ],
+    "maker": [
+      "AQUA\uff1c\u30a2\u30af\u30a2\uff1e"
+    ],
+    "series": [
+      "\u304a\u59c9\u3061\u3083\u3093\u304c\u30aa\u30ca\u30cb\u30fc\u3057\u3066\u3044\u308b\u306e\u3092\u898b\u3066\u3057\u307e\u3063\u305f\u50d5\u306f.."
+    ],
+    "label": [
+      "AQUA COLORS"
+    ],
+    "keyword": [
+      "\u30cf\u30a4\u30af\u30aa\u30ea\u30c6\u30a3VR",
+      "\u30aa\u30ca\u30cb\u30fc",
+      "\u76d7\u64ae\u30fb\u306e\u305e\u304d",
+      "\u8fd1\u89aa\u76f8\u59e6",
+      "\u9a0e\u4e57\u4f4d",
+      "\u72ec\u5360\u914d\u4fe1",
+      "VR\u5c02\u7528",
+      "\u5358\u4f53\u4f5c\u54c1",
+      "8KVR",
+      "\u59c9\u30fb\u59b9"
+    ]
+  },
+  {
+    "id": "aqula00062",
+    "title": "\u3010VR\u3011\u672a\u4ea1\u4ebaNTR \u59bb\u3068\u6b7b\u5225\u3057\u305f\u50d5\u306f\u65b0\u3057\u3044\u5f7c\u6c0f\u3068\u306eSEX\u3092\u3042\u306e\u4e16\u304b\u3089\u898b\u5b88\u308b\u3053\u3068\u3057\u304b\u51fa\u6765\u306a\u3044\u3002 \u7530\u6240\u767e\u5408",
+    "size": "13.89 GB",
+    "actress": [
+      "\u7530\u6240\u767e\u5408"
+    ],
+    "preview_img_url": "https://pics.dmm.co.jp/digital/video/aqula00062/aqula00062pl.jpg",
+    "sell_date": "2025/01/24",
+    "duration": "61\u5206",
+    "seed_download_link": "magnet:?xt=urn:btih:843239ee09a76ef804320721ef35967e62d77a1d&dn=aqula-062&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce",
+    "director": [
+      "\u30ed\u30fc\u30b7\u30e7\u30f3\u30dc\u30fc\u30a4"
+    ],
+    "maker": [
+      "AQUA\uff1c\u30a2\u30af\u30a2\uff1e"
+    ],
+    "series": [],
+    "label": [
+      "AQUA LADY"
+    ],
+    "keyword": [
+      "\u30cf\u30a4\u30af\u30aa\u30ea\u30c6\u30a3VR",
+      "\u672a\u4ea1\u4eba",
+      "\u5bdd\u53d6\u308a\u30fb\u5bdd\u53d6\u3089\u308c\u30fbNTR",
+      "\u30aa\u30ca\u30cb\u30fc",
+      "\u9a0e\u4e57\u4f4d",
+      "\u72ec\u5360\u914d\u4fe1",
+      "VR\u5c02\u7528",
+      "\u5358\u4f53\u4f5c\u54c1",
+      "8KVR",
+      "\u4eba\u59bb\u30fb\u4e3b\u5a66"
+    ]
+  },
+  {
+    "id": "aqula00061",
+    "title": "\u3010VR\u3011\u5f7c\u5973\u304c\u77e5\u3089\u306a\u3044\u304a\u3058\u3055\u3093\u306b\u62b1\u304b\u308c\u308b\u306e\u3092\u305f\u3060\u898b\u3066\u3044\u308b\u3060\u3051 \u4eca\u4e95\u3048\u307f",
+    "size": "7.32 GB",
+    "actress": [
+      "\u4eca\u4e95\u3048\u307f"
+    ],
+    "preview_img_url": "https://pics.dmm.co.jp/digital/video/aqula00061/aqula00061pl.jpg",
+    "sell_date": "2025/01/24",
+    "duration": "75\u5206",
+    "seed_download_link": "magnet:?xt=urn:btih:72c1860113f944f8338c56e904d765fcac5142e8&dn=aqula-061&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce",
+    "director": [
+      "\u30ed\u30fc\u30b7\u30e7\u30f3\u30dc\u30fc\u30a4"
+    ],
+    "maker": [
+      "AQUA\uff1c\u30a2\u30af\u30a2\uff1e"
+    ],
+    "series": [
+      "\u77e5\u3089\u306a\u3044\u304a\u3058\u3055\u3093\u306b\u62b1\u304b\u308c\u308b\u306e\u3092\u305f\u3060\u898b\u3066\u3044\u308b\u3060\u3051"
+    ],
+    "label": [
+      "AQUA LADY"
+    ],
+    "keyword": [
+      "\u5358\u4f53\u4f5c\u54c1",
+      "\u30cf\u30a4\u30af\u30aa\u30ea\u30c6\u30a3VR",
+      "VR\u5c02\u7528",
+      "\u72ec\u5360\u914d\u4fe1",
+      "\u9a0e\u4e57\u4f4d",
+      "\u4e3b\u89b3",
+      "\u5bdd\u53d6\u308a\u30fb\u5bdd\u53d6\u3089\u308c\u30fbNTR",
+      "\u30ab\u30c3\u30d7\u30eb",
+      "\u7f8e\u5c11\u5973"
+    ]
+  },
+  {
+    "id": "ssr00022",
+    "title": "\u3010VR\u30118KVR \u5973\u4f53\u89b3\u5bdf\uff06\u9854\u8210\u3081\u553e\u305f\u3089\u3057 \u7686\u702c\u3042\u304b\u308a",
+    "size": "3.59 GB",
+    "actress": [
+      "\u7686\u702c\u3042\u304b\u308a"
+    ],
+    "preview_img_url": "https://pics.dmm.co.jp/digital/video/ssr00022/ssr00022pl.jpg",
+    "sell_date": "2025/01/24",
+    "duration": "22\u5206",
+    "seed_download_link": "magnet:?xt=urn:btih:d627e1bca57679a0e7782a3647aade9895b5b011&dn=ssr-022&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce",
+    "director": [
+      "\u3075\u3047\u3061\u306b\u3043"
+    ],
+    "maker": [
+      "SSR VR"
+    ],
+    "series": [
+      "8KVR \u5973\u4f53\u89b3\u5bdf\uff06\u9854\u8210\u3081\u553e\u305f\u3089\u3057"
+    ],
+    "label": [],
+    "keyword": [
+      "\u30cf\u30a4\u30af\u30aa\u30ea\u30c6\u30a3VR",
+      "\u5358\u4f53\u4f5c\u54c1",
+      "VR\u5c02\u7528",
+      "\u72ec\u5360\u914d\u4fe1",
+      "\u305d\u306e\u4ed6\u30d5\u30a7\u30c1",
+      "\u30d1\u30a4\u30d1\u30f3",
+      "\u5c40\u90e8\u30a2\u30c3\u30d7",
+      "\u7f8e\u5c11\u5973",
+      "8KVR"
+    ]
+  },
+  {
+    "id": "ssr00021",
+    "title": "\u3010VR\u30118KVR \u5c04\u7cbe\u30b3\u30f3\u30c8\u30ed\u30fc\u30ebJOI \u7686\u702c\u3042\u304b\u308a",
+    "size": "4.68 GB",
+    "actress": [
+      "\u7686\u702c\u3042\u304b\u308a"
+    ],
+    "preview_img_url": "https://pics.dmm.co.jp/digital/video/ssr00021/ssr00021pl.jpg",
+    "sell_date": "2025/01/24",
+    "duration": "20\u5206",
+    "seed_download_link": "magnet:?xt=urn:btih:7b0268c3698546f4f46e8d1900987347a9d09ff8&dn=ssr-021&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce",
+    "director": [
+      "\u3075\u3047\u3061\u306b\u3043"
+    ],
+    "maker": [
+      "SSR VR"
+    ],
+    "series": [
+      "8KVR \u5c04\u7cbe\u30b3\u30f3\u30c8\u30ed\u30fc\u30ebJOI"
+    ],
+    "label": [],
+    "keyword": [
+      "\u30cf\u30a4\u30af\u30aa\u30ea\u30c6\u30a3VR",
+      "\u5358\u4f53\u4f5c\u54c1",
+      "VR\u5c02\u7528",
+      "\u72ec\u5360\u914d\u4fe1",
+      "\u9854\u9762\u9a0e\u4e57",
+      "\u624b\u30b3\u30ad",
+      "\u30aa\u30ca\u30b5\u30dd",
+      "\u7f8e\u5c11\u5973",
+      "8KVR"
+    ]
+  },
+  {
+    "id": "ssr00016",
+    "title": "\u3010VR\u3011Working Women\u2019s Extra \u30ab\u30d5\u30a7\u30aa\u30fc\u30ca\u30fc\u7de8 \u65e5\u5411\u3086\u3089",
+    "size": "25.25 GB",
+    "actress": [
+      "\u65e5\u5411\u3086\u3089"
+    ],
+    "preview_img_url": "https://pics.dmm.co.jp/digital/video/ssr00016/ssr00016pl.jpg",
+    "sell_date": "2025/01/24",
+    "duration": "73\u5206",
+    "seed_download_link": "magnet:?xt=urn:btih:3d8da81eb626ee465ee27a39bdd793a02a713b13&dn=ssr-016&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce",
+    "director": [
+      "\u8336\u8449\u5b50\u30b4\u30ad"
+    ],
+    "maker": [
+      "SSR VR"
+    ],
+    "series": [
+      "Working Women\u2019s Extra \uff08WWE\uff09"
+    ],
+    "label": [],
+    "keyword": [
+      "\u30cf\u30a4\u30af\u30aa\u30ea\u30c6\u30a3VR",
+      "\u5358\u4f53\u4f5c\u54c1",
+      "VR\u5c02\u7528",
+      "\u72ec\u5360\u914d\u4fe1",
+      "\u4e2d\u51fa\u3057",
+      "\u7f8e\u4e73",
+      "\u7f8e\u5c11\u5973",
+      "\u8077\u696d\u8272\u3005",
+      "8KVR"
+    ]
+  },
+  {
+    "id": "urvrsp00411",
+    "title": "\u3010VR\u3011\u30108K VR\u3011\u6027\u6559\u80b2\u7279\u5316\u578b\u5bb6\u5ead\u6559\u5e2b\u3001\u679c\u6797\u5148\u751f\u306f\u672a\u719f\u306a\u6559\u3048\u5b50\u306b1\u304b\u308910\u307e\u3067\u6027\u3092\u6559\u3048\u8fbc\u3080 \u5317\u5ca1\u679c\u6797",
+    "size": "15.25 GB",
+    "actress": [
+      "\u5317\u5ca1\u679c\u6797"
+    ],
+    "preview_img_url": "https://pics.dmm.co.jp/digital/video/urvrsp00411/urvrsp00411pl.jpg",
+    "sell_date": "2025/01/24",
+    "duration": "76\u5206",
+    "seed_download_link": "magnet:?xt=urn:btih:82aebea2ca4c88b5a8f00f7745f5049f78c29ece&dn=urvrsp-411&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce",
+    "director": [
+      "\u30ea\u30c8\u30eb\u4f8d"
+    ],
+    "maker": [
+      "unfinished"
+    ],
+    "series": [
+      "unfinished VR"
+    ],
+    "label": [
+      "Marrion Group VR"
+    ],
+    "keyword": [
+      "\u30cf\u30a4\u30af\u30aa\u30ea\u30c6\u30a3VR",
+      "\u5bb6\u5ead\u6559\u5e2b",
+      "\u5973\u5b50\u5927\u751f",
+      "\u304a\u59c9\u3055\u3093",
+      "\u7f8e\u5c11\u5973",
+      "8KVR",
+      "\u72ec\u5360\u914d\u4fe1",
+      "VR\u5c02\u7528",
+      "\u5358\u4f53\u4f5c\u54c1",
+      "\u4e2d\u51fa\u3057"
+    ]
+  },
+  {
+    "id": "13dsvr01693",
+    "title": "\u3010VR\u3011\u30108K\u3011\u30de\u30de\u3055\u3093\u30d0\u30ec\u30fc \u30e0\u30c3\u30c1\u30ea\u30dc\u30c7\u30a3\u30a8\u30fc\u30b9\u00d7\u30b3\u30fc\u30c1\u306e\u30dc\u30af \u30b9\u30dd\u6839\u4e0d\u502bVR \u4f11\u65e5\u3001\u3072\u3068\u308a\u81ea\u4e3b\u7df4\u3057\u3066\u3044\u305f\u6b32\u6c42\u4e0d\u6e80\u30a8\u30fc\u30b9\u306b\u62bc\u3057\u5012\u3055\u308c\u3066\u30c1\u25cf\u30b3\u3092\u731b\u70c8\u30a2\u30bf\u30c3\u30af\u3055\u308c\u305f\u30b3\u30fc\u30c1\u306e\u30dc\u30af\u3002 \u702c\u7530\u4e00\u82b1",
+    "size": "12.20 GB",
+    "actress": [
+      "\u702c\u7530\u4e00\u82b1"
+    ],
+    "preview_img_url": "https://pics.dmm.co.jp/digital/video/13dsvr01693/13dsvr01693pl.jpg",
+    "sell_date": "2025/01/23",
+    "duration": "85\u5206",
+    "seed_download_link": "magnet:?xt=urn:btih:e230acc6db191b17841e567fac390c4f4041589b&dn=dsvr01693&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce",
+    "director": [
+      "\u7e41\u677e\u79cb\u51ac"
+    ],
+    "maker": [
+      "SOD\u30af\u30ea\u30a8\u30a4\u30c8"
+    ],
+    "series": [],
+    "label": [
+      "SODVR"
+    ],
+    "keyword": [
+      "\u30cf\u30a4\u30af\u30aa\u30ea\u30c6\u30a3VR",
+      "8KVR",
+      "\u4e2d\u51fa\u3057",
+      "\u30d5\u30a7\u30e9",
+      "\u4e0d\u502b",
+      "\u30b9\u30dd\u30fc\u30c4",
+      "\u30d1\u30a4\u30ba\u30ea",
+      "\u5358\u4f53\u4f5c\u54c1",
+      "VR\u5c02\u7528"
+    ]
+  },
+  {
+    "id": "urvrsp00407",
+    "title": "\u3010VR\u3011\u30108K VR\u3011\u5927\u5b66\u306b\u99b4\u67d3\u3081\u305a\u3044\u3064\u3082\u4e00\u4eba\u306e\u50d5\u3068\u4ef2\u826f\u304f\u3057\u3066\u304f\u308c\u308b\u512a\u3057\u3044\u30a4\u30b1\u30e1\u30f3\u541b\u306e\u79d8\u5bc6 \u7537\u306b\u306a\u308a\u305f\u3044\u2640\u00d7\u304b\u3063\u3053\u3044\u3044\u7537\u306b\u61a7\u308c\u308b\u2642\u3001\u8ab0\u306b\u3082\u5185\u7dd2\u306eBL\uff1f\u30b9\u30c8\u30fc\u30ea\u30fc \u304b\u30fc\u304f\u3093",
+    "size": "13.38 GB",
+    "actress": [],
+    "preview_img_url": "https://pics.dmm.co.jp/digital/video/urvrsp00407/urvrsp00407pl.jpg",
+    "sell_date": "2025/01/23",
+    "duration": "72\u5206",
+    "seed_download_link": "magnet:?xt=urn:btih:116f5662fe5eff75daba96eede3184e57af7223d&dn=urvrsp-407&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce",
+    "director": [
+      "\u30ea\u30c8\u30eb\u4f8d"
+    ],
+    "maker": [
+      "unfinished"
+    ],
+    "series": [
+      "unfinished VR"
+    ],
+    "label": [
+      "Marrion Group VR"
+    ],
+    "keyword": [
+      "\u30cf\u30a4\u30af\u30aa\u30ea\u30c6\u30a3VR",
+      "VR\u5c02\u7528",
+      "\u72ec\u5360\u914d\u4fe1",
+      "8KVR",
+      "\u305d\u306e\u4ed6\u30d5\u30a7\u30c1",
+      "\u6027\u8ee2\u63db\u30fb\u5973\u4f53\u5316",
+      "\u4e2d\u51fa\u3057"
+    ]
+  },
+  {
+    "id": "13dsvr01664",
+    "title": "\u3010VR\u3011\u30108K\u3011\u50d5\u306e\u30af\u30e9\u30b9\u306b\u3001\u3068\u3066\u3082\u3064\u3088\u305d\u3046\u306a\u30aa\u30f3\u30ca\u304c\u5165\u3063\u3066\u304d\u305f \u76f8\u64b2\u672c\u6c17\u3067\u3084\u3063\u3066\u307f\u306a\u3044\u304b\u3002",
+    "size": "9.71 GB",
+    "actress": [],
+    "preview_img_url": "https://pics.dmm.co.jp/digital/video/13dsvr01664/13dsvr01664pl.jpg",
+    "sell_date": "2025/01/23",
+    "duration": "62\u5206",
+    "seed_download_link": "magnet:?xt=urn:btih:d09ce018915d0e65676ade241884a1d3016f4118&dn=dsvr01664&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce",
+    "director": [
+      "\u77e2\u6fa4\u30ec\u30b7\u30fc\u30d6"
+    ],
+    "maker": [
+      "SOD\u30af\u30ea\u30a8\u30a4\u30c8"
+    ],
+    "series": [],
+    "label": [
+      "SODVR"
+    ],
+    "keyword": [
+      "\u30cf\u30a4\u30af\u30aa\u30ea\u30c6\u30a3VR",
+      "8KVR",
+      "\u604b\u611b",
+      "\u7b4b\u8089",
+      "\u30a2\u30b9\u30ea\u30fc\u30c8",
+      "\u5de8\u4e73",
+      "VR\u5c02\u7528"
+    ]
+  },
+  {
+    "id": "nkkvr00136",
+    "title": "\u3010VR\u3011\u30b6\u30fc\u30e1\u30f3\u30fb\u6355\u98df\u30fb\u30ec\u30c7\u30a3\uff01\uff01\u3010\u8d85\u8089\u611f\u8210\u3081\u8210\u3081\u7279\u5316\u3011 \u30b6\u30fc\u30e1\u30f3\u3092\u643e\u53d6\u3057\u307e\u3063\u3066\u72c2\u3063\u305f\u3088\u3046\u306b\u5feb\u697d\u3092\u6c42\u3081\u3066\u304d\u3066\u8d85\u7d76\u30c6\u30af\u3067\u4f55\u5ea6\u3082\u5c04\u7cbe\u3055\u305b\u3089\u308c\u305f\u30dc\u30af\u2026",
+    "size": "6.75 GB",
+    "actress": [],
+    "preview_img_url": "https://pics.dmm.co.jp/digital/video/nkkvr00136/nkkvr00136pl.jpg",
+    "sell_date": "2025/01/23",
+    "duration": "75\u5206",
+    "seed_download_link": "magnet:?xt=urn:btih:31e7a06f8a18c971c6a9532455f6ab60bb9d3288&dn=nkkvr-136&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce",
+    "director": [
+      "\u30af\u30ef\u30c3\u30c1\u30fc"
+    ],
+    "maker": [
+      "\u8089\u304d\u3085\u3093\u30d1\u30e9\u30c0\u30a4\u30b9VR"
+    ],
+    "series": [
+      "\u30b6\u30fc\u30e1\u30f3\u30fb\u30d7\u25cf\u30c7\u30bf\u30fc\u30fb\u30ae\u30e3\u30eb"
+    ],
+    "label": [
+      "\u6975\u30b0\u30eb\u30fc\u30d7"
+    ],
+    "keyword": [
+      "\u30cf\u30a4\u30af\u30aa\u30ea\u30c6\u30a3VR",
+      "VR\u5c02\u7528",
+      "\u72ec\u5360\u914d\u4fe1",
+      "\u30d3\u30c3\u30c1",
+      "\u30d1\u30a4\u30ba\u30ea",
+      "\u9a0e\u4e57\u4f4d",
+      "\u75f4\u5973",
+      "\u5de8\u4e73",
+      "\u4e2d\u51fa\u3057"
+    ]
+  },
+  {
+    "id": "vrprd00070",
+    "title": "\u3010VR\u3011\u5351\u7325\u3059\u304e\u308b\u809b\u9580\u304c\u4f55\u5ea6\u3082\u4f55\u5ea6\u3082\u898b\u3048\u96a0\u308c\uff01\u304a\u3057\u308a\u8a98\u60d1\u30a8\u30b9\u30c6\u5e97\u304a\u5c3b\u306e\u7a74\u304b\u3089\u653e\u305f\u308c\u308b\u30a2\u30ca\u30eb\u30d5\u30a7\u30ed\u30e2\u30f3\u306b\u5305\u307e\u308c\u3066\u5168\u8eab\u3092\u30ea\u30e9\u30c3\u30af\u30b9\u3057\u3066\u8eab\u4f53\u306e\u5185\u304b\u3089\u30d5\u30eb\u52c3\u8d77\uff01\u4f55\u5ea6\u5c04\u7cbe\u3057\u3066\u3082\u7d42\u308f\u3089\u306a\u3044\u5b8c\u5168\u643e\u308a\u53d6\u308aSP\u30b3\u30fc\u30b9\u3010\u4ee3\u3005\u6728\u5e97\u52e4\u52d9\u6f64AGE.28\u3011",
+    "size": "6.50 GB",
+    "actress": [],
+    "preview_img_url": "https://pics.dmm.co.jp/digital/video/vrprd00070/vrprd00070pl.jpg",
+    "sell_date": "2025/01/23",
+    "duration": "80\u5206",
+    "seed_download_link": "magnet:?xt=urn:btih:df0d6cfc873d0fdcf9a14b51cecf8d0572650f0f&dn=vrprd-070&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce",
+    "director": [
+      "\u5927\u5d0e\u5e83\u6d69\u6cbb"
+    ],
+    "maker": [
+      "VR\u30d1\u30e9\u30c0\u30a4\u30b9"
+    ],
+    "series": [],
+    "label": [
+      "\u6975\u30b0\u30eb\u30fc\u30d7"
+    ],
+    "keyword": [
+      "\u30cf\u30a4\u30af\u30aa\u30ea\u30c6\u30a3VR",
+      "VR\u5c02\u7528",
+      "\u72ec\u5360\u914d\u4fe1",
+      "\u9a0e\u4e57\u4f4d",
+      "\u30ad\u30e3\u30d0\u5b22\u30fb\u98a8\u4fd7\u5b22",
+      "\u5de8\u5c3b",
+      "\u7d20\u4eba"
+    ]
+  },
+  {
+    "id": "pxvr00236",
+    "title": "\u3010VR\u3011\u7d42\u96fb\u9003\u3057\u305f\u7f8e\u4eba\u5973\u5b50\u5927\u751f\u304c\u6ce5\u25cf\u3057\u3066\u30b5\u30fc\u30af\u30eb\u4ef2\u9593\u3068\u30c9\u30a8\u30ed\u5168\u958b\u3067\u767a\u60c5\u3057\u4f55\u5ea6\u3082\u751f\u30c1\u3007\u30dd\u3092\u6c42\u3081\u308b\u6fc3\u539a\u4e2d\u51fa\u3057\u30bb\u30c3\u30af\u30b9 \u6c38\u91ce\u9234\u30108K\u3011",
+    "size": "10.08 GB",
+    "actress": [
+      "\u6c38\u91ce\u9234"
+    ],
+    "preview_img_url": "https://pics.dmm.co.jp/digital/video/pxvr00236/pxvr00236pl.jpg",
+    "sell_date": "2025/01/22",
+    "duration": "77\u5206",
+    "seed_download_link": "magnet:?xt=urn:btih:0e57c0353d2f5c57b1e9f96f76413885c6d6e56d&dn=pxvr00236&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce",
+    "director": [
+      "\u30a2\u30ab\u30ae\u5149\u4e00"
+    ],
+    "maker": [
+      "P-BOX VR"
+    ],
+    "series": [
+      "\u7d42\u96fb\u9003\u3057\u305f\u5973\u53cb\u9054"
+    ],
+    "label": [
+      "P-BOX VR"
+    ],
+    "keyword": [
+      "\u30cf\u30a4\u30af\u30aa\u30ea\u30c6\u30a3VR",
+      "\u9a0e\u4e57\u4f4d",
+      "\u75f4\u5973",
+      "\u30d5\u30a7\u30e9",
+      "\u4e2d\u51fa\u3057",
+      "\u72ec\u5360\u914d\u4fe1",
+      "VR\u5c02\u7528",
+      "\u5358\u4f53\u4f5c\u54c1",
+      "8KVR",
+      "\u7f8e\u5c11\u5973"
+    ]
+  },
+  {
+    "id": "pxvr00235",
+    "title": "\u3010VR\u3011\u5a9a\u85ac\u98a8\u4fd7\u4f53\u9a13\u5165\u5e97\u4e2d \u5de8\u4e73M\u5b22 \u307f\u3061\uff08G-cup\uff09\u30108K\u3011",
+    "size": "12.57 GB",
+    "actress": [],
+    "preview_img_url": "https://pics.dmm.co.jp/digital/video/pxvr00235/pxvr00235pl.jpg",
+    "sell_date": "2025/01/22",
+    "duration": "67\u5206",
+    "seed_download_link": "magnet:?xt=urn:btih:e94beb4201f915a9e39d7483e8e4845226ebdbc7&dn=pxvr-235&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce",
+    "director": [
+      "\u767d\u9ce5\u30cb\u30c9\u30df"
+    ],
+    "maker": [
+      "P-BOX VR"
+    ],
+    "series": [
+      "\u5a9a\u85ac\u98a8\u4fd7\u4f53\u9a13\u5165\u5e97"
+    ],
+    "label": [
+      "P-BOX VR"
+    ],
+    "keyword": [
+      "\u30cf\u30a4\u30af\u30aa\u30ea\u30c6\u30a3VR",
+      "8KVR",
+      "VR\u5c02\u7528",
+      "\u72ec\u5360\u914d\u4fe1",
+      "\u4e2d\u51fa\u3057",
+      "\u5de8\u4e73",
+      "\u30ad\u30e3\u30d0\u5b22\u30fb\u98a8\u4fd7\u5b22",
+      "M\u5973"
+    ]
+  },
+  {
+    "id": "cosvr00042",
+    "title": "\u3010VR\u3011\u30ab\u30c6\u30ad\u30e7\u3068\u8a98\u60d1\u30b3\u30b9\u30d1\u30b3 \u9022\u6708\u3072\u307e\u308a\u30108K\u3011",
+    "size": "11.99 GB",
+    "actress": [
+      "\u9022\u6708\u3072\u307e\u308a"
+    ],
+    "preview_img_url": "https://pics.dmm.co.jp/digital/video/cosvr00042/cosvr00042pl.jpg",
+    "sell_date": "2025/01/22",
+    "duration": "71\u5206",
+    "seed_download_link": "magnet:?xt=urn:btih:c8a65baa0f74524377308585dd66bb24a96ed82b&dn=cosvr-042&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce",
+    "director": [
+      "\u767d\u9ce5\u30cb\u30c9\u30df"
+    ],
+    "maker": [
+      "Cosmo Planets VR"
+    ],
+    "series": [],
+    "label": [
+      "Cosmo Planets VR"
+    ],
+    "keyword": [
+      "\u30cf\u30a4\u30af\u30aa\u30ea\u30c6\u30a3VR",
+      "\u5de8\u4e73",
+      "\u9a0e\u4e57\u4f4d",
+      "\u75f4\u5973",
+      "\u4e2d\u51fa\u3057",
+      "\u72ec\u5360\u914d\u4fe1",
+      "VR\u5c02\u7528",
+      "\u5358\u4f53\u4f5c\u54c1",
+      "8KVR",
+      "\u30b3\u30b9\u30d7\u30ec"
+    ]
+  },
+  {
+    "id": "vrkm01498",
+    "title": "\u3010VR\u3011\u3053\u308c\u305e8K\uff01\u7f8e\u4e73\u3068\u30c7\u30ab\u5c3b\u3068\u6fe1\u308c\u9aea\u3067\u30dc\u30af\u3092\u7518\u3084\u304b\u3057\u3066\u304f\u308c\u308b \u2019\u6027\u6b32\u5f37\u3081\u306a\u30ab\u30ce\u30b8\u30e7\u2019\u3068\u540c\u68f2\u751f\u6d3b \u7f8e\u5712\u548c\u82b1",
+    "size": "8.93 GB",
+    "actress": [
+      "\u7f8e\u5712\u548c\u82b1"
+    ],
+    "preview_img_url": "https://pics.dmm.co.jp/digital/video/vrkm01498/vrkm01498pl.jpg",
+    "sell_date": "2025/01/22",
+    "duration": "65\u5206",
+    "seed_download_link": "magnet:?xt=urn:btih:997cea7904cb4a8c78312f0889b03e1b24846857&dn=vrkm01498&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce",
+    "director": [
+      "\u30d4\u30f3\u30b5\u30ed\u5927\u597d\u304d\u30b9\u30ba\u30bf\u30b1\u3055\u3093"
+    ],
+    "maker": [
+      "\u30b1\u30a4\u30fb\u30a8\u30e0\u30fb\u30d7\u30ed\u30c7\u30e5\u30fc\u30b9"
+    ],
+    "series": [
+      "\u6fe1\u308c\u9aea"
+    ],
+    "label": [
+      "KMPVR"
+    ],
+    "keyword": [
+      "\u30cf\u30a4\u30af\u30aa\u30ea\u30c6\u30a3VR",
+      "8KVR",
+      "\u5358\u4f53\u4f5c\u54c1",
+      "VR\u5c02\u7528",
+      "\u4e2d\u51fa\u3057",
+      "\u9a0e\u4e57\u4f4d",
+      "\u5de8\u4e73",
+      "\u4e3b\u89b3"
+    ]
+  },
+  {
+    "id": "mdvr00325",
+    "title": "\u3010VR\u30118KVR 100\u4e07\u30c9\u30eb\u306e\u795eBODY J\u30ab\u30c3\u30d7\u7f8e\u5de8\u4e73\u304a\u3063\u3071\u3044\u3092\u63c9\u3093\u3067\u631f\u3093\u3067\u5305\u3093\u3067\u8210\u3081\u3066\u5473\u308f\u3044\u5c3d\u304f\u3059\u8d85\u8d05\u6ca2VR \u767e\u7530\u5149\u7a00",
+    "size": "25.92 GB",
+    "actress": [
+      "\u767e\u7530\u5149\u7a00\uff08\u767e\u7530\u5149\u5e0c\uff09"
+    ],
+    "preview_img_url": "https://pics.dmm.co.jp/digital/video/mdvr00325/mdvr00325pl.jpg",
+    "sell_date": "2025/01/22",
+    "duration": "118\u5206",
+    "seed_download_link": "magnet:?xt=urn:btih:025dc4a6264e867caa4014328eaf235437abd4cd&dn=mdvr00325&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce",
+    "director": [
+      "ZAMPA"
+    ],
+    "maker": [
+      "\u30e0\u30fc\u30c7\u30a3\u30fc\u30ba"
+    ],
+    "series": [],
+    "label": [
+      "MOODYZ VR"
+    ],
+    "keyword": [
+      "\u30cf\u30a4\u30af\u30aa\u30ea\u30c6\u30a3VR",
+      "\u30d1\u30a4\u30ba\u30ea",
+      "\u5de8\u4e73\u30d5\u30a7\u30c1",
+      "\u7f8e\u4e73",
+      "\u30ed\u30fc\u30b7\u30e7\u30f3\u30fb\u30aa\u30a4\u30eb",
+      "\u72ec\u5360\u914d\u4fe1",
+      "VR\u5c02\u7528",
+      "\u5358\u4f53\u4f5c\u54c1",
+      "8KVR",
+      "\u5de8\u4e73"
+    ]
+  },
+  {
+    "id": "kavr00401",
+    "title": "\u3010VR\u3011\u4f1a\u8a71\u4e00\u5207\u30ca\u30b7\u3002\u5410\u606f\u3068\u5598\u304e\u58f0\u3068\u30d4\u30b9\u30c8\u30f3\u97f3\u3060\u3051\u304c\u97ff\u304d\u6e21\u308b\u751f\u3005\u3057\u304f\u6700\u9ad8\u306b\u30a8\u30ed\u3044\u6ca1\u5165\u7279\u5316\u30bb\u30c3\u30af\u30b9VR \u4f0a\u85e4\u821e\u96ea",
+    "size": "25.60 GB",
+    "actress": [
+      "\u4f0a\u85e4\u821e\u96ea"
+    ],
+    "preview_img_url": "https://pics.dmm.co.jp/digital/video/kavr00401/kavr00401pl.jpg",
+    "sell_date": "2025/01/21",
+    "duration": "140\u5206",
+    "seed_download_link": "magnet:?xt=urn:btih:5beea77ebd78c836cdea877b6b353d5a30bb7064&dn=kavr-401&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce",
+    "director": [
+      "\u6fe1\u308c\u305f\u5b50\u72ac"
+    ],
+    "maker": [
+      "kawaii"
+    ],
+    "series": [
+      "kawaii*VR"
+    ],
+    "label": [
+      "kawaii* VR"
+    ],
+    "keyword": [
+      "\u30cf\u30a4\u30af\u30aa\u30ea\u30c6\u30a3VR",
+      "\u5de8\u4e73",
+      "\u30d1\u30a4\u30ba\u30ea",
+      "\u9a0e\u4e57\u4f4d",
+      "\u4e3b\u89b3",
+      "\u72ec\u5360\u914d\u4fe1",
+      "VR\u5c02\u7528",
+      "\u5358\u4f53\u4f5c\u54c1",
+      "8KVR",
+      "\u30ad\u30b9\u30fb\u63a5\u543b"
+    ]
+  },
+  {
+    "id": "kiwvr00731",
+    "title": "\u3010VR\u3011\u7a81\u7136\u306e\u8c6a\u96e8\u2026\u305f\u307e\u305f\u307e\u898b\u304b\u3051\u305f\u5f7c\u5973\u306e\u59c9\u3092\u8eca\u3067\u9001\u3063\u305f\u3089\u30e9\u30c3\u30ad\u30fc\u30b9\u30b1\u30d9\uff01 \u6709\u6751\u306e\u305e\u307f",
+    "size": "9.31 GB",
+    "actress": [
+      "\u6709\u6751\u306e\u305e\u307f"
+    ],
+    "preview_img_url": "https://pics.dmm.co.jp/digital/video/kiwvr00731/kiwvr00731pl.jpg",
+    "sell_date": "2025/01/21",
+    "duration": "94\u5206",
+    "seed_download_link": "magnet:?xt=urn:btih:fd227ebbda54e3bd866ea741fb0fdae7e9ab2b6a&dn=kiwvr-731&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce",
+    "director": [],
+    "maker": [
+      "\u3053\u3042\u3089VR"
+    ],
+    "series": [
+      "3D\u30cf\u30e1\u64ae\u308aVR\u6539"
+    ],
+    "label": [
+      "\u6975\u30b0\u30eb\u30fc\u30d7"
+    ],
+    "keyword": [
+      "\u30cf\u30a4\u30af\u30aa\u30ea\u30c6\u30a3VR",
+      "\u75f4\u5973",
+      "\u30d1\u30a4\u30ba\u30ea",
+      "\u9a0e\u4e57\u4f4d",
+      "\u4e2d\u51fa\u3057",
+      "\u9854\u5c04",
+      "\u72ec\u5360\u914d\u4fe1",
+      "VR\u5c02\u7528",
+      "\u5358\u4f53\u4f5c\u54c1",
+      "\u5de8\u4e73"
+    ]
+  },
+  {
+    "id": "vrkm01467",
+    "title": "\u3010VR\u3011\u5929\u624d\u7684\u8170\u4f7f\u3044\u3001\u5f3e\u3080\u7f8e\u4e73\u3001\u5727\u5012\u7684\u81e8\u5834\u611f\u3002\u4f55\u3082\u8d77\u304d\u306a\u3044\u306f\u305a\u304c\u306a\u304f\u2026\u3053\u308c\u305e\u4eba\u985e\u304c\u8ffd\u3044\u6c42\u3081\u305f\u9ec4\u91d1\u6bd4\uff01\u9a0e\u4e57\u4f4d\u00d7\u7f8e\u4e73\u304c\u7f8e\u9e978K\u3067\u3086\u308c\u307e\u304f\u308aBEST",
+    "size": "63.51 GB",
+    "actress": [
+      "\u7f8e\u54b2\u304b\u3093\u306a",
+      "\u53cb\u7530\u5f69\u4e5f\u9999",
+      "\u4e03\u702c\u30b7\u30ce\u30f3",
+      "\u5c3e\u5d0e\u3048\u308a\u304b",
+      "\u512a\u68a8\u307e\u3044\u306a",
+      "\u5927\u69fb\u3072\u3073\u304d",
+      "\u5e7e\u7530\u307e\u3061",
+      "\u5c0f\u90a3\u6d77\u3042\u3084",
+      "\u6c34\u5ddd\u6f64",
+      "\u7d3a\u91ce\u3072\u304b\u308b"
+    ],
+    "preview_img_url": "https://pics.dmm.co.jp/digital/video/vrkm01467/vrkm01467pl.jpg",
+    "sell_date": "2025/01/21",
+    "duration": "304\u5206",
+    "seed_download_link": "magnet:?xt=urn:btih:ef0f80ab4d8f83fd41ae5e73360090f6f9912fc3&dn=vrkm-1467&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce",
+    "director": [
+      "K\u592a\u90ce"
+    ],
+    "maker": [
+      "\u30b1\u30a4\u30fb\u30a8\u30e0\u30fb\u30d7\u30ed\u30c7\u30e5\u30fc\u30b9"
+    ],
+    "series": [
+      "VR BEST"
+    ],
+    "label": [
+      "KMPVR"
+    ],
+    "keyword": [
+      "4\u6642\u9593\u4ee5\u4e0a\u4f5c\u54c1",
+      "\u30cf\u30a4\u30af\u30aa\u30ea\u30c6\u30a3VR",
+      "8KVR",
+      "VR\u5c02\u7528",
+      "\u4e2d\u51fa\u3057",
+      "\u7f8e\u5c11\u5973",
+      "\u30d9\u30b9\u30c8\u30fb\u7dcf\u96c6\u7de8",
+      "\u7f8e\u4e73",
+      "\u9a0e\u4e57\u4f4d"
+    ]
+  },
+  {
+    "id": "vrprd00069",
+    "title": "\u3010VR\u3011\u6c41\u30c0\u30b0\u30c0\u30b0\u8210\u3081\u30ae\u30e3\u30eb",
+    "size": "13.59 GB",
+    "actress": [],
+    "preview_img_url": "https://pics.dmm.co.jp/digital/video/vrprd00069/vrprd00069pl.jpg",
+    "sell_date": "2025/01/20",
+    "duration": "69\u5206",
+    "seed_download_link": "magnet:?xt=urn:btih:0902af623fd140a666fa3903ad1a92990ae798c1&dn=vrprd00069&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce",
+    "director": [
+      "\u3053\u3042\u3089\u592a\u90ce\uff08\u308f\uff09"
+    ],
+    "maker": [
+      "VR\u30d1\u30e9\u30c0\u30a4\u30b9"
+    ],
+    "series": [],
+    "label": [
+      "\u6975\u30b0\u30eb\u30fc\u30d7"
+    ],
+    "keyword": [
+      "\u30cf\u30a4\u30af\u30aa\u30ea\u30c6\u30a3VR",
+      "8KVR",
+      "VR\u5c02\u7528",
+      "\u72ec\u5360\u914d\u4fe1",
+      "\u5de8\u4e73",
+      "\u30d5\u30a7\u30e9",
+      "\u4e2d\u51fa\u3057",
+      "\u30ae\u30e3\u30eb",
+      "\u304a\u59c9\u3055\u3093"
+    ]
+  },
+  {
+    "id": "13dsvr01653",
+    "title": "\u3010VR\u3011\u30108K\u3011\u30d0\u30fc\u30b9\u30c7\u30fc\u30ec\u00d7\u30d7 \u751f\u610f\u6c17\u4e00\u8ecd\u5973\u5b50\u3092\u3001\u304a\u3082\u3089\u3057\u6027\u00d7\u96b7\u306b\u751f\u307e\u308c\u5909\u308f\u3089\u305b\u751f\u8a95\u796d \u5186\u4e95\u840c\u83ef",
+    "size": "11.01 GB",
+    "actress": [
+      "\u5186\u4e95\u840c\u83ef"
+    ],
+    "preview_img_url": "https://pics.dmm.co.jp/digital/video/13dsvr01653/13dsvr01653pl.jpg",
+    "sell_date": "2025/01/20",
+    "duration": "71\u5206",
+    "seed_download_link": "magnet:?xt=urn:btih:61e3bf68d1d0aefcb69638ae6071c45a51dea4c2&dn=dsvr01653&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce",
+    "director": [
+      "\u732b\u53c8\u3088\u3084"
+    ],
+    "maker": [
+      "SOD\u30af\u30ea\u30a8\u30a4\u30c8"
+    ],
+    "series": [],
+    "label": [
+      "SODVR"
+    ],
+    "keyword": [
+      "\u30cf\u30a4\u30af\u30aa\u30ea\u30c6\u30a3VR",
+      "8KVR",
+      "\u5358\u4f53\u4f5c\u54c1",
+      "VR\u5c02\u7528",
+      "\u8fb1\u3081",
+      "\u653e\u5c3f\u30fb\u304a\u6f0f\u3089\u3057",
+      "\u6f6e\u5439\u304d",
+      "\u62d8\u675f",
+      "\u5973\u5b50\u6821\u751f"
+    ]
+  },
+  {
+    "id": "bibivr00139",
+    "title": "\u3010VR\u3011\u4e16\u754c\u57fa\u6e96\u306e\u795e\u30dc\u30c7\u30a3\u306b\u5c04\u7cbeNO LIMIT\uff01\uff01\u7206\u4e73\u00d7\u30d7\u30ea\u5c3b\u00d7\u5bc6\u7740\u30ad\u30b9\u7279\u5316SEX \u7a32\u5834\u308b\u304b",
+    "size": "8.63 GB",
+    "actress": [
+      "\u7a32\u5834\u308b\u304b"
+    ],
+    "preview_img_url": "https://pics.dmm.co.jp/digital/video/bibivr00139/bibivr00139pl.jpg",
+    "sell_date": "2025/01/20",
+    "duration": "39\u5206",
+    "seed_download_link": "magnet:?xt=urn:btih:181bd2ffd58002c230c6f4d49ba84a3a5354825f&dn=bibivr00139&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce",
+    "director": [
+      "K\u592a\u90ce"
+    ],
+    "maker": [
+      "KMPVR-bibi-"
+    ],
+    "series": [],
+    "label": [
+      "KMPVR-bibi-"
+    ],
+    "keyword": [
+      "\u5358\u4f53\u4f5c\u54c1",
+      "\u30cf\u30a4\u30af\u30aa\u30ea\u30c6\u30a3VR",
+      "VR\u5c02\u7528",
+      "\u30d1\u30a4\u30ba\u30ea",
+      "\u30ad\u30b9\u30fb\u63a5\u543b",
+      "\u5de8\u4e73",
+      "\u7f8e\u5c11\u5973",
+      "\u4e2d\u51fa\u3057"
+    ]
+  },
+  {
+    "id": "savr00509",
+    "title": "\u3010VR\u3011\u30dc\u30af\u306e\u30d0\u30a4\u30c8\u5148\u306b\u3044\u308b\u7f8e\u4eba\u59bb\u306f\u6b32\u6c42\u4e0d\u6e80\u3002\u4e8b\u3042\u308b\u3054\u3068\u306b\u5bb6\u3092\u8a2a\u306d\u3066\u304d\u3066\u306f\u820c\u3092\u30d9\u30ed\u30d9\u30ed\u3068\u7d61\u307f\u3064\u304b\u305b\u3001\u6fc3\u5bc6\u306b\u6c42\u3081\u5408\u3046\u553e\u6db2\u307e\u307f\u308c\u306e\u30d9\u30ed\u30ad\u30b9\u4e0d\u502b \u68ee\u65e5\u5411\u5b50",
+    "size": "15.27 GB",
+    "actress": [
+      "\u68ee\u65e5\u5411\u5b50"
+    ],
+    "preview_img_url": "https://pics.dmm.co.jp/digital/video/savr00509/savr00509pl.jpg",
+    "sell_date": "2025/01/19",
+    "duration": "92\u5206",
+    "seed_download_link": "magnet:?xt=urn:btih:627f9302d64a53117c52480b334386328d682466&dn=savr00509&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce",
+    "director": [
+      "\u9752\u7a7a\u5c04\u7cbe\u30c6\u30a3\u30fc\u30c1\u30e3\u30fc"
+    ],
+    "maker": [
+      "KMPVR-\u5f69-"
+    ],
+    "series": [],
+    "label": [
+      "KMPVR-\u5f69-"
+    ],
+    "keyword": [
+      "\u30cf\u30a4\u30af\u30aa\u30ea\u30c6\u30a3VR",
+      "\u4e0d\u502b",
+      "\u30b9\u30ec\u30f3\u30c0\u30fc",
+      "\u30ad\u30b9\u30fb\u63a5\u543b",
+      "\u4e2d\u51fa\u3057",
+      "\u72ec\u5360\u914d\u4fe1",
+      "VR\u5c02\u7528",
+      "\u5358\u4f53\u4f5c\u54c1",
+      "8KVR",
+      "\u75f4\u5973"
+    ]
+  },
+  {
+    "id": "sivr00387",
+    "title": "\u3010VR\u3011\u6559\u3048\u5b50\u306e\u3051\u3057\u304b\u3089\u3093\u65e9\u719fGcup\u304a\u3063\u3071\u3044\u8a98\u60d1\u306b\u8ca0\u3051\u305f\u30dc\u30af\u306f\u6821\u5185\u3067\u3053\u3063\u305d\u308a\u30b9\u30ea\u30eb\u306b\u6eba\u308c\u308b\u7981\u65ad\u80cc\u5fb3\u6027\u4ea4 \u65e9\u5742\u3072\u3081",
+    "size": "26.31 GB",
+    "actress": [
+      "\u65e9\u5742\u3072\u3081"
+    ],
+    "preview_img_url": "https://pics.dmm.co.jp/digital/video/sivr00387/sivr00387pl.jpg",
+    "sell_date": "2025/01/19",
+    "duration": "128\u5206",
+    "seed_download_link": "magnet:?xt=urn:btih:c3dc7878427c0cef207a32e2249197eff1b13b71&dn=sivr00387&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce",
+    "director": [
+      "\u30b8\u30fc\u30cb\u30a2\u30b9\u819d"
+    ],
+    "maker": [
+      "\u30a8\u30b9\u30ef\u30f3 \u30ca\u30f3\u30d0\u30fc\u30ef\u30f3\u30b9\u30bf\u30a4\u30eb"
+    ],
+    "series": [
+      "S1 VR"
+    ],
+    "label": [
+      "S1 VR"
+    ],
+    "keyword": [
+      "\u30cf\u30a4\u30af\u30aa\u30ea\u30c6\u30a3VR",
+      "\u5236\u670d",
+      "\u5de8\u4e73",
+      "\u30ad\u30b9\u30fb\u63a5\u543b",
+      "\u4e3b\u89b3",
+      "\u72ec\u5360\u914d\u4fe1",
+      "VR\u5c02\u7528",
+      "\u5358\u4f53\u4f5c\u54c1",
+      "8KVR",
+      "\u5973\u5b50\u6821\u751f"
+    ]
+  },
+  {
+    "id": "bibivr00145",
+    "title": "\u3010VR\u3011\u81f3\u5b9d\u306e\u8089\u4f53\u3068 \u78e8\u304b\u308c\u305f\u9b45\u60d1\u3068\u30d9\u30ed\u30c6\u30af\u3067\u7537\u3092\u30a4\u30ab\u305b\u308b\u6607\u5929\u5168\u8eab\u30ea\u30c3\u30d7\u30d8\u30eb\u30b9 \u6c34\u5ddd\u30b9\u30df\u30ec",
+    "size": "13.79 GB",
+    "actress": [
+      "\u6c34\u5ddd\u30b9\u30df\u30ec"
+    ],
+    "preview_img_url": "https://pics.dmm.co.jp/digital/video/bibivr00145/bibivr00145pl.jpg",
+    "sell_date": "2025/01/19",
+    "duration": "75\u5206",
+    "seed_download_link": "magnet:?xt=urn:btih:343dfcd080235cb82808c4c7a2e8ad5f4af5ff02&dn=bibivr00145&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce",
+    "director": [
+      "\u30cf\u30eb\u30af\u30fb\u30b3\u30fc\u30ac\u30f3"
+    ],
+    "maker": [
+      "KMPVR-bibi-"
+    ],
+    "series": [
+      "\u6607\u5929\u5168\u8eab\u30ea\u30c3\u30d7\u30d8\u30eb\u30b9"
+    ],
+    "label": [
+      "KMPVR-bibi-"
+    ],
+    "keyword": [
+      "\u30cf\u30a4\u30af\u30aa\u30ea\u30c6\u30a3VR",
+      "8KVR",
+      "\u5358\u4f53\u4f5c\u54c1",
+      "VR\u5c02\u7528",
+      "\u4e2d\u51fa\u3057",
+      "\u75f4\u5973",
+      "\u30ad\u30e3\u30d0\u5b22\u30fb\u98a8\u4fd7\u5b22",
+      "\u5de8\u4e73",
+      "\u4eba\u59bb\u30fb\u4e3b\u5a66"
+    ]
+  },
+  {
+    "id": "vrkm01516",
+    "title": "\u3010VR\u3011\u53cb\u4eba\u306e\u7d50\u5a5a\u5f0f\u7d42\u308f\u308a\u306b\u30db\u30c6\u30eb\u306b\u7c60\u3063\u3066\u6deb\u3089\u306a\u30d1\u30a4\u30ba\u30ea\u3068\u30a8\u30b0\u3044\u30d5\u30a7\u30e9\u3067\u30c1\u3007\u30dd\u3092\u8caa\u308b \u5a5a\u671f\u3092\u9003\u3057\u305f\u30ae\u30e3\u30eb\u9054\u306e\u6027\u6b32\u306f\u30a8\u30b0\u304b\u3063\u305f\u3002",
+    "size": "14.46 GB",
+    "actress": [
+      "\u693f\u308a\u304b",
+      "\u767e\u6c38\u3055\u308a\u306a"
+    ],
+    "preview_img_url": "https://pics.dmm.co.jp/digital/video/vrkm01516/vrkm01516pl.jpg",
+    "sell_date": "2025/01/18",
+    "duration": "83\u5206",
+    "seed_download_link": "magnet:?xt=urn:btih:ec3a16000569241d662bc80a17234a89da19297f&dn=vrkm01516&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce",
+    "director": [
+      "\u9752\u7a7a\u5c04\u7cbe\u30c6\u30a3\u30fc\u30c1\u30e3\u30fc"
+    ],
+    "maker": [
+      "\u30b1\u30a4\u30fb\u30a8\u30e0\u30fb\u30d7\u30ed\u30c7\u30e5\u30fc\u30b9"
+    ],
+    "series": [],
+    "label": [
+      "KMPVR"
+    ],
+    "keyword": [
+      "\u30cf\u30a4\u30af\u30aa\u30ea\u30c6\u30a3VR",
+      "8KVR",
+      "VR\u5c02\u7528",
+      "\u30d3\u30c3\u30c1",
+      "\u30d5\u30a7\u30e9",
+      "\u5de8\u4e73",
+      "\u75f4\u5973",
+      "\u30ae\u30e3\u30eb"
+    ]
+  },
+  {
+    "id": "savr00530",
+    "title": "\u3010VR\u3011\u691c\u67fb\u5165\u9662\u4e2d\u306b\u50d5\u306e\u4e0b\u534a\u8eab\u3092\u6bce\u65e5\u4f55\u5ea6\u3082\u7cbe\u51e6\u7406\u3057\u3066\u304f\u308c\u308b\u300c\u6975\u3084\u308f\u5de8\u4e73\u00d7\u6fc0\u30ab\u30ef\u5929\u4f7f\u300d\u9020\u7cbe\u6a5f\u80fd\u304c\u5168\u304f\u8ffd\u3044\u3064\u304b\u306a\u3044\u5922\u306e\u3088\u3046\u306a\u75c5\u68df\u751f\u6d3b\u3002 \u308f\u304b\u83dc\u307b\u306e",
+    "size": "14.37 GB",
+    "actress": [
+      "\u308f\u304b\u83dc\u307b\u306e"
+    ],
+    "preview_img_url": "https://pics.dmm.co.jp/digital/video/savr00530/savr00530pl.jpg",
+    "sell_date": "2025/01/17",
+    "duration": "79\u5206",
+    "seed_download_link": "magnet:?xt=urn:btih:6cda9065392a410662f59e0ad5297173db86d1de&dn=savr00530&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce",
+    "director": [
+      "\u30a6\u30a3\u30eb\u30c1\u30f3\u30c1\u30f3"
+    ],
+    "maker": [
+      "KMPVR-\u5f69-"
+    ],
+    "series": [],
+    "label": [
+      "KMPVR-\u5f69-"
+    ],
+    "keyword": [
+      "\u30cf\u30a4\u30af\u30aa\u30ea\u30c6\u30a3VR",
+      "8KVR",
+      "VR\u5c02\u7528",
+      "\u72ec\u5360\u914d\u4fe1",
+      "\u5358\u4f53\u4f5c\u54c1",
+      "\u75f4\u5973",
+      "\u5de8\u4e73",
+      "\u4e3b\u89b3",
+      "\u4e2d\u51fa\u3057"
+    ]
+  },
+  {
+    "id": "ssr00015",
+    "title": "\u3010VR\u3011Working Women\u2019s Extra \u30ab\u30d5\u30a7\u5e97\u54e1\u7de8 \u6c34\u535c\u9ebb\u8863\u5948",
+    "size": "503.28 MB",
+    "actress": [
+      "\u6c34\u535c\u9ebb\u8863\u5948"
+    ],
+    "preview_img_url": "https://pics.dmm.co.jp/digital/video/ssr00015/ssr00015pl.jpg",
+    "sell_date": "2025/01/17",
+    "duration": "69\u5206",
+    "seed_download_link": "magnet:?xt=urn:btih:45968b7d217e21709d37719678877edebcb1f95a&dn=%5B2010%5D+VA+-+Space+Sound+Records+Presents+Italo+Euro+Disco+Vol.+1+%5BSpace+Sound+Records+-+SSR00015%5D&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce",
+    "director": [
+      "\u8336\u8449\u5b50\u30b4\u30ad"
+    ],
+    "maker": [
+      "SSR VR"
+    ],
+    "series": [
+      "Working Women\u2019s Extra \uff08WWE\uff09"
+    ],
+    "label": [],
+    "keyword": [
+      "\u30cf\u30a4\u30af\u30aa\u30ea\u30c6\u30a3VR",
+      "\u5358\u4f53\u4f5c\u54c1",
+      "VR\u5c02\u7528",
+      "\u72ec\u5360\u914d\u4fe1",
+      "\u4e2d\u51fa\u3057",
+      "\u7f8e\u4e73",
+      "\u7f8e\u5c11\u5973",
+      "\u8077\u696d\u8272\u3005",
+      "8KVR"
+    ]
+  },
+  {
+    "id": "juvr00212",
+    "title": "\u3010VR\u3011\u6c34\u6238\u304b\u306a \u30c7\u30d3\u30e5\u30fc7\u5468\u5e74\u8a18\u5ff5 \u300c\u4eca\u65e5\u306f\u79c1\u304c\u597d\u304d\u306b\u52d5\u304f\u304b\u3089\u306d\u300d \u6c34\u6238\u304b\u306a\u30682\u4eba\u304d\u308a\u306e\u6fc3\u5bc6\u306a\u6642\u9593\u3092\u904e\u3054\u3059 \u7b4b\u66f8\u304d\u306e\u306a\u3044SEX\u3092\u3057\u3066\u307f\u307e\u305b\u3093\u304b\uff1f \u672c\u6c17\u306e\u7f8e\u719f\u5973\u306b\u6c38\u9060\u306b\u6355\u98df\u3055\u308c\u7d9a\u3051\u308b\u50d5",
+    "size": "20.47 GB",
+    "actress": [
+      "\u6c34\u6238\u304b\u306a"
+    ],
+    "preview_img_url": "https://pics.dmm.co.jp/digital/video/juvr00212/juvr00212pl.jpg",
+    "sell_date": "2025/01/17",
+    "duration": "123\u5206",
+    "seed_download_link": "magnet:?xt=urn:btih:bdc3d384f83e108a94348f703dc79ad42538dfea&dn=juvr00212&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce",
+    "director": [
+      "\u77e2\u6fa4\u30ec\u30b7\u30fc\u30d6"
+    ],
+    "maker": [
+      "\u30de\u30c9\u30f3\u30ca"
+    ],
+    "series": [
+      "\u25cb\u25cb\u30682\u4eba\u304d\u308a\u306e\u6fc3\u5bc6\u306a\u6642\u9593\u3092\u904e\u3054\u3059\u7b4b\u66f8\u304d\u306e\u306a\u3044SEX\u3092\u3057\u3066\u307f\u307e\u305b\u3093\u304b\uff1f"
+    ],
+    "label": [
+      "MadonnaVR"
+    ],
+    "keyword": [
+      "\u30cf\u30a4\u30af\u30aa\u30ea\u30c6\u30a3VR",
+      "\u30b9\u30ec\u30f3\u30c0\u30fc",
+      "\u30c9\u30ad\u30e5\u30e1\u30f3\u30bf\u30ea\u30fc",
+      "\u75f4\u5973",
+      "\u4e2d\u51fa\u3057",
+      "\u72ec\u5360\u914d\u4fe1",
+      "VR\u5c02\u7528",
+      "\u5358\u4f53\u4f5c\u54c1",
+      "8KVR",
+      "\u719f\u5973"
+    ]
+  },
+  {
+    "id": "ipvr00296",
+    "title": "\u3010VR\u30118K\u9ad8\u753b\u8cea\uff01\u3081\u3061\u3083\u30ab\u30ef\u5c0f\u60aa\u9b54\u59b9\u306e\u306b\u3084\u306b\u3084\u8a98\u60d1\u30d1\u30f3\u30c1\u30e9\u306b\u7406\u6027\u304c\u4fdd\u3066\u306a\u3044\u20262\u30bb\u30c3\u30af\u30b9\uff016\u5c04\u7cbe\uff01\u9577\u6642\u9593141\u5206\uff01\u30cb\u30fc\u30cf\u30a4\u5236\u670d\u7f8e\u5c11\u5973\u00d7\u5c0f\u60aa\u9b54\u75f4\u5973\u30d7\u30ec\u30a4\u00d7\u30d1\u30f3\u30c1\u30e9\u8a98\u60d1 \u4f50\u3005\u6728\u3055\u304d",
+    "size": "29.96 GB",
+    "actress": [
+      "\u4f50\u3005\u6728\u3055\u304d"
+    ],
+    "preview_img_url": "https://pics.dmm.co.jp/digital/video/ipvr00296/ipvr00296pl.jpg",
+    "sell_date": "2025/01/17",
+    "duration": "141\u5206",
+    "seed_download_link": "magnet:?xt=urn:btih:9aad6d3f30138e71eff3fe7acf85145d014c005c&dn=ipvr00296&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce",
+    "director": [],
+    "maker": [
+      "\u30a2\u30a4\u30c7\u30a2\u30dd\u30b1\u30c3\u30c8"
+    ],
+    "series": [
+      "\u30a2\u30a4\u30dd\u30b18KVR"
+    ],
+    "label": [
+      "IP-VR"
+    ],
+    "keyword": [
+      "\u30cf\u30a4\u30af\u30aa\u30ea\u30c6\u30a3VR",
+      "8KVR",
+      "VR\u5c02\u7528",
+      "\u72ec\u5360\u914d\u4fe1",
+      "\u5236\u670d",
+      "\u5358\u4f53\u4f5c\u54c1",
+      "\u9a0e\u4e57\u4f4d",
+      "\u75f4\u5973",
+      "\u7f8e\u5c11\u5973"
+    ]
+  },
+  {
+    "id": "aquma00067",
+    "title": "\u3010VR\u3011\u52a0\u8cc0\u7f8e\u3055\u3089AV\u5f15\u9000\u30e1\u30e2\u30ea\u30a2\u30eb AQUA\u73e0\u7389\u306e8\u30bf\u30a4\u30c8\u30eb 200\u5206\u30d9\u30b9\u30c8",
+    "size": "43.27 GB",
+    "actress": [
+      "\u52a0\u8cc0\u7f8e\u3055\u3089"
+    ],
+    "preview_img_url": "https://pics.dmm.co.jp/digital/video/aquma00067/aquma00067pl.jpg",
+    "sell_date": "2025/01/17",
+    "duration": "210\u5206",
+    "seed_download_link": "magnet:?xt=urn:btih:cc08562405569777449127c7652e7b536cc54e42&dn=aquma00067&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce",
+    "director": [],
+    "maker": [
+      "AQUA\uff1c\u30a2\u30af\u30a2\uff1e"
+    ],
+    "series": [],
+    "label": [
+      "AQUA MANIAC"
+    ],
+    "keyword": [
+      "\u5358\u4f53\u4f5c\u54c1",
+      "\u30cf\u30a4\u30af\u30aa\u30ea\u30c6\u30a3VR",
+      "VR\u5c02\u7528",
+      "\u72ec\u5360\u914d\u4fe1",
+      "\u7af6\u6cf3\u30fb\u30b9\u30af\u30fc\u30eb\u6c34\u7740",
+      "\u30a2\u30ca\u30eb",
+      "\u7f8e\u5c11\u5973",
+      "\u5973\u512a\u30d9\u30b9\u30c8\u30fb\u7dcf\u96c6\u7de8",
+      "\u30d9\u30b9\u30c8\u30fb\u7dcf\u96c6\u7de8"
+    ]
+  },
+  {
+    "id": "urvrsp00408",
+    "title": "\u3010VR\u3011\u30108K VR\u3011\u9154\u3063\u3066\u7121\u610f\u8b58\u8fd1\u8ddd\u96e2\u6311\u767a\u3057\u3061\u3083\u3063\u305f\u8ca0\u3051\u305a\u5acc\u3044\u306e\u30d0\u5148\u306e\u5730\u5473\u30e1\u30ac\u30cd\u3061\u3083\u3093\u306f\u3001\u62bc\u3057\u5012\u3059\u3068\u6065\u305a\u304b\u3057\u304c\u308a\u306a\u304c\u3089\u3082\u591c\u901a\u3057\u30bb\u30c3\u30af\u30b9\u3057\u3066\u3057\u307e\u3046\u30a8\u30ed\u30ae\u30e3\u30c3\u30d7\u6301\u3061\u3060\u3063\u305f \u67cf\u6728\u3053\u306a\u3064",
+    "size": "10.19 GB",
+    "actress": [
+      "\u67cf\u6728\u3053\u306a\u3064"
+    ],
+    "preview_img_url": "https://pics.dmm.co.jp/digital/video/urvrsp00408/urvrsp00408pl.jpg",
+    "sell_date": "2025/01/17",
+    "duration": "75\u5206",
+    "seed_download_link": "magnet:?xt=urn:btih:98e88ef734a33de1c0ec634274bba328b5ff7b41&dn=urvrsp00408&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce",
+    "director": [
+      "\u30df\u30c5\u30ad\u30fb\u6539"
+    ],
+    "maker": [
+      "unfinished"
+    ],
+    "series": [
+      "unfinished VR"
+    ],
+    "label": [
+      "Marrion Group VR"
+    ],
+    "keyword": [
+      "\u30cf\u30a4\u30af\u30aa\u30ea\u30c6\u30a3VR",
+      "\u5358\u4f53\u4f5c\u54c1",
+      "VR\u5c02\u7528",
+      "\u72ec\u5360\u914d\u4fe1",
+      "8KVR",
+      "\u3081\u304c\u306d",
+      "\u7f8e\u5c11\u5973",
+      "\u5973\u5b50\u5927\u751f",
+      "\u4e2d\u51fa\u3057"
+    ]
+  },
+  {
+    "id": "vrkm01481",
+    "title": "\u3010VR\u3011\u30ad\u30b9\u3068\u7f8e\u5c3b\u3068\u6fe1\u308c\u9aeaSEX\u3067\u30dc\u30af\u3092\u7518\u3084\u304b\u3057\u3066\u304f\u308c\u308b\u2018\u6027\u6b32\u5f37\u3081\u306a\u30ab\u30ce\u30b8\u30e7\u2019\u3068\u540c\u68f2\u751f\u6d3b \u5929\u6708\u3042\u305a",
+    "size": "12.09 GB",
+    "actress": [
+      "\u5929\u6708\u3042\u305a"
+    ],
+    "preview_img_url": "https://pics.dmm.co.jp/digital/video/vrkm01481/vrkm01481pl.jpg",
+    "sell_date": "2025/01/16",
+    "duration": "88\u5206",
+    "seed_download_link": "magnet:?xt=urn:btih:8c603b3bf0a3592e15c290d8901b94ffcf70b099&dn=vrkm01481&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce",
+    "director": [
+      "\u30d4\u30f3\u30b5\u30ed\u5927\u597d\u304d\u30b9\u30ba\u30bf\u30b1\u3055\u3093"
+    ],
+    "maker": [
+      "\u30b1\u30a4\u30fb\u30a8\u30e0\u30fb\u30d7\u30ed\u30c7\u30e5\u30fc\u30b9"
+    ],
+    "series": [
+      "\u7279\u5316VR"
+    ],
+    "label": [
+      "KMPVR"
+    ],
+    "keyword": [
+      "\u30cf\u30a4\u30af\u30aa\u30ea\u30c6\u30a3VR",
+      "8KVR",
+      "\u5358\u4f53\u4f5c\u54c1",
+      "VR\u5c02\u7528",
+      "\u4e2d\u51fa\u3057",
+      "\u9a0e\u4e57\u4f4d",
+      "\u5de8\u4e73",
+      "\u4e3b\u89b3"
+    ]
+  },
+  {
+    "id": "urvrsp00406",
+    "title": "\u3010VR\u3011\u30108K VR\u3011\u8a98\u60d1\u30aa\u30d5\u30d1\u30b3\u30ec\u30a4\u30e4\u30fc \u7686\u6708\u3072\u304b\u308b",
+    "size": "9.10 GB",
+    "actress": [
+      "\u7686\u6708\u3072\u304b\u308b"
+    ],
+    "preview_img_url": "https://pics.dmm.co.jp/digital/video/urvrsp00406/urvrsp00406pl.jpg",
+    "sell_date": "2025/01/16",
+    "duration": "87\u5206",
+    "seed_download_link": "magnet:?xt=urn:btih:f5ebaef20b0b05a18c67fe8b56ddd11c4ae9bb29&dn=urvrsp00406&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce",
+    "director": [
+      "\u51db\u3005\uff08un\uff09"
+    ],
+    "maker": [
+      "unfinished"
+    ],
+    "series": [
+      "unfinished VR"
+    ],
+    "label": [
+      "Marrion Group VR"
+    ],
+    "keyword": [
+      "\u30cf\u30a4\u30af\u30aa\u30ea\u30c6\u30a3VR",
+      "\u7f8e\u5c11\u5973",
+      "\u30b3\u30b9\u30d7\u30ec",
+      "\u7740\u30a8\u30ed",
+      "\u75f4\u5973",
+      "8KVR",
+      "\u72ec\u5360\u914d\u4fe1",
+      "VR\u5c02\u7528",
+      "\u5358\u4f53\u4f5c\u54c1",
+      "\u4e2d\u51fa\u3057"
+    ]
+  },
+  {
+    "id": "13dsvr01663",
+    "title": "\u3010VR\u3011\u30108K\u3011\u5b50\u4f9b\u304c\u51fa\u6765\u306a\u304f\u3066\u60a9\u3093\u3067\u3044\u308b\u5144\u5ac1\u3068\u5b55\u307e\u305b\u4e0d\u502b\u65c5\u884c \u51f0\u83ef\u308a\u3093",
+    "size": "14.90 GB",
+    "actress": [
+      "\u51f0\u83ef\u308a\u3093"
+    ],
+    "preview_img_url": "https://pics.dmm.co.jp/digital/video/13dsvr01663/13dsvr01663pl.jpg",
+    "sell_date": "2025/01/16",
+    "duration": "76\u5206",
+    "seed_download_link": "magnet:?xt=urn:btih:92836268e57f95f9046dc6558c6c01aad083f606&dn=dsvr01663&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce",
+    "director": [
+      "\u30bb\u30ab\u30f3\u30c9\u658e\u85e4"
+    ],
+    "maker": [
+      "SOD\u30af\u30ea\u30a8\u30a4\u30c8"
+    ],
+    "series": [],
+    "label": [
+      "SODVR"
+    ],
+    "keyword": [
+      "\u30cf\u30a4\u30af\u30aa\u30ea\u30c6\u30a3VR",
+      "8KVR",
+      "\u5358\u4f53\u4f5c\u54c1",
+      "VR\u5c02\u7528",
+      "\u9a0e\u4e57\u4f4d",
+      "\u5de8\u4e73",
+      "\u4e0d\u502b",
+      "\u4e2d\u51fa\u3057",
+      "\u4eba\u59bb\u30fb\u4e3b\u5a66"
+    ]
+  },
+  {
+    "id": "pxvr00233",
+    "title": "\u3010VR\u3011\u3044\u3064\u3082\u5869\u5bfe\u5fdc\u306a\u5f7c\u5973\u306eG\u30ab\u30c3\u30d7\u4e73\u9996\u30b9\u30a4\u30c3\u30c1ON\u306b\u3057\u305f\u3089\u30a4\u30c1\u30e3\u30e9\u30d6\u30e2\u30fc\u30c9\u306b\u8c79\u5909\uff01\uff01\u525b\u6bdb\u30de\u3007\u30b3\u306b\u4f55\u5ea6\u3082\u4e2d\u51fa\u3057\u4e00\u6cca\u4e8c\u65e5\u306e\u6e29\u6cc9\u65c5\u884c \u6d5c\u8fba\u681e\u5e06\u30108K\u3011",
+    "size": "12.49 GB",
+    "actress": [
+      "\u6d5c\u8fba\u681e\u5e06"
+    ],
+    "preview_img_url": "https://pics.dmm.co.jp/digital/video/pxvr00233/pxvr00233pl.jpg",
+    "sell_date": "2025/01/15",
+    "duration": "75\u5206",
+    "seed_download_link": "magnet:?xt=urn:btih:0e8935815d4884396e0e154d47299c43595e725c&dn=pxvr00233&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce",
+    "director": [
+      "\u30a2\u30ab\u30ae\u5149\u4e00"
+    ],
+    "maker": [
+      "P-BOX VR"
+    ],
+    "series": [
+      "\u30c4\u30f3\u30c7\u30ec\u5f7c\u5973"
+    ],
+    "label": [
+      "P-BOX VR"
+    ],
+    "keyword": [
+      "\u30cf\u30a4\u30af\u30aa\u30ea\u30c6\u30a3VR",
+      "\u7f8e\u5c11\u5973",
+      "\u75f4\u5973",
+      "\u4e2d\u51fa\u3057",
+      "\u9a0e\u4e57\u4f4d",
+      "\u72ec\u5360\u914d\u4fe1",
+      "VR\u5c02\u7528",
+      "\u5358\u4f53\u4f5c\u54c1",
+      "8KVR",
+      "\u5de8\u4e73"
+    ]
+  },
+  {
+    "id": "pxvr00232",
+    "title": "\u3010VR\u3011\u4eba\u6c17\u904e\u304e\u3066\u4e88\u7d04\u4e0d\u53ef\u80fd\uff01\uff01 I\u30ab\u30c3\u30d7\u5de8\u4e73\u304a\u59c9\u3055\u3093\u304c\u8d85\u81f3\u8fd1\u8ddd\u96e2\u3067\u512a\u3057\u304f\u8cac\u3081\u3066\u304f\u308c\u308b\u512a\u826f\u30a8\u30b9\u30c6\u30b5\u30ed\u30f3 \u4e03\u539f\u3055\u3086\u30108K\u3011",
+    "size": "17.34 GB",
+    "actress": [
+      "\u4e03\u539f\u3055\u3086"
+    ],
+    "preview_img_url": "https://pics.dmm.co.jp/digital/video/pxvr00232/pxvr00232pl.jpg",
+    "sell_date": "2025/01/15",
+    "duration": "79\u5206",
+    "seed_download_link": "magnet:?xt=urn:btih:34382d7aacff21de7605c8a130ac16543b3068d9&dn=pxvr00232&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce",
+    "director": [
+      "\u3053\u3042\u3089\u592a\u90ce\uff08\u308f\uff09"
+    ],
+    "maker": [
+      "P-BOX VR"
+    ],
+    "series": [
+      "\u5de8\u4e73\u30a8\u30b9\u30c6\u30c6\u30a3\u30b7\u30e3\u30f3"
+    ],
+    "label": [
+      "P-BOX VR"
+    ],
+    "keyword": [
+      "\u30cf\u30a4\u30af\u30aa\u30ea\u30c6\u30a3VR",
+      "\u4e2d\u51fa\u3057",
+      "\u9a0e\u4e57\u4f4d",
+      "\u75f4\u5973",
+      "\u30d5\u30a7\u30e9",
+      "\u72ec\u5360\u914d\u4fe1",
+      "VR\u5c02\u7528",
+      "\u5358\u4f53\u4f5c\u54c1",
+      "8KVR",
+      "\u5de8\u4e73"
+    ]
+  },
+  {
+    "id": "kiwvr00735",
+    "title": "\u3010VR\u3011\u62bc\u3057\u306b\u5f31\u3044\u7d14\u7c8b\u7f8e\u5de8\u4e73\u5973\u5b50\u5927\u751f\u304c\u7325\u893b\u30a8\u30ed\u30de\u30c3\u30b5\u30fc\u30b8\u3067\u5feb\u697d\u5815\u3061",
+    "size": "18.51 GB",
+    "actress": [],
+    "preview_img_url": "https://pics.dmm.co.jp/digital/video/kiwvr00735/kiwvr00735pl.jpg",
+    "sell_date": "2025/01/14",
+    "duration": "103\u5206",
+    "seed_download_link": "magnet:?xt=urn:btih:0f489131d0bd69b20f1f807dbf54786bbcfccf37&dn=kiwvr00735&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce",
+    "director": [
+      "\u5927\u5d0e\u5e83\u6d69\u6cbb"
+    ],
+    "maker": [
+      "\u3053\u3042\u3089VR"
+    ],
+    "series": [
+      "3D\u30cf\u30e1\u64ae\u308aVR\u6539\u3010\u30b9\u30b1\u30d9\u6574\u4f53\u5e2b\u306e\u7325\u893b\u30de\u30c3\u30b5\u30fc\u30b8\u3011"
+    ],
+    "label": [
+      "\u6975\u30b0\u30eb\u30fc\u30d7"
+    ],
+    "keyword": [
+      "\u30cf\u30a4\u30af\u30aa\u30ea\u30c6\u30a3VR",
+      "VR\u5c02\u7528",
+      "\u72ec\u5360\u914d\u4fe1",
+      "\u30d1\u30a4\u30ba\u30ea",
+      "\u5973\u5b50\u5927\u751f",
+      "\u9854\u5c04",
+      "\u4e2d\u51fa\u3057",
+      "\u30de\u30c3\u30b5\u30fc\u30b8\u30fb\u30ea\u30d5\u30ec",
+      "\u5de8\u4e73"
+    ]
+  },
+  {
+    "id": "vrkm01482",
+    "title": "\u3010VR\u3011\u300c\u9752\u6625\u3063\u3066\u5fc3\u304c\u30af\u30e9\u30af\u30e9\u3059\u308b\u2026\u300d \u7d14\u611b\u7121\u57a2\u306a\u732e\u8eab\u7684\u30a4\u30c1\u30e3\u30e9\u30d6SEX \u96eb\u6708\u5fc3\u685c",
+    "size": "11.24 GB",
+    "actress": [
+      "\u96eb\u6708\u5fc3\u685c"
+    ],
+    "preview_img_url": "https://pics.dmm.co.jp/digital/video/vrkm01482/vrkm01482pl.jpg",
+    "sell_date": "2025/01/13",
+    "duration": "82\u5206",
+    "seed_download_link": "magnet:?xt=urn:btih:f316d604dc8bf39a1c4ce66e8f99824db710cbed&dn=vrkm01482&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce",
+    "director": [
+      "\u30d4\u30f3\u30b5\u30ed\u5927\u597d\u304d\u30b9\u30ba\u30bf\u30b1\u3055\u3093"
+    ],
+    "maker": [
+      "\u30b1\u30a4\u30fb\u30a8\u30e0\u30fb\u30d7\u30ed\u30c7\u30e5\u30fc\u30b9"
+    ],
+    "series": [],
+    "label": [
+      "KMPVR"
+    ],
+    "keyword": [
+      "\u30cf\u30a4\u30af\u30aa\u30ea\u30c6\u30a3VR",
+      "8KVR",
+      "\u5358\u4f53\u4f5c\u54c1",
+      "VR\u5c02\u7528",
+      "\u4e2d\u51fa\u3057",
+      "\u9a0e\u4e57\u4f4d",
+      "\u7f8e\u4e73",
+      "\u4e3b\u89b3",
+      "\u5973\u5b50\u6821\u751f"
+    ]
+  },
+  {
+    "id": "13dsvr01649",
+    "title": "\u3010VR\u3011\u30108K\u3011\u63a1\u7cbe\u5ba4\u3067\u65e2\u5a5a\u8005\u30c1\u25cf\u30dd\u3092\u4e38\u3054\u3068\u98f2\u307f\u8fbc\u3080\u30a4\u30e9\u30de\u597d\u304d\u30b9\u30d7\u30bf\u30f3\u75f4\u5973\u30ca\u30fc\u30b9 \u5b89\u5802\u306f\u308b\u306e",
+    "size": "9.70 GB",
+    "actress": [
+      "\u5b89\u5802\u306f\u308b\u306e"
+    ],
+    "preview_img_url": "https://pics.dmm.co.jp/digital/video/13dsvr01649/13dsvr01649pl.jpg",
+    "sell_date": "2025/01/13",
+    "duration": "96\u5206",
+    "seed_download_link": "magnet:?xt=urn:btih:9774a8a05c1eccfb90ef0ff2315a1bb9a4fc3374&dn=dsvr01649&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce",
+    "director": [
+      "\u3053\u304f\u3082\u304f"
+    ],
+    "maker": [
+      "SOD\u30af\u30ea\u30a8\u30a4\u30c8"
+    ],
+    "series": [],
+    "label": [
+      "SODVR"
+    ],
+    "keyword": [
+      "\u30cf\u30a4\u30af\u30aa\u30ea\u30c6\u30a3VR",
+      "8KVR",
+      "\u5358\u4f53\u4f5c\u54c1",
+      "VR\u5c02\u7528",
+      "\u9a0e\u4e57\u4f4d",
+      "\u30b9\u30ec\u30f3\u30c0\u30fc",
+      "\u30d5\u30a7\u30e9",
+      "\u4e2d\u51fa\u3057"
+    ]
+  },
+  {
+    "id": "vrprd00067",
+    "title": "\u3010VR\u3011\u30108K\u3011\u50d5\u306e\u30e1\u30a4\u30c9\u306f\u95c7\u304c\u6df1\u3059\u304e\u308b\u624b\u62db\u304d\u3059\u308c\u3070\u3044\u3064\u3082\u5931\u6557\u3001\u3067\u3082\u3044\u3064\u3082\u4e00\u751f\u61f8\u547d\u3067\u8272\u767d\u3061\u3063\u3071\u3044\u3067\u3054\u5949\u4ed5\u3057\u3066\u304f\u308c\u308b\u50d5\u5c02\u5c5e\u3048\u3061\u3048\u3061\u30c9\u30b8\u3063\u5a18\u6027\u51e6\u7406\u30e1\u30a4\u30c9 \u3053\u306f\u308b",
+    "size": "12.21 GB",
+    "actress": [],
+    "preview_img_url": "https://pics.dmm.co.jp/digital/video/vrprd00067/vrprd00067pl.jpg",
+    "sell_date": "2025/01/13",
+    "duration": "79\u5206",
+    "seed_download_link": "magnet:?xt=urn:btih:328b1012bf6e737fe13628c5dcf2fc0304d6d3fc&dn=vrprd00067&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce",
+    "director": [
+      "\u30af\u30ef\u30c3\u30c1\u30fc"
+    ],
+    "maker": [
+      "VR\u30d1\u30e9\u30c0\u30a4\u30b9"
+    ],
+    "series": [],
+    "label": [
+      "\u6975\u30b0\u30eb\u30fc\u30d7"
+    ],
+    "keyword": [
+      "\u30cf\u30a4\u30af\u30aa\u30ea\u30c6\u30a3VR",
+      "8KVR",
+      "VR\u5c02\u7528",
+      "\u72ec\u5360\u914d\u4fe1",
+      "\u30d5\u30a1\u30f3\u30bf\u30b8\u30fc",
+      "\u7f8e\u5c11\u5973",
+      "\u30b9\u30ec\u30f3\u30c0\u30fc",
+      "\u30e1\u30a4\u30c9"
+    ]
+  },
+  {
+    "id": "savr00541",
+    "title": "\u3010VR\u3011\u5730\u5473\u30bd\u30ed\u5de8\u4e73\u306e\u751f\u5f92\u306e\u88cf\u4e8b\u60c5\u3002\u6559\u5e2b\u306e\u30dc\u30af\u306e\u4eba\u751f\u3092\u7d42\u308f\u3089\u305b\u308b\u6b63\u53cd\u5bfe\u3067\u547d\u4ee4\u7684\u306a\u598a\u5a20\u6deb\u8a9e \u65b0\u4e95\u30ea\u30de",
+    "size": "13.00 GB",
+    "actress": [
+      "\u65b0\u4e95\u30ea\u30de"
+    ],
+    "preview_img_url": "https://pics.dmm.co.jp/digital/video/savr00541/savr00541pl.jpg",
+    "sell_date": "2025/01/12",
+    "duration": "81\u5206",
+    "seed_download_link": "magnet:?xt=urn:btih:1251c5888db16f992335ff5766edd1720ebe40f8&dn=savr00541&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce",
+    "director": [
+      "\u5473\u564c\u716eKOMI"
+    ],
+    "maker": [
+      "KMPVR-\u5f69-"
+    ],
+    "series": [],
+    "label": [
+      "KMPVR-\u5f69-"
+    ],
+    "keyword": [
+      "\u30cf\u30a4\u30af\u30aa\u30ea\u30c6\u30a3VR",
+      "\u4e2d\u51fa\u3057",
+      "\u5973\u5b50\u6821\u751f",
+      "\u75f4\u5973",
+      "\u5de8\u4e73",
+      "\u72ec\u5360\u914d\u4fe1",
+      "VR\u5c02\u7528",
+      "\u5358\u4f53\u4f5c\u54c1",
+      "8KVR",
+      "\u4e3b\u89b3"
+    ]
+  },
+  {
+    "id": "savr00536",
+    "title": "\u3010VR\u3011\u4eba\u59bb\u3054\u3063\u304f\u3093\u4e0d\u502b \u30bb\u30c3\u30af\u30b9\u30ec\u30b9\u306e\u5bc2\u3057\u3055\u3092\u96a3\u306b\u4f4f\u3080\u50d5\u306e\u7cbe\u5b50\u3092\u98f2\u3080\u3053\u3068\u3067\u57cb\u3081\u308b\u5be1\u9ed9\u306a\u30aa\u30f3\u30ca \u304b\u3059\u307f\u3055\u3093",
+    "size": "10.72 GB",
+    "actress": [],
+    "preview_img_url": "https://pics.dmm.co.jp/digital/video/savr00536/savr00536pl.jpg",
+    "sell_date": "2025/01/12",
+    "duration": "77\u5206",
+    "seed_download_link": "magnet:?xt=urn:btih:3b616ac18708c5a8121c3c9e1abc55c11010a020&dn=savr00536&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce",
+    "director": [
+      "\u30cf\u30e1\u30e9\u30cb\u30a2\u30f3\u4eac\u90fd"
+    ],
+    "maker": [
+      "KMPVR-\u5f69-"
+    ],
+    "series": [],
+    "label": [
+      "KMPVR-\u5f69-"
+    ],
+    "keyword": [
+      "\u30cf\u30a4\u30af\u30aa\u30ea\u30c6\u30a3VR",
+      "8KVR",
+      "VR\u5c02\u7528",
+      "\u72ec\u5360\u914d\u4fe1",
+      "\u30b9\u30ec\u30f3\u30c0\u30fc",
+      "\u4eba\u59bb\u30fb\u4e3b\u5a66",
+      "\u3054\u3063\u304f\u3093",
+      "\u4e2d\u51fa\u3057",
+      "\u30d5\u30a7\u30e9"
+    ]
+  },
+  {
+    "id": "savr00543",
+    "title": "\u3010VR\u3011\u8ab0\u3082\u304c\u30c8\u30ea\u30b3\u306b\u306a\u308b\u30ad\u30e5\u30f3\u304b\u308fJK\u30b5\u30ad\u30e5\u30d0\u30b9 \u820c\u3092\u81ea\u7531\u81ea\u5728\u306b\u52d5\u304b\u3059\uff3b\u8210\u3081\u30c6\u30af\uff3d\u3067\u30ac\u30c3\u30c1\u30ea\u643e\u7cbe\u3059\u308b\u30b6\u30fc\u30e1\u30f3\u3054\u3063\u304f\u3093\u5b66\u5712\u6027\u6d3b \u4f50\u85e4\u306e\u306e\u304b",
+    "size": "9.51 GB",
+    "actress": [
+      "\u4f50\u85e4\u306e\u306e\u304b\uff08\u52a0\u85e4\u3082\u3082\u304b\uff09"
+    ],
+    "preview_img_url": "https://pics.dmm.co.jp/digital/video/savr00543/savr00543pl.jpg",
+    "sell_date": "2025/01/11",
+    "duration": "75\u5206",
+    "seed_download_link": "magnet:?xt=urn:btih:e165a0cae13c740d104048432466456179f7baba&dn=savr00543-1&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce",
+    "director": [
+      "\u66fe\u6839\u5927\u5922@\u4e2d\u91ce"
+    ],
+    "maker": [
+      "KMPVR-\u5f69-"
+    ],
+    "series": [],
+    "label": [
+      "KMPVR-\u5f69-"
+    ],
+    "keyword": [
+      "\u30cf\u30a4\u30af\u30aa\u30ea\u30c6\u30a3VR",
+      "\u75f4\u5973",
+      "\u5973\u5b50\u6821\u751f",
+      "\u30d5\u30a7\u30e9",
+      "\u30d5\u30a1\u30f3\u30bf\u30b8\u30fc",
+      "\u72ec\u5360\u914d\u4fe1",
+      "VR\u5c02\u7528",
+      "\u5358\u4f53\u4f5c\u54c1",
+      "8KVR",
+      "\u7f8e\u5c11\u5973"
+    ]
+  },
+  {
+    "id": "savr00535",
+    "title": "\u3010VR\u3011\u767a\u5c04\u7121\u5236\u9650\u306e\u611b\u4eba 4\u756a\u76ee\u306e\u4e0d\u502b\u76f8\u624b\u306f\u5e7e\u5ea6\u3068\u306a\u304f\u5c04\u7cbe\u304c\u51fa\u6765\u308b\u6027\u683c\u3082\u30ab\u30e9\u30c0\u3082\u90fd\u5408\u306e\u826f\u3044\u5973",
+    "size": "12.63 GB",
+    "actress": [],
+    "preview_img_url": "https://pics.dmm.co.jp/digital/video/savr00535/savr00535pl.jpg",
+    "sell_date": "2025/01/11",
+    "duration": "84\u5206",
+    "seed_download_link": "magnet:?xt=urn:btih:dae9d647eba4f3fc04530144d69a8b7f0915602a&dn=savr00535-1&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce",
+    "director": [
+      "\u5473\u564c\u716eKOMI"
+    ],
+    "maker": [
+      "KMPVR-\u5f69-"
+    ],
+    "series": [],
+    "label": [
+      "KMPVR-\u5f69-"
+    ],
+    "keyword": [
+      "\u30cf\u30a4\u30af\u30aa\u30ea\u30c6\u30a3VR",
+      "8KVR",
+      "VR\u5c02\u7528",
+      "\u72ec\u5360\u914d\u4fe1",
+      "\u30d5\u30a7\u30e9",
+      "\u7f8e\u4e73",
+      "\u9a0e\u4e57\u4f4d",
+      "\u4e2d\u51fa\u3057",
+      "\u4e3b\u89b3"
+    ]
+  },
+  {
+    "id": "bibivr00138",
+    "title": "\u3010VR\u3011\u8eab\u4f53\u304c\u3068\u308d\u3068\u308d\u306b\u306a\u308b\u307e\u3067\u30ab\u30e9\u30c0\u3068\u30af\u30c1\u30d3\u30eb\u3067\u5168\u8eab\u611b\u64ab\uff01\uff01\u7537\u3092\u72c2\u308f\u305b\u308bBODY\uff06LIP\u30d8\u30eb\u30b9 \u30c9\u30d4\u30e5\u30c9\u30d4\u30e5CandyNo.1 \u690e\u540d\u5fc3\u6625",
+    "size": "16.49 GB",
+    "actress": [
+      "\u690e\u540d\u5fc3\u6625"
+    ],
+    "preview_img_url": "https://pics.dmm.co.jp/digital/video/bibivr00138/bibivr00138pl.jpg",
+    "sell_date": "2025/01/11",
+    "duration": "91\u5206",
+    "seed_download_link": "magnet:?xt=urn:btih:2c37090827947b50f2593d7d16971806d8984ad0&dn=bibivr00138-1&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce",
+    "director": [
+      "\u30cf\u30eb\u30af\u30fb\u30b3\u30fc\u30ac\u30f3"
+    ],
+    "maker": [
+      "KMPVR-bibi-"
+    ],
+    "series": [],
+    "label": [
+      "KMPVR-bibi-"
+    ],
+    "keyword": [
+      "\u30cf\u30a4\u30af\u30aa\u30ea\u30c6\u30a3VR",
+      "8KVR",
+      "\u5358\u4f53\u4f5c\u54c1",
+      "VR\u5c02\u7528",
+      "\u4e2d\u51fa\u3057",
+      "\u9a0e\u4e57\u4f4d",
+      "\u5de8\u4e73",
+      "\u7f8e\u5c11\u5973",
+      "\u30ad\u30e3\u30d0\u5b22\u30fb\u98a8\u4fd7\u5b22"
+    ]
+  },
+  {
+    "id": "savr00520",
+    "title": "\u3010VR\u3011\u6c42\u611b\u30ad\u30b9\u3068\u751f\u6b96\u6deb\u8a9e\u3067\u78ba\u5b9f\u306b\u7537\u3092\u597d\u304d\u306b\u3055\u305b\u308b\u6975\u7518\u306a\u30aa\u30ca\u30b5\u30dd\u4f53\u9a13 \u5c0f\u90a3\u6d77\u3042\u3084",
+    "size": "13.73 GB",
+    "actress": [
+      "\u5c0f\u90a3\u6d77\u3042\u3084"
+    ],
+    "preview_img_url": "https://pics.dmm.co.jp/digital/video/savr00520/savr00520pl.jpg",
+    "sell_date": "2025/01/10",
+    "duration": "79\u5206",
+    "seed_download_link": "magnet:?xt=urn:btih:c6175cb602354335833f26566bc33d056327cb26&dn=savr00520&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce",
+    "director": [
+      "\u5473\u564c\u716eKOMI"
+    ],
+    "maker": [
+      "KMPVR-\u5f69-"
+    ],
+    "series": [],
+    "label": [
+      "KMPVR-\u5f69-"
+    ],
+    "keyword": [
+      "\u30cf\u30a4\u30af\u30aa\u30ea\u30c6\u30a3VR",
+      "\u4e2d\u51fa\u3057",
+      "\u6deb\u8a9e",
+      "\u30ad\u30b9\u30fb\u63a5\u543b",
+      "\u9a0e\u4e57\u4f4d",
+      "\u72ec\u5360\u914d\u4fe1",
+      "VR\u5c02\u7528",
+      "\u5358\u4f53\u4f5c\u54c1",
+      "8KVR",
+      "\u4e3b\u89b3"
+    ]
+  },
+  {
+    "id": "savr00516",
+    "title": "\u3010VR\u3011\u6975\u5c0f\u30d3\u30ad\u30cb\u306e\u7206\u4e73\u30bb\u30e9\u30d4\u30b9\u30c8\u304c\u30aa\u30a4\u30eb\u305f\u3063\u3077\u308a\u65bd\u8853\u3068\u6ce1\u3060\u304f\u6d17\u4f53\u30b5\u30fc\u30d3\u30b9\u3067\u5feb\u697d\u306b\u5c0e\u304f\u7d76\u54c1\u30d1\u30a4\u30ba\u30ea\u56de\u6625SPA \u7893\u4e95\u305b\u308a\u306a",
+    "size": "11.18 GB",
+    "actress": [
+      "\u7893\u4e95\u305b\u308a\u306a"
+    ],
+    "preview_img_url": "https://pics.dmm.co.jp/digital/video/savr00516/savr00516pl.jpg",
+    "sell_date": "2025/01/10",
+    "duration": "74\u5206",
+    "seed_download_link": "magnet:?xt=urn:btih:ecc3b2efc4ade2ce84779f9190c740691d1a03ab&dn=savr00516&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce",
+    "director": [
+      "\u767d\u9ce5\u30cb\u30c9\u30df"
+    ],
+    "maker": [
+      "KMPVR-\u5f69-"
+    ],
+    "series": [],
+    "label": [
+      "KMPVR-\u5f69-"
+    ],
+    "keyword": [
+      "\u30cf\u30a4\u30af\u30aa\u30ea\u30c6\u30a3VR",
+      "\u30d1\u30a4\u30ba\u30ea",
+      "\u4e2d\u51fa\u3057",
+      "\u30de\u30c3\u30b5\u30fc\u30b8\u30fb\u30ea\u30d5\u30ec",
+      "\u30ed\u30fc\u30b7\u30e7\u30f3\u30fb\u30aa\u30a4\u30eb",
+      "\u72ec\u5360\u914d\u4fe1",
+      "VR\u5c02\u7528",
+      "\u5358\u4f53\u4f5c\u54c1",
+      "8KVR",
+      "\u5de8\u4e73"
+    ]
+  },
+  {
+    "id": "juvr00214",
+    "title": "\u3010VR\u3011\u30bc\u30ed\u8ddd\u96e2\u65bd\u8853\u3067\u5c04\u7cbe\u307e\u3067\u8a98\u3046\u4eba\u6c17No.1\u30c8\u30ec\u30fc\u30ca\u30fc\u30fb\u8389\u7dd2\u3055\u3093\u306e\u5c0f\u60aa\u9b54\u5bc6\u7740\u30b9\u30c8\u30ec\u30c3\u30c1 \u8d85\u9ad8\u753b\u8cea8KVR \u5727\u5012\u7684\u8feb\u529b\u3068\u6ca1\u5165\u611f\u30fc\u3002 \u6817\u5c71\u8389\u7dd2",
+    "size": "19.48 GB",
+    "actress": [
+      "\u6817\u5c71\u8389\u7dd2"
+    ],
+    "preview_img_url": "https://pics.dmm.co.jp/digital/video/juvr00214/juvr00214pl.jpg",
+    "sell_date": "2025/01/10",
+    "duration": "106\u5206",
+    "seed_download_link": "magnet:?xt=urn:btih:3eb5783b8dac30d588c41220a9793798636242a6&dn=juvr00214&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce",
+    "director": [
+      "\u3053\u3042\u3089\u592a\u90ce\uff08\u308f\uff09"
+    ],
+    "maker": [
+      "\u30de\u30c9\u30f3\u30ca"
+    ],
+    "series": [],
+    "label": [
+      "MadonnaVR"
+    ],
+    "keyword": [
+      "\u30cf\u30a4\u30af\u30aa\u30ea\u30c6\u30a3VR",
+      "\u75f4\u5973",
+      "\u8077\u696d\u8272\u3005",
+      "\u4e2d\u51fa\u3057",
+      "\u4eba\u59bb\u30fb\u4e3b\u5a66",
+      "\u72ec\u5360\u914d\u4fe1",
+      "VR\u5c02\u7528",
+      "\u5358\u4f53\u4f5c\u54c1",
+      "8KVR",
+      "\u719f\u5973"
+    ]
+  },
+  {
+    "id": "juvr00213",
+    "title": "\u3010VR\u3011\u8d85\u9ad8\u753b\u8cea8KVR \u300c\u7d42\u96fb\u3001\u306a\u304f\u306a\u3063\u3061\u3083\u3063\u305f\u307f\u305f\u3044\u3067\u3059\u306d\u2026\u3002\u300d \u7d50\u5a5a\u5f0f\u306e\u4e8c\u6b21\u4f1a\u7d42\u308f\u308a \u65b0\u5a66\u306e\u53cb\u4eba\u30fb\u3086\u3046\u308a\u3055\u3093\u3068 \u307e\u3055\u304b\u306e\u30ef\u30f3\u30ca\u30a4\u30c8\u30e9\u30d6SEX \u63a8\u5ddd\u3086\u3046\u308a",
+    "size": "14.14 GB",
+    "actress": [
+      "\u63a8\u5ddd\u3086\u3046\u308a"
+    ],
+    "preview_img_url": "https://pics.dmm.co.jp/digital/video/juvr00213/juvr00213pl.jpg",
+    "sell_date": "2025/01/10",
+    "duration": "82\u5206",
+    "seed_download_link": "magnet:?xt=urn:btih:3ae499a39cac921b4f548461d89aebccc945740d&dn=juvr00213&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce",
+    "director": [
+      "\u77e2\u6fa4\u30ec\u30b7\u30fc\u30d6"
+    ],
+    "maker": [
+      "\u30de\u30c9\u30f3\u30ca"
+    ],
+    "series": [],
+    "label": [
+      "MadonnaVR"
+    ],
+    "keyword": [
+      "\u30cf\u30a4\u30af\u30aa\u30ea\u30c6\u30a3VR",
+      "\u4eba\u59bb\u30fb\u4e3b\u5a66",
+      "\u5de8\u4e73",
+      "\u75f4\u5973",
+      "\u4e2d\u51fa\u3057",
+      "\u72ec\u5360\u914d\u4fe1",
+      "VR\u5c02\u7528",
+      "\u5358\u4f53\u4f5c\u54c1",
+      "8KVR",
+      "\u719f\u5973"
+    ]
+  },
+  {
+    "id": "ipvr00293",
+    "title": "\u3010VR\u3011\u6700\u9ad8\u306e\u611b\u4eba\u3068\u4e0d\u502b\u6e29\u6cc9\u65c5\u884c8KVR \u3055\u304f\u3089\u308f\u304b\u306a",
+    "size": "15.19 GB",
+    "actress": [
+      "\u3055\u304f\u3089\u308f\u304b\u306a"
+    ],
+    "preview_img_url": "https://pics.dmm.co.jp/digital/video/ipvr00293/ipvr00293pl.jpg",
+    "sell_date": "2025/01/10",
+    "duration": "71\u5206",
+    "seed_download_link": "magnet:?xt=urn:btih:3d466148203bb1874dac37ab0283058383f950ed&dn=ipvr00293&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce",
+    "director": [
+      "ZAMPA"
+    ],
+    "maker": [
+      "\u30a2\u30a4\u30c7\u30a2\u30dd\u30b1\u30c3\u30c8"
+    ],
+    "series": [
+      "\u30a2\u30a4\u30dd\u30b18KVR"
+    ],
+    "label": [
+      "IP-VR"
+    ],
+    "keyword": [
+      "\u30cf\u30a4\u30af\u30aa\u30ea\u30c6\u30a3VR",
+      "\u4e0d\u502b",
+      "\u6c57\u3060\u304f",
+      "\u30b9\u30ec\u30f3\u30c0\u30fc",
+      "\u30d5\u30a7\u30e9",
+      "\u72ec\u5360\u914d\u4fe1",
+      "VR\u5c02\u7528",
+      "\u5358\u4f53\u4f5c\u54c1",
+      "8KVR",
+      "\u6e29\u6cc9"
+    ]
+  },
+  {
+    "id": "ipvr00291",
+    "title": "\u3010VR\u3011\u300c\u685c\u7a7a\u3082\u3082\u300d\u30ce\u30fc\u30ab\u30c3\u30c8\u30cf\u30a4\u30d1\u30d5\u30a9\u30fc\u30de\u30f3\u30b9\u3067\u8d08\u308b8K VR\u3010\u738b\u9053\u4f53\u4f4d\u306e\u30aa\u30f3\u30d1\u30ec\u30fc\u30c9\u3011\u81e8\u5834\u611f\uff01\u7acb\u4f53\u611f\uff01\u53f2\u4e0a\u6700\u9ad8\u306e\u3069\u3063\u3077\u308a\u6ca1\u5165\u8d85\u4f53\u611fSEX\uff01",
+    "size": "16.95 GB",
+    "actress": [
+      "\u685c\u7a7a\u3082\u3082"
+    ],
+    "preview_img_url": "https://pics.dmm.co.jp/digital/video/ipvr00291/ipvr00291pl.jpg",
+    "sell_date": "2025/01/10",
+    "duration": "90\u5206",
+    "seed_download_link": "magnet:?xt=urn:btih:47596ef251acaebba1a01691ea684612c4a12b98&dn=ipvr00291&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce",
+    "director": [
+      "ZAMPA"
+    ],
+    "maker": [
+      "\u30a2\u30a4\u30c7\u30a2\u30dd\u30b1\u30c3\u30c8"
+    ],
+    "series": [
+      "\u30a2\u30a4\u30dd\u30b18KVR"
+    ],
+    "label": [
+      "IP-VR"
+    ],
+    "keyword": [
+      "\u30cf\u30a4\u30af\u30aa\u30ea\u30c6\u30a3VR",
+      "\u7f8e\u5c11\u5973",
+      "\u5de8\u4e73",
+      "\u4e2d\u51fa\u3057",
+      "\u9a0e\u4e57\u4f4d",
+      "\u72ec\u5360\u914d\u4fe1",
+      "VR\u5c02\u7528",
+      "\u5358\u4f53\u4f5c\u54c1",
+      "8KVR",
+      "\u4e3b\u89b3"
+    ]
+  },
+  {
+    "id": "vrprd00066",
+    "title": "\u3010VR\u3011\u30a8\u30b0\u904e\u304e\u4e0b\u54c1\u719f\u5973\u306b\u30de\u30fc\u30ad\u30f3\u30b0\u3055\u308c\u3066\u4f55\u5ea6\u3082\u4f55\u5ea6\u3082\u30b6\u30fc\u30e1\u30f3\u6c41\u3092\u643e\u53d6\u3055\u308c\u7d9a\u3051\u305f\u30dc\u30af\u2026",
+    "size": "9.51 GB",
+    "actress": [],
+    "preview_img_url": "https://pics.dmm.co.jp/digital/video/vrprd00066/vrprd00066pl.jpg",
+    "sell_date": "2025/01/09",
+    "duration": "51\u5206",
+    "seed_download_link": "magnet:?xt=urn:btih:537ec819e9088c1056ce65702d3f706f1392a37c&dn=vrprd00066&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce",
+    "director": [
+      "\u30af\u30ef\u30c3\u30c1\u30fc"
+    ],
+    "maker": [
+      "VR\u30d1\u30e9\u30c0\u30a4\u30b9"
+    ],
+    "series": [],
+    "label": [
+      "\u6975\u30b0\u30eb\u30fc\u30d7"
+    ],
+    "keyword": [
+      "\u30cf\u30a4\u30af\u30aa\u30ea\u30c6\u30a3VR",
+      "VR\u5c02\u7528",
+      "\u72ec\u5360\u914d\u4fe1",
+      "\u4e2d\u51fa\u3057",
+      "\u75f4\u5973",
+      "\u4eba\u59bb\u30fb\u4e3b\u5a66",
+      "\u5de8\u4e73"
+    ]
+  },
+  {
+    "id": "nkkvr00140",
+    "title": "\u3010VR\u3011\u30b6\u30fc\u30e1\u30f3\u30fb\u30d7\u25cf\u30c7\u30bf\u30fc\u30fb\u9ed2\u30ae\u30e3\u30eb\uff01\uff01\u3010\u8d85\u8089\u611f\u9ed2\u8ffd\u5c3e\u7279\u5316\u3011\u30b6\u30fc\u30e1\u30f3\u3092\u643e\u53d6\u3057\u307e\u304f\u3089\u308c\u4f55\u5ea6\u3082\u5feb\u697d\u3092\u6c42\u3081\u3066\u3010\u30e1\u30b9\u5316\u3057\u3066\u3011\u30a4\u30ad\u307e\u304f\u3063\u305fVR",
+    "size": "13.12 GB",
+    "actress": [],
+    "preview_img_url": "https://pics.dmm.co.jp/digital/video/nkkvr00140/nkkvr00140pl.jpg",
+    "sell_date": "2025/01/09",
+    "duration": "74\u5206",
+    "seed_download_link": "magnet:?xt=urn:btih:4e412c7eddb0e495f04595d45fc9152ab1b1e235&dn=nkkvr00140&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce",
+    "director": [
+      "\u30af\u30ef\u30c3\u30c1\u30fc"
+    ],
+    "maker": [
+      "\u8089\u304d\u3085\u3093\u30d1\u30e9\u30c0\u30a4\u30b9VR"
+    ],
+    "series": [
+      "\u30b6\u30fc\u30e1\u30f3\u30fb\u30d7\u25cf\u30c7\u30bf\u30fc\u30fb\u30ae\u30e3\u30eb"
+    ],
+    "label": [
+      "\u6975\u30b0\u30eb\u30fc\u30d7"
+    ],
+    "keyword": [
+      "\u30cf\u30a4\u30af\u30aa\u30ea\u30c6\u30a3VR",
+      "VR\u5c02\u7528",
+      "\u72ec\u5360\u914d\u4fe1",
+      "\u30d3\u30c3\u30c1",
+      "\u30d1\u30a4\u30ba\u30ea",
+      "\u9a0e\u4e57\u4f4d",
+      "\u75f4\u5973",
+      "\u5de8\u4e73",
+      "\u4e2d\u51fa\u3057"
+    ]
+  },
+  {
+    "id": "13dsvr01620",
+    "title": "\u3010VR\u3011\u30108K\u3011\u793e\u5185\u30cf\u30cb\u30c8\u30e9\u9006\u8972\u30ec\u00d7\u30d7 \u9000\u8077\u306b\u8ffd\u3044\u8fbc\u307e\u308c\u305f\u4ffa\u306f\u4eca\u3001\u4f55\u3092\u3057\u3066\u3082\u7121\u6575\u3002 \u5bae\u672c\u8061\u7f8e",
+    "size": "7.92 GB",
+    "actress": [
+      "\u5bae\u672c\u8061\u7f8e"
+    ],
+    "preview_img_url": "https://pics.dmm.co.jp/digital/video/13dsvr01620/13dsvr01620pl.jpg",
+    "sell_date": "2025/01/09",
+    "duration": "56\u5206",
+    "seed_download_link": "magnet:?xt=urn:btih:f9e931959060c6021df8b9de35cf8500a789bbc0&dn=dsvr01620&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce",
+    "director": [
+      "\u3044\u3056\u3044\u3056\u304d"
+    ],
+    "maker": [
+      "SOD\u30af\u30ea\u30a8\u30a4\u30c8"
+    ],
+    "series": [],
+    "label": [
+      "SODVR"
+    ],
+    "keyword": [
+      "\u30cf\u30a4\u30af\u30aa\u30ea\u30c6\u30a3VR",
+      "8KVR",
+      "\u5358\u4f53\u4f5c\u54c1",
+      "VR\u5c02\u7528",
+      "\u8fb1\u3081",
+      "\u653e\u5c3f\u30fb\u304a\u6f0f\u3089\u3057",
+      "\u62d8\u675f",
+      "\u30a4\u30e9\u30de\u30c1\u30aa",
+      "OL"
+    ]
+  },
+  {
+    "id": "pxvr00231",
+    "title": "\u3010VR\u3011P-BOX VR \u53b3\u9078\u6b63\u5e38\u4f4d\u30d9\u30b9\u30c8448\u5206\uff01 \u6975\u4e0a\u4eba\u6c17\u5973\u512a24\u540d\u3068\u306e\u898b\u3064\u3081\u5408\u3044\u306c\u3077\u306c\u3077\u30b4\u30e0\u7121\u3057SEX\uff01",
+    "size": "41.81 GB",
+    "actress": [
+      "\u7f8e\u5712\u548c\u82b1",
+      "\u85e4\u68ee\u91cc\u7a42",
+      "\u4e59\u30a2\u30ea\u30b9",
+      "\u65b0\u4e95\u30ea\u30de",
+      "\u672c\u771f\u3086\u308a",
+      "\u8fbb\u4e95\u307b\u306e\u304b",
+      "\u5c0f\u6885\u3048\u306a",
+      "\u3055\u3064\u304d\u82bd\u8863",
+      "\u5b9d\u7530\u3082\u306a\u307f",
+      "\u6728\u4e0b\u3072\u307e\u308a\uff08\u82b1\u6ca2\u3072\u307e\u308a\uff09"
+    ],
+    "preview_img_url": "https://pics.dmm.co.jp/digital/video/pxvr00231/pxvr00231pl.jpg",
+    "sell_date": "2025/01/08",
+    "duration": "449\u5206",
+    "seed_download_link": "magnet:?xt=urn:btih:d0b4aec70c21b74c294ce32f570f4b1c0771b239&dn=pxvr-231&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce",
+    "director": [],
+    "maker": [
+      "P-BOX VR"
+    ],
+    "series": [
+      "\u53b3\u9078\u30d7\u30ec\u30a4 \u30d9\u30b9\u30c8"
+    ],
+    "label": [
+      "P-BOX VR"
+    ],
+    "keyword": [
+      "\u5de8\u4e73",
+      "\u75f4\u5973",
+      "\u7f8e\u5c11\u5973",
+      "\u4e2d\u51fa\u3057",
+      "\u5973\u512a\u30d9\u30b9\u30c8\u30fb\u7dcf\u96c6\u7de8",
+      "\u72ec\u5360\u914d\u4fe1",
+      "VR\u5c02\u7528",
+      "\u30cf\u30a4\u30af\u30aa\u30ea\u30c6\u30a3VR",
+      "4\u6642\u9593\u4ee5\u4e0a\u4f5c\u54c1"
+    ]
+  },
+  {
+    "id": "pxvr00230",
+    "title": "\u3010VR\u301110\u56de\u767a\u5c04\u3059\u308b\u307e\u3067\u7d42\u308f\u3089\u306a\u3044\u8d85\u51c4\u30d7\u30ec\u30a4\u3067\u30b6\u30fc\u30e1\u30f3\u643e\u53d6\uff01\u6b62\u307e\u3089\u306a\u3044\u9023\u7d9a\u653b\u6483\u3067\u30c1\u3007\u30dd\u3092\u8972\u3046\u30ca\u30de\u4e2d\u51fa\u3057\u75f4\u5973\u98a8\u4fd7\uff01 \u7f8e\u54b2\u304b\u3093\u306a\u30108K\u3011",
+    "size": "9.04 GB",
+    "actress": [
+      "\u7f8e\u54b2\u304b\u3093\u306a"
+    ],
+    "preview_img_url": "https://pics.dmm.co.jp/digital/video/pxvr00230/pxvr00230pl.jpg",
+    "sell_date": "2025/01/08",
+    "duration": "74\u5206",
+    "seed_download_link": "magnet:?xt=urn:btih:c3cad0c2c340baef412deeace7d9095803db56ac&dn=pxvr00230&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce",
+    "director": [
+      "\u30ea\u30d0\u30d5\u30a3\u30fc\u5c06"
+    ],
+    "maker": [
+      "P-BOX VR"
+    ],
+    "series": [
+      "10\u56de\u767a\u5c04\u3059\u308b\u307e\u3067\u7d42\u308f\u3089\u306a\u3044\u75f4\u5973\u98a8\u4fd7"
+    ],
+    "label": [
+      "P-BOX VR"
+    ],
+    "keyword": [
+      "\u30cf\u30a4\u30af\u30aa\u30ea\u30c6\u30a3VR",
+      "\u9a0e\u4e57\u4f4d",
+      "\u7f8e\u5c11\u5973",
+      "\u30d5\u30a7\u30e9",
+      "\u4e2d\u51fa\u3057",
+      "\u72ec\u5360\u914d\u4fe1",
+      "VR\u5c02\u7528",
+      "\u5358\u4f53\u4f5c\u54c1",
+      "8KVR",
+      "\u75f4\u5973"
+    ]
+  },
+  {
+    "id": "pxvr00229",
+    "title": "\u3010VR\u3011\u3046\u3063\u304b\u308a\u7d42\u96fb\u9003\u3057\u305f\u30c6\u30a4\u3067\u307b\u308d\u9154\u3044SEX\u306b\u6301\u3061\u8fbc\u3080\u3042\u3056\u3068\u304b\u308f\u3044\u3044\u5de8\u4e73\u75f4\u5973 \u7f8e\u6728\u3072\u306a\u306e\u30108K\u3011",
+    "size": "11.13 GB",
+    "actress": [
+      "\u7f8e\u6728\u3072\u306a\u306e"
+    ],
+    "preview_img_url": "https://pics.dmm.co.jp/digital/video/pxvr00229/pxvr00229pl.jpg",
+    "sell_date": "2025/01/08",
+    "duration": "75\u5206",
+    "seed_download_link": "magnet:?xt=urn:btih:8eff489c1d75665208bd66357bb425a7e40e9d2e&dn=pxvr00229&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce",
+    "director": [
+      "\u767d\u9ce5\u30cb\u30c9\u30df"
+    ],
+    "maker": [
+      "P-BOX VR"
+    ],
+    "series": [
+      "\u7d42\u96fb\u9003\u3057\u3066\u5b85\u98f2\u307f"
+    ],
+    "label": [
+      "P-BOX VR"
+    ],
+    "keyword": [
+      "\u30cf\u30a4\u30af\u30aa\u30ea\u30c6\u30a3VR",
+      "\u5de8\u4e73",
+      "\u5de8\u5c3b",
+      "\u9a0e\u4e57\u4f4d",
+      "\u4e2d\u51fa\u3057",
+      "\u72ec\u5360\u914d\u4fe1",
+      "VR\u5c02\u7528",
+      "\u5358\u4f53\u4f5c\u54c1",
+      "8KVR",
+      "\u75f4\u5973"
+    ]
+  },
+  {
+    "id": "cosvr00041",
+    "title": "\u3010VR\u3011\u30b3\u30b9\u30d7\u30ec\u5acc\u3044\u306e\u5f7c\u5973\u304c\u3053\u306e\u7b11\u9854\u306b\u306a\u308b\u307e\u3067 \u5c0f\u90a3\u6d77\u3042\u3084\u30108K\u3011",
+    "size": "25.21 GB",
+    "actress": [
+      "\u5c0f\u90a3\u6d77\u3042\u3084"
+    ],
+    "preview_img_url": "https://pics.dmm.co.jp/digital/video/cosvr00041/cosvr00041pl.jpg",
+    "sell_date": "2025/01/08",
+    "duration": "70\u5206",
+    "seed_download_link": "magnet:?xt=urn:btih:e3e770ce6b5e1b9b4c4a4386d6260963ac27f641&dn=COSVR-041&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce",
+    "director": [
+      "\u767d\u9ce5\u30cb\u30c9\u30df"
+    ],
+    "maker": [
+      "Cosmo Planets VR"
+    ],
+    "series": [],
+    "label": [
+      "Cosmo Planets VR"
+    ],
+    "keyword": [
+      "\u30cf\u30a4\u30af\u30aa\u30ea\u30c6\u30a3VR",
+      "\u5de8\u5c3b",
+      "\u9a0e\u4e57\u4f4d",
+      "\u75f4\u5973",
+      "\u4e2d\u51fa\u3057",
+      "\u72ec\u5360\u914d\u4fe1",
+      "VR\u5c02\u7528",
+      "\u5358\u4f53\u4f5c\u54c1",
+      "8KVR",
+      "\u30b3\u30b9\u30d7\u30ec"
+    ]
+  },
+  {
+    "id": "vrkm01471",
+    "title": "\u3010VR\u3011\u30ae\u30e3\u30eb\u304b\u308f\u3044\u3044\uff5e \u30e4\u30ea\u30de\u30f3\u5a18\u6b63\u5e38\u4f4d\u30bb\u30c3\u30af\u30b9BEST\u9a5a\u7570\u306e5\u6642\u9593OVER\u6b62\u307e\u3089\u306a\u304430\u9023\u767a\uff01 \u30a8\u30ed\u304d\u3083\u308f\u30ae\u30e3\u30eb\u3068\u898b\u3064\u3081\u5408\u3044\u30e9\u30d6\u30e9\u30d6\u4e2d\u51fa\u3057\u307e\u304f\u308a\u7d76\u9802\uff01\u30a4\u30ad\u653e\u984c\u3081\u3061\u3083\u5feb\u697d\u3067\u5c04\u7cbe\u3057\u307e\u304f\u308aSPECIAL\uff01",
+    "size": "26.80 GB",
+    "actress": [
+      "\u65b0\u4e95\u30ea\u30de",
+      "\u7f8e\u5712\u548c\u82b1",
+      "\u862d\u3005",
+      "\u7686\u702c\u3042\u304b\u308a",
+      "\u51a8\u5b89\u308c\u304a\u306a",
+      "\u6709\u5742\u6df1\u96ea",
+      "RISA",
+      "\u6df1\u6708\u3081\u3044",
+      "\u5009\u672c\u3059\u307f\u308c",
+      "\u677e\u672c\u3044\u3061\u304b"
+    ],
+    "preview_img_url": "https://pics.dmm.co.jp/digital/video/vrkm01471/vrkm01471pl.jpg",
+    "sell_date": "2025/01/08",
+    "duration": "303\u5206",
+    "seed_download_link": "magnet:?xt=urn:btih:bddffc17f271c0a0d04bece774189aa354670ce0&dn=vrkm-1471&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce",
+    "director": [
+      "K\u592a\u90ce"
+    ],
+    "maker": [
+      "\u30b1\u30a4\u30fb\u30a8\u30e0\u30fb\u30d7\u30ed\u30c7\u30e5\u30fc\u30b9"
+    ],
+    "series": [
+      "VR BEST"
+    ],
+    "label": [
+      "KMPVR"
+    ],
+    "keyword": [
+      "4\u6642\u9593\u4ee5\u4e0a\u4f5c\u54c1",
+      "\u30cf\u30a4\u30af\u30aa\u30ea\u30c6\u30a3VR",
+      "VR\u5c02\u7528",
+      "\u30d9\u30b9\u30c8\u30fb\u7dcf\u96c6\u7de8",
+      "\u75f4\u5973",
+      "\u30ae\u30e3\u30eb",
+      "\u4e2d\u51fa\u3057",
+      "\u5de8\u4e73"
+    ]
+  },
+  {
+    "id": "kiwvr00719",
+    "title": "\u3010VR\u3011\u6deb\u4e71\u899a\u9192 \u611b\u6db2\u30c0\u30c0\u6f0f\u308c\u30d3\u30c3\u30af\u30f3\u30d3\u30c3\u30af\u30f3\u75d9\u6523\u7d76\u9802\u304c\u6b62\u307e\u3089\u3044\u306a\u3044\u6027\u611f\u958b\u767a\u30aa\u30a4\u30eb\u30de\u30c3\u30b5\u30fc\u30b8",
+    "size": "12.32 GB",
+    "actress": [],
+    "preview_img_url": "https://pics.dmm.co.jp/digital/video/kiwvr00719/kiwvr00719pl.jpg",
+    "sell_date": "2025/01/06",
+    "duration": "77\u5206",
+    "seed_download_link": "magnet:?xt=urn:btih:6bac08f006eb057fa2d6dac1f2d8af49175158c5&dn=kiwvr00719&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce",
+    "director": [],
+    "maker": [
+      "\u3053\u3042\u3089VR"
+    ],
+    "series": [
+      "3D\u30cf\u30e1\u64ae\u308aVR\u6539\u3010\u6027\u611f\u958b\u767a\u3067\u7d76\u9802\u4e2d\u51fa\u3057\u30b5\u30ed\u30f3\u3011"
+    ],
+    "label": [
+      "\u6975\u30b0\u30eb\u30fc\u30d7"
+    ],
+    "keyword": [
+      "\u30cf\u30a4\u30af\u30aa\u30ea\u30c6\u30a3VR",
+      "\u30ed\u30fc\u30b7\u30e7\u30f3\u30fb\u30aa\u30a4\u30eb",
+      "\u5de8\u4e73",
+      "VR\u5c02\u7528",
+      "\u72ec\u5360\u914d\u4fe1",
+      "\u30d1\u30a4\u30ba\u30ea",
+      "\u30a2\u30af\u30e1\u30fb\u30aa\u30fc\u30ac\u30ba\u30e0",
+      "\u4e2d\u51fa\u3057",
+      "\u30de\u30c3\u30b5\u30fc\u30b8\u30fb\u30ea\u30d5\u30ec"
+    ]
+  },
+  {
+    "id": "savr00523",
+    "title": "\u3010VR\u3011\u6700\u4e0a\u7d1a\u30bb\u30e9\u30d4\u30b9\u30c8\u304c\u3044\u308b\u30a8\u30b9\u30c6\u65c5\u9928 \u3077\u3063\u304f\u308a\u30ea\u30c3\u30d7\u3067\u5168\u8eab\u30ad\u30b9\u3055\u308c\u306a\u304c\u3089\u2026 1\u6cca2\u65e5\u306e\u30b6\u30fc\u30e1\u30f3\u30c7\u30c8\u30c3\u30af\u30b9 \u6728\u4e0b\u3072\u307e\u308a",
+    "size": "11.28 GB",
+    "actress": [
+      "\u6728\u4e0b\u3072\u307e\u308a\uff08\u82b1\u6ca2\u3072\u307e\u308a\uff09"
+    ],
+    "preview_img_url": "https://pics.dmm.co.jp/digital/video/savr00523/savr00523pl.jpg",
+    "sell_date": "2025/01/05",
+    "duration": "77\u5206",
+    "seed_download_link": "magnet:?xt=urn:btih:1f8819270911e0378114ab7dd15617a048981b51&dn=savr00523&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce",
+    "director": [
+      "MUNPEE"
+    ],
+    "maker": [
+      "KMPVR-\u5f69-"
+    ],
+    "series": [],
+    "label": [
+      "KMPVR-\u5f69-"
+    ],
+    "keyword": [
+      "\u30cf\u30a4\u30af\u30aa\u30ea\u30c6\u30a3VR",
+      "\u65e5\u713c\u3051",
+      "\u8ca7\u4e73\u30fb\u5fae\u4e73",
+      "\u548c\u670d\u30fb\u6d74\u8863",
+      "\u30ad\u30b9\u30fb\u63a5\u543b",
+      "\u72ec\u5360\u914d\u4fe1",
+      "VR\u5c02\u7528",
+      "\u5358\u4f53\u4f5c\u54c1",
+      "8KVR",
+      "\u304a\u98a8\u5442"
+    ]
+  },
+  {
+    "id": "vrkm01465",
+    "title": "\u3010VR\u30118K\u3067\u582a\u80fd\uff01\uff01\u30c1\u30e3\u30a4\u30ca\u3001\u30ca\u30fc\u30b9\u3001\u30e1\u30a4\u30c9\u3001\u30d0\u30cb\u30fc\u2026\u597d\u307f\u306e\u30b3\u30b9H\u3067\u30b6\u30fc\u30e1\u30f3\u767a\u5c04\uff01KMP\u30a8\u30ed\u30b3\u30b9BEST",
+    "size": "44.40 GB",
+    "actress": [
+      "\u7fbd\u6708\u4e43\u84bc",
+      "\u677e\u672c\u3044\u3061\u304b",
+      "\u80e1\u6843\u3055\u304f\u3089",
+      "\u68ee\u65e5\u5411\u5b50",
+      "\u4f0a\u7e54\u3072\u306a\u306e",
+      "\u512a\u68a8\u307e\u3044\u306a",
+      "\u900f\u7f8e\u304b\u306a\u305f",
+      "\u9234\u6728\u771f\u5915",
+      "\u512a\u6708\u307e\u308a\u306a",
+      "\u658e\u85e4\u3042\u307f\u308a"
+    ],
+    "preview_img_url": "https://pics.dmm.co.jp/digital/video/vrkm01465/vrkm01465pl.jpg",
+    "sell_date": "2025/01/05",
+    "duration": "300\u5206",
+    "seed_download_link": "magnet:?xt=urn:btih:6960eec821b834df3829ac7a25d650c30c4f3211&dn=vrkm01465&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce",
+    "director": [
+      "K\u592a\u90ce"
+    ],
+    "maker": [
+      "\u30b1\u30a4\u30fb\u30a8\u30e0\u30fb\u30d7\u30ed\u30c7\u30e5\u30fc\u30b9"
+    ],
+    "series": [
+      "VR BEST"
+    ],
+    "label": [
+      "KMPVR"
+    ],
+    "keyword": [
+      "4\u6642\u9593\u4ee5\u4e0a\u4f5c\u54c1",
+      "\u30cf\u30a4\u30af\u30aa\u30ea\u30c6\u30a3VR",
+      "8KVR",
+      "VR\u5c02\u7528",
+      "\u30d9\u30b9\u30c8\u30fb\u7dcf\u96c6\u7de8",
+      "\u7af6\u6cf3\u30fb\u30b9\u30af\u30fc\u30eb\u6c34\u7740",
+      "\u30b3\u30b9\u30d7\u30ec",
+      "\u4e2d\u51fa\u3057"
+    ]
+  },
+  {
+    "id": "savr00531",
+    "title": "\u3010VR\u3011\u81ea\u5206\u5c02\u7528\u306e\u6027\u51e6\u7406\u30da\u30c3\u30c8\u3068\u3057\u3066\u67d3\u3081\u4e0a\u3052\u308b\u9006\u6559\u80b2 \u80e1\u6843\u3055\u304f\u3089",
+    "size": "9.48 GB",
+    "actress": [
+      "\u80e1\u6843\u3055\u304f\u3089"
+    ],
+    "preview_img_url": "https://pics.dmm.co.jp/digital/video/savr00531/savr00531pl.jpg",
+    "sell_date": "2025/01/04",
+    "duration": "74\u5206",
+    "seed_download_link": "magnet:?xt=urn:btih:96cbb1be0dcfe30aaa970baf509d0106ac26cf92&dn=savr00531&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce",
+    "director": [
+      "\u30a6\u30a3\u30eb\u30c1\u30f3\u30c1\u30f3"
+    ],
+    "maker": [
+      "KMPVR-\u5f69-"
+    ],
+    "series": [
+      "\u81ea\u5206\u5c02\u7528\u306e\u6027\u51e6\u7406\u30da\u30c3\u30c8"
+    ],
+    "label": [
+      "KMPVR-\u5f69-"
+    ],
+    "keyword": [
+      "\u30cf\u30a4\u30af\u30aa\u30ea\u30c6\u30a3VR",
+      "\u4e3b\u89b3",
+      "\u5de8\u4e73",
+      "\u75f4\u5973",
+      "\u30b9\u30ec\u30f3\u30c0\u30fc",
+      "\u72ec\u5360\u914d\u4fe1",
+      "VR\u5c02\u7528",
+      "\u5358\u4f53\u4f5c\u54c1",
+      "8KVR",
+      "\u4e2d\u51fa\u3057"
+    ]
+  },
+  {
+    "id": "savr00545",
+    "title": "\u3010VR\u3011\u300c\u30dc\u30af\u304c\u6170\u3081\u3066\u3042\u3052\u3088\u3046\u304b\uff1f\u300d\u5168\u3066\u304c\u3046\u307e\u304f\u884c\u304b\u306a\u3044\u4ffa\u3092\u6065\u3058\u3089\u3044\u306a\u304c\u3089\u5143\u6c17\u3065\u3051\u3066\u304f\u308c\u308b\u30dc\u30af\u3063\u5a18\u306e\u5e7c\u99b4\u67d3\u306f\u6b21\u7b2c\u306b\u30e1\u30b9\u306e\u9854\u4ed8\u304d\u306b\u306a\u3063\u3066\u3086\u304f",
+    "size": "18.93 GB",
+    "actress": [],
+    "preview_img_url": "https://pics.dmm.co.jp/digital/video/savr00545/savr00545pl.jpg",
+    "sell_date": "2025/01/04",
+    "duration": "84\u5206",
+    "seed_download_link": "magnet:?xt=urn:btih:b9a01db29607118f58ff9a244a57de9e173a862c&dn=savr-545&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce",
+    "director": [
+      "\u5305\u4e01M"
+    ],
+    "maker": [
+      "KMPVR-\u5f69-"
+    ],
+    "series": [],
+    "label": [
+      "KMPVR-\u5f69-"
+    ],
+    "keyword": [
+      "\u30cf\u30a4\u30af\u30aa\u30ea\u30c6\u30a3VR",
+      "8KVR",
+      "VR\u5c02\u7528",
+      "\u72ec\u5360\u914d\u4fe1",
+      "\u4e2d\u51fa\u3057",
+      "\u305d\u306e\u4ed6\u30d5\u30a7\u30c1",
+      "\u7f8e\u5c11\u5973",
+      "\u30b9\u30ec\u30f3\u30c0\u30fc",
+      "\u5e7c\u306a\u3058\u307f"
+    ]
+  },
+  {
+    "id": "kiwvr00739",
+    "title": "\u3010VR\u3011\u30108K\u3011\u672c\u756a\u7121\u3057\u306e\u98a8\u4fd7\u5e97\u306b\u9762\u63a5\u306b\u304d\u305f\u30c9\u5929\u7136\u7d20\u4eba\u306e\u7206\u4e73\u7f8e\u5973\u306b\u6307\u30de\u30f3\u3057\u305f\u3089\u30e4\u30ec\u305f \u7fbd\u6708\u4e43\u84bc",
+    "size": "17.46 GB",
+    "actress": [
+      "\u7fbd\u6708\u4e43\u84bc"
+    ],
+    "preview_img_url": "https://pics.dmm.co.jp/digital/video/kiwvr00739/kiwvr00739pl.jpg",
+    "sell_date": "2025/01/03",
+    "duration": "121\u5206",
+    "seed_download_link": "magnet:?xt=urn:btih:b1b24974103fe6b53ecacbc8f24f547c4504c25f&dn=kiwvr00739&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce",
+    "director": [
+      "\u5927\u5d0e\u5e83\u6d69\u6cbb"
+    ],
+    "maker": [
+      "\u3053\u3042\u3089VR"
+    ],
+    "series": [
+      "8KVR\u3010\u672c\u756aNG\u98a8\u4fd7\u5e97\u3067\u30ca\u30de\u30ca\u30ab\u65b0\u4eba\u8b1b\u7fd2\u3011"
+    ],
+    "label": [
+      "\u6975\u30b0\u30eb\u30fc\u30d7"
+    ],
+    "keyword": [
+      "\u30cf\u30a4\u30af\u30aa\u30ea\u30c6\u30a3VR",
+      "\u30ad\u30e3\u30d0\u5b22\u30fb\u98a8\u4fd7\u5b22",
+      "\u30ed\u30fc\u30b7\u30e7\u30f3\u30fb\u30aa\u30a4\u30eb",
+      "\u30de\u30c3\u30b5\u30fc\u30b8\u30fb\u30ea\u30d5\u30ec",
+      "\u30d1\u30a4\u30ba\u30ea",
+      "\u4e2d\u51fa\u3057",
+      "\u72ec\u5360\u914d\u4fe1",
+      "VR\u5c02\u7528",
+      "\u5358\u4f53\u4f5c\u54c1",
+      "8KVR",
+      "\u5de8\u4e73"
+    ]
+  },
+  {
+    "id": "savr00537",
+    "title": "\u3010VR\u3011\u5c0f\u60aa\u9b54JK\u30c1\u30e9\u30ea\u30ba\u30e0 \u30ce\u30fc\u30d6\u30e9\u00d7\u30ce\u30fc\u30d1\u30f3\u00d7\u7d76\u5bfe\u9818\u57df\u2026\u5bb6\u5ead\u6559\u5e2b\u306e\u30dc\u30af\u3092\u898b\u305b\u3064\u3051\u8a98\u60d1\u3057\u3066\u304f\u308b\u5371\u967a\u306a\u6559\u3048\u5b50 \u306a\u307f\u3061\u3083\u3093",
+    "size": "12.83 GB",
+    "actress": [],
+    "preview_img_url": "https://pics.dmm.co.jp/digital/video/savr00537/savr00537pl.jpg",
+    "sell_date": "2025/01/03",
+    "duration": "80\u5206",
+    "seed_download_link": "magnet:?xt=urn:btih:369288c52aa0c365e37682739c4aea4b4c8cf818&dn=savr00537&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce",
+    "director": [
+      "\u30cf\u30e1\u30e9\u30cb\u30a2\u30f3\u4eac\u90fd"
+    ],
+    "maker": [
+      "KMPVR-\u5f69-"
+    ],
+    "series": [],
+    "label": [
+      "KMPVR-\u5f69-"
+    ],
+    "keyword": [
+      "\u30cf\u30a4\u30af\u30aa\u30ea\u30c6\u30a3VR",
+      "8KVR",
+      "VR\u5c02\u7528",
+      "\u72ec\u5360\u914d\u4fe1",
+      "\u30ce\u30fc\u30d1\u30f3",
+      "\u30ce\u30fc\u30d6\u30e9",
+      "\u9a0e\u4e57\u4f4d",
+      "\u5973\u5b50\u6821\u751f",
+      "\u4e2d\u51fa\u3057"
+    ]
+  },
+  {
+    "id": "urvrsp00400",
+    "title": "\u3010VR\u3011\u30108K VR\u3011\u7cbe\u5b50\u304c\u67af\u308c\u308b\u307e\u3067\u96e2\u3055\u306a\u3044\u5b50\u7a2e\u643e\u7cbe\u5927\u548c\u64ab\u5b50 \u3086\u3081\u8389\u308a\u304b",
+    "size": "12.45 GB",
+    "actress": [
+      "\u3086\u3081\u8389\u308a\u304b"
+    ],
+    "preview_img_url": "https://pics.dmm.co.jp/digital/video/urvrsp00400/urvrsp00400pl.jpg",
+    "sell_date": "2025/01/03",
+    "duration": "78\u5206",
+    "seed_download_link": "magnet:?xt=urn:btih:8d1d669c051dbe225f1896af4ca263101adbe51f&dn=urvrsp00400&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce",
+    "director": [
+      "\u51db\u3005\uff08un\uff09"
+    ],
+    "maker": [
+      "unfinished"
+    ],
+    "series": [
+      "unfinished VR"
+    ],
+    "label": [
+      "Marrion Group VR"
+    ],
+    "keyword": [
+      "\u30cf\u30a4\u30af\u30aa\u30ea\u30c6\u30a3VR",
+      "\u7f8e\u5c11\u5973",
+      "\u5973\u5b50\u5927\u751f",
+      "\u548c\u670d\u30fb\u6d74\u8863",
+      "\u5b55\u307e\u305b",
+      "\u75f4\u5973",
+      "8KVR",
+      "\u72ec\u5360\u914d\u4fe1",
+      "VR\u5c02\u7528",
+      "\u5358\u4f53\u4f5c\u54c1",
+      "\u4e2d\u51fa\u3057"
+    ]
+  },
+  {
+    "id": "nkkvr00139",
+    "title": "\u3010VR\u3011\u3010\u30ae\u30ac\u30f3\u30c8\u8d85\u8089\u611f\u7279\u5316\u3011\u9ad8\u8eab\u9577\u3080\u3063\u3061\u3080\u3061BODY\u306aSNS\u3067\u77e5\u308a\u5408\u3063\u305f\u4eba\u59bb\u3092\u30dc\u30af\u306f\u898b\u4e0a\u3052\u306a\u304c\u3089\u3068\u3053\u3068\u3093\u697d\u3057\u307f\u305a\u3063\u3068\u5bdd\u306a\u304c\u3089\u582a\u80fd\u3067\u304d\u308bVR",
+    "size": "11.60 GB",
+    "actress": [],
+    "preview_img_url": "https://pics.dmm.co.jp/digital/video/nkkvr00139/nkkvr00139pl.jpg",
+    "sell_date": "2025/01/02",
+    "duration": "77\u5206",
+    "seed_download_link": "magnet:?xt=urn:btih:6779d10d920c4b8a8e7b43984214704b7ebc60b3&dn=nkkvr00139&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce",
+    "director": [
+      "\u30af\u30ef\u30c3\u30c1\u30fc"
+    ],
+    "maker": [
+      "\u8089\u304d\u3085\u3093\u30d1\u30e9\u30c0\u30a4\u30b9VR"
+    ],
+    "series": [
+      "\u3080\u3061\u3080\u3061\u7d20\u4eba\u3061\u3083\u3093\uff08\u4eee\uff09"
+    ],
+    "label": [
+      "\u6975\u30b0\u30eb\u30fc\u30d7"
+    ],
+    "keyword": [
+      "\u30cf\u30a4\u30af\u30aa\u30ea\u30c6\u30a3VR",
+      "\u5de8\u4e73",
+      "\u75f4\u5973",
+      "\u9a0e\u4e57\u4f4d",
+      "\u30d1\u30a4\u30ba\u30ea",
+      "\u30d3\u30c3\u30c1",
+      "\u72ec\u5360\u914d\u4fe1",
+      "VR\u5c02\u7528",
+      "8KVR",
+      "\u4e2d\u51fa\u3057"
+    ]
+  },
+  {
+    "id": "vrprd00065",
+    "title": "\u3010VR\u3011\u30108K\u3011\u8033\u304b\u304d\u5c02\u9580\u5e97\u3060\u3068\u601d\u3063\u305f\u3089\u2026\u548c\u670d\u30ea\u30d5\u30ec\u5b22\u306b\u91d1\u7389\u304c\u7a7a\u3063\u307d\u306b\u306a\u308b\u307e\u3067\u3057\u3063\u307d\u308a\u7d5e\u308a\u53d6\u3089\u308c\u305f\u8a71\u2026\u3010\u304a\u59c9\u3055\u3093\u00d7\u306d\u3063\u3068\u308a\u5949\u4ed5\u3011\u3058\u3085\u3093\u3055\u3093",
+    "size": "11.95 GB",
+    "actress": [],
+    "preview_img_url": "https://pics.dmm.co.jp/digital/video/vrprd00065/vrprd00065pl.jpg",
+    "sell_date": "2025/01/02",
+    "duration": "72\u5206",
+    "seed_download_link": "magnet:?xt=urn:btih:41b5364c953c2eed5c4f67d82075c0cb2f67787a&dn=vrprd00065&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce",
+    "director": [
+      "\u5927\u5d0e\u5e83\u6d69\u6cbb"
+    ],
+    "maker": [
+      "VR\u30d1\u30e9\u30c0\u30a4\u30b9"
+    ],
+    "series": [],
+    "label": [
+      "\u6975\u30b0\u30eb\u30fc\u30d7"
+    ],
+    "keyword": [
+      "\u30cf\u30a4\u30af\u30aa\u30ea\u30c6\u30a3VR",
+      "8KVR",
+      "VR\u5c02\u7528",
+      "\u72ec\u5360\u914d\u4fe1",
+      "\u30ad\u30e3\u30d0\u5b22\u30fb\u98a8\u4fd7\u5b22",
+      "\u548c\u670d\u30fb\u6d74\u8863",
+      "\u30de\u30c3\u30b5\u30fc\u30b8\u30fb\u30ea\u30d5\u30ec",
+      "\u75f4\u5973"
+    ]
+  },
+  {
+    "id": "13dsvr01680",
+    "title": "\u3010VR\u3011\u30108K\u3011\u4e0b\u7740\u30e1\u30fc\u30ab\u30fc\u306e\u3010\u5973\u5b50\u793e\u54e1\u30c7\u30b6\u30a4\u30ca\u30fc\u3011\u304c\u7121\u9632\u5099\u306b\u8a66\u7740\u3057\u3066\u3044\u308b\u5351\u7325\u306a\u9ad8\u7d1a\u30e9\u30f3\u30b8\u30a7\u30ea\u30fc\u306b\u767a\u60c5\uff01\u4e45\u3057\u3076\u308a\u306b\u5973\u3068\u3057\u3066\u307f\u3089\u308c\u305f\u306e\u304c\u5b09\u3057\u304f\u3066\u30e4\u30ea\u8fd4\u3057\u7d76\u9802\u306d\u3063\u3068\u308a\u4ea4\u5c3e\uff01\uff01",
+    "size": "15.57 GB",
+    "actress": [],
+    "preview_img_url": "https://pics.dmm.co.jp/digital/video/13dsvr01680/13dsvr01680pl.jpg",
+    "sell_date": "2025/01/02",
+    "duration": "86\u5206",
+    "seed_download_link": "magnet:?xt=urn:btih:5cb5abab68520f806f281e637cb2e21069ce9cc8&dn=dsvr01680&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce",
+    "director": [
+      "\u6fe1\u308c\u305f\u5b50\u72ac"
+    ],
+    "maker": [
+      "SOD\u30af\u30ea\u30a8\u30a4\u30c8"
+    ],
+    "series": [],
+    "label": [
+      "SODVR"
+    ],
+    "keyword": [
+      "\u30cf\u30a4\u30af\u30aa\u30ea\u30c6\u30a3VR",
+      "8KVR",
+      "VR\u5c02\u7528",
+      "\u304a\u59c9\u3055\u3093",
+      "\u75f4\u5973",
+      "OL",
+      "\u5de8\u4e73",
+      "\u30e9\u30f3\u30b8\u30a7\u30ea\u30fc"
+    ]
+  },
+  {
+    "id": "13dsvr01624",
+    "title": "\u3010VR\u3011\u30108K\u3011\u30b9\u30ec\u30f3\u30c0\u30fc\u3067\u30a4\u30b1\u3066\u308b\u30d4\u30f3\u30b5\u30ed\u5b22\u306b\u30c1\u25cf\u30b3\u3092\u3079\u305f\u8912\u3081\u3055\u308c\u3066 \u672c\u756a\u9006\u6307\u540d\uff01\uff1f\u99ac\u4e57\u308a\u9a0e\u4e57\u4f4d\u306b\u304a\u6383\u9664PtoM \u7cbe\u5b50\u3092\u30b7\u30b3\u30bf\u30de\u7d5e\u308a\u53d6\u3089\u308c\u3061\u3083\u3063\u305f\u30dc\u30af \u6c34\u5948\u702c\u308a\u306a",
+    "size": "10.86 GB",
+    "actress": [
+      "\u6c34\u5948\u702c\u308a\u306a"
+    ],
+    "preview_img_url": "https://pics.dmm.co.jp/digital/video/13dsvr01624/13dsvr01624pl.jpg",
+    "sell_date": "2025/01/02",
+    "duration": "79\u5206",
+    "seed_download_link": "magnet:?xt=urn:btih:5c3aeb9ed83a84bfc51bfd7f7e6248ddbf0fc6de&dn=dsvr01624&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce",
+    "director": [
+      "\u7e41\u677e\u79cb\u51ac"
+    ],
+    "maker": [
+      "SOD\u30af\u30ea\u30a8\u30a4\u30c8"
+    ],
+    "series": [],
+    "label": [
+      "SODVR"
+    ],
+    "keyword": [
+      "\u30cf\u30a4\u30af\u30aa\u30ea\u30c6\u30a3VR",
+      "8KVR",
+      "\u5358\u4f53\u4f5c\u54c1",
+      "VR\u5c02\u7528",
+      "\u4e2d\u51fa\u3057",
+      "\u624b\u30b3\u30ad",
+      "\u9a0e\u4e57\u4f4d",
+      "\u30b9\u30ec\u30f3\u30c0\u30fc",
+      "\u30d8\u30eb\u30b9\u30fb\u30bd\u30fc\u30d7"
+    ]
+  },
+  {
+    "id": "vrkm01469",
+    "title": "\u3010VR\u3011111\u30bb\u30f3\u30c1M\u30ab\u30c3\u30d7\u6700\u5f37\u8d85\u4e73\uff01\uff01\u3059\u3079\u3066\u306e\u7537\u3092\u865c\u306b\u3059\u308b\u30aa\u30c3\u30d1\u30a4\u306e\u6700\u9ad8\u5230\u9054\u70b9 \u5409\u6839\u3086\u308a\u3042BEST345\u5206",
+    "size": "56.35 GB",
+    "actress": [
+      "\u5409\u6839\u3086\u308a\u3042"
+    ],
+    "preview_img_url": "https://pics.dmm.co.jp/digital/video/vrkm01469/vrkm01469pl.jpg",
+    "sell_date": "2025/01/01",
+    "duration": "345\u5206",
+    "seed_download_link": "magnet:?xt=urn:btih:6f2b84f4a912702ae9b769959eaafe1ec13fd77b&dn=vrkm01469&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce",
+    "director": [
+      "K\u592a\u90ce"
+    ],
+    "maker": [
+      "\u30b1\u30a4\u30fb\u30a8\u30e0\u30fb\u30d7\u30ed\u30c7\u30e5\u30fc\u30b9"
+    ],
+    "series": [
+      "VR BEST"
+    ],
+    "label": [
+      "KMPVR"
+    ],
+    "keyword": [
+      "4\u6642\u9593\u4ee5\u4e0a\u4f5c\u54c1",
+      "\u5358\u4f53\u4f5c\u54c1",
+      "\u30cf\u30a4\u30af\u30aa\u30ea\u30c6\u30a3VR",
+      "VR\u5c02\u7528",
+      "\u30d9\u30b9\u30c8\u30fb\u7dcf\u96c6\u7de8",
+      "\u75f4\u5973",
+      "\u30d1\u30a4\u30ba\u30ea",
+      "\u5de8\u4e73",
+      "\u4e2d\u51fa\u3057"
+    ]
+  },
+  {
+    "id": "vrkm01464",
+    "title": "\u3010VR\u3011\u5929\u4e95\u7279\u5316\u30a2\u30f3\u30b0\u30ebVR \uff5e\u9006\u8ee2\u7279\u5316\u30de\u30c3\u30b5\u30fc\u30b8\uff5e \u51f0\u83ef\u308a\u3093",
+    "size": "9.06 GB",
+    "actress": [
+      "\u51f0\u83ef\u308a\u3093"
+    ],
+    "preview_img_url": "https://pics.dmm.co.jp/digital/video/vrkm01464/vrkm01464pl.jpg",
+    "sell_date": "2024/12/31",
+    "duration": "69\u5206",
+    "seed_download_link": "magnet:?xt=urn:btih:dcaad598b2a42bcff299811cbbbb10a25f6747b5&dn=vrkm01464&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce",
+    "director": [
+      "\u5bae\u8feb\u30e1\u30f3\u30d0\u30fc"
+    ],
+    "maker": [
+      "\u30b1\u30a4\u30fb\u30a8\u30e0\u30fb\u30d7\u30ed\u30c7\u30e5\u30fc\u30b9"
+    ],
+    "series": [
+      "\u5929\u4e95\u7279\u5316\u30a2\u30f3\u30b0\u30eb"
+    ],
+    "label": [
+      "KMPVR"
+    ],
+    "keyword": [
+      "\u30cf\u30a4\u30af\u30aa\u30ea\u30c6\u30a3VR",
+      "8KVR",
+      "\u5358\u4f53\u4f5c\u54c1",
+      "VR\u5c02\u7528",
+      "\u4e2d\u51fa\u3057",
+      "\u9a0e\u4e57\u4f4d",
+      "\u7f8e\u4e73",
+      "\u4e3b\u89b3"
+    ]
+  },
+  {
+    "id": "ajvr00255",
+    "title": "\u3010VR\u3011\u9854\u9762\u504f\u5dee\u502485\u306e\u9ad8\u7d1a\u30e1\u30f3\u30a8\u30b9\u7f8e\u5973\u306b\u30bc\u30ed\u8ddd\u96e2\u3067\u898b\u3064\u3081\u3089\u308c\u8033\u30d5\u30a5\u8033\u30c1\u30e5\u30d1\u8033\u30b3\u30bdASMR\u3055\u3055\u3084\u304d\u6deb\u8a9e\u3068\u8033\u8210\u3081\u307b\u3058\u308a\u9a0e\u4e57\u4f4d\u3067\u6839\u3053\u305d\u304e\u643e\u308a\u53d6\u3089\u308c\u308b\u8133\u30c8\u30ed\u8033\u30a4\u30ad\u4f53\u9a13\u30ea\u30e9\u30af\u30bc\u30fc\u30b7\u30e7\u30f3\u30b5\u30ed\u30f3 \u5c3e\u5d0e\u3048\u308a\u304b",
+    "size": "12.63 GB",
+    "actress": [
+      "\u5c3e\u5d0e\u3048\u308a\u304b"
+    ],
+    "preview_img_url": "https://pics.dmm.co.jp/digital/video/ajvr00255/ajvr00255pl.jpg",
+    "sell_date": "2024/12/31",
+    "duration": "63\u5206",
+    "seed_download_link": "magnet:?xt=urn:btih:b9c3073bfee08bb9f7676cae246c8864a599b9ae&dn=ajvr00255&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce",
+    "director": [
+      "\u30b8\u30fc\u30cb\u30a2\u30b9\u819d"
+    ],
+    "maker": [
+      "\u30a2\u30ea\u30b9JAPAN"
+    ],
+    "series": [],
+    "label": [
+      "\u30a2\u30ea\u30b9JAPAN VR"
+    ],
+    "keyword": [
+      "\u30cf\u30a4\u30af\u30aa\u30ea\u30c6\u30a3VR",
+      "\u8ca7\u4e73\u30fb\u5fae\u4e73",
+      "\u75f4\u5973",
+      "\u9a0e\u4e57\u4f4d",
+      "\u30ad\u30b9\u30fb\u63a5\u543b",
+      "\u624b\u30b3\u30ad",
+      "\u30de\u30c3\u30b5\u30fc\u30b8\u30fb\u30ea\u30d5\u30ec",
+      "\u30a8\u30b9\u30c6",
+      "\u30d5\u30a7\u30e9",
+      "\u4e3b\u89b3",
+      "VR\u5c02\u7528",
+      "\u30b9\u30ec\u30f3\u30c0\u30fc",
+      "\u30aa\u30ca\u30b5\u30dd",
+      "\u72ec\u5360\u914d\u4fe1",
+      "\u4e2d\u51fa\u3057",
+      "8KVR",
+      "\u6deb\u8a9e",
+      "\u30ed\u30fc\u30b7\u30e7\u30f3\u30fb\u30aa\u30a4\u30eb",
+      "\u30aa\u30ca\u30cb\u30fc",
+      "\u8db3\u30b3\u30ad",
+      "\u305d\u306e\u4ed6\u30d5\u30a7\u30c1",
+      "\u5236\u670d",
+      "\u30d1\u30f3\u30b9\u30c8\u30fb\u30bf\u30a4\u30c4",
+      "\u5358\u4f53\u4f5c\u54c1"
+    ]
+  },
+  {
+    "id": "ajvr00254",
+    "title": "\u3010VR\u3011\u6bcd\u6027\u3042\u3075\u308c\u308b\u8d64\u3061\u3083\u3093\u8a00\u8449\uff06\u5168\u80af\u5b9a\u8912\u3081\u6deb\u8a9e\u3055\u3055\u3084\u304dASMR\u3067\u50d5\u3092\u5143\u6c17100\u500d\u306b\u3057\u3066\u304f\u308c\u3066\u6388\u4e73\u624b\u30b3\u30ad\uff06\u5bc6\u7740\u52b1\u307e\u3057SEX\u3067\u30b9\u30c8\u30ec\u30b9\u30d5\u30ea\u30fc\u306b\u56de\u5fa9\u3055\u305b\u3066\u304f\u308c\u308b\u7652\u3084\u3057\u5ea6MAX\u7518\u3005\u30d2\u30fc\u30ea\u30f3\u30b0VR \u5929\u6708\u3042\u305a",
+    "size": "21.63 GB",
+    "actress": [
+      "\u5929\u6708\u3042\u305a"
+    ],
+    "preview_img_url": "https://pics.dmm.co.jp/digital/video/ajvr00254/ajvr00254pl.jpg",
+    "sell_date": "2024/12/31",
+    "duration": "74\u5206",
+    "seed_download_link": "magnet:?xt=urn:btih:c016fa89fae00cafb77fb418aa96ed499083dbed&dn=ajvr-254&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce",
+    "director": [
+      "\u30b8\u30fc\u30cb\u30a2\u30b9\u819d"
+    ],
+    "maker": [
+      "\u30a2\u30ea\u30b9JAPAN"
+    ],
+    "series": [
+      "\u6bcd\u6027\u3042\u3075\u308c\u308b\u8d64\u3061\u3083\u3093\u8a00\u8449\uff06\u5168\u80af\u5b9a\u8912\u3081\u6deb\u8a9e\u3055\u3055\u3084\u304dASMR\u3067\u50d5\u3092\u5143\u6c17100\u500d\u306b\u3057\u3066\u304f\u308c\u308b\u7652\u3084\u3057\u5ea6MAX\u7518\u3005\u30d2\u30fc\u30ea\u30f3\u30b0VR"
+    ],
+    "label": [
+      "\u30a2\u30ea\u30b9JAPAN VR"
+    ],
+    "keyword": [
+      "\u30cf\u30a4\u30af\u30aa\u30ea\u30c6\u30a3VR",
+      "\u4e3b\u89b3",
+      "\u5358\u4f53\u4f5c\u54c1",
+      "8KVR",
+      "\u6deb\u8a9e",
+      "\u9a0e\u4e57\u4f4d",
+      "\u5de8\u4e73",
+      "\u7f8e\u4e73",
+      "\u30d1\u30a4\u30ba\u30ea",
+      "\u30ad\u30b9\u30fb\u63a5\u543b",
+      "\u624b\u30b3\u30ad",
+      "\u30d5\u30a7\u30e9",
+      "\u4e2d\u51fa\u3057",
+      "M\u7537",
+      "\u30aa\u30ca\u30b5\u30dd",
+      "\u305d\u306e\u4ed6\u30d5\u30a7\u30c1",
+      "\u72ec\u5360\u914d\u4fe1",
+      "VR\u5c02\u7528"
+    ]
+  },
+  {
+    "id": "bibivr00137",
+    "title": "\u3010VR\u3011\u3053\u308c\u305e\u30aa\u30c8\u30b3\u306e\u6d6a\u6f2b\uff01\u30b1\u30bf\u5916\u308c\u306e\u30c9\u6deb\u4e71\u30b5\u30fc\u30d3\u30b9\uff01\uff01\u9152\u6c60\u8089\u6797\u30cf\u30fc\u30ec\u30e06P \u4e59\u30a2\u30ea\u30b9 \u516b\u4e43\u3064\u3070\u3055 \u3061\u3083\u3093\u3088\u305f \u862d\u3005 \u76ee\u9ed2\u3072\u306a\u5b9f",
+    "size": "17.93 GB",
+    "actress": [
+      "\u4e59\u30a2\u30ea\u30b9",
+      "\u516b\u4e43\u3064\u3070\u3055",
+      "\u3061\u3083\u3093\u3088\u305f",
+      "\u862d\u3005",
+      "\u76ee\u9ed2\u3072\u306a\u5b9f"
+    ],
+    "preview_img_url": "https://pics.dmm.co.jp/digital/video/bibivr00137/bibivr00137pl.jpg",
+    "sell_date": "2024/12/31",
+    "duration": "80\u5206",
+    "seed_download_link": "magnet:?xt=urn:btih:6705deeadd7a92cc237aa3867e6866e5319a2915&dn=bibivr00137&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce",
+    "director": [
+      "K\u592a\u90ce"
+    ],
+    "maker": [
+      "KMPVR-bibi-"
+    ],
+    "series": [],
+    "label": [
+      "KMPVR-bibi-"
+    ],
+    "keyword": [
+      "\u30cf\u30a4\u30af\u30aa\u30ea\u30c6\u30a3VR",
+      "VR\u5c02\u7528",
+      "\u4e2d\u51fa\u3057",
+      "\u5de8\u4e73",
+      "\u75f4\u5973",
+      "\u30ad\u30e3\u30d0\u5b22\u30fb\u98a8\u4fd7\u5b22",
+      "3P\u30fb4P"
+    ]
+  },
+  {
+    "id": "ajvr00253",
+    "title": "\u3010VR\u3011\u6b63\u5e38\u4f4d\u3067\u305f\u3086\u3093\u305f\u3086\u3093\uff01\u9a0e\u4e57\u4f4d\u3067\u3070\u308b\u3093\u3070\u308b\u3093\uff01\u76ee\u306e\u524d\u3067\u5927\u8feb\u529bK\u30ab\u30c3\u30d7\u5de8\u4e73\u304c\u66b4\u308c\u56de\u308b\u6fc0\u30d4\u30b9\u4e73\u63fa\u308c\u30bb\u30c3\u30af\u30b9 \u5c0f\u5742\u3072\u307e\u308a",
+    "size": "24.84 GB",
+    "actress": [
+      "\u5c0f\u5742\u3072\u307e\u308a"
+    ],
+    "preview_img_url": "https://pics.dmm.co.jp/digital/video/ajvr00253/ajvr00253pl.jpg",
+    "sell_date": "2024/12/31",
+    "duration": "74\u5206",
+    "seed_download_link": "magnet:?xt=urn:btih:87c903d1f4a64440015d687b28312e1c87cb914f&dn=ajvr-253&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce",
+    "director": [
+      "\u30b8\u30fc\u30cb\u30a2\u30b9\u819d"
+    ],
+    "maker": [
+      "\u30a2\u30ea\u30b9JAPAN"
+    ],
+    "series": [
+      "\u76ee\u306e\u524d\u3067\u5927\u8feb\u529b\u5de8\u4e73\u304c\u66b4\u308c\u56de\u308b\u6fc0\u30d4\u30b9\u4e73\u63fa\u308c\u30bb\u30c3\u30af\u30b9"
+    ],
+    "label": [
+      "\u30a2\u30ea\u30b9JAPAN VR"
+    ],
+    "keyword": [
+      "\u30cf\u30a4\u30af\u30aa\u30ea\u30c6\u30a3VR",
+      "\u4e3b\u89b3",
+      "VR\u5c02\u7528",
+      "8KVR",
+      "\u5de8\u4e73",
+      "\u5de8\u4e73\u30d5\u30a7\u30c1",
+      "\u4e2d\u51fa\u3057",
+      "\u30ab\u30c3\u30d7\u30eb",
+      "\u9a0e\u4e57\u4f4d",
+      "\u30ad\u30b9\u30fb\u63a5\u543b",
+      "\u30d5\u30a7\u30e9",
+      "\u30d1\u30a4\u30ba\u30ea",
+      "\u72ec\u5360\u914d\u4fe1",
+      "\u5358\u4f53\u4f5c\u54c1"
+    ]
+  },
+  {
+    "id": "kiwvr00723",
+    "title": "\u3010VR\u3011\u795e\u4e73Jcup\u306e\u611b\u4eba\u30683\u30ab\u6708\u3076\u308a\u306e\u7981\u65ad\u9022\u702c\u2026 \u5168\u3066\u3092\u5fd8\u308cSEX\u306b\u6ca1\u982d\u3057\u305f\u7a2e\u3064\u3051\u4e0d\u502b\u6e29\u6cc9\u65c5\u884c",
+    "size": "13.52 GB",
+    "actress": [],
+    "preview_img_url": "https://pics.dmm.co.jp/digital/video/kiwvr00723/kiwvr00723pl.jpg",
+    "sell_date": "2024/12/31",
+    "duration": "70\u5206",
+    "seed_download_link": "magnet:?xt=urn:btih:53f4cfc66860c9000d8423041439122e971b372f&dn=kiwvr00723&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce",
+    "director": [
+      "\u30b6\u30c3\u30af\u8352\u4e95"
+    ],
+    "maker": [
+      "\u3053\u3042\u3089VR"
+    ],
+    "series": [
+      "3D\u30cf\u30e1\u64ae\u308aVR\u6539\u3010\u4e2d\u51fa\u3057\u6e29\u6cc9\u65c5\u884c\u3011"
+    ],
+    "label": [
+      "\u6975\u30b0\u30eb\u30fc\u30d7"
+    ],
+    "keyword": [
+      "\u30cf\u30a4\u30af\u30aa\u30ea\u30c6\u30a3VR",
+      "VR\u5c02\u7528",
+      "\u72ec\u5360\u914d\u4fe1",
+      "\u5bdd\u53d6\u308a\u30fb\u5bdd\u53d6\u3089\u308c\u30fbNTR",
+      "\u9854\u5c04",
+      "\u4e2d\u51fa\u3057",
+      "\u4e0d\u502b",
+      "\u6e29\u6cc9",
+      "\u5de8\u4e73"
+    ]
+  },
+  {
+    "id": "ajvr00256",
+    "title": "\u3010VR\u30111\u5e74\u3067\u8eab\u9577\u3082\u304a\u3063\u3071\u3044\u3082\u6025\u6210\u9577\u3057\u305f\u30af\u30e9\u30b9\u30e1\u30a4\u30c8\u306e\u3080\u3061\u3080\u3061\u30d1\u30c3\u30c4\u30f3\u30d1\u30c3\u30c4\u30f3\u306a\u30b9\u30af\u6c34\u59ff\u306b\u8f9b\u62b1\u305f\u307e\u3089\u305a\u6fe1\u308c\u9aea\u6fe1\u308c\u808c\u306e\u307e\u307e\u4f55\u5ea6\u3082\u30cf\u30e1\u307e\u304f\u3063\u305f \u7fbd\u6708\u4e43\u84bc",
+    "size": "14.57 GB",
+    "actress": [
+      "\u7fbd\u6708\u4e43\u84bc"
+    ],
+    "preview_img_url": "https://pics.dmm.co.jp/digital/video/ajvr00256/ajvr00256pl.jpg",
+    "sell_date": "2024/12/31",
+    "duration": "80\u5206",
+    "seed_download_link": "magnet:?xt=urn:btih:8e7b833e89af62a0e961ec501e6cc2e70ce90f85&dn=ajvr00256&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce",
+    "director": [
+      "\u6fe1\u308c\u305f\u5b50\u72ac"
+    ],
+    "maker": [
+      "\u30a2\u30ea\u30b9JAPAN"
+    ],
+    "series": [],
+    "label": [
+      "\u30a2\u30ea\u30b9JAPAN VR"
+    ],
+    "keyword": [
+      "\u30cf\u30a4\u30af\u30aa\u30ea\u30c6\u30a3VR",
+      "\u5e7c\u306a\u3058\u307f",
+      "\u30d5\u30a7\u30e9",
+      "\u4e3b\u89b3",
+      "VR\u5c02\u7528",
+      "\u8fb1\u3081",
+      "\u30d1\u30a4\u30ba\u30ea",
+      "\u5de8\u4e73",
+      "\u7af6\u6cf3\u30fb\u30b9\u30af\u30fc\u30eb\u6c34\u7740",
+      "\u30de\u30c3\u30b5\u30fc\u30b8\u30fb\u30ea\u30d5\u30ec",
+      "\u624b\u30b3\u30ad",
+      "\u72ec\u5360\u914d\u4fe1",
+      "8KVR",
+      "\u6deb\u8a9e",
+      "\u30ed\u30fc\u30b7\u30e7\u30f3\u30fb\u30aa\u30a4\u30eb",
+      "\u7f8e\u4e73",
+      "\u304a\u98a8\u5442",
+      "\u9a0e\u4e57\u4f4d",
+      "\u30ad\u30b9\u30fb\u63a5\u543b",
+      "\u5358\u4f53\u4f5c\u54c1"
+    ]
+  },
+  {
+    "id": "savr00526",
+    "title": "\u3010VR\u3011\u300c\u6211\u6162\u3067\u304d\u306a\u3044\u304b\u3089\u3053\u3053\u3067\u30b7\u3088\uff1f\u300d\u6027\u6b32\u5f37\u3081\u306aJ\u7cfb\u5f7c\u5973\u304c\u5165\u9662\u4e2d\u306e\u50d5\u3092\u3053\u3063\u305d\u308a\u3068\u611b\u6db2\u305f\u3063\u3077\u308a\u7d20\u80a1\u3067\u8cac\u3081\u307e\u304f\u308b\u6843\u5c3b\u30ca\u30de\u6027\u4ea4 \u9ad8\u702c\u308a\u306a",
+    "size": "13.86 GB",
+    "actress": [
+      "\u9ad8\u702c\u308a\u306a"
+    ],
+    "preview_img_url": "https://pics.dmm.co.jp/digital/video/savr00526/savr00526pl.jpg",
+    "sell_date": "2024/12/28",
+    "duration": "89\u5206",
+    "seed_download_link": "magnet:?xt=urn:btih:ccbe5f5a9229a4d42a88d6c04f7b46b392d798e7&dn=savr00526&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce",
+    "director": [
+      "\u3059\u305a\u304d\u3080NEO"
+    ],
+    "maker": [
+      "KMPVR-\u5f69-"
+    ],
+    "series": [],
+    "label": [
+      "KMPVR-\u5f69-"
+    ],
+    "keyword": [
+      "\u30cf\u30a4\u30af\u30aa\u30ea\u30c6\u30a3VR",
+      "\u5de8\u5c3b",
+      "\u7f8e\u4e73",
+      "\u9a0e\u4e57\u4f4d",
+      "\u4e2d\u51fa\u3057",
+      "\u72ec\u5360\u914d\u4fe1",
+      "VR\u5c02\u7528",
+      "\u5358\u4f53\u4f5c\u54c1",
+      "8KVR",
+      "\u5973\u5b50\u6821\u751f"
+    ]
+  },
+  {
+    "id": "ipvr00284",
+    "title": "\u3010VR\u3011\u8d85\u6ca1\u5165\u306e\u30d7\u30ec\u30a4\u30e4\u30fc\u81e8\u5834\u611f\u578b8K VR \u30a4\u30c3\u3066\u3082\u30a4\u30c3\u3066\u3082\u7d42\u308f\u3089\u306a\u3044\u30a2\u30ca\u30bf\u306e\u7121\u9650\u30d4\u30b9\u30c8\u30f3\u3067\u226a\u9577\u6d5c\u307f\u3064\u308a\u226b\u3092\u9650\u754c\u307e\u3067\u5927\u7d76\u9802\u3055\u305b\u308b\uff01\uff01 \uff1c\u629c\u7fa4\u306e\u6620\u50cf\u7f8e\u30fb\u8ddd\u96e2\u611f\u30fb\u30ea\u30a2\u30eb\u611f\uff1e",
+    "size": "12.58 GB",
+    "actress": [
+      "\u9577\u6d5c\u307f\u3064\u308a"
+    ],
+    "preview_img_url": "https://pics.dmm.co.jp/digital/video/ipvr00284/ipvr00284pl.jpg",
+    "sell_date": "2024/12/27",
+    "duration": "62\u5206",
+    "seed_download_link": "magnet:?xt=urn:btih:83451db3428ffdc7d1829e485ffb5ca4aa889cc0&dn=ipvr00284&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce",
+    "director": [
+      "ZAMPA"
+    ],
+    "maker": [
+      "\u30a2\u30a4\u30c7\u30a2\u30dd\u30b1\u30c3\u30c8"
+    ],
+    "series": [
+      "\u30a2\u30a4\u30dd\u30b18KVR"
+    ],
+    "label": [
+      "IP-VR"
+    ],
+    "keyword": [
+      "\u30cf\u30a4\u30af\u30aa\u30ea\u30c6\u30a3VR",
+      "\u30d5\u30a7\u30e9",
+      "\u30a2\u30af\u30e1\u30fb\u30aa\u30fc\u30ac\u30ba\u30e0",
+      "\u304a\u59c9\u3055\u3093",
+      "\u7f8e\u5c11\u5973",
+      "\u72ec\u5360\u914d\u4fe1",
+      "VR\u5c02\u7528",
+      "\u5358\u4f53\u4f5c\u54c1",
+      "8KVR",
+      "\u4e3b\u89b3"
+    ]
+  },
+  {
+    "id": "savr00524",
+    "title": "\u3010VR\u3011\u30de\u30b8\u3067\u30aa\u30bf\u30af\u306b\u512a\u3057\u3044\u30ae\u30e3\u30eb\u306f\u5b58\u5728\u3057\u305f\u3093\u3060\uff01\u30af\u30e9\u30b9\u30e1\u30a4\u30c8\u306e\u304a\u3057\u308a\u3068\u9a0e\u4e57\u4f4d\u304c\u30b9\u30b4\u3059\u304e\u3066\u2026 \u6728\u4e0b\u3072\u307e\u308a",
+    "size": "11.67 GB",
+    "actress": [
+      "\u6728\u4e0b\u3072\u307e\u308a\uff08\u82b1\u6ca2\u3072\u307e\u308a\uff09"
+    ],
+    "preview_img_url": "https://pics.dmm.co.jp/digital/video/savr00524/savr00524pl.jpg",
+    "sell_date": "2024/12/27",
+    "duration": "81\u5206",
+    "seed_download_link": "magnet:?xt=urn:btih:28ec8ab6ee6705d1fc35c7fe2eeb60eb3fa2bc3d&dn=savr00524&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce",
+    "director": [
+      "\u66fe\u6839\u5927\u5922@\u4e2d\u91ce"
+    ],
+    "maker": [
+      "KMPVR-\u5f69-"
+    ],
+    "series": [
+      "\u30aa\u30bf\u30af\u306b\u512a\u3057\u3044\u30ae\u30e3\u30eb"
+    ],
+    "label": [
+      "KMPVR-\u5f69-"
+    ],
+    "keyword": [
+      "\u30cf\u30a4\u30af\u30aa\u30ea\u30c6\u30a3VR",
+      "\u5de8\u5c3b",
+      "\u9a0e\u4e57\u4f4d",
+      "\u4e2d\u51fa\u3057",
+      "\u5973\u5b50\u6821\u751f",
+      "\u72ec\u5360\u914d\u4fe1",
+      "VR\u5c02\u7528",
+      "\u5358\u4f53\u4f5c\u54c1",
+      "8KVR",
+      "\u7f8e\u5c11\u5973"
+    ]
+  },
+  {
+    "id": "savr00521",
+    "title": "\u3010VR\u3011\u5f7c\u5973\u306e\u7f8e\u811a\u3067\u8cac\u3081\u3089\u308c\u3001\u4e71\u3055\u308c\u3066\u3002\u72ec\u8eab\u8cb4\u65cf\u306e\u7f8e\u5973\u306b\u9023\u308c\u8fbc\u307e\u308c\u3001\u6ed1\u3089\u304b\u3067\u64ab\u3067\u308b\u3088\u3046\u306a\u8db3\u30b3\u30ad\u3067\u652f\u914d\u3055\u308c\u305f\u30dc\u30af",
+    "size": "12.65 GB",
+    "actress": [],
+    "preview_img_url": "https://pics.dmm.co.jp/digital/video/savr00521/savr00521pl.jpg",
+    "sell_date": "2024/12/27",
+    "duration": "80\u5206",
+    "seed_download_link": "magnet:?xt=urn:btih:3fe75a0b0fb751b1efd617be0c1e1b0f9114d6e8&dn=savr00521&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce",
+    "director": [
+      "\u66fe\u6839\u5927\u5922@\u4e2d\u91ce"
+    ],
+    "maker": [
+      "KMPVR-\u5f69-"
+    ],
+    "series": [],
+    "label": [
+      "KMPVR-\u5f69-"
+    ],
+    "keyword": [
+      "\u30cf\u30a4\u30af\u30aa\u30ea\u30c6\u30a3VR",
+      "8KVR",
+      "VR\u5c02\u7528",
+      "\u72ec\u5360\u914d\u4fe1",
+      "\u811a\u30d5\u30a7\u30c1",
+      "\u4e2d\u51fa\u3057",
+      "\u7f8e\u4e73",
+      "\u30b9\u30ec\u30f3\u30c0\u30fc",
+      "\u7f8e\u5c11\u5973"
+    ]
+  },
+  {
+    "id": "urvrsp00399",
+    "title": "\u3010VR\u3011\u30108K VR\u3011\u5c04\u7cbe\u5e2bW\uff5e\u30a2\u30ca\u30b6\u30fc\u30f4\u30a3\u30ec\u30c3\u30b8\u7de8\uff5e \u3072\u306a\u3053\u30fb\u306b\u3042",
+    "size": "15.31 GB",
+    "actress": [],
+    "preview_img_url": "https://pics.dmm.co.jp/digital/video/urvrsp00399/urvrsp00399pl.jpg",
+    "sell_date": "2024/12/27",
+    "duration": "88\u5206",
+    "seed_download_link": "magnet:?xt=urn:btih:96523f6f43b07f095b7e4cc289fa01696bbaf6c8&dn=urvrsp00399&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce",
+    "director": [
+      "\u51db\u3005\uff08un\uff09"
+    ],
+    "maker": [
+      "unfinished"
+    ],
+    "series": [
+      "unfinished VR"
+    ],
+    "label": [
+      "Marrion Group VR"
+    ],
+    "keyword": [
+      "\u30cf\u30a4\u30af\u30aa\u30ea\u30c6\u30a3VR",
+      "\u7f8e\u5c11\u5973",
+      "\u304a\u59c9\u3055\u3093",
+      "\u548c\u670d\u30fb\u6d74\u8863",
+      "\u5b55\u307e\u305b",
+      "3P\u30fb4P",
+      "8KVR",
+      "\u72ec\u5360\u914d\u4fe1",
+      "VR\u5c02\u7528",
+      "\u4e2d\u51fa\u3057"
+    ]
+  },
+  {
+    "id": "juvr00209",
+    "title": "\u3010VR\u3011\u8d85\u9ad8\u753b\u8cea8KVR \u300c\u5c04\u7cbe\u3059\u306e\u306f\u3053\u3063\u3061\u3060\u3088\u300d\u65c5\u5148\u3067\u5076\u7136\u51fa\u4f1a\u3063\u305f\u6b32\u6c42\u4e0d\u6e80\u306a\u7f8e\u4eba\u59bb\u30fb\u9ebb\u5983\u3055\u3093\u306e\u5c0f\u60aa\u9b54\u7126\u3089\u3057\u3067\u50d5\u306f\u4e00\u751f\u5fd8\u308c\u3089\u308c\u306a\u3044\u4e0d\u502b\u4e2d\u51fa\u3057\u306e\u601d\u3044\u51fa\u3092\u4f5c\u3063\u3066\u3057\u307e\u3063\u305f\u3002 \u5317\u6761\u9ebb\u5983",
+    "size": "26.61 GB",
+    "actress": [
+      "\u5317\u6761\u9ebb\u5983"
+    ],
+    "preview_img_url": "https://pics.dmm.co.jp/digital/video/juvr00209/juvr00209pl.jpg",
+    "sell_date": "2024/12/27",
+    "duration": "94\u5206",
+    "seed_download_link": "magnet:?xt=urn:btih:385466a7773060d5dc71163fdcd2a56eb502c986&dn=juvr-209&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce",
+    "director": [
+      "\u30b8\u30fc\u30cb\u30a2\u30b9\u819d"
+    ],
+    "maker": [
+      "\u30de\u30c9\u30f3\u30ca"
+    ],
+    "series": [],
+    "label": [
+      "MadonnaVR"
+    ],
+    "keyword": [
+      "\u30cf\u30a4\u30af\u30aa\u30ea\u30c6\u30a3VR",
+      "\u4eba\u59bb\u30fb\u4e3b\u5a66",
+      "\u6e29\u6cc9",
+      "\u75f4\u5973",
+      "\u4e0d\u502b",
+      "\u72ec\u5360\u914d\u4fe1",
+      "VR\u5c02\u7528",
+      "\u5358\u4f53\u4f5c\u54c1",
+      "8KVR",
+      "\u719f\u5973"
+    ]
+  },
+  {
+    "id": "kiwvr00732",
+    "title": "\u3010VR\u3011\u30108K\u3011\u3010\u9006\u30ca\u30fc\u30b9\u30fb\u9006\u30e1\u30a4\u30c9\u30fb\u9006\u30bb\u30fc\u30e9\u30fc\u30fb\u9006\u30d0\u30cb\u30fc\u3011\u306e\u30a8\u30ed\u53ef\u611b\u3044\u30b3\u30b9\u30d7\u30ec\u3067\u304a\u5ba2\u69d8\u3092\u5b8c\u5168\u3054\u5949\u4ed5\uff01 J\u30ab\u30c3\u30d7\u795e\u4e73\u3092\u63fa\u3089\u3057\u65e9\u6f0f\u30a2\u30af\u30e1\u9023\u767a\u306e\u7121\u9650\u5c04\u7cbeOK\u4e2d\u51fa\u3057\u8d85VIP\u30bd\u30fc\u30d7 \u6708\u91ce\u304b\u3059\u307f",
+    "size": "13.80 GB",
+    "actress": [
+      "\u6708\u91ce\u304b\u3059\u307f"
+    ],
+    "preview_img_url": "https://pics.dmm.co.jp/digital/video/kiwvr00732/kiwvr00732pl.jpg",
+    "sell_date": "2024/12/27",
+    "duration": "91\u5206",
+    "seed_download_link": "magnet:?xt=urn:btih:56ee55099ccd99ce25170be313cf9e23751408fc&dn=kiwvr-732&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce",
+    "director": [
+      "\u3053\u3042\u3089\u592a\u90ce\uff08\u308f\uff09"
+    ],
+    "maker": [
+      "\u3053\u3042\u3089VR"
+    ],
+    "series": [
+      "8KVR\u3010\u9006\u30b3\u30b9\u30d7\u30ec\u5c02\u9580\uff01\u9023\u7d9a\u30cc\u30ad\u3054\u5949\u4ed5\u4e2d\u51fa\u3057\u30bd\u30fc\u30d7\u3011"
+    ],
+    "label": [
+      "\u6975\u30b0\u30eb\u30fc\u30d7"
+    ],
+    "keyword": [
+      "\u30cf\u30a4\u30af\u30aa\u30ea\u30c6\u30a3VR",
+      "\u30ad\u30e3\u30d0\u5b22\u30fb\u98a8\u4fd7\u5b22",
+      "\u9a0e\u4e57\u4f4d",
+      "\u4e2d\u51fa\u3057",
+      "\u30ed\u30fc\u30b7\u30e7\u30f3\u30fb\u30aa\u30a4\u30eb",
+      "\u30b3\u30b9\u30d7\u30ec",
+      "8KVR",
+      "\u72ec\u5360\u914d\u4fe1",
+      "VR\u5c02\u7528",
+      "\u5358\u4f53\u4f5c\u54c1",
+      "\u5de8\u4e73"
+    ]
+  },
+  {
+    "id": "aqula00059",
+    "title": "\u3010VR\u3011\u653e\u8ab2\u5f8c\u306e\u4fdd\u5065\u5ba4\u3002\u5148\u751f\u306b\u5927\u304d\u306a\u304a\u3061\u25cf\u3061\u3093\u3092\u898b\u305b\u3064\u3051\u3066\u3069\u3046\u306b\u304b\u3057\u305f\u3044\uff01 \u7530\u6240\u767e\u5408",
+    "size": "13.80 GB",
+    "actress": [
+      "\u7530\u6240\u767e\u5408"
+    ],
+    "preview_img_url": "https://pics.dmm.co.jp/digital/video/aqula00059/aqula00059pl.jpg",
+    "sell_date": "2024/12/27",
+    "duration": "69\u5206",
+    "seed_download_link": "magnet:?xt=urn:btih:651623d37cb2479a8ec8b638d21f8fc10f242474&dn=aqula-059&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce",
+    "director": [
+      "\u30ed\u30fc\u30b7\u30e7\u30f3\u30dc\u30fc\u30a4"
+    ],
+    "maker": [
+      "AQUA\uff1c\u30a2\u30af\u30a2\uff1e"
+    ],
+    "series": [
+      "\u653e\u8ab2\u5f8c\u306e\u4fdd\u5065\u5ba4\u3002\u5148\u751f\u306b\u5927\u304d\u306a\u304a\u3061\u25cf\u3061\u3093\u3092\u898b\u305b\u3064\u3051\u3066\u3069\u3046\u306b\u304b\u3057\u305f\u3044\uff01"
+    ],
+    "label": [
+      "AQUA LADY"
+    ],
+    "keyword": [
+      "\u30cf\u30a4\u30af\u30aa\u30ea\u30c6\u30a3VR",
+      "\u30aa\u30ca\u30cb\u30fc",
+      "\u624b\u30b3\u30ad",
+      "\u30d5\u30a7\u30e9",
+      "\u9a0e\u4e57\u4f4d",
+      "\u72ec\u5360\u914d\u4fe1",
+      "VR\u5c02\u7528",
+      "\u5358\u4f53\u4f5c\u54c1",
+      "8KVR",
+      "\u5973\u6559\u5e2b"
+    ]
+  },
+  {
+    "id": "ssr00013",
+    "title": "\u3010VR\u3011\u5f7c\u3068\u5f7c\u5973\u306e\u30a4\u30c1\u30e3\u30e9\u30d6\u751f\u6d3b \u6c34\u535c\u9ebb\u8863\u5948",
+    "size": "27.77 GB",
+    "actress": [
+      "\u6c34\u535c\u9ebb\u8863\u5948"
+    ],
+    "preview_img_url": "https://pics.dmm.co.jp/digital/video/ssr00013/ssr00013pl.jpg",
+    "sell_date": "2024/12/27",
+    "duration": "79\u5206",
+    "seed_download_link": "magnet:?xt=urn:btih:e0796122235d5687bf86a3632f31f9c1f603c12b&dn=ssr-013&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce",
+    "director": [
+      "\u8336\u8449\u5b50\u30b4\u30ad"
+    ],
+    "maker": [
+      "SSR VR"
+    ],
+    "series": [
+      "\u5f7c\u3068\u5f7c\u5973\u306e\u30a4\u30c1\u30e3\u30e9\u30d6\u751f\u6d3b"
+    ],
+    "label": [],
+    "keyword": [
+      "\u30cf\u30a4\u30af\u30aa\u30ea\u30c6\u30a3VR",
+      "\u5358\u4f53\u4f5c\u54c1",
+      "VR\u5c02\u7528",
+      "\u72ec\u5360\u914d\u4fe1",
+      "\u4e2d\u51fa\u3057",
+      "\u7f8e\u4e73",
+      "\u7f8e\u5c11\u5973",
+      "\u30ad\u30b9\u30fb\u63a5\u543b",
+      "8KVR"
+    ]
+  },
+  {
+    "id": "aquco00077",
+    "title": "\u3010VR\u3011\u4ffa\u306e\u5f7c\u5973\u304c\u8d85\u81f3\u8fd1\u8ddd\u96e2\u3067NTR \u4e8c\u4eba\u304d\u308a\u306b\u306a\u3063\u305f\u77ac\u9593\u672c\u80fd\u306e\u307e\u307e\u306b\u7121\u8336\u82e6\u8336\u306b\u3057\u3066\u3084\u3063\u305f \u6cc9\u3042\u3084",
+    "size": "30.94 GB",
+    "actress": [
+      "\u6cc9\u3042\u3084"
+    ],
+    "preview_img_url": "https://pics.dmm.co.jp/digital/video/aquco00077/aquco00077pl.jpg",
+    "sell_date": "2024/12/27",
+    "duration": "81\u5206",
+    "seed_download_link": "magnet:?xt=urn:btih:0df1abd2ccd6e534d3edca404e2502452ead425c&dn=aquco-077&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce",
+    "director": [
+      "\u5c71\u672c\u30d8\u30f3\u30c9\u30ea\u30af\u30b9"
+    ],
+    "maker": [
+      "AQUA\uff1c\u30a2\u30af\u30a2\uff1e"
+    ],
+    "series": [
+      "\u8d85\u81f3\u8fd1\u8ddd\u96e2\u3067NTR"
+    ],
+    "label": [
+      "AQUA COLORS"
+    ],
+    "keyword": [
+      "\u30cf\u30a4\u30af\u30aa\u30ea\u30c6\u30a3VR",
+      "\u30d5\u30a7\u30e9",
+      "\u4e2d\u51fa\u3057",
+      "\u72ec\u5360\u914d\u4fe1",
+      "VR\u5c02\u7528",
+      "\u5358\u4f53\u4f5c\u54c1",
+      "\u30ae\u30e3\u30eb",
+      "\u5bdd\u53d6\u308a\u30fb\u5bdd\u53d6\u3089\u308c\u30fbNTR",
+      "8KVR",
+      "\u30ab\u30c3\u30d7\u30eb"
+    ]
+  },
+  {
+    "id": "aquma00064",
+    "title": "\u3010VR\u3011\u30d1\u30f3\u30b9\u30c8\u7279\u5316\uff01\u30e0\u30ec\u30e0\u30ec\u7f8e\u811a\u30a2\u30eb\u30c6\u30a3\u30e1\u30c3\u30c8\uff5e\u773a\u3081\u3066\u8e0f\u307e\u308c\u3066\u75f4\u5973\u3089\u308c\u305f\u3044\uff5e \u30d1\u30fc\u30c81",
+    "size": "23.23 GB",
+    "actress": [
+      "Nia\uff08\u4f0a\u6771\u3081\u308b\uff09",
+      "\u4f50\u85e4\u306e\u306e\u304b\uff08\u52a0\u85e4\u3082\u3082\u304b\uff09",
+      "\u3055\u3064\u304d\u82bd\u8863",
+      "\u82b1\u72e9\u307e\u3044",
+      "\u672c\u7530\u3082\u3082",
+      "\u4e09\u7530\u30b5\u30af\u30e9",
+      "\u8fbb\u3055\u304f\u3089",
+      "\u6850\u9999\u3086\u3046\u308a",
+      "\u3082\u306a\u307f\u9234"
+    ],
+    "preview_img_url": "https://pics.dmm.co.jp/digital/video/aquma00064/aquma00064pl.jpg",
+    "sell_date": "2024/12/27",
+    "duration": "245\u5206",
+    "seed_download_link": "magnet:?xt=urn:btih:dc1a926b655c16ba96bbfcf24a8a0638bb91fca9&dn=aquma-064&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce",
+    "director": [],
+    "maker": [
+      "AQUA\uff1c\u30a2\u30af\u30a2\uff1e"
+    ],
+    "series": [
+      "\u30d1\u30f3\u30b9\u30c8\u7279\u5316\uff01\u30e0\u30ec\u30e0\u30ec\u7f8e\u811a\u30a2\u30eb\u30c6\u30a3\u30e1\u30c3\u30c8\uff5e\u773a\u3081\u3066\u8e0f\u307e\u308c\u3066\u75f4\u5973\u3089\u308c\u305f\u3044"
+    ],
+    "label": [
+      "AQUA MANIAC"
+    ],
+    "keyword": [
+      "4\u6642\u9593\u4ee5\u4e0a\u4f5c\u54c1",
+      "\u30cf\u30a4\u30af\u30aa\u30ea\u30c6\u30a3VR",
+      "VR\u5c02\u7528",
+      "\u72ec\u5360\u914d\u4fe1",
+      "\u30d9\u30b9\u30c8\u30fb\u7dcf\u96c6\u7de8",
+      "\u8db3\u30b3\u30ad",
+      "\u811a\u30d5\u30a7\u30c1",
+      "\u30d1\u30f3\u30b9\u30c8\u30fb\u30bf\u30a4\u30c4",
+      "\u75f4\u5973"
+    ]
+  },
+  {
+    "id": "aquma00065",
+    "title": "\u3010VR\u3011\u4e0b\u304b\u3089\u898b\u4e0a\u3052\u308bM\u5b57\u958b\u811a\u30aa\u30ca\u30cb\u30fc\u30b5\u30dd\u30fc\u30c8",
+    "size": "8.12 GB",
+    "actress": [
+      "\u690e\u540d\u671d\u5983",
+      "\u5929\u7f8e\u3081\u3042",
+      "\u6885\u5ddd\u3053\u3068\u306d",
+      "\u590f\u5e0c\u307e\u308d\u3093",
+      "\u677e\u4e0b\u308a\u3053",
+      "\u3088\u3057\u3044\u7f8e\u5e0c\uff08\u4f0a\u6ca2\u6dbc\u5b50\u3001\u5409\u4e95\u7f8e\u5e0c\uff09",
+      "\u516d\u83ef\u30ce\u30a2"
+    ],
+    "preview_img_url": "https://pics.dmm.co.jp/digital/video/aquma00065/aquma00065pl.jpg",
+    "sell_date": "2024/12/27",
+    "duration": "91\u5206",
+    "seed_download_link": "magnet:?xt=urn:btih:3bf2ed76064c0ecdfd78d2517147af0fcdd66691&dn=aquma-065&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce",
+    "director": [
+      "\u30ed\u30fc\u30b7\u30e7\u30f3\u30dc\u30fc\u30a4"
+    ],
+    "maker": [
+      "AQUA\uff1c\u30a2\u30af\u30a2\uff1e"
+    ],
+    "series": [],
+    "label": [
+      "AQUA MANIAC"
+    ],
+    "keyword": [
+      "\u30cf\u30a4\u30af\u30aa\u30ea\u30c6\u30a3VR",
+      "VR\u5c02\u7528",
+      "\u72ec\u5360\u914d\u4fe1",
+      "\u75f4\u5973",
+      "\u30d1\u30f3\u30b9\u30c8\u30fb\u30bf\u30a4\u30c4",
+      "\u811a\u30d5\u30a7\u30c1",
+      "\u30aa\u30ca\u30b5\u30dd",
+      "\u4e3b\u89b3"
+    ]
+  },
+  {
+    "id": "vrkm01443",
+    "title": "\u3010VR\u3011\u795e\u30ae\u30e3\u30eb \u4e59\u30a2\u30ea\u30b9\u3061\u3083\u3093\u30e0\u30c1\u30e0\u30c1\u30a8\u30ed\u30a8\u30edBEST300\u5206 \u30a8\u30ed\u3044\u305e\uff5e\u30ab\u30ef\u30a4\u30a4\u305e\uff5e",
+    "size": "26.41 GB",
+    "actress": [
+      "\u4e59\u30a2\u30ea\u30b9"
+    ],
+    "preview_img_url": "https://pics.dmm.co.jp/digital/video/vrkm01443/vrkm01443pl.jpg",
+    "sell_date": "2024/12/27",
+    "duration": "305\u5206",
+    "seed_download_link": "magnet:?xt=urn:btih:fa75cd7545b39f16af347bf2877971a6115f564d&dn=vrkm-1443&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce",
+    "director": [
+      "K\u592a\u90ce"
+    ],
+    "maker": [
+      "\u30b1\u30a4\u30fb\u30a8\u30e0\u30fb\u30d7\u30ed\u30c7\u30e5\u30fc\u30b9"
+    ],
+    "series": [
+      "VR BEST"
+    ],
+    "label": [
+      "KMPVR"
+    ],
+    "keyword": [
+      "4\u6642\u9593\u4ee5\u4e0a\u4f5c\u54c1",
+      "\u5358\u4f53\u4f5c\u54c1",
+      "\u30cf\u30a4\u30af\u30aa\u30ea\u30c6\u30a3VR",
+      "VR\u5c02\u7528",
+      "\u30d9\u30b9\u30c8\u30fb\u7dcf\u96c6\u7de8",
+      "\u75f4\u5973",
+      "\u30ae\u30e3\u30eb",
+      "\u4e2d\u51fa\u3057",
+      "\u5de8\u4e73"
+    ]
+  },
+  {
+    "id": "h_1711devr00006",
+    "title": "\u3010VR\u3011\u4eba\u9593\u306b\u30e2\u30c6\u306a\u3044\u7ae5\u8c9e\u306e\u50d5\u306f\u7981\u8853\u3092\u4f7f\u3063\u3066\u30b5\u30ad\u30e5\u30d0\u30b9\u3092\u53ec\u559a\u3057\u305f\u306e\u3060\u304c\u30b1\u30c4\u304c\u30c7\u30ab\u3059\u304e\u3066\u9b54\u6cd5\u9663\u306b\u5f15\u3063\u304b\u304b\u308a\u8eab\u52d5\u304d\u304c\u53d6\u308c\u306a\u305d\u3046\u3060\u3063\u305f\u306e\u3067\u305d\u306e\u307e\u307e\u30a4\u30bf\u30ba\u30e9\u3057\u3066\u307f\u305f\u2606 \u5f25\u751f\u307f\u3065\u304d",
+    "size": "8.56 GB",
+    "actress": [
+      "\u5f25\u751f\u307f\u3065\u304d"
+    ],
+    "preview_img_url": "https://pics.dmm.co.jp/digital/video/h_1711devr00006/h_1711devr00006pl.jpg",
+    "sell_date": "2024/12/27",
+    "duration": "70\u5206",
+    "seed_download_link": "magnet:?xt=urn:btih:e528f7015a46040c36dea3872e7b0fb2d193d1e7&dn=devr00006&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce",
+    "director": [
+      "\u30d7\u30fc\u30eb\u30b5\u30a4\u30c9"
+    ],
+    "maker": [
+      "DOC"
+    ],
+    "series": [],
+    "label": [
+      "DOC ERO VR"
+    ],
+    "keyword": [
+      "\u30cf\u30a4\u30af\u30aa\u30ea\u30c6\u30a3VR",
+      "VR\u5c02\u7528",
+      "\u4e3b\u89b3",
+      "\u4e2d\u51fa\u3057",
+      "\u9a0e\u4e57\u4f4d",
+      "\u5de8\u4e73",
+      "\u30bb\u30af\u30b7\u30fc",
+      "\u30d1\u30a4\u30ba\u30ea",
+      "\u7f8e\u4e73",
+      "\u7f8e\u5c11\u5973",
+      "\u5358\u4f53\u4f5c\u54c1",
+      "8KVR"
+    ]
+  },
+  {
+    "id": "nkkvr00138",
+    "title": "\u3010VR\u3011\u30b6\u30fc\u30e1\u30f3\u30fb\u6355\u98df\u30fb\u30ae\u30e3\u30eb\uff01\uff01\u3010\u8d85\u8089\u611f\u8210\u3081\u8210\u3081\u7279\u5316\u3011\u30b6\u30fc\u30e1\u30f3\u3092\u643e\u53d6\u3057\u307e\u304f\u308a\u9023\u7d9a\u7d76\u9802\u3067\u8a18\u61b6\u304c\u30c8\u30d6\u307b\u3069\u5c04\u7cbe\u3057\u307e\u304f\u3063\u305f\u3042\u308b\u65e5\u2026",
+    "size": "5.91 GB",
+    "actress": [],
+    "preview_img_url": "https://pics.dmm.co.jp/digital/video/nkkvr00138/nkkvr00138pl.jpg",
+    "sell_date": "2024/12/26",
+    "duration": "63\u5206",
+    "seed_download_link": "magnet:?xt=urn:btih:18f1a436051da82e46777011c7da9c63f8c861df&dn=nkkvr-138&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce",
+    "director": [
+      "\u30af\u30ef\u30c3\u30c1\u30fc"
+    ],
+    "maker": [
+      "\u8089\u304d\u3085\u3093\u30d1\u30e9\u30c0\u30a4\u30b9VR"
+    ],
+    "series": [
+      "\u30b6\u30fc\u30e1\u30f3\u30fb\u30d7\u25cf\u30c7\u30bf\u30fc\u30fb\u30ae\u30e3\u30eb"
+    ],
+    "label": [
+      "\u6975\u30b0\u30eb\u30fc\u30d7"
+    ],
+    "keyword": [
+      "\u30cf\u30a4\u30af\u30aa\u30ea\u30c6\u30a3VR",
+      "VR\u5c02\u7528",
+      "\u72ec\u5360\u914d\u4fe1",
+      "\u30d3\u30c3\u30c1",
+      "\u30d1\u30a4\u30ba\u30ea",
+      "\u9a0e\u4e57\u4f4d",
+      "\u75f4\u5973",
+      "\u5de8\u4e73",
+      "\u4e2d\u51fa\u3057"
+    ]
+  },
+  {
+    "id": "vrprd00064",
+    "title": "\u3010VR\u3011\u3054\u3063\u304f\u3093\u5927\u597d\u304d\u30ab\u30ce\u30b8\u30e7 \u300c\u305c\uff5e\u3093\u3076\u304a\u53e3\u306b\u3061\u3087\uff5e\u3060\u3044\u25c6\u300d",
+    "size": "12.39 GB",
+    "actress": [],
+    "preview_img_url": "https://pics.dmm.co.jp/digital/video/vrprd00064/vrprd00064pl.jpg",
+    "sell_date": "2024/12/26",
+    "duration": "78\u5206",
+    "seed_download_link": "magnet:?xt=urn:btih:8bc934d6098b8e83b825d10e232185f1bc16e9d5&dn=vrprd00064&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce",
+    "director": [
+      "\u767d\u6a3a\u306e\u5e79"
+    ],
+    "maker": [
+      "VR\u30d1\u30e9\u30c0\u30a4\u30b9"
+    ],
+    "series": [],
+    "label": [
+      "\u6975\u30b0\u30eb\u30fc\u30d7"
+    ],
+    "keyword": [
+      "\u30cf\u30a4\u30af\u30aa\u30ea\u30c6\u30a3VR",
+      "VR\u5c02\u7528",
+      "\u72ec\u5360\u914d\u4fe1",
+      "\u3054\u3063\u304f\u3093",
+      "\u30d5\u30a7\u30e9",
+      "\u4e2d\u51fa\u3057",
+      "\u5973\u5b50\u5927\u751f",
+      "\u7f8e\u5c11\u5973"
+    ]
+  },
+  {
+    "id": "crvr00353",
+    "title": "\u3010VR\u3011\u30108KVR\u3011\u5bb6\u5ead\u8a2a\u554f\u5148\u3067\u4e8c\u4eba\u304d\u308a\u2026\u771f\u9762\u76ee\u3067\u512a\u79c0\u306a\u6559\u3048\u5b50\u306b\u5065\u6c17\u306b\u8feb\u3089\u308c\u3064\u3044\u5fc3\u3092\u8a31\u3057\u3066\u3057\u307e\u3063\u305f\u6559\u5e2b\u5931\u683c\u306a\u30dc\u30af\u3002\u5c3e\u5d0e\u3048\u308a\u304b",
+    "size": "13.21 GB",
+    "actress": [
+      "\u5c3e\u5d0e\u3048\u308a\u304b"
+    ],
+    "preview_img_url": "https://pics.dmm.co.jp/digital/video/crvr00353/crvr00353pl.jpg",
+    "sell_date": "2024/12/25",
+    "duration": "69\u5206",
+    "seed_download_link": "magnet:?xt=urn:btih:9540c3e8d6aba0c2780312c4b9aa6690ab428498&dn=crvr-353&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce",
+    "director": [
+      "\u304f\u308a\u305e\u3046"
+    ],
+    "maker": [
+      "CRYSTAL VR"
+    ],
+    "series": [
+      "\u3053\u306e\u25cb\u25cb\u25cb\u3068\u3053\u308c\u304b\u3089SEX\u3057\u307e\u3059\u3002"
+    ],
+    "label": [
+      "CRYSTAL VR"
+    ],
+    "keyword": [
+      "\u30cf\u30a4\u30af\u30aa\u30ea\u30c6\u30a3VR",
+      "\u30d1\u30a4\u30d1\u30f3",
+      "\u5236\u670d",
+      "\u30bb\u30fc\u30e9\u30fc\u670d",
+      "\u6c34\u7740",
+      "\u30ad\u30b9\u30fb\u63a5\u543b",
+      "\u96fb\u30de",
+      "\u30aa\u30ca\u30cb\u30fc",
+      "\u30d5\u30a7\u30e9",
+      "\u30d0\u30c3\u30af",
+      "\u30d0\u30a4\u30d6",
+      "\u9a0e\u4e57\u4f4d",
+      "\u4e2d\u51fa\u3057",
+      "\u5358\u4f53\u4f5c\u54c1",
+      "\u4e3b\u89b3",
+      "VR\u5c02\u7528",
+      "8KVR",
+      "\u7f8e\u5c11\u5973"
+    ]
+  },
+  {
+    "id": "crvr00351",
+    "title": "\u3010VR\u3011\u30108KVR\u3011\u65b0\u30fb\u30dc\u30af\u306e\u3053\u3068\u3092\u597d\u304d\u904e\u304e\u308b\u3054\u5949\u4ed5\u30e1\u30a4\u30c9\u3068\u306e\u306a\u3093\u3068\u3082\u3046\u3089\u3084\u307e\u3057\u3044\u65e5\u5e38\u3002 \u5c0f\u90a3\u6d77\u3042\u3084",
+    "size": "32.35 GB",
+    "actress": [
+      "\u5c0f\u90a3\u6d77\u3042\u3084"
+    ],
+    "preview_img_url": "https://pics.dmm.co.jp/digital/video/crvr00351/crvr00351pl.jpg",
+    "sell_date": "2024/12/25",
+    "duration": "104\u5206",
+    "seed_download_link": "magnet:?xt=urn:btih:6f86d9c6c2560c8fdfa73165b96c0bce2543236f&dn=crvr-351&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce",
+    "director": [
+      "\u304f\u308a\u305e\u3046"
+    ],
+    "maker": [
+      "CRYSTAL VR"
+    ],
+    "series": [
+      "\u30dc\u30af\u306e\u3053\u3068\u3092\u597d\u304d\u904e\u304e\u308b\u25cb\u25cb\u30e1\u30a4\u30c9\u3068\u306e\u306a\u3093\u3068\u3082\u3046\u3089\u3084\u307e\u3057\u3044\u65e5\u5e38\u3002"
+    ],
+    "label": [
+      "CRYSTAL VR"
+    ],
+    "keyword": [
+      "8KVR",
+      "\u5358\u4f53\u4f5c\u54c1",
+      "VR\u5c02\u7528",
+      "\u30b9\u30ec\u30f3\u30c0\u30fc",
+      "\u7f8e\u4e73",
+      "\u30d1\u30a4\u30d1\u30f3",
+      "\u7af6\u6cf3\u30fb\u30b9\u30af\u30fc\u30eb\u6c34\u7740",
+      "\u30ad\u30b9\u30fb\u63a5\u543b",
+      "\u30d5\u30a7\u30e9",
+      "\u624b\u30b3\u30ad",
+      "\u9a0e\u4e57\u4f4d",
+      "\u7537\u306e\u6f6e\u5439\u304d",
+      "\u96fb\u30de",
+      "\u30aa\u30ca\u30cb\u30fc",
+      "\u4e2d\u51fa\u3057",
+      "\u4e3b\u89b3",
+      "\u30cf\u30a4\u30af\u30aa\u30ea\u30c6\u30a3VR",
+      "\u30e1\u30a4\u30c9"
+    ]
+  },
+  {
+    "id": "savr00528",
+    "title": "\u3010VR\u3011\u904e\u6fc0\u98df\u3044\u8fbc\u307f\u306e\u7af6\u6cf3\u6c34\u7740\u3067\u30e2\u30c6\u306a\u3044\u30dc\u30af\u3092\u8a98\u60d1 \u7f8e\u5c3b\u9a0e\u4e57\u4f4d\u306b\u7d76\u502b\u30b9\u30a4\u30c3\u30c1ON\u304b\u3089\u306e\u9023\u7d9a\u4e2d\u51fa\u3057 \u5c0f\u90a3\u6d77\u3042\u3084",
+    "size": "11.68 GB",
+    "actress": [
+      "\u5c0f\u90a3\u6d77\u3042\u3084"
+    ],
+    "preview_img_url": "https://pics.dmm.co.jp/digital/video/savr00528/savr00528pl.jpg",
+    "sell_date": "2024/12/25",
+    "duration": "82\u5206",
+    "seed_download_link": "magnet:?xt=urn:btih:66867ccb45bfde39e1fa5fefdddb6a7aeb56f834&dn=savr00528&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce",
+    "director": [
+      "\u30cf\u30eb\u30af\u30fb\u30b3\u30fc\u30ac\u30f3"
+    ],
+    "maker": [
+      "KMPVR-\u5f69-"
+    ],
+    "series": [],
+    "label": [
+      "KMPVR-\u5f69-"
+    ],
+    "keyword": [
+      "\u30cf\u30a4\u30af\u30aa\u30ea\u30c6\u30a3VR",
+      "8KVR",
+      "\u5358\u4f53\u4f5c\u54c1",
+      "VR\u5c02\u7528",
+      "\u72ec\u5360\u914d\u4fe1",
+      "\u4e2d\u51fa\u3057",
+      "\u9a0e\u4e57\u4f4d",
+      "\u7f8e\u4e73",
+      "\u7af6\u6cf3\u30fb\u30b9\u30af\u30fc\u30eb\u6c34\u7740"
+    ]
+  },
+  {
+    "id": "kiwvr00720",
+    "title": "\u3010VR\u3011\u5f7c\u5973\u304c\u81f3\u8fd1\u8ddd\u96e2\u306b\u3044\u308b\u306e\u306b\u9ad8\u8eab\u9577\u30b9\u30ea\u30e0\u7f8e\u5de8\u4e73S\u7d1a\u7f8e\u5973\u306b\u3053\u3063\u305d\u308a\u751f\u30c1\u3007\u30dd\u3092\u633f\u5165\u3055\u308c\u4e2d\u51fa\u3057\u3057\u307e\u304f\u3063\u305fNTR\u30da\u30a2\u30eb\u30fc\u30e0\u30a8\u30b9\u30c6 \u4e5d\u5341\u4e5d\u30e1\u30a4",
+    "size": "13.17 GB",
+    "actress": [
+      "\u4e5d\u5341\u4e5d\u30e1\u30a4"
+    ],
+    "preview_img_url": "https://pics.dmm.co.jp/digital/video/kiwvr00720/kiwvr00720pl.jpg",
+    "sell_date": "2024/12/24",
+    "duration": "75\u5206",
+    "seed_download_link": "magnet:?xt=urn:btih:b6746ef0080663ec4653fc04a5683eeeb777ef6b&dn=kiwvr00720&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce",
+    "director": [
+      "\u66f2\u304c\u308a\u574269"
+    ],
+    "maker": [
+      "\u3053\u3042\u3089VR"
+    ],
+    "series": [
+      "3D\u30cf\u30e1\u64ae\u308aVR\u6539\u3010\u30da\u30a2\u30eb\u30fc\u30e0\u30de\u30c3\u30b5\u30fc\u30b8\u3067\u4e2d\u51fa\u3057NTR\u3011"
+    ],
+    "label": [
+      "\u6975\u30b0\u30eb\u30fc\u30d7"
+    ],
+    "keyword": [
+      "\u30cf\u30a4\u30af\u30aa\u30ea\u30c6\u30a3VR",
+      "\u30ab\u30c3\u30d7\u30eb",
+      "\u30de\u30c3\u30b5\u30fc\u30b8\u30fb\u30ea\u30d5\u30ec",
+      "\u4e2d\u51fa\u3057",
+      "\u9854\u5c04",
+      "\u5bdd\u53d6\u308a\u30fb\u5bdd\u53d6\u3089\u308c\u30fbNTR",
+      "\u72ec\u5360\u914d\u4fe1",
+      "VR\u5c02\u7528",
+      "\u5358\u4f53\u4f5c\u54c1",
+      "\u5de8\u4e73"
+    ]
+  },
+  {
+    "id": "vrprd00062",
+    "title": "\u3010VR\u3011\u5df7\u3067\u5642\u306e\u8d85\u7d76\u53ef\u611b\u3044\u30c1\u30e3\u30a4\u30ca\u30e1\u30f3\u30a8\u30b9\uff01\u300c\u304a\u5e97\u306b\u306f\u5185\u7dd2\u30a2\u30eb\u30e8\u25c6\u300d",
+    "size": "6.49 GB",
+    "actress": [],
+    "preview_img_url": "https://pics.dmm.co.jp/digital/video/vrprd00062/vrprd00062pl.jpg",
+    "sell_date": "2024/12/23",
+    "duration": "73\u5206",
+    "seed_download_link": "magnet:?xt=urn:btih:2b85f87bcc8174a708b7cdf0b5e3d7c8bf26570b&dn=vrprd-062&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce",
+    "director": [
+      "\u30af\u30ef\u30c3\u30c1\u30fc"
+    ],
+    "maker": [
+      "VR\u30d1\u30e9\u30c0\u30a4\u30b9"
+    ],
+    "series": [],
+    "label": [
+      "\u6975\u30b0\u30eb\u30fc\u30d7"
+    ],
+    "keyword": [
+      "\u30cf\u30a4\u30af\u30aa\u30ea\u30c6\u30a3VR",
+      "VR\u5c02\u7528",
+      "\u72ec\u5360\u914d\u4fe1",
+      "\u30a8\u30b9\u30c6",
+      "\u30d5\u30a7\u30e9",
+      "\u4e2d\u51fa\u3057",
+      "\u30b3\u30b9\u30d7\u30ec",
+      "\u75f4\u5973"
+    ]
+  },
+  {
+    "id": "13dsvr01675",
+    "title": "\u3010VR\u3011\u30108K\u3011\u3082\u3046\u3001\u96e2\u3055\u306a\u3044 \u96e2\u5a5a\u3057\u3066\u4ed5\u4e8b\u3082\u8f9e\u3081\u3001\u5341\u6570\u5e74\u3076\u308a\u306b\u5730\u5143\u306b\u623b\u3063\u3066\u6765\u305f\u30dc\u30af \u72ec\u8eab\u306e\u307e\u307e\u5f85\u3063\u3066\u3044\u3066\u304f\u308c\u305f\u5e7c\u99b4\u67d3\u306b\u5c11\u3057\u5f37\u5f15\u306b\u62bc\u3057\u5012\u3055\u308c\u3066Re:\u30b9\u30bf\u30fc\u30c8\u30bb\u30c3\u30af\u30b9 \u6238\u5ddd\u306a\u307f",
+    "size": "21.59 GB",
+    "actress": [
+      "\u6238\u5ddd\u306a\u307f"
+    ],
+    "preview_img_url": "https://pics.dmm.co.jp/digital/video/13dsvr01675/13dsvr01675pl.jpg",
+    "sell_date": "2024/12/23",
+    "duration": "96\u5206",
+    "seed_download_link": "magnet:?xt=urn:btih:b9e69e95759f0f6cfe867e329e06ae71986e4f51&dn=dsvr01675&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce",
+    "director": [
+      "\u7e41\u677e\u79cb\u51ac"
+    ],
+    "maker": [
+      "SOD\u30af\u30ea\u30a8\u30a4\u30c8"
+    ],
+    "series": [],
+    "label": [
+      "SODVR"
+    ],
+    "keyword": [
+      "\u30cf\u30a4\u30af\u30aa\u30ea\u30c6\u30a3VR",
+      "8KVR",
+      "\u5358\u4f53\u4f5c\u54c1",
+      "VR\u5c02\u7528",
+      "\u4e2d\u51fa\u3057",
+      "\u30d5\u30a7\u30e9",
+      "\u304a\u98a8\u5442",
+      "\u604b\u611b",
+      "\u5e7c\u306a\u3058\u307f"
+    ]
+  },
+  {
+    "id": "13dsvr01673",
+    "title": "\u3010VR\u3011\u30108K\u3011\u6b32\u6c42\u4e0d\u6e80\u3067\u3080\u3063\u3064\u308a\u30b9\u30b1\u30d9\u306aOL\u82e5\u5bae\u3055\u3093 \u30c6\u30ec\u30d1\u30b7\u30fc\u3067\u30c0\u30c0\u6f0f\u308c\u306a\u958b\u767a\u9858\u671b\u3092\u53f6\u3048\u308b\u9023\u7d9a\u7d76\u9802\u30ea\u30d5\u30ec \u82e5\u5bae\u306f\u305a\u304d",
+    "size": "10.27 GB",
+    "actress": [
+      "\u82e5\u5bae\u306f\u305a\u304d"
+    ],
+    "preview_img_url": "https://pics.dmm.co.jp/digital/video/13dsvr01673/13dsvr01673pl.jpg",
+    "sell_date": "2024/12/23",
+    "duration": "87\u5206",
+    "seed_download_link": "magnet:?xt=urn:btih:18ef589e6b15e88af35ec58e4cfedb26d02dda4c&dn=dsvr01673&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce",
+    "director": [
+      "\u732b\u53c8\u3088\u3084"
+    ],
+    "maker": [
+      "SOD\u30af\u30ea\u30a8\u30a4\u30c8"
+    ],
+    "series": [],
+    "label": [
+      "SODVR"
+    ],
+    "keyword": [
+      "\u30cf\u30a4\u30af\u30aa\u30ea\u30c6\u30a3VR",
+      "8KVR",
+      "\u5358\u4f53\u4f5c\u54c1",
+      "VR\u5c02\u7528",
+      "\u6f6e\u5439\u304d",
+      "\u30d5\u30a1\u30f3\u30bf\u30b8\u30fc",
+      "\u5de8\u4e73",
+      "\u30de\u30c3\u30b5\u30fc\u30b8\u30fb\u30ea\u30d5\u30ec",
+      "OL"
+    ]
+  },
+  {
+    "id": "savr00514",
+    "title": "\u3010VR\u3011\u7f8e\u4eba\u3067\u5de8\u4e73\u306a\u7fa9\u6bcd\u306f\u3068\u3063\u3066\u3082\u904e\u4fdd\u8b77 \u7ae5\u8c9e\u306e\u30dc\u30af\u3092\u5fc3\u914d\u3057\u3001\u304a\u3063\u3071\u3044\u30d5\u30eb\u6d3b\u7528\u3067\u5168\u80af\u5b9a\u30de\u30de\u7b46\u304a\u308d\u3057 \u7236\u304c\u591c\u52e4\u306e\u6642\u3060\u3051\u306e\u30ca\u30a4\u30c8\u30eb\u30fc\u30c6\u30a3\u30fc\u30f3 \u9234\u6728\u771f\u5915",
+    "size": "10.78 GB",
+    "actress": [
+      "\u9234\u6728\u771f\u5915"
+    ],
+    "preview_img_url": "https://pics.dmm.co.jp/digital/video/savr00514/savr00514pl.jpg",
+    "sell_date": "2024/12/21",
+    "duration": "71\u5206",
+    "seed_download_link": "magnet:?xt=urn:btih:6809662e55a452ceac1ee2c85ea433bacbd04670&dn=savr-514&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce",
+    "director": [
+      "MUNPEE"
+    ],
+    "maker": [
+      "KMPVR-\u5f69-"
+    ],
+    "series": [],
+    "label": [
+      "KMPVR-\u5f69-"
+    ],
+    "keyword": [
+      "\u30cf\u30a4\u30af\u30aa\u30ea\u30c6\u30a3VR",
+      "\u5358\u4f53\u4f5c\u54c1",
+      "\u7ae5\u8c9e",
+      "\u7fa9\u6bcd",
+      "\u5de8\u4e73",
+      "\u30d1\u30a4\u30ba\u30ea",
+      "\u9a0e\u4e57\u4f4d",
+      "\u72ec\u5360\u914d\u4fe1",
+      "8KVR",
+      "VR\u5c02\u7528"
+    ]
+  },
+  {
+    "id": "savr00525",
+    "title": "\u3010VR\u3011\u300c\u6700\u9ad8\u306e\u30ad\u30b9\u3092\u3057\u307e\u3057\u3087\u3046\uff1f\u300d\u5c04\u7cbe\u7ba1\u7406\u3057\u306a\u304c\u3089\u306e\u60b6\u7d76\u30d9\u30ed\u30c1\u30e5\u30a6\u3067\u5feb\u65b9\u3078\u3068\u5c0e\u304f\u654f\u53e3\u3072\u3073\u304d\u533b\u5e2b\u306e\u30ad\u30b9\u4f9d\u5b58\u75c7\u30af\u30ea\u30cb\u30c3\u30af \u5927\u69fb\u3072\u3073\u304d",
+    "size": "16.78 GB",
+    "actress": [
+      "\u5927\u69fb\u3072\u3073\u304d"
+    ],
+    "preview_img_url": "https://pics.dmm.co.jp/digital/video/savr00525/savr00525pl.jpg",
+    "sell_date": "2024/12/21",
+    "duration": "78\u5206",
+    "seed_download_link": "magnet:?xt=urn:btih:bb711dbe71f13e4b6dc54f880ed58e644be42297&dn=savr-525&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce",
+    "director": [
+      "\u3059\u305a\u304d\u3080NEO"
+    ],
+    "maker": [
+      "KMPVR-\u5f69-"
+    ],
+    "series": [],
+    "label": [
+      "KMPVR-\u5f69-"
+    ],
+    "keyword": [
+      "\u30cf\u30a4\u30af\u30aa\u30ea\u30c6\u30a3VR",
+      "\u5973\u533b",
+      "\u75f4\u5973",
+      "\u30ad\u30b9\u30fb\u63a5\u543b",
+      "\u4e2d\u51fa\u3057",
+      "\u72ec\u5360\u914d\u4fe1",
+      "VR\u5c02\u7528",
+      "\u5358\u4f53\u4f5c\u54c1",
+      "8KVR",
+      "\u75c5\u9662\u30fb\u30af\u30ea\u30cb\u30c3\u30af"
+    ]
+  },
+  {
+    "id": "savr00527",
+    "title": "\u3010VR\u3011\u4ffa\u5f97\u3059\u304e\u308b\u30e2\u30c7\u30eb\u811a \u6708\u4e00\u306e\u55b6\u696d\u5468\u308a\u540c\u884c\u65e5\u3002\u6c7a\u307e\u3063\u3066\u30db\u30c6\u30eb\u306b\u5bc4\u308a\u3001\u6c57\u3070\u3093\u3060\u7f8e\u811a\u3092\u582a\u80fd\u3059\u308b\u771f\u590f\u306e\u5bc6\u4f1a\u3002",
+    "size": "13.86 GB",
+    "actress": [],
+    "preview_img_url": "https://pics.dmm.co.jp/digital/video/savr00527/savr00527pl.jpg",
+    "sell_date": "2024/12/21",
+    "duration": "88\u5206",
+    "seed_download_link": "magnet:?xt=urn:btih:22821e1bf019fbe7b311864cf19ae157e1bf04c8&dn=savr-527&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce",
+    "director": [
+      "\u5473\u564c\u716eKOMI"
+    ],
+    "maker": [
+      "KMPVR-\u5f69-"
+    ],
+    "series": [],
+    "label": [
+      "KMPVR-\u5f69-"
+    ],
+    "keyword": [
+      "\u30cf\u30a4\u30af\u30aa\u30ea\u30c6\u30a3VR",
+      "8KVR",
+      "VR\u5c02\u7528",
+      "\u72ec\u5360\u914d\u4fe1",
+      "\u9577\u8eab",
+      "\u811a\u30d5\u30a7\u30c1",
+      "\u7f8e\u5c11\u5973",
+      "\u4e2d\u51fa\u3057",
+      "\u4e3b\u89b3"
+    ]
+  },
+  {
+    "id": "dpvrs00012",
+    "title": "\u3010VR\u3011\u3008\u304a\u5f97\u306a2\u672c\u30d1\u30c3\u30af\u3009VR\u9e97\u3057\u306e\u719f\u5973\u6e6f\u5c4b \u3044\u3089\u3063\u3057\u3083\u3044\u307e\u305b\u5373\u5c3a\uff06\u548c\u5ba4\u306d\u3063\u3068\u308a\u604b\u4eba\u30d7\u30ec\u30a4\uff0b\u6e6f\u8239\u3067\u6f5c\u671b\u93e1\u30d5\u30a7\u30e9\uff06\u306c\u308b\u306c\u308b\u30de\u30c3\u30c8\u5949\u4ed5\u30d7\u30ec\u30a4 \u585a\u7530\u8a69\u7e54",
+    "size": "7.20 GB",
+    "actress": [
+      "\u585a\u7530\u8a69\u7e54"
+    ],
+    "preview_img_url": "https://pics.dmm.co.jp/digital/video/dpvrs00012/dpvrs00012pl.jpg",
+    "sell_date": "2024/12/21",
+    "duration": "104\u5206",
+    "seed_download_link": "magnet:?xt=urn:btih:477fb3a3ff3608eb1b2d8423bb454df02cef0cc7&dn=dpvrs-012&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce",
+    "director": [],
+    "maker": [
+      "\u30b0\u30ed\u30fc\u30d0\u30eb\u30e1\u30c7\u30a3\u30a2\u30a8\u30f3\u30bf\u30c6\u30a4\u30f3\u30e1\u30f3\u30c8"
+    ],
+    "series": [
+      "\u9ad8\u7d1a\u548c\u98a8\u30bd\u30fc\u30d7"
+    ],
+    "label": [
+      "3D\u719f\u9053"
+    ],
+    "keyword": [
+      "\u30bb\u30c3\u30c8\u5546\u54c1",
+      "\u5358\u4f53\u4f5c\u54c1",
+      "\u719f\u5973",
+      "\u30ad\u30e3\u30d0\u5b22\u30fb\u98a8\u4fd7\u5b22",
+      "\u5de8\u4e73",
+      "\u5de8\u5c3b",
+      "\u4e3b\u89b3",
+      "\u72ec\u5360\u914d\u4fe1",
+      "\u30cf\u30a4\u30af\u30aa\u30ea\u30c6\u30a3VR",
+      "VR\u5c02\u7528"
+    ]
+  },
+  {
+    "id": "vrkm01478",
+    "title": "\u3010VR\u3011\u7d50\u5c40\u76f4\u3050\u30e4\u30e9\u305b\u3066\u304f\u308c\u308b\u30a8\u30ed\u3044\u5973\u304c\u4e00\u756a\u826f\u3044",
+    "size": "14.18 GB",
+    "actress": [],
+    "preview_img_url": "https://pics.dmm.co.jp/digital/video/vrkm01478/vrkm01478pl.jpg",
+    "sell_date": "2024/12/20",
+    "duration": "82\u5206",
+    "seed_download_link": "magnet:?xt=urn:btih:d9ab4077c5eb01f8670a5e38cd9207aede34f813&dn=vrkm01478&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce",
+    "director": [
+      "\u30a6\u30a3\u30eb\u30c1\u30f3\u30c1\u30f3"
+    ],
+    "maker": [
+      "\u30b1\u30a4\u30fb\u30a8\u30e0\u30fb\u30d7\u30ed\u30c7\u30e5\u30fc\u30b9"
+    ],
+    "series": [
+      "\u30e4\u30e9\u305b\u3066\u304f\u308c\u308b\u30a8\u30ed\u3044\u5973"
+    ],
+    "label": [
+      "KMPVR"
+    ],
+    "keyword": [
+      "\u30cf\u30a4\u30af\u30aa\u30ea\u30c6\u30a3VR",
+      "8KVR",
+      "VR\u5c02\u7528",
+      "\u75f4\u5973",
+      "\u5de8\u4e73",
+      "\u4e3b\u89b3",
+      "\u30d1\u30a4\u30ba\u30ea",
+      "\u4e2d\u51fa\u3057"
+    ]
+  },
+  {
+    "id": "ipvr00286",
+    "title": "\u3010VR\u3011\u3042\u3056\u3068\u53ef\u611b\u3044 \u5c0f\u60aa\u9b54\u75f4\u5973\u30cc\u30ad\u30c6\u30af\u4f53\u611fFuck VR \u4f50\u3005\u6728\u3055\u304d",
+    "size": "13.87 GB",
+    "actress": [
+      "\u4f50\u3005\u6728\u3055\u304d"
+    ],
+    "preview_img_url": "https://pics.dmm.co.jp/digital/video/ipvr00286/ipvr00286pl.jpg",
+    "sell_date": "2024/12/20",
+    "duration": "69\u5206",
+    "seed_download_link": "magnet:?xt=urn:btih:02b69cf5238a9d97cf6b4ca41cd738dadccb5c1b&dn=ipvr00286&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce",
+    "director": [
+      "ZAMPA"
+    ],
+    "maker": [
+      "\u30a2\u30a4\u30c7\u30a2\u30dd\u30b1\u30c3\u30c8"
+    ],
+    "series": [],
+    "label": [
+      "IP-VR"
+    ],
+    "keyword": [
+      "\u30cf\u30a4\u30af\u30aa\u30ea\u30c6\u30a3VR",
+      "\u30d5\u30a7\u30e9",
+      "\u4e3b\u89b3",
+      "\u75f4\u5973",
+      "\u7f8e\u4e73",
+      "\u72ec\u5360\u914d\u4fe1",
+      "VR\u5c02\u7528",
+      "\u5358\u4f53\u4f5c\u54c1",
+      "8KVR",
+      "\u7f8e\u5c11\u5973"
+    ]
+  },
+  {
+    "id": "mdvr00335",
+    "title": "\u3010VR\u3011\u304d\u308c\u3044\u306a\u304a\u59c9\u3055\u3093\u3068\u3001\u304d\u308c\u3044\u3067\u30a8\u30c3\u30c1\u306a\u304a\u59c9\u3055\u3093\u3001\u3069\u3063\u3061\u304c\u304a\u597d\u304d\u3067\u3059\u304b\uff1f\u300c\u67d4\u8276\u30fb\u512a\u8276\u30fb\u5996\u8276\u300d\u5143\u30a2\u30a4\u30c9\u30eb\u3089\u3057\u304b\u3089\u306c\u6ea2\u308c\u3093\u3070\u304b\u308a\u306e\u8272\u9999 \u767d\u5ca9\u51ac\u840c\u306b\u3044\u3063\u3071\u3044\u5f04\u3070\u308c\u308b\u4e16\u754c",
+    "size": "19.74 GB",
+    "actress": [
+      "\u767d\u5ca9\u51ac\u840c"
+    ],
+    "preview_img_url": "https://pics.dmm.co.jp/digital/video/mdvr00335/mdvr00335pl.jpg",
+    "sell_date": "2024/12/20",
+    "duration": "89\u5206",
+    "seed_download_link": "magnet:?xt=urn:btih:3b37f0ac543644a17836e7a70725427981828146&dn=mdvr00335&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce",
+    "director": [
+      "ZAMPA"
+    ],
+    "maker": [
+      "\u30e0\u30fc\u30c7\u30a3\u30fc\u30ba"
+    ],
+    "series": [
+      "MOODYZ 8KVR"
+    ],
+    "label": [
+      "MOODYZ VR"
+    ],
+    "keyword": [
+      "\u30cf\u30a4\u30af\u30aa\u30ea\u30c6\u30a3VR",
+      "\u30d1\u30a4\u30ba\u30ea",
+      "\u30ad\u30b9\u30fb\u63a5\u543b",
+      "\u9a0e\u4e57\u4f4d",
+      "\u4e3b\u89b3",
+      "\u72ec\u5360\u914d\u4fe1",
+      "VR\u5c02\u7528",
+      "\u5358\u4f53\u4f5c\u54c1",
+      "8KVR",
+      "\u75f4\u5973"
+    ]
+  },
+  {
+    "id": "savr00513",
+    "title": "\u3010VR\u3011\u5909\u614b\u5973\u6559\u5e2b\u306b\u3088\u308b\u30aa\u30c8\u30ca\u306e\u6027\u652f\u914dLESSON \u4e0d\u767b\u6821\u306e\u606f\u5b50\u306b\u60a9\u3080\u7236\u89aa\u3092\u7d14\u767d\u306e\u7f8e\u5de8\u4e73\u3067\u624b\u61d0\u3051\u308b\u6df1\u591c\u306e\u5bb6\u5ead\u8a2a\u554f \u6708\u91ce\u304b\u3059\u307f",
+    "size": "15.95 GB",
+    "actress": [
+      "\u6708\u91ce\u304b\u3059\u307f"
+    ],
+    "preview_img_url": "https://pics.dmm.co.jp/digital/video/savr00513/savr00513pl.jpg",
+    "sell_date": "2024/12/20",
+    "duration": "99\u5206",
+    "seed_download_link": "magnet:?xt=urn:btih:c9c835786baf020d288056dbd67ef3b2fa4b2d9f&dn=savr-513&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce",
+    "director": [
+      "\u3059\u305a\u304d\u3080NEO"
+    ],
+    "maker": [
+      "KMPVR-\u5f69-"
+    ],
+    "series": [],
+    "label": [
+      "KMPVR-\u5f69-"
+    ],
+    "keyword": [
+      "\u30cf\u30a4\u30af\u30aa\u30ea\u30c6\u30a3VR",
+      "\u5358\u4f53\u4f5c\u54c1",
+      "\u304a\u59c9\u3055\u3093",
+      "\u75f4\u5973",
+      "\u4e2d\u51fa\u3057",
+      "\u5de8\u4e73",
+      "\u4e3b\u89b3",
+      "\u72ec\u5360\u914d\u4fe1",
+      "8KVR",
+      "VR\u5c02\u7528"
+    ]
+  },
+  {
+    "id": "bibivr00136",
+    "title": "\u3010VR\u3011\u30c0\u30f3\u30b5\u30fc\u306e\u8170\u4f7f\u3044\u306f\u30de\u30b8\u3067\u7570\u6b21\u5143\uff01\u307b\u308d\u9154\u3044\u8d05\u6ca2\u30cf\u30fc\u30ec\u30e03P \u4e59\u30a2\u30ea\u30b9 \u516b\u4e43\u3064\u3070\u3055",
+    "size": "5.57 GB",
+    "actress": [
+      "\u4e59\u30a2\u30ea\u30b9",
+      "\u516b\u4e43\u3064\u3070\u3055"
+    ],
+    "preview_img_url": "https://pics.dmm.co.jp/digital/video/bibivr00136/bibivr00136pl.jpg",
+    "sell_date": "2024/12/20",
+    "duration": "59\u5206",
+    "seed_download_link": "magnet:?xt=urn:btih:a834877e2e80303c6a735206e1ea5ed354e2b122&dn=bibivr-136&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce",
+    "director": [
+      "K\u592a\u90ce"
+    ],
+    "maker": [
+      "KMPVR-bibi-"
+    ],
+    "series": [],
+    "label": [
+      "KMPVR-bibi-"
+    ],
+    "keyword": [
+      "\u30cf\u30a4\u30af\u30aa\u30ea\u30c6\u30a3VR",
+      "VR\u5c02\u7528",
+      "\u4e2d\u51fa\u3057",
+      "\u5de8\u4e73",
+      "\u75f4\u5973",
+      "\u30ad\u30e3\u30d0\u5b22\u30fb\u98a8\u4fd7\u5b22",
+      "3P\u30fb4P"
+    ]
+  },
+  {
+    "id": "komz00091",
+    "title": "\u3010VR\u3011\u6392\u6cc4\u30c7\u30d3\u30e5\u30fc\u6226\u306f\u307f\u3063\u3068\u3082\u306a\u3044\u307b\u3069\u5782\u308c\u6d41\u3057\u3063\u3071\u306a\u3057\u306e\u919c\u614b\u3067\u3057\u305f\u306e\u5dfb",
+    "size": "2.32 GB",
+    "actress": [],
+    "preview_img_url": "https://pics.dmm.co.jp/digital/video/komz00091/komz00091pl.jpg",
+    "sell_date": "2024/12/20",
+    "duration": "42\u5206",
+    "seed_download_link": "magnet:?xt=urn:btih:b6ae6f7ea8848fe244a9005ab659d4ef363f9efb&dn=komz-091&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce",
+    "director": [
+      "\u5c0f\u6797\u5341\u4e09"
+    ],
+    "maker": [
+      "1113\u5de5\u623fVR"
+    ],
+    "series": [],
+    "label": [
+      "1113\u5de5\u623fVR"
+    ],
+    "keyword": [
+      "\u72ec\u5360\u914d\u4fe1",
+      "\u30cf\u30a4\u30af\u30aa\u30ea\u30c6\u30a3VR",
+      "VR\u5c02\u7528",
+      "\u305d\u306e\u4ed6\u30d5\u30a7\u30c1",
+      "\u653e\u5c3f\u30fb\u304a\u6f0f\u3089\u3057",
+      "\u8131\u7cde"
+    ]
+  },
+  {
+    "id": "komz00090",
+    "title": "\u3010VR\u3011\u76ee\u306e\u524d\u6570\u30bb\u30f3\u30c1\u306b\u5973\u306e\u88f8",
+    "size": "2.61 GB",
+    "actress": [],
+    "preview_img_url": "https://pics.dmm.co.jp/digital/video/komz00090/komz00090pl.jpg",
+    "sell_date": "2024/12/20",
+    "duration": "38\u5206",
+    "seed_download_link": "magnet:?xt=urn:btih:203dc4621036081e3673c737391fe99e471a5361&dn=komz-090&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce",
+    "director": [
+      "\u5c0f\u6797\u5341\u4e09"
+    ],
+    "maker": [
+      "1113\u5de5\u623fVR"
+    ],
+    "series": [],
+    "label": [
+      "1113\u5de5\u623fVR"
+    ],
+    "keyword": [
+      "\u72ec\u5360\u914d\u4fe1",
+      "\u30cf\u30a4\u30af\u30aa\u30ea\u30c6\u30a3VR",
+      "VR\u5c02\u7528",
+      "\u305d\u306e\u4ed6\u30d5\u30a7\u30c1",
+      "\u5c40\u90e8\u30a2\u30c3\u30d7"
+    ]
+  },
+  {
+    "id": "komz00089",
+    "title": "\u3010VR\u3011\u30d1\u30f3\u30b9\u30c8\u5c65\u304d\u306e\u30ea\u30a2\u30eb vol.2",
+    "size": "2.23 GB",
+    "actress": [],
+    "preview_img_url": "https://pics.dmm.co.jp/digital/video/komz00089/komz00089pl.jpg",
+    "sell_date": "2024/12/20",
+    "duration": "31\u5206",
+    "seed_download_link": "magnet:?xt=urn:btih:f2ac978b5ca3fd4e3a910cf74d44c8a87fa6810e&dn=komz-089&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce",
+    "director": [
+      "\u5c0f\u6797\u5341\u4e09"
+    ],
+    "maker": [
+      "1113\u5de5\u623fVR"
+    ],
+    "series": [],
+    "label": [
+      "1113\u5de5\u623fVR"
+    ],
+    "keyword": [
+      "\u72ec\u5360\u914d\u4fe1",
+      "\u30cf\u30a4\u30af\u30aa\u30ea\u30c6\u30a3VR",
+      "\u305d\u306e\u4ed6\u30d5\u30a7\u30c1",
+      "\u30d1\u30f3\u30b9\u30c8\u30fb\u30bf\u30a4\u30c4",
+      "VR\u5c02\u7528"
+    ]
+  },
+  {
+    "id": "komz00088",
+    "title": "\u3010VR\u3011\u30b9\u30ab\u30fc\u30c8\u306e\u4e2d\u3067\u6df1\u547c\u5438\u3057\u305f\u3044",
+    "size": "4.96 GB",
+    "actress": [],
+    "preview_img_url": "https://pics.dmm.co.jp/digital/video/komz00088/komz00088pl.jpg",
+    "sell_date": "2024/12/20",
+    "duration": "65\u5206",
+    "seed_download_link": "magnet:?xt=urn:btih:9e9c2d471fcd6b79cf638eb66fe423af452788e1&dn=komz-088&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce",
+    "director": [
+      "\u5c0f\u6797\u5341\u4e09"
+    ],
+    "maker": [
+      "1113\u5de5\u623fVR"
+    ],
+    "series": [],
+    "label": [
+      "1113\u5de5\u623fVR"
+    ],
+    "keyword": [
+      "\u72ec\u5360\u914d\u4fe1",
+      "\u30cf\u30a4\u30af\u30aa\u30ea\u30c6\u30a3VR",
+      "\u305d\u306e\u4ed6\u30d5\u30a7\u30c1",
+      "\u30d1\u30f3\u30c1\u30e9",
+      "VR\u5c02\u7528"
+    ]
+  },
+  {
+    "id": "komz00087",
+    "title": "\u3010VR\u3011\u6027\u6b32\u304c\u6291\u3048\u304d\u308c\u306a\u3044\u4eba\u59bb \u6027\u5668\u306b\u3064\u3044\u3066\u8a9e\u3063\u3066\u3044\u305f\u30cf\u30ba\u304c\u6211\u6162\u3067\u304d\u305a\u306b\u30ab\u30e1\u30e9\u306e\u524d\u3067\u516c\u958b\u30aa\u30ca\u30cb\u30fc",
+    "size": "2.11 GB",
+    "actress": [],
+    "preview_img_url": "https://pics.dmm.co.jp/digital/video/komz00087/komz00087pl.jpg",
+    "sell_date": "2024/12/20",
+    "duration": "34\u5206",
+    "seed_download_link": "magnet:?xt=urn:btih:348d8a659249ec056d3627633bde13f15835d836&dn=komz-087&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce",
+    "director": [
+      "\u5c0f\u6797\u5341\u4e09"
+    ],
+    "maker": [
+      "1113\u5de5\u623fVR"
+    ],
+    "series": [],
+    "label": [
+      "1113\u5de5\u623fVR"
+    ],
+    "keyword": [
+      "\u72ec\u5360\u914d\u4fe1",
+      "\u30cf\u30a4\u30af\u30aa\u30ea\u30c6\u30a3VR",
+      "\u305d\u306e\u4ed6\u30d5\u30a7\u30c1",
+      "\u5c40\u90e8\u30a2\u30c3\u30d7",
+      "\u30aa\u30ca\u30cb\u30fc",
+      "VR\u5c02\u7528"
+    ]
+  },
+  {
+    "id": "komz00086",
+    "title": "\u3010VR\u3011\u3042\u306a\u305f\u306b\u898b\u3066\u307b\u3057\u3044\u306e\u2026\u7a4d\u6975\u7684\u6065\u90e8\u9b45\u305b\u3064\u3051",
+    "size": "3.70 GB",
+    "actress": [],
+    "preview_img_url": "https://pics.dmm.co.jp/digital/video/komz00086/komz00086pl.jpg",
+    "sell_date": "2024/12/20",
+    "duration": "44\u5206",
+    "seed_download_link": "magnet:?xt=urn:btih:14942449063b31fae71713bd3170cc579f98d73e&dn=komz-086&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce",
+    "director": [
+      "\u5c0f\u6797\u5341\u4e09"
+    ],
+    "maker": [
+      "1113\u5de5\u623fVR"
+    ],
+    "series": [],
+    "label": [
+      "1113\u5de5\u623fVR"
+    ],
+    "keyword": [
+      "\u72ec\u5360\u914d\u4fe1",
+      "\u30cf\u30a4\u30af\u30aa\u30ea\u30c6\u30a3VR",
+      "\u305d\u306e\u4ed6\u30d5\u30a7\u30c1",
+      "\u5c40\u90e8\u30a2\u30c3\u30d7",
+      "VR\u5c02\u7528"
+    ]
+  },
+  {
+    "id": "kiwvrb00036",
+    "title": "\u3010VR\u3011\u3010500\u5186\u30ef\u30f3\u30b3\u30a4\u30f3\u3011\u5e74\u672b\u5e74\u59cb\u8d85\u30fb\u8d85\u30fb\u8d85\u30fb\u611f\u8b1d\u796d\uff01\uff01\u5927\u653e\u51fa \u798f\u888b 50\u4eba50\u30bf\u30a4\u30c8\u30eb500\u5206OVER-\u8d85\u9ad8\u753b\u8cea \u6c38\u4e45\u4fdd\u5b58\u7248-",
+    "size": "47.98 GB",
+    "actress": [],
+    "preview_img_url": "https://pics.dmm.co.jp/digital/video/kiwvrb00036/kiwvrb00036pl.jpg",
+    "sell_date": "2024/12/20",
+    "duration": "507\u5206",
+    "seed_download_link": "magnet:?xt=urn:btih:aac36eda658e1c269c2b70aa92971b591c157e3a&dn=kiwvrb-036&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce",
+    "director": [],
+    "maker": [
+      "\u3053\u3042\u3089VR"
+    ],
+    "series": [
+      "\u3053\u3042\u3089VR\u6975\u30d9\u30b9\u30c8"
+    ],
+    "label": [
+      "\u6975\u30b0\u30eb\u30fc\u30d7"
+    ],
+    "keyword": [
+      "\u7f8e\u5c11\u5973",
+      "4\u6642\u9593\u4ee5\u4e0a\u4f5c\u54c1",
+      "VR\u5c02\u7528",
+      "\u72ec\u5360\u914d\u4fe1",
+      "\u30d9\u30b9\u30c8\u30fb\u7dcf\u96c6\u7de8",
+      "\u30ed\u30fc\u30b7\u30e7\u30f3\u30fb\u30aa\u30a4\u30eb",
+      "\u30ad\u30e3\u30d0\u5b22\u30fb\u98a8\u4fd7\u5b22",
+      "\u4e2d\u51fa\u3057",
+      "\u5de8\u4e73",
+      "\u30cf\u30a4\u30af\u30aa\u30ea\u30c6\u30a3VR"
+    ]
+  },
+  {
+    "id": "kiwvr00721",
+    "title": "\u3010VR\u3011\u30108K\u3011\u9589\u5e97\u9593\u969b\u306e\u30bb\u30af\u30b7\u30fc\u30b3\u30f3\u30ab\u30d5\u30a7\u3067\u3077\u308b\u308b\u3093Gcup\u7f8e\u5de8\u4e73\u3067\u5931\u604b\u3092\u7652\u3057\u3066\u304f\u308c\u308b\u751f\u4e2d\u51fa\u3057\uff01\u304a\u6301\u3061\u5e30\u308a\u3055\u308c\u305f\u30e9\u30c3\u30ad\u30fc\u30b9\u30b1\u30d9VR \u5982\u6708\u308a\u3044\u3055",
+    "size": "11.99 GB",
+    "actress": [
+      "\u5982\u6708\u308a\u3044\u3055"
+    ],
+    "preview_img_url": "https://pics.dmm.co.jp/digital/video/kiwvr00721/kiwvr00721pl.jpg",
+    "sell_date": "2024/12/20",
+    "duration": "69\u5206",
+    "seed_download_link": "magnet:?xt=urn:btih:ad8be7a0c28caef5b6db987d082d6094cd8e51b7&dn=kiwvr-721&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce",
+    "director": [
+      "\u3053\u3042\u3089\u592a\u90ce\uff08\u308f\uff09"
+    ],
+    "maker": [
+      "\u3053\u3042\u3089VR"
+    ],
+    "series": [
+      "8KVR\u3010\u9589\u5e97\u9593\u969b\u306e\u25cb\u25cb\u3067\u30e9\u30c3\u30ad\u30fc\u30b9\u30b1\u30d9\u3011"
+    ],
+    "label": [
+      "\u6975\u30b0\u30eb\u30fc\u30d7"
+    ],
+    "keyword": [
+      "\u30cf\u30a4\u30af\u30aa\u30ea\u30c6\u30a3VR",
+      "\u30b3\u30b9\u30d7\u30ec",
+      "\u6c34\u7740",
+      "\u4e2d\u51fa\u3057",
+      "\u30d1\u30a4\u30ba\u30ea",
+      "8KVR",
+      "\u72ec\u5360\u914d\u4fe1",
+      "VR\u5c02\u7528",
+      "\u5358\u4f53\u4f5c\u54c1",
+      "\u5de8\u4e73"
+    ]
+  },
+  {
+    "id": "juvr00208",
+    "title": "\u3010VR\u3011\u8d85\u9ad8\u753b\u8cea8KVR \u4e0a\u53f8\u306b\u9023\u308c\u3066\u3053\u3089\u308c\u305f\u79d8\u5883\u306e\u6e29\u6cc9\u5bbf\u3067\u30e0\u30c3\u30c1\u30ea\u30b9\u30b1\u30d9\u306e\u7d76\u502b\u82e5\u5973\u5c06\u30fb\u306e\u3093\u3055\u3093\u306b\u3054\u5949\u4ed5\u751f\u30cf\u30e1\u3067\u6b53\u8fce\u3055\u308c\u7d9a\u3051\u305f\u50d5 \u7269\u51c4\u3044\u6027\u63a5\u5f85\u3067\u5642\u306e\u56de\u6625\u65c5\u9928 \u5c0f\u82b1\u306e\u3093",
+    "size": "36.75 GB",
+    "actress": [
+      "\u5c0f\u82b1\u306e\u3093"
+    ],
+    "preview_img_url": "https://pics.dmm.co.jp/digital/video/juvr00208/juvr00208pl.jpg",
+    "sell_date": "2024/12/20",
+    "duration": "97\u5206",
+    "seed_download_link": "magnet:?xt=urn:btih:c17dad86fc4a5b5f415c96db2e2edadb4cc22e29&dn=juvr-208&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce",
+    "director": [
+      "\u30b8\u30fc\u30cb\u30a2\u30b9\u819d"
+    ],
+    "maker": [
+      "\u30de\u30c9\u30f3\u30ca"
+    ],
+    "series": [
+      "Madonna8KVR"
+    ],
+    "label": [
+      "MadonnaVR"
+    ],
+    "keyword": [
+      "\u30cf\u30a4\u30af\u30aa\u30ea\u30c6\u30a3VR",
+      "\u5de8\u4e73",
+      "\u6e29\u6cc9",
+      "\u75f4\u5973",
+      "\u719f\u5973",
+      "\u72ec\u5360\u914d\u4fe1",
+      "VR\u5c02\u7528",
+      "\u5358\u4f53\u4f5c\u54c1",
+      "8KVR",
+      "\u4eba\u59bb\u30fb\u4e3b\u5a66"
+    ]
+  },
+  {
+    "id": "cafuku00023",
+    "title": "\u3010VR\u3011\u30cb\u30fc\u30cf\u30a4\u98df\u3044\u8fbc\u307f\u3080\u3063\u3061\u308a\u592a\u3082\u3082\u304c\u597d\u304d\u3059\u304e\u3066\u3057\u3093\u3069\u3044\u4eba\u306e\u70ba\u306e\u30cb\u30fc\u30cf\u30a4\u798f\u888b",
+    "size": "40.69 GB",
+    "actress": [
+      "\u771f\u6728\u4eca\u65e5\u5b50",
+      "\u8475\u767e\u5408\u9999",
+      "\u7a32\u5834\u308b\u304b",
+      "\u5e02\u6765\u307e\u3072\u308d",
+      "\u6771\u689d\u306a\u3064",
+      "\u5b89\u85e4\u3082\u3042",
+      "\u65b0\u7530\u307f\u308c\u3044",
+      "\u4f50\u4f2f\u7531\u7f8e\u9999",
+      "\u4e03\u6d77\u3086\u3042",
+      "\u7be0\u539f\u308a\u3053"
+    ],
+    "preview_img_url": "https://pics.dmm.co.jp/digital/video/cafuku00023/cafuku00023pl.jpg",
+    "sell_date": "2024/12/20",
+    "duration": "526\u5206",
+    "seed_download_link": "magnet:?xt=urn:btih:465369b4439bd05f34ebbc7a29a3ba6ea986bf37&dn=cafuku-023&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce",
+    "director": [],
+    "maker": [
+      "CASANOVA"
+    ],
+    "series": [
+      "BEST\u798f\u888b\uff08CASANOVA\uff09"
+    ],
+    "label": [
+      "CASANOVA"
+    ],
+    "keyword": [
+      "\u30cf\u30a4\u30af\u30aa\u30ea\u30c6\u30a3VR",
+      "\u811a\u30d5\u30a7\u30c1",
+      "\u30e1\u30a4\u30c9",
+      "\u7f8e\u5c11\u5973",
+      "\u9a0e\u4e57\u4f4d",
+      "\u72ec\u5360\u914d\u4fe1",
+      "VR\u5c02\u7528",
+      "\u30bb\u30c3\u30c8\u5546\u54c1",
+      "4\u6642\u9593\u4ee5\u4e0a\u4f5c\u54c1",
+      "\u30cb\u30fc\u30bd\u30c3\u30af\u30b9"
+    ]
+  },
+  {
+    "id": "aquma00063",
+    "title": "\u3010VR\u3011\u305f\u3060\u3072\u305f\u3059\u3089\u4e73\u9996\u8cac\u3081VR \u53f3\u4e73\u9996\u8cac\u3081ver",
+    "size": "5.11 GB",
+    "actress": [
+      "\u6625\u8c37\u7f8e\u96e8",
+      "\u6c34\u702c\u3055\u306a",
+      "\u6771\u6761\u5b9f\u6faa",
+      "\u767e\u6c38\u3055\u308a\u306a",
+      "Nia\uff08\u4f0a\u6771\u3081\u308b\uff09",
+      "\u6cc9\u7530\u681e"
+    ],
+    "preview_img_url": "https://pics.dmm.co.jp/digital/video/aquma00063/aquma00063pl.jpg",
+    "sell_date": "2024/12/20",
+    "duration": "61\u5206",
+    "seed_download_link": "magnet:?xt=urn:btih:ece022ca4defcc7da62aeb7bffe39dec293e2302&dn=aquma-063&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce",
+    "director": [
+      "\u5c71\u672c\u30d8\u30f3\u30c9\u30ea\u30af\u30b9"
+    ],
+    "maker": [
+      "AQUA\uff1c\u30a2\u30af\u30a2\uff1e"
+    ],
+    "series": [
+      "\u305f\u3060\u3072\u305f\u3059\u3089\u4e73\u9996\u8cac\u3081VR"
+    ],
+    "label": [
+      "AQUA MANIAC"
+    ],
+    "keyword": [
+      "\u30cf\u30a4\u30af\u30aa\u30ea\u30c6\u30a3VR",
+      "VR\u5c02\u7528",
+      "\u72ec\u5360\u914d\u4fe1",
+      "\u7f8e\u5c11\u5973",
+      "\u305d\u306e\u4ed6\u30d5\u30a7\u30c1",
+      "\u30aa\u30ca\u30b5\u30dd",
+      "\u4e3b\u89b3",
+      "\u6deb\u8a9e"
+    ]
+  },
+  {
+    "id": "aquco00076",
+    "title": "\u3010VR\u3011\u4ffa\u306e\u53cb\u9054\u306b\u5bdd\u3066\u3044\u308b\u6700\u4e2d\u306b\u624b\u3092\u51fa\u3055\u308c\u305f\u5f7c\u5973\u304c\u3042\u306e\u30c1\u25cf\u30dd\u3092\u5fd8\u308c\u305f\u304f\u3066\u706b\u7167\u3063\u305f\u307e\u307e\u306e\u4f53\u3067\u6c42\u3081\u3066\u304d\u305f",
+    "size": "31.58 GB",
+    "actress": [
+      "\u4e00\u6761\u307f\u304a"
+    ],
+    "preview_img_url": "https://pics.dmm.co.jp/digital/video/aquco00076/aquco00076pl.jpg",
+    "sell_date": "2024/12/20",
+    "duration": "90\u5206",
+    "seed_download_link": "magnet:?xt=urn:btih:cb460d3ca47b8fcc5eca106f68f90e7eb4a43df1&dn=aquco-076&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce",
+    "director": [
+      "\u5c71\u672c\u30d8\u30f3\u30c9\u30ea\u30af\u30b9"
+    ],
+    "maker": [
+      "AQUA\uff1c\u30a2\u30af\u30a2\uff1e"
+    ],
+    "series": [
+      "\u4ffa\u306e\u53cb\u9054\u306b\u5bdd\u3066\u3044\u308b\u6700\u4e2d\u306b\u624b\u3092\u51fa\u3055\u308c\u305f\u5f7c\u5973\u304c\u3042\u306e\u30c1\u25cf\u30dd\u3092\u5fd8\u308c\u305f\u304f\u3066\u706b\u7167\u3063\u305f\u307e\u307e\u306e\u4f53\u3067\u6c42\u3081\u3066\u304d\u305f"
+    ],
+    "label": [
+      "AQUA COLORS"
+    ],
+    "keyword": [
+      "\u30cf\u30a4\u30af\u30aa\u30ea\u30c6\u30a3VR",
+      "8KVR",
+      "VR\u5c02\u7528",
+      "\u72ec\u5360\u914d\u4fe1",
+      "\u4e2d\u51fa\u3057",
+      "\u3054\u3063\u304f\u3093",
+      "\u30d5\u30a7\u30e9",
+      "\u30ab\u30c3\u30d7\u30eb",
+      "\u5bdd\u53d6\u308a\u30fb\u5bdd\u53d6\u3089\u308c\u30fbNTR"
+    ]
+  },
+  {
+    "id": "aqube00048",
+    "title": "\u3010VR\u3011\u30af\u30bd\u96d1\u9b5a\u30aa\u30b8\u3092\u5c0f\u30d0\u30ab\u306b\u3057\u306a\u304c\u3089\u8e0f\u307f\u3064\u3051\u308b\u306e\u304c\u3060\uff5e\u3044\u597d\u304d\uff01\u30e1\u30b9\u30ac\u30ad\u5a18\u306e\u767d\u30bd\u30c3\u30af\u30b9\u30d5\u30a7\u30c1club \u4e0a\u5742\u3081\u3044",
+    "size": "26.82 GB",
+    "actress": [
+      "\u4e0a\u5742\u3081\u3044"
+    ],
+    "preview_img_url": "https://pics.dmm.co.jp/digital/video/aqube00048/aqube00048pl.jpg",
+    "sell_date": "2024/12/20",
+    "duration": "73\u5206",
+    "seed_download_link": "magnet:?xt=urn:btih:5fb0ffb0b6d4c81bb4e1af857a3e43d791602f46&dn=aqube-048&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce",
+    "director": [
+      "\u30e2\u30b0Y"
+    ],
+    "maker": [
+      "AQUA\uff1c\u30a2\u30af\u30a2\uff1e"
+    ],
+    "series": [
+      "\u30e1\u30b9\u30ac\u30ad\u5a18\u306e\u767d\u30bd\u30c3\u30af\u30b9\u30d5\u30a7\u30c1club"
+    ],
+    "label": [
+      "AQUA BEBE"
+    ],
+    "keyword": [
+      "\u30cf\u30a4\u30af\u30aa\u30ea\u30c6\u30a3VR",
+      "\u5236\u670d",
+      "\u811a\u30d5\u30a7\u30c1",
+      "\u8db3\u30b3\u30ad",
+      "\u30b9\u30ec\u30f3\u30c0\u30fc",
+      "\u72ec\u5360\u914d\u4fe1",
+      "VR\u5c02\u7528",
+      "\u5358\u4f53\u4f5c\u54c1",
+      "8KVR",
+      "\u7f8e\u5c11\u5973"
+    ]
+  },
+  {
+    "id": "savr00510",
+    "title": "\u3010VR\u3011\u30dc\u30af\u306e\u30c1\u3007\u30dd\u3092\u8caa\u308b\u30c7\u30ab\u5c3b\u30a2\u30d1\u30fc\u30c8\u59bb \u5bb6\u306b\u65e6\u90a3\u304c\u3044\u308b\u6642\u306f\u30b5\u30a4\u30ec\u30f3\u30c8\u3067\u3001\u4e0d\u5728\u306e\u6642\u306f\u7206\u97f3\u30d4\u30b9\u30c8\u30f3\u3067\u6027\u6b32\u3092\u767a\u6563\u3055\u305b\u308b\u96a3\u4eba\u4e0d\u502b \u5f25\u751f\u307f\u3065\u304d",
+    "size": "10.88 GB",
+    "actress": [
+      "\u5f25\u751f\u307f\u3065\u304d"
+    ],
+    "preview_img_url": "https://pics.dmm.co.jp/digital/video/savr00510/savr00510pl.jpg",
+    "sell_date": "2024/12/20",
+    "duration": "77\u5206",
+    "seed_download_link": "magnet:?xt=urn:btih:b64ddbad8cc8101de34d2705deb12bede9c360b1&dn=savr00510&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce",
+    "director": [
+      "\u52d5\u7dda\u6f70\u3057"
+    ],
+    "maker": [
+      "KMPVR-\u5f69-"
+    ],
+    "series": [],
+    "label": [
+      "KMPVR-\u5f69-"
+    ],
+    "keyword": [
+      "\u30cf\u30a4\u30af\u30aa\u30ea\u30c6\u30a3VR",
+      "\u5358\u4f53\u4f5c\u54c1",
+      "\u4eba\u59bb\u30fb\u4e3b\u5a66",
+      "\u4e0d\u502b",
+      "\u5de8\u5c3b",
+      "\u9a0e\u4e57\u4f4d",
+      "\u4e2d\u51fa\u3057",
+      "\u72ec\u5360\u914d\u4fe1",
+      "8KVR",
+      "VR\u5c02\u7528"
+    ]
+  },
+  {
+    "id": "13dsvr01652",
+    "title": "\u3010VR\u3011\u30108K\u3011\u50d5\u306e\u304a\u59c9\u3061\u3083\u3093\u306f\u3088\u3063\u3071\u3089\u3046\u3068\u30cc\u30ad\u4e0a\u6238\u306b\u306a\u308a\u307e\u3059 \u6c99\u6708\u6075\u5948",
+    "size": "13.75 GB",
+    "actress": [
+      "\u6c99\u6708\u6075\u5948"
+    ],
+    "preview_img_url": "https://pics.dmm.co.jp/digital/video/13dsvr01652/13dsvr01652pl.jpg",
+    "sell_date": "2024/12/19",
+    "duration": "74\u5206",
+    "seed_download_link": "magnet:?xt=urn:btih:ffb0a526b9bc3b7a729245a5d4c12e0f6470e1c1&dn=dsvr01652&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce",
+    "director": [
+      "\u5c71\u7530\u30f4\u30a7\u30ed\u30cb\u30ab"
+    ],
+    "maker": [
+      "SOD\u30af\u30ea\u30a8\u30a4\u30c8"
+    ],
+    "series": [],
+    "label": [
+      "SODVR"
+    ],
+    "keyword": [
+      "\u30cf\u30a4\u30af\u30aa\u30ea\u30c6\u30a3VR",
+      "8KVR",
+      "\u5358\u4f53\u4f5c\u54c1",
+      "VR\u5c02\u7528",
+      "\u7f8e\u5c11\u5973",
+      "\u4e2d\u51fa\u3057",
+      "\u30d5\u30a7\u30e9",
+      "\u8fd1\u89aa\u76f8\u59e6",
+      "\u59c9\u30fb\u59b9"
+    ]
+  },
+  {
+    "id": "nkkvr00137",
+    "title": "\u3010VR\u3011\u3010\u5727\u5012\u7684\u8d85\u8089\u611f\u7279\u5316\u3011Y2K\u3080\u3063\u3061\u3080\u3061\u3071\u3063\u3064\u3071\u3064JK\u30b3\u30b9\u30d7\u30ec\u5a18\u3068\u91d1\u7389\u888b\u304b\u3089\u7cbe\u5b50\u304c\u67af\u308c\u679c\u3066\u308b\u307e\u3067\u4f55\u5ea6\u3082\u4f55\u5ea6\u3082\u8caa\u308a\u6027\u4ea4\uff01\uff01 \u85e4\u6ca2\u9e97\u592e",
+    "size": "15.12 GB",
+    "actress": [
+      "\u85e4\u6ca2\u9e97\u592e"
+    ],
+    "preview_img_url": "https://pics.dmm.co.jp/digital/video/nkkvr00137/nkkvr00137pl.jpg",
+    "sell_date": "2024/12/19",
+    "duration": "76\u5206",
+    "seed_download_link": "magnet:?xt=urn:btih:42ba6d3795fbd92c6683b9afe2a7d7f3c11fcf89&dn=nkkvr00137&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce",
+    "director": [
+      "\u30af\u30ef\u30c3\u30c1\u30fc"
+    ],
+    "maker": [
+      "\u8089\u304d\u3085\u3093\u30d1\u30e9\u30c0\u30a4\u30b9VR"
+    ],
+    "series": [
+      "Y2K\u3010J\u25cf\u3011\u30b3\u30b9\u30d7\u30ec\uff01\uff01"
+    ],
+    "label": [
+      "\u6975\u30b0\u30eb\u30fc\u30d7"
+    ],
+    "keyword": [
+      "\u30cf\u30a4\u30af\u30aa\u30ea\u30c6\u30a3VR",
+      "\u5de8\u4e73",
+      "\u75f4\u5973",
+      "\u9a0e\u4e57\u4f4d",
+      "\u30d1\u30a4\u30ba\u30ea",
+      "\u72ec\u5360\u914d\u4fe1",
+      "VR\u5c02\u7528",
+      "\u5358\u4f53\u4f5c\u54c1",
+      "8KVR",
+      "\u4e2d\u51fa\u3057"
+    ]
+  },
+  {
+    "id": "kavr00396",
+    "title": "\u3010VR\u3011\u4ea4\u969b\u3057\u30661\u5e74\u3001\u8abf\u6559\u5b8c\u4e86\u3057\u305f\u3069\u3063\u3077\u308a\u4ffa\u8272\u306b\u67d3\u307e\u3063\u305f\u30c9M\u5f7c\u5973 \u5bae\u702c\u308b\u304b",
+    "size": "14.25 GB",
+    "actress": [
+      "\u5bae\u702c\u308b\u304b"
+    ],
+    "preview_img_url": "https://pics.dmm.co.jp/digital/video/kavr00396/kavr00396pl.jpg",
+    "sell_date": "2024/12/19",
+    "duration": "66\u5206",
+    "seed_download_link": "magnet:?xt=urn:btih:27b9ff8b7d7a2761e5b419c3cfd2f46752d653cf&dn=kavr-396&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce",
+    "director": [
+      "ZAMPA"
+    ],
+    "maker": [
+      "kawaii"
+    ],
+    "series": [
+      "kawaii*VR"
+    ],
+    "label": [
+      "kawaii* VR"
+    ],
+    "keyword": [
+      "\u30cf\u30a4\u30af\u30aa\u30ea\u30c6\u30a3VR",
+      "\u62d8\u675f",
+      "\u7f8e\u5c11\u5973",
+      "\u30a2\u30af\u30e1\u30fb\u30aa\u30fc\u30ac\u30ba\u30e0",
+      "\u4e3b\u89b3",
+      "\u72ec\u5360\u914d\u4fe1",
+      "VR\u5c02\u7528",
+      "\u5358\u4f53\u4f5c\u54c1",
+      "8KVR",
+      "M\u5973"
+    ]
+  },
+  {
+    "id": "vrprd00061",
+    "title": "\u3010VR\u3011\u5869\u5bfe\u5fdc\u30d1\u25cf\u6d3b\u5973\u5b50\u25cf\u751f\u30c1\u25cf\u30dd\u751f\u3067\u30a4\u30ab\u305b\u307e\u304f\u3063\u305f\uff5e4\u4eba\u76ee\uff5e",
+    "size": "9.25 GB",
+    "actress": [],
+    "preview_img_url": "https://pics.dmm.co.jp/digital/video/vrprd00061/vrprd00061pl.jpg",
+    "sell_date": "2024/12/19",
+    "duration": "74\u5206",
+    "seed_download_link": "magnet:?xt=urn:btih:aefed91aac3b137a71ff1526313ade22eb045928&dn=vrprd-061&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce",
+    "director": [
+      "\u767d\u6a3a\u306e\u5e79"
+    ],
+    "maker": [
+      "VR\u30d1\u30e9\u30c0\u30a4\u30b9"
+    ],
+    "series": [
+      "\u5869\u5bfe\u5fdc"
+    ],
+    "label": [
+      "\u6975\u30b0\u30eb\u30fc\u30d7"
+    ],
+    "keyword": [
+      "\u30cf\u30a4\u30af\u30aa\u30ea\u30c6\u30a3VR",
+      "8KVR",
+      "VR\u5c02\u7528",
+      "\u72ec\u5360\u914d\u4fe1",
+      "\u5236\u670d",
+      "\u30d5\u30a7\u30e9",
+      "\u4e2d\u51fa\u3057",
+      "\u30ae\u30e3\u30eb",
+      "\u5973\u5b50\u6821\u751f"
+    ]
+  },
+  {
+    "id": "pxvr00220",
+    "title": "\u3010VR\u3011\u3074\u3063\u3061\u308a\u30cf\u30a4\u30ec\u30b0\u98df\u3044\u8fbc\u307f\u30aa\u30ca\u30cb\u30fcVR\u30108K\u3011",
+    "size": "25.00 GB",
+    "actress": [
+      "\u9ed2\u6728\u308c\u3044\u306a",
+      "\u7f8e\u6ce2\u6c50\u91cc",
+      "\u5c0f\u5742\u3072\u307e\u308a",
+      "\u83ca\u6c60\u306f\u308b",
+      "\u5929\u99ac\u3086\u3044",
+      "\u6c34\u539f\u307f\u305d\u306e",
+      "\u897f\u91ce\u7d75\u7f8e"
+    ],
+    "preview_img_url": "https://pics.dmm.co.jp/digital/video/pxvr00220/pxvr00220pl.jpg",
+    "sell_date": "2024/12/18",
+    "duration": "111\u5206",
+    "seed_download_link": "magnet:?xt=urn:btih:101d2a03a07425fe8112c88198aa63de70e5c692&dn=pxvr-220&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce",
+    "director": [],
+    "maker": [
+      "P-BOX VR"
+    ],
+    "series": [
+      "\u3053\u3060\u308f\u308a\u30d5\u30a7\u30c1VR"
+    ],
+    "label": [
+      "P-BOX VR"
+    ],
+    "keyword": [
+      "\u30cf\u30a4\u30af\u30aa\u30ea\u30c6\u30a3VR",
+      "8KVR",
+      "VR\u5c02\u7528",
+      "\u72ec\u5360\u914d\u4fe1",
+      "\u305d\u306e\u4ed6\u30d5\u30a7\u30c1",
+      "\u4e3b\u89b3",
+      "\u30aa\u30ca\u30cb\u30fc",
+      "\u7af6\u6cf3\u30fb\u30b9\u30af\u30fc\u30eb\u6c34\u7740",
+      "\u7f8e\u5c11\u5973"
+    ]
+  },
+  {
+    "id": "pxvr00228",
+    "title": "\u3010VR\u3011\u30cf\u30df\u6bdb\u3067\u8a98\u60d1\u3057\u3066\u304f\u308b\u795e\u4e73G\u30ab\u30c3\u30d7\u7f8e\u4eba\u30a8\u30b9\u30c6\u30c6\u30a3\u30b7\u30e3\u30f3\u306e\u5bc6\u6797\u30de\u3007\u30b3\u306b\u7121\u5236\u9650\u767a\u5c04\uff01 \u6d5c\u8fba\u681e\u5e06\u30108K\u3011",
+    "size": "12.62 GB",
+    "actress": [
+      "\u6d5c\u8fba\u681e\u5e06"
+    ],
+    "preview_img_url": "https://pics.dmm.co.jp/digital/video/pxvr00228/pxvr00228pl.jpg",
+    "sell_date": "2024/12/18",
+    "duration": "81\u5206",
+    "seed_download_link": "magnet:?xt=urn:btih:464e773e5d28527434539d572de0656dd17211d9&dn=pxvr00228&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce",
+    "director": [
+      "\u30a2\u30ab\u30ae\u5149\u4e00"
+    ],
+    "maker": [
+      "P-BOX VR"
+    ],
+    "series": [
+      "\u5de8\u4e73\u30a8\u30b9\u30c6\u30c6\u30a3\u30b7\u30e3\u30f3"
+    ],
+    "label": [
+      "P-BOX VR"
+    ],
+    "keyword": [
+      "\u30cf\u30a4\u30af\u30aa\u30ea\u30c6\u30a3VR",
+      "\u9a0e\u4e57\u4f4d",
+      "\u4e2d\u51fa\u3057",
+      "\u30d5\u30a7\u30e9",
+      "\u75f4\u5973",
+      "\u72ec\u5360\u914d\u4fe1",
+      "VR\u5c02\u7528",
+      "\u5358\u4f53\u4f5c\u54c1",
+      "8KVR",
+      "\u5de8\u4e73"
+    ]
+  },
+  {
+    "id": "pxvr00224",
+    "title": "\u3010VR\u3011\u30dc\u30af\u304c\u5e30\u3063\u3066\u304d\u305f\u77ac\u9593\u304b\u3089\u5373\u30cf\u30e1\u3057\u305f\u304c\u308bI-cup\u30e4\u30ea\u30de\u30f3\u7f8e\u4eba\u59bb\u306b\u7121\u9650\u643e\u7cbe\u3055\u308c\u308b\uff08\u60aa\uff09\uff1f\u5922\u306e\u3088\u3046\u306a\u7d50\u5a5a\u6027\u6d3b \u4e03\u539f\u3055\u3086 \u30108K\u3011",
+    "size": "13.91 GB",
+    "actress": [
+      "\u4e03\u539f\u3055\u3086"
+    ],
+    "preview_img_url": "https://pics.dmm.co.jp/digital/video/pxvr00224/pxvr00224pl.jpg",
+    "sell_date": "2024/12/18",
+    "duration": "75\u5206",
+    "seed_download_link": "magnet:?xt=urn:btih:c993719b04aee41831934291067162f83c3bd8fd&dn=pxvr00224&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce",
+    "director": [
+      "\u3053\u3042\u3089\u592a\u90ce\uff08\u308f\uff09"
+    ],
+    "maker": [
+      "P-BOX VR"
+    ],
+    "series": [
+      "\u5922\u306e\u3088\u3046\u306a\u7d50\u5a5a\u6027\u6d3b"
+    ],
+    "label": [
+      "P-BOX VR"
+    ],
+    "keyword": [
+      "\u30cf\u30a4\u30af\u30aa\u30ea\u30c6\u30a3VR",
+      "\u5de8\u4e73",
+      "\u30d5\u30a7\u30e9",
+      "\u4e2d\u51fa\u3057",
+      "\u9a0e\u4e57\u4f4d",
+      "\u72ec\u5360\u914d\u4fe1",
+      "VR\u5c02\u7528",
+      "\u5358\u4f53\u4f5c\u54c1",
+      "8KVR",
+      "\u4eba\u59bb\u30fb\u4e3b\u5a66"
+    ]
+  },
+  {
+    "id": "pxvr00217",
+    "title": "\u3010VR\u3011I\u30ab\u30c3\u30d7\u7206\u3086\u308c\u5973\u5b50\u5927\u751f \u6ce5\u25cf\u3057\u3066\u7d42\u96fb\u9003\u304c\u3057\u305fJD\u304c\u30c9\u30a8\u30ed\u30e2\u30fc\u30c9\u3067\u671d\u307e\u3067\u4f55\u5ea6\u3082\u30ca\u30de\u4e2d\u61c7\u9858\u30bb\u30c3\u30af\u30b9 \u5c0f\u5742\u3072\u307e\u308a\u30108K\u3011",
+    "size": "10.99 GB",
+    "actress": [
+      "\u5c0f\u5742\u3072\u307e\u308a"
+    ],
+    "preview_img_url": "https://pics.dmm.co.jp/digital/video/pxvr00217/pxvr00217pl.jpg",
+    "sell_date": "2024/12/18",
+    "duration": "74\u5206",
+    "seed_download_link": "magnet:?xt=urn:btih:33f9634c03b9dca7c9ae852389966748b87f5fc5&dn=pxvr00217&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce",
+    "director": [
+      "\u30a2\u30ab\u30ae\u5149\u4e00"
+    ],
+    "maker": [
+      "P-BOX VR"
+    ],
+    "series": [
+      "\u7d42\u96fb\u9003\u3057\u3066\u5b85\u98f2\u307f"
+    ],
+    "label": [
+      "P-BOX VR"
+    ],
+    "keyword": [
+      "\u30cf\u30a4\u30af\u30aa\u30ea\u30c6\u30a3VR",
+      "\u75f4\u5973",
+      "\u30d5\u30a7\u30e9",
+      "\u30d1\u30a4\u30ba\u30ea",
+      "\u4e2d\u51fa\u3057",
+      "\u72ec\u5360\u914d\u4fe1",
+      "VR\u5c02\u7528",
+      "\u5358\u4f53\u4f5c\u54c1",
+      "8KVR",
+      "\u5de8\u4e73"
+    ]
+  },
+  {
+    "id": "cosvr00040",
+    "title": "\u3010VR\u3011\u6c17\u304c\u5f37\u305d\u3046\u2026\u3067\u3082\u898b\u3089\u308c\u308b\u3068\u6fe1\u308c\u3061\u3083\u3046\u7206\u4e73\u30ec\u30a4\u30e4\u30fc\u306e\u8a98\u60d1\u30b3\u30b9\u30d1\u30b3 \u4e59\u7fbd\u3042\u3080\u30108K\u3011",
+    "size": "13.51 GB",
+    "actress": [
+      "\u4e59\u7fbd\u3042\u3080"
+    ],
+    "preview_img_url": "https://pics.dmm.co.jp/digital/video/cosvr00040/cosvr00040pl.jpg",
+    "sell_date": "2024/12/18",
+    "duration": "66\u5206",
+    "seed_download_link": "magnet:?xt=urn:btih:a18000f793331deeee04c34390773f46eb71528d&dn=cosvr-040&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce",
+    "director": [
+      "\u767d\u9ce5\u30cb\u30c9\u30df"
+    ],
+    "maker": [
+      "Cosmo Planets VR"
+    ],
+    "series": [
+      "\u3007\u3007\u30ec\u30a4\u30e4\u30fc\u306e\u8a98\u60d1\u30cf\u30e1\u500b\u64ae\uff01"
+    ],
+    "label": [
+      "Cosmo Planets VR"
+    ],
+    "keyword": [
+      "\u30cf\u30a4\u30af\u30aa\u30ea\u30c6\u30a3VR",
+      "\u5de8\u4e73",
+      "\u9a0e\u4e57\u4f4d",
+      "\u75f4\u5973",
+      "\u4e2d\u51fa\u3057",
+      "\u72ec\u5360\u914d\u4fe1",
+      "VR\u5c02\u7528",
+      "\u5358\u4f53\u4f5c\u54c1",
+      "8KVR",
+      "\u30b3\u30b9\u30d7\u30ec"
+    ]
+  },
+  {
+    "id": "sivr00386",
+    "title": "\u3010VR\u3011\u898b\u4e0b\u308d\u3055\u308c\u306a\u304c\u3089\u6deb\u8a9e\u30fbKcup\u30d1\u30a4\u30ba\u30ea\u30fb\u676d\u6253\u3061\u9a0e\u4e57\u4f4d \u51ea\u3072\u304b\u308b\u306b\u3068\u3053\u3068\u3093\u75f4\u5973\u3089\u308c\u5f04\u3070\u308c\u308b",
+    "size": "14.42 GB",
+    "actress": [
+      "\u51ea\u3072\u304b\u308b"
+    ],
+    "preview_img_url": "https://pics.dmm.co.jp/digital/video/sivr00386/sivr00386pl.jpg",
+    "sell_date": "2024/12/17",
+    "duration": "87\u5206",
+    "seed_download_link": "magnet:?xt=urn:btih:421e31794211d36c9d1f9419c0673cce158acb2b&dn=sivr-386&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce",
+    "director": [
+      "\u30b8\u30fc\u30cb\u30a2\u30b9\u819d"
+    ],
+    "maker": [
+      "\u30a8\u30b9\u30ef\u30f3 \u30ca\u30f3\u30d0\u30fc\u30ef\u30f3\u30b9\u30bf\u30a4\u30eb"
+    ],
+    "series": [
+      "S1 VR"
+    ],
+    "label": [
+      "S1 VR"
+    ],
+    "keyword": [
+      "\u30cf\u30a4\u30af\u30aa\u30ea\u30c6\u30a3VR",
+      "\u5de8\u4e73",
+      "\u30d1\u30a4\u30ba\u30ea",
+      "\u9a0e\u4e57\u4f4d",
+      "\u4e3b\u89b3",
+      "\u72ec\u5360\u914d\u4fe1",
+      "VR\u5c02\u7528",
+      "\u5358\u4f53\u4f5c\u54c1",
+      "8KVR",
+      "\u75f4\u5973"
+    ]
+  },
+  {
+    "id": "vrkm01461",
+    "title": "\u3010VR\u3011\u3053\u308c\u305e8K\uff01\u7f8e\u984f\u3068\u7f8e\u4e73\u3068\u6fe1\u308c\u9aea\u3067\u3001\u3068\u3053\u3068\u3093\u2019\u7518\u3084\u304b\u3057\u3066\u304f\u308c\u308b\u2019\u5e74\u4e0a\u30ab\u30ce\u30b8\u30e7\u3068\u540c\u68f2\u751f\u6d3b \u51f0\u83ef\u308a\u3093",
+    "size": "11.22 GB",
+    "actress": [
+      "\u51f0\u83ef\u308a\u3093"
+    ],
+    "preview_img_url": "https://pics.dmm.co.jp/digital/video/vrkm01461/vrkm01461pl.jpg",
+    "sell_date": "2024/12/17",
+    "duration": "75\u5206",
+    "seed_download_link": "magnet:?xt=urn:btih:7e901b046f9f0253a57963100655e5b17d1c1e77&dn=vrkm01461&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce",
+    "director": [
+      "\u30d4\u30f3\u30b5\u30ed\u5927\u597d\u304d\u30b9\u30ba\u30bf\u30b1\u3055\u3093"
+    ],
+    "maker": [
+      "\u30b1\u30a4\u30fb\u30a8\u30e0\u30fb\u30d7\u30ed\u30c7\u30e5\u30fc\u30b9"
+    ],
+    "series": [
+      "\u7279\u5316VR"
+    ],
+    "label": [
+      "KMPVR"
+    ],
+    "keyword": [
+      "\u30cf\u30a4\u30af\u30aa\u30ea\u30c6\u30a3VR",
+      "8KVR",
+      "\u5358\u4f53\u4f5c\u54c1",
+      "VR\u5c02\u7528",
+      "\u4e2d\u51fa\u3057",
+      "\u9a0e\u4e57\u4f4d",
+      "\u7f8e\u4e73",
+      "\u4e3b\u89b3"
+    ]
+  },
+  {
+    "id": "dsvr00050",
+    "title": "\u3010VR\u3011\u521d8K \u30d5\u30ea\u30fc\u30b9\u30bf\u30a4\u30eb \u6ca1\u5165\u611f\u7279\u5316\u578bVR \u4e0b\u7740\u30e1\u30fc\u30ab\u30fc\u306b\u52e4\u52d9\u3057\u305f\u3089\u3001\u7537\u306f\u30dc\u30af\u4e00\u4eba\u3002\u696d\u52d9\u3067\u4e0b\u7740\u59ff\u306e\u5973\u6027\u793e\u54e1\u3092\u89e6\u308a\u307e\u304f\u308c\u308b\u3051\u3069\u3001\u6027\u6b32\u30aa\u30d0\u30b1\u306e\u5973\u4e0a\u53f8\u304b\u3089\u306f\u30bb\u30af\u30cf\u30e9\u4e09\u6627\u3067\u7cbe\u5b50\u3092\u643e\u308a\u53d6\u3089\u308c\u3066\u307e\u3059\uff01 \u7f8e\u8c37\u6731\u97f3",
+    "size": "23.51 GB",
+    "actress": [
+      "\u7f8e\u8c37\u6731\u97f3\uff08\u7f8e\u8c37\u6731\u91cc\uff09"
+    ],
+    "preview_img_url": "https://pics.dmm.co.jp/digital/video/dsvr00050/dsvr00050pl.jpg",
+    "sell_date": "2024/12/17",
+    "duration": "74\u5206",
+    "seed_download_link": "magnet:?xt=urn:btih:24cf8bf3e4a7d869ee7fc0ceec8fd0f9d6510b27&dn=dsvr-050&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce",
+    "director": [
+      "\u30dc\u30eb\u30dc\u4e2d\u91ce"
+    ],
+    "maker": [
+      "\u30c0\u30b9\u30c3\uff01"
+    ],
+    "series": [],
+    "label": [
+      "\u30c0\u30b9\u30c3\uff01\uff08VR\uff09"
+    ],
+    "keyword": [
+      "\u30cf\u30a4\u30af\u30aa\u30ea\u30c6\u30a3VR",
+      "\u30cf\u30fc\u30ec\u30e0",
+      "\u5973\u4e0a\u53f8",
+      "\u30e9\u30f3\u30b8\u30a7\u30ea\u30fc",
+      "\u75f4\u5973",
+      "\u72ec\u5360\u914d\u4fe1",
+      "VR\u5c02\u7528",
+      "\u5358\u4f53\u4f5c\u54c1",
+      "8KVR",
+      "\u4e3b\u89b3"
+    ]
+  },
+  {
+    "id": "dsvr00049",
+    "title": "\u3010VR\u30118K \u304a\u59c9\u3061\u3083\u3093\u306f\u72ec\u8eab\u30a2\u30e9\u30b5\u30fc\u9650\u754cOL \u9699\u3057\u304b\u898b\u305b\u306a\u3044\u90e8\u5c4b\u7740G\u30ab\u30c3\u30d7\u307d\u308d\u3093\u306e\u7121\u81ea\u899a\u8a98\u60d1\u306b\u8ca0\u3051\u3066\u3057\u307e\u3044\u2026\u4e00\u65e5\u3060\u3051\u2026\u5fc3\u306e\u30b9\u30ad\u30de\u3092\u57cb\u3081\u308b\u5727\u5012\u304a\u3063\u3071\u3044\u306a\u3081\u306a\u3081SEX \u4e94\u65e5\u5e02\u82bd\u4f9d",
+    "size": "17.32 GB",
+    "actress": [
+      "\u4e94\u65e5\u5e02\u82bd\u4f9d"
+    ],
+    "preview_img_url": "https://pics.dmm.co.jp/digital/video/dsvr00049/dsvr00049pl.jpg",
+    "sell_date": "2024/12/17",
+    "duration": "82\u5206",
+    "seed_download_link": "magnet:?xt=urn:btih:c4f2ad9f589b65f30b6261430b914932227a6007&dn=dsvr-049&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce",
+    "director": [
+      "\u77e2\u6fa4\u30ec\u30b7\u30fc\u30d6"
+    ],
+    "maker": [
+      "\u30c0\u30b9\u30c3\uff01"
+    ],
+    "series": [],
+    "label": [
+      "\u30c0\u30b9\u30c3\uff01\uff08VR\uff09"
+    ],
+    "keyword": [
+      "\u30cf\u30a4\u30af\u30aa\u30ea\u30c6\u30a3VR",
+      "\u4e2d\u51fa\u3057",
+      "\u4e3b\u89b3",
+      "\u30ce\u30fc\u30d6\u30e9",
+      "\u3081\u304c\u306d",
+      "\u72ec\u5360\u914d\u4fe1",
+      "VR\u5c02\u7528",
+      "\u5358\u4f53\u4f5c\u54c1",
+      "8KVR",
+      "\u59c9\u30fb\u59b9"
+    ]
+  },
+  {
+    "id": "kiwvr00710",
+    "title": "\u3010VR\u301110\u5e74\u3076\u308a\u306b\u4f1a\u3063\u305f\u3010\u521d\u604b\u30ab\u30ce\u30b8\u30e7\u306f\u7d76\u9802\u72c2\u3044\u30e4\u30ea\u30de\u30f3\u6027\u6b32\u30e2\u30f3\u30b9\u30bf\u30fc\uff01\u3011\u7ae5\u8c9e\u3092\u596a\u308f\u308c\u4f55\u5ea6\u3082\u30b6\u30fc\u30e1\u30f3\u3092\u643e\u53d6\u3055\u308c\u5f7c\u5973\u5c02\u7528\u30c1\u3007\u30dd\u306b\u306a\u3063\u305f\u50d5\uff01 \u7f8e\u6ce2\u6c50\u91cc",
+    "size": "7.93 GB",
+    "actress": [
+      "\u7f8e\u6ce2\u6c50\u91cc"
+    ],
+    "preview_img_url": "https://pics.dmm.co.jp/digital/video/kiwvr00710/kiwvr00710pl.jpg",
+    "sell_date": "2024/12/17",
+    "duration": "84\u5206",
+    "seed_download_link": "magnet:?xt=urn:btih:f111eb08ae4d0138dde5baf5a7fc6252bcfa3dda&dn=kiwvr-710&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce",
+    "director": [
+      "\u3053\u3042\u3089\u592a\u90ce\uff08\u308f\uff09"
+    ],
+    "maker": [
+      "\u3053\u3042\u3089VR"
+    ],
+    "series": [
+      "3D\u30cf\u30e1\u64ae\u308aVR\u6539\u3010\u6027\u6b32\u30e2\u30f3\u30b9\u30bf\u30fc\u7b46\u304a\u308d\u3057\u4e2d\u51fa\u3057SEX\u3011"
+    ],
+    "label": [
+      "\u6975\u30b0\u30eb\u30fc\u30d7"
+    ],
+    "keyword": [
+      "\u30cf\u30a4\u30af\u30aa\u30ea\u30c6\u30a3VR",
+      "\u75f4\u5973",
+      "\u7ae5\u8c9e",
+      "\u4e2d\u51fa\u3057",
+      "\u9854\u5c04",
+      "\u30d1\u30a4\u30ba\u30ea",
+      "\u72ec\u5360\u914d\u4fe1",
+      "VR\u5c02\u7528",
+      "\u5358\u4f53\u4f5c\u54c1",
+      "\u5de8\u4e73"
+    ]
+  },
+  {
+    "id": "mdvr00331",
+    "title": "\u3010VR\u3011\u5f7c\u6c0f\u304c\u30e1\u30f3\u30a8\u30b9\u901a\u3063\u3066\u3066\u3074\u3048\u3093 \u3060\u3063\u305f\u3089\u30a2\u30ca\u30bf\u5c02\u7528\u30bb\u30e9\u30d4\u30b9\u30c8\u306b\u306a\u308b\u3082\u3093\uff01\u65bd\u8853\u4e2d\u306b\u30e0\u30e9\u30e0\u30e9\u8208\u596e\u3057\u3066\u304a\u5e97\u3058\u3083\u7d76\u5bfeNG\u306a\u7279\u5225\u30b5\u30fc\u30d3\u30b9 \u5929\u7136\u30d4\u30e5\u30a2\u3059\u304e\u3066\u30ad\u30e5\u30f3\uff01\u8d85\u30a4\u30c1\u30e3\u30e9\u30d6\u304a\u3046\u3061\u30a8\u30b9\u30c6\u3054\u3063\u3053 \u8f1d\u661f\u304d\u3089",
+    "size": "18.09 GB",
+    "actress": [
+      "\u8f1d\u661f\u304d\u3089"
+    ],
+    "preview_img_url": "https://pics.dmm.co.jp/digital/video/mdvr00331/mdvr00331pl.jpg",
+    "sell_date": "2024/12/16",
+    "duration": "87\u5206",
+    "seed_download_link": "magnet:?xt=urn:btih:425e921b47c014f9f95a25288559fd966329391e&dn=mdvr00331&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce",
+    "director": [
+      "\u3053\u3042\u3089\u592a\u90ce\uff08\u308f\uff09"
+    ],
+    "maker": [
+      "\u30e0\u30fc\u30c7\u30a3\u30fc\u30ba"
+    ],
+    "series": [
+      "MOODYZ 8KVR"
+    ],
+    "label": [
+      "MOODYZ VR"
+    ],
+    "keyword": [
+      "\u30cf\u30a4\u30af\u30aa\u30ea\u30c6\u30a3VR",
+      "\u30ab\u30c3\u30d7\u30eb",
+      "\u9a0e\u4e57\u4f4d",
+      "\u6deb\u8a9e",
+      "\u4e3b\u89b3",
+      "\u72ec\u5360\u914d\u4fe1",
+      "VR\u5c02\u7528",
+      "\u5358\u4f53\u4f5c\u54c1",
+      "8KVR",
+      "\u30a8\u30b9\u30c6"
+    ]
+  },
+  {
+    "id": "savr00529",
+    "title": "\u3010VR\u3011\u5b66\u751f\u6642\u4ee3\u3042\u3093\u306a\u306b\u771f\u9762\u76ee\u3060\u3063\u305f\u5b66\u7d1a\u59d4\u54e1\u9577\u304c\u3068\u3093\u3067\u3082\u306a\u3044\u30e4\u30ea\u30de\u30f3\u306b\u2026\u540c\u7a93\u4f1a\u5f8c\u306b\u304a\u6301\u3061\u5e30\u308a\u3055\u308c\u3066\u63c9\u307f\u307e\u304f\u3063\u305f\u7f8e\u5de8\u4e73\u306f\u3082\u3046\u3075\u308f\u3063\u3075\u308f",
+    "size": "10.42 GB",
+    "actress": [],
+    "preview_img_url": "https://pics.dmm.co.jp/digital/video/savr00529/savr00529pl.jpg",
+    "sell_date": "2024/12/16",
+    "duration": "73\u5206",
+    "seed_download_link": "magnet:?xt=urn:btih:3dbfb0279c8c1bb0f30b7c0eef53bb1d8d411884&dn=savr00529&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce",
+    "director": [
+      "\u5305\u4e01M"
+    ],
+    "maker": [
+      "KMPVR-\u5f69-"
+    ],
+    "series": [],
+    "label": [
+      "KMPVR-\u5f69-"
+    ],
+    "keyword": [
+      "\u30cf\u30a4\u30af\u30aa\u30ea\u30c6\u30a3VR",
+      "8KVR",
+      "VR\u5c02\u7528",
+      "\u72ec\u5360\u914d\u4fe1",
+      "\u30d1\u30a4\u30ba\u30ea",
+      "\u5de8\u4e73\u30d5\u30a7\u30c1",
+      "\u7f8e\u4e73",
+      "\u5de8\u4e73",
+      "\u30d3\u30c3\u30c1"
+    ]
+  },
+  {
+    "id": "vrprd00060",
+    "title": "\u3010VR\u3011\u30ba\u30dc\u30e9\u7fa9\u7406\u59b9\u306e\u98df\u3044\u8fbc\u307f\u30a8\u30ed\u5c3b\u306b\u30ac\u30de\u30f3\u3067\u304d\u305a\u66b4\u8d70\u30ac\u30f3\u7a81\u304d\u5c3b\u30d5\u30a7\u30c1\u30a2\u30f3\u30b0\u30ebSEX \u30a2\u30ea\u30b9",
+    "size": "6.53 GB",
+    "actress": [],
+    "preview_img_url": "https://pics.dmm.co.jp/digital/video/vrprd00060/vrprd00060pl.jpg",
+    "sell_date": "2024/12/16",
+    "duration": "71\u5206",
+    "seed_download_link": "magnet:?xt=urn:btih:69f131673da1c33c3f50b2043f727bb8c59e2d2b&dn=vrprd-060&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce",
+    "director": [
+      "\u30b6\u30c3\u30af\u8352\u4e95"
+    ],
+    "maker": [
+      "VR\u30d1\u30e9\u30c0\u30a4\u30b9"
+    ],
+    "series": [],
+    "label": [
+      "\u6975\u30b0\u30eb\u30fc\u30d7"
+    ],
+    "keyword": [
+      "\u30cf\u30a4\u30af\u30aa\u30ea\u30c6\u30a3VR",
+      "VR\u5c02\u7528",
+      "\u72ec\u5360\u914d\u4fe1",
+      "\u9a0e\u4e57\u4f4d",
+      "\u5de8\u4e73",
+      "\u5de8\u5c3b",
+      "\u59c9\u30fb\u59b9"
+    ]
+  },
+  {
+    "id": "13dsvr01593",
+    "title": "\u3010VR\u3011\u30108K\u3011\u30dc\u30af\u3092\u30a4\u30b8\u30e1\u3066\u3044\u308b\u30a2\u30a4\u30c4\u306e\u5f7c\u5973\u306b\u30c1\u25cf\u30b3\u3092\u30d6\u30c1\u8fbc\u307f\u589c\u3068\u3057\u307e\u3059\u2026\u898b\u305b\u3064\u3051\u5bdd\u53d6\u308a\u5fa9\u8b90SEX \u767d\u77f3\u3082\u3082",
+    "size": "14.40 GB",
+    "actress": [
+      "\u767d\u77f3\u3082\u3082"
+    ],
+    "preview_img_url": "https://pics.dmm.co.jp/digital/video/13dsvr01593/13dsvr01593pl.jpg",
+    "sell_date": "2024/12/16",
+    "duration": "79\u5206",
+    "seed_download_link": "magnet:?xt=urn:btih:122a9fa8e20bac208036eb39fcbafdeeea6f4729&dn=dsvr01593&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce",
+    "director": [
+      "\u7e41\u677e\u79cb\u51ac"
+    ],
+    "maker": [
+      "SOD\u30af\u30ea\u30a8\u30a4\u30c8"
+    ],
+    "series": [],
+    "label": [
+      "SODVR"
+    ],
+    "keyword": [
+      "\u30cf\u30a4\u30af\u30aa\u30ea\u30c6\u30a3VR",
+      "8KVR",
+      "\u5358\u4f53\u4f5c\u54c1",
+      "VR\u5c02\u7528",
+      "\u4e2d\u51fa\u3057",
+      "\u30d5\u30a7\u30e9",
+      "\u5bdd\u53d6\u308a\u30fb\u5bdd\u53d6\u3089\u308c\u30fbNTR",
+      "\u9b3c\u755c"
+    ]
+  },
+  {
+    "id": "savr00519",
+    "title": "\u3010VR\u3011\u4e45\u3057\u3076\u308a\u306b\u518d\u4f1a\u3057\u305f\u5143\u30ab\u30ce\u306f\u304a\u3063\u3071\u3044\u304c\u60f3\u50cf\u4ee5\u4e0a\u306b\u80b2\u3063\u3066\u3044\u3066\u81ea\u6162\u3052\u306b\u30d1\u30a4\u30ba\u30ea\u3057\u3066\u304f\u308b \u4e00\u6761\u307f\u304a",
+    "size": "18.27 GB",
+    "actress": [
+      "\u4e00\u6761\u307f\u304a"
+    ],
+    "preview_img_url": "https://pics.dmm.co.jp/digital/video/savr00519/savr00519pl.jpg",
+    "sell_date": "2024/12/15",
+    "duration": "95\u5206",
+    "seed_download_link": "magnet:?xt=urn:btih:b299b82059c6d570d3cb360e2de8d03e5d885e3c&dn=savr-519&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce",
+    "director": [
+      "\u5305\u4e01M"
+    ],
+    "maker": [
+      "KMPVR-\u5f69-"
+    ],
+    "series": [],
+    "label": [
+      "KMPVR-\u5f69-"
+    ],
+    "keyword": [
+      "\u30cf\u30a4\u30af\u30aa\u30ea\u30c6\u30a3VR",
+      "\u5c0f\u67c4",
+      "\u5de8\u4e73\u30d5\u30a7\u30c1",
+      "\u30d1\u30a4\u30ba\u30ea",
+      "\u9a0e\u4e57\u4f4d",
+      "\u72ec\u5360\u914d\u4fe1",
+      "VR\u5c02\u7528",
+      "\u5358\u4f53\u4f5c\u54c1",
+      "8KVR",
+      "\u5de8\u4e73"
+    ]
+  },
+  {
+    "id": "kavr00400",
+    "title": "\u3010VR\u3011\u7121\u90aa\u6c17\u3067\u3001\u3042\u3056\u3068\u304f\u3066\u3001\u597d\u5947\u5fc3\u65fa\u76db\u306a\u6559\u3048\u5b50\u306e\u3044\u305f\u3044\u3051\u306a\u8089\u4f53\u3092\u3080\u3057\u3083\u3076\u308a\u5c3d\u304f\u3059\u80cc\u5fb3\u30e9\u30d6\u30db\u6027\u4ea4 \u82b1\u4e43\u306f\u308b\u3072",
+    "size": "17.34 GB",
+    "actress": [
+      "\u82b1\u4e43\u306f\u308b\u3072"
+    ],
+    "preview_img_url": "https://pics.dmm.co.jp/digital/video/kavr00400/kavr00400pl.jpg",
+    "sell_date": "2024/12/15",
+    "duration": "84\u5206",
+    "seed_download_link": "magnet:?xt=urn:btih:2a1ac0ef5b666db3a17dcd9002c67378654cefdc&dn=kavr-400&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce",
+    "director": [
+      "ZAMPA"
+    ],
+    "maker": [
+      "kawaii"
+    ],
+    "series": [
+      "kawaii*VR"
+    ],
+    "label": [
+      "kawaii* VR"
+    ],
+    "keyword": [
+      "\u30cf\u30a4\u30af\u30aa\u30ea\u30c6\u30a3VR",
+      "\u5973\u5b50\u6821\u751f",
+      "\u4e2d\u51fa\u3057",
+      "\u7f8e\u5c11\u5973",
+      "\u4e3b\u89b3",
+      "\u72ec\u5360\u914d\u4fe1",
+      "VR\u5c02\u7528",
+      "\u5358\u4f53\u4f5c\u54c1",
+      "8KVR",
+      "\u5236\u670d"
+    ]
+  },
+  {
+    "id": "hnvr00125",
+    "title": "\u3010VR\u3011\u4ed6\u306e\u5b50\u306e\u88f8\u3067\u30b7\u30b3\u308b\u7cbe\u5b50\u3042\u308b\u306a\u3089\u79c1\u306e\u4e2d\u306b\u51fa\u3057\u3066\u3088\uff01\u5f25\u751f\u307f\u3065\u304d\u306eAV\u3067\u30b7\u30b3\u3063\u3066\u3044\u305f\u3089\u5ac9\u59ac\u3057\u305f\u50d5\u306e\u5f7c\u5973\uff08=AV\u5973\u512a\u306e\u65b0\u4e95\u30ea\u30de\uff09\u304c\u30ca\u30de\u4e2d\u51fa\u3057\u3092\u6c42\u3081\u3066\u304d\u307e\u3057\u305f",
+    "size": "8.46 GB",
+    "actress": [
+      "\u65b0\u4e95\u30ea\u30de"
+    ],
+    "preview_img_url": "https://pics.dmm.co.jp/digital/video/hnvr00125/hnvr00125pl.jpg",
+    "sell_date": "2024/12/15",
+    "duration": "88\u5206",
+    "seed_download_link": "magnet:?xt=urn:btih:43415217fce80b604c2a2cf104893796aa0cdba4&dn=hnvr-125&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce",
+    "director": [
+      "\u3053\u3042\u3089\u592a\u90ce\uff08\u308f\uff09"
+    ],
+    "maker": [
+      "\u672c\u4e2d"
+    ],
+    "series": [
+      "\u672c\u4e2d-VR"
+    ],
+    "label": [
+      "\u672c\u4e2d-VR"
+    ],
+    "keyword": [
+      "\u5358\u4f53\u4f5c\u54c1",
+      "\u30cf\u30a4\u30af\u30aa\u30ea\u30c6\u30a3VR",
+      "VR\u5c02\u7528",
+      "\u72ec\u5360\u914d\u4fe1",
+      "\u30ad\u30b9\u30fb\u63a5\u543b",
+      "\u30b9\u30ec\u30f3\u30c0\u30fc",
+      "\u9a0e\u4e57\u4f4d",
+      "\u7f8e\u5c11\u5973",
+      "\u4e2d\u51fa\u3057"
+    ]
+  },
+  {
+    "id": "savr00515",
+    "title": "\u3010VR\u3011\u7537\u5b50\u751f\u5f92\u306b\u5a9a\u85ac\u3092\u76db\u308a\u3001\u52c3\u8d77\u3057\u305f\u30c1\u3007\u30dd\u3092\u30d5\u30a7\u30e9\u30c1\u30aa\u3067\u6355\u307e\u3048\u5e30\u3055\u306a\u3044\u4fdd\u5065\u5ba4\u306e\u75f4\u5973\u5148\u751f \u52a0\u85e4\u5983\u4e43",
+    "size": "12.17 GB",
+    "actress": [
+      "\u52a0\u85e4\u5983\u4e43"
+    ],
+    "preview_img_url": "https://pics.dmm.co.jp/digital/video/savr00515/savr00515pl.jpg",
+    "sell_date": "2024/12/14",
+    "duration": "79\u5206",
+    "seed_download_link": "magnet:?xt=urn:btih:b46bd5e5dae5090f40888967c342697a26bddbe5&dn=savr00515&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce",
+    "director": [
+      "\u30cf\u30e1\u30e9\u30cb\u30a2\u30f3\u4eac\u90fd"
+    ],
+    "maker": [
+      "KMPVR-\u5f69-"
+    ],
+    "series": [],
+    "label": [
+      "KMPVR-\u5f69-"
+    ],
+    "keyword": [
+      "\u30cf\u30a4\u30af\u30aa\u30ea\u30c6\u30a3VR",
+      "\u5b66\u5712\u3082\u306e",
+      "\u75f4\u5973",
+      "\u5de8\u4e73",
+      "\u9a0e\u4e57\u4f4d",
+      "\u72ec\u5360\u914d\u4fe1",
+      "VR\u5c02\u7528",
+      "\u5358\u4f53\u4f5c\u54c1",
+      "8KVR",
+      "\u4e2d\u51fa\u3057"
+    ]
+  },
+  {
+    "id": "kiwvr00725",
+    "title": "\u3010VR\u3011\u30108K\u3011\u8077\u5834\u306e\u5f8c\u8f29\u3068\u76f8\u90e8\u5c4bNTR \u300c\u5148\u8f29\u306e\u3059\u3079\u3066\u3092\u8210\u3081\u305f\u3044\u3067\u3059\u2026\u25c6\u300d\u50d5\u306b\u604b\u3057\u3066\u3044\u308bS\u7d1a\u7f8e\u5973\u306e\u8a98\u60d1\u306b\u8ca0\u3051\u3066\u671d\u307e\u30678\u767a\u306e\u4e0d\u502b\u7d76\u502b\u30bb\u30c3\u30af\u30b9 \u6709\u6751\u306e\u305e\u307f",
+    "size": "14.53 GB",
+    "actress": [
+      "\u6709\u6751\u306e\u305e\u307f"
+    ],
+    "preview_img_url": "https://pics.dmm.co.jp/digital/video/kiwvr00725/kiwvr00725pl.jpg",
+    "sell_date": "2024/12/13",
+    "duration": "98\u5206",
+    "seed_download_link": "magnet:?xt=urn:btih:5b3c6378567f97752490efa61ee6de4f2d4ea2b5&dn=kiwvr00725&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce",
+    "director": [],
+    "maker": [
+      "\u3053\u3042\u3089VR"
+    ],
+    "series": [
+      "8KVR\u3010\u76f8\u90e8\u5c4b\u8a98\u60d1\u8210\u3081\u5c3d\u304f\u3057NTR\u3011"
+    ],
+    "label": [
+      "\u6975\u30b0\u30eb\u30fc\u30d7"
+    ],
+    "keyword": [
+      "\u30cf\u30a4\u30af\u30aa\u30ea\u30c6\u30a3VR",
+      "\u5bdd\u53d6\u308a\u30fb\u5bdd\u53d6\u3089\u308c\u30fbNTR",
+      "OL",
+      "\u4e2d\u51fa\u3057",
+      "\u30d1\u30a4\u30ba\u30ea",
+      "\u72ec\u5360\u914d\u4fe1",
+      "VR\u5c02\u7528",
+      "\u5358\u4f53\u4f5c\u54c1",
+      "8KVR",
+      "\u5de8\u4e73"
+    ]
+  },
+  {
+    "id": "juvr00207",
+    "title": "\u3010VR\u3011\u8d85\u9ad8\u753b\u8cea8KVR\u521d\u767b\u5834 \u4e0a\u7fbd\u7d62\u306eJ\u30ab\u30c3\u30d7\u5de8\u4e73\u304c\u305f\u308f\u308f\u306b\u4e71\u308c\u308b \u59bb\u306e\u53cb\u4eba\u304c\u50cd\u304f\u30de\u30c3\u30b5\u30fc\u30b8\u5e97\u306b\u884c\u3063\u3066\u307f\u305f\u3089\u9023\u7d9a\u5c04\u7cbe\u3067\u30c1\u3007\u30dd\u304c\u30d0\u30ab\u306b\u306a\u308b\u307e\u3067\u30cc\u30a4\u3066\u304f\u308c\u308b\u8d85\u512a\u826f\u306a\u4eba\u59bb\u5949\u4ed5\u30e1\u30f3\u30ba\u30a8\u30b9\u30c6\u3060\u3063\u305f\uff01\uff01",
+    "size": "13.00 GB",
+    "actress": [
+      "\u4e0a\u7fbd\u7d62"
+    ],
+    "preview_img_url": "https://pics.dmm.co.jp/digital/video/juvr00207/juvr00207pl.jpg",
+    "sell_date": "2024/12/13",
+    "duration": "82\u5206",
+    "seed_download_link": "magnet:?xt=urn:btih:eaf8b541fedebac549da29dc2479b6ef42ebf2e2&dn=juvr00207&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce",
+    "director": [
+      "\u77e2\u6fa4\u30ec\u30b7\u30fc\u30d6"
+    ],
+    "maker": [
+      "\u30de\u30c9\u30f3\u30ca"
+    ],
+    "series": [
+      "Madonna8KVR"
+    ],
+    "label": [
+      "MadonnaVR"
+    ],
+    "keyword": [
+      "\u30cf\u30a4\u30af\u30aa\u30ea\u30c6\u30a3VR",
+      "\u4eba\u59bb\u30fb\u4e3b\u5a66",
+      "\u30a8\u30b9\u30c6",
+      "\u30ed\u30fc\u30b7\u30e7\u30f3\u30fb\u30aa\u30a4\u30eb",
+      "\u75f4\u5973",
+      "\u72ec\u5360\u914d\u4fe1",
+      "VR\u5c02\u7528",
+      "\u5358\u4f53\u4f5c\u54c1",
+      "8KVR",
+      "\u719f\u5973"
+    ]
+  },
+  {
+    "id": "aqumam00020",
+    "title": "\u3010VR\u3011\u30bb\u30c3\u30af\u30b9\u30ec\u30b9\u3060\u3063\u305f\u59bb\u304c\u7a81\u7136\u767a\u60c5\u3057\u3066\u4ed8\u304d\u5408\u3063\u305f\u3070\u304b\u308a\u306e\u9803\u306e\u3088\u3046\u306b\u30a4\u30c1\u30e3\u30a4\u30c1\u30e3\u3057\u3066\u304d\u305f \u611b\u6708\u30bb\u30ea\u30a2",
+    "size": "22.43 GB",
+    "actress": [
+      "\u611b\u6708\u30bb\u30ea\u30a2"
+    ],
+    "preview_img_url": "https://pics.dmm.co.jp/digital/video/aqumam00020/aqumam00020pl.jpg",
+    "sell_date": "2024/12/13",
+    "duration": "83\u5206",
+    "seed_download_link": "magnet:?xt=urn:btih:f32465016bc037f6e459130cfbac85f05854fcde&dn=aqumam-020&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce",
+    "director": [
+      "\u5c71\u672c\u30d8\u30f3\u30c9\u30ea\u30af\u30b9"
+    ],
+    "maker": [
+      "AQUA\uff1c\u30a2\u30af\u30a2\uff1e"
+    ],
+    "series": [
+      "\u30bb\u30c3\u30af\u30b9\u30ec\u30b9\u3060\u3063\u305f\u59bb\u304c\u7a81\u7136\u767a\u60c5\u3057\u3066\u4ed8\u304d\u5408\u3063\u305f\u3070\u304b\u308a\u306e\u9803\u306e\u3088\u3046\u306b\u30a4\u30c1\u30e3\u30a4\u30c1\u30e3\u3057\u3066\u304d\u305f"
+    ],
+    "label": [
+      "AQUA MADAM"
+    ],
+    "keyword": [
+      "\u5358\u4f53\u4f5c\u54c1",
+      "\u30cf\u30a4\u30af\u30aa\u30ea\u30c6\u30a3VR",
+      "VR\u5c02\u7528",
+      "\u72ec\u5360\u914d\u4fe1",
+      "\u4e2d\u51fa\u3057",
+      "\u9a0e\u4e57\u4f4d",
+      "\u30d1\u30a4\u30ba\u30ea",
+      "\u5de8\u4e73",
+      "\u4eba\u59bb\u30fb\u4e3b\u5a66"
+    ]
+  },
+  {
+    "id": "aquma00062",
+    "title": "\u3010VR\u3011\u30d1\u30f3\u30c4\u898b\u305b\u3064\u3051\u30aa\u30ca\u30cb\u30fc\u30b5\u30dd\u30fc\u30c8 3",
+    "size": "32.21 GB",
+    "actress": [
+      "\u9022\u6708\u3072\u307e\u308a",
+      "\u697d\u5712\u30df\u30ca",
+      "\u5343\u77f3\u3082\u306a\u304b",
+      "\u84bc\u3044\u304a\u308a",
+      "\u6c60\u5c3b\u307f\u306a\u307f",
+      "\u7a42\u9ad8\u7531\u6b69",
+      "\u8475\u4e95\u307f\u305a\u307b"
+    ],
+    "preview_img_url": "https://pics.dmm.co.jp/digital/video/aquma00062/aquma00062pl.jpg",
+    "sell_date": "2024/12/13",
+    "duration": "80\u5206",
+    "seed_download_link": "magnet:?xt=urn:btih:aea5701439d483a2a8b0400a36ac303951f6b205&dn=aquma-062&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce",
+    "director": [
+      "\u5c71\u672c\u30d8\u30f3\u30c9\u30ea\u30af\u30b9"
+    ],
+    "maker": [
+      "AQUA\uff1c\u30a2\u30af\u30a2\uff1e"
+    ],
+    "series": [
+      "\u30d1\u30f3\u30c4\u898b\u305b\u3064\u3051\u30aa\u30ca\u30cb\u30fc\u30b5\u30dd\u30fc\u30c8"
+    ],
+    "label": [
+      "AQUA MANIAC"
+    ],
+    "keyword": [
+      "\u30cf\u30a4\u30af\u30aa\u30ea\u30c6\u30a3VR",
+      "VR\u5c02\u7528",
+      "\u72ec\u5360\u914d\u4fe1",
+      "\u30d1\u30f3\u30c1\u30e9",
+      "\u3076\u3063\u304b\u3051",
+      "\u4e3b\u89b3",
+      "\u30aa\u30ca\u30b5\u30dd",
+      "\u30aa\u30ca\u30cb\u30fc"
+    ]
+  },
+  {
+    "id": "aqula00058",
+    "title": "\u3010VR\u3011\u59bb\u304c\u77e5\u3089\u306a\u3044\u304a\u3058\u3055\u3093\u306b\u62b1\u304b\u308c\u308b\u306e\u3092\u305f\u3060\u898b\u3066\u3044\u308b\u3060\u3051 \u3088\u3057\u3044\u7f8e\u5e0c",
+    "size": "21.26 GB",
+    "actress": [
+      "\u3088\u3057\u3044\u7f8e\u5e0c\uff08\u4f0a\u6ca2\u6dbc\u5b50\u3001\u5409\u4e95\u7f8e\u5e0c\uff09"
+    ],
+    "preview_img_url": "https://pics.dmm.co.jp/digital/video/aqula00058/aqula00058pl.jpg",
+    "sell_date": "2024/12/13",
+    "duration": "84\u5206",
+    "seed_download_link": "magnet:?xt=urn:btih:e004cda9dd4cbc4c0f62873874c84ab40904265c&dn=aqula-058&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce",
+    "director": [
+      "\u30ed\u30fc\u30b7\u30e7\u30f3\u30dc\u30fc\u30a4"
+    ],
+    "maker": [
+      "AQUA\uff1c\u30a2\u30af\u30a2\uff1e"
+    ],
+    "series": [
+      "\u77e5\u3089\u306a\u3044\u304a\u3058\u3055\u3093\u306b\u62b1\u304b\u308c\u308b\u306e\u3092\u305f\u3060\u898b\u3066\u3044\u308b\u3060\u3051"
+    ],
+    "label": [
+      "AQUA LADY"
+    ],
+    "keyword": [
+      "\u30cf\u30a4\u30af\u30aa\u30ea\u30c6\u30a3VR",
+      "\u4eba\u59bb\u30fb\u4e3b\u5a66",
+      "\u30ab\u30c3\u30d7\u30eb",
+      "\u5bdd\u53d6\u308a\u30fb\u5bdd\u53d6\u3089\u308c\u30fbNTR",
+      "\u62d8\u675f",
+      "\u72ec\u5360\u914d\u4fe1",
+      "VR\u5c02\u7528",
+      "\u5358\u4f53\u4f5c\u54c1",
+      "8KVR",
+      "\u719f\u5973"
+    ]
+  },
+  {
+    "id": "aqube00047",
+    "title": "\u3010VR\u3011\u4e07\u5f15\u304dJ\u7cfb\u308f\u304b\u3089\u305bVR \u51ac\u611b\u3053\u3068\u306d",
+    "size": "18.09 GB",
+    "actress": [
+      "\u51ac\u611b\u3053\u3068\u306d"
+    ],
+    "preview_img_url": "https://pics.dmm.co.jp/digital/video/aqube00047/aqube00047pl.jpg",
+    "sell_date": "2024/12/13",
+    "duration": "57\u5206",
+    "seed_download_link": "magnet:?xt=urn:btih:081ef90187f7027169747bc53e5017f6253e8571&dn=aqube-047&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce",
+    "director": [
+      "\u30e2\u30b0Y"
+    ],
+    "maker": [
+      "AQUA\uff1c\u30a2\u30af\u30a2\uff1e"
+    ],
+    "series": [
+      "\u4e07\u5f15\u304dJ\u7cfb\u308f\u304b\u3089\u305b"
+    ],
+    "label": [
+      "AQUA BEBE"
+    ],
+    "keyword": [
+      "\u30cf\u30a4\u30af\u30aa\u30ea\u30c6\u30a3VR",
+      "\u5236\u670d",
+      "\u30d5\u30a7\u30e9",
+      "\u30aa\u30ca\u30cb\u30fc",
+      "\u4e2d\u51fa\u3057",
+      "\u72ec\u5360\u914d\u4fe1",
+      "VR\u5c02\u7528",
+      "\u5358\u4f53\u4f5c\u54c1",
+      "8KVR",
+      "\u7f8e\u5c11\u5973"
+    ]
+  },
+  {
+    "id": "vrkm01504",
+    "title": "\u3010VR\u3011\u6392\u5375\u65e5\u306b\u30b6\u30fc\u30e1\u30f3\u98f2\u307f\u305f\u304f\u306a\u308b\u75c7\u5019\u7fa4 \u5730\u5473\u5de8\u4e73\u59c9\u306e\u7406\u6027\u5d29\u58ca\u3054\u3063\u304f\u3093\u9858\u671b \u308a\u306a\u3055\u3093",
+    "size": "12.12 GB",
+    "actress": [],
+    "preview_img_url": "https://pics.dmm.co.jp/digital/video/vrkm01504/vrkm01504pl.jpg",
+    "sell_date": "2024/12/13",
+    "duration": "78\u5206",
+    "seed_download_link": "magnet:?xt=urn:btih:b740d5c2b1549219cfd4820fedc19dda1613985d&dn=vrkm-1504&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce",
+    "director": [
+      "\u30cf\u30eb\u30af\u30fb\u30b3\u30fc\u30ac\u30f3"
+    ],
+    "maker": [
+      "\u30b1\u30a4\u30fb\u30a8\u30e0\u30fb\u30d7\u30ed\u30c7\u30e5\u30fc\u30b9"
+    ],
+    "series": [],
+    "label": [
+      "KMPVR"
+    ],
+    "keyword": [
+      "\u30cf\u30a4\u30af\u30aa\u30ea\u30c6\u30a3VR",
+      "8KVR",
+      "VR\u5c02\u7528",
+      "\u4e2d\u51fa\u3057",
+      "\u8fd1\u89aa\u76f8\u59e6",
+      "\u30d5\u30a7\u30e9",
+      "\u75f4\u5973",
+      "\u5de8\u4e73"
+    ]
+  },
+  {
+    "id": "savr00501",
+    "title": "\u3010VR\u3011\u6c17\u4ed8\u3044\u305f\u77ac\u9593\u306b\u306f\u2018\u68ee\u6ca2\u304b\u306a\u2019\u306b\u5922\u4e2d\u306b\u306a\u3063\u3066\u308b\u2026 \u5e95\u306a\u3057\u6cbc\u306e\u8210\u3081\u30c6\u30af\u306b\u6ca1\u5165\u3057\u3066\u6eba\u308c\u3066\u3044\u304fJOI\u7a7a\u9593",
+    "size": "12.62 GB",
+    "actress": [
+      "\u68ee\u6ca2\u304b\u306a\uff08\u98ef\u5ca1\u304b\u306a\u3053\uff09"
+    ],
+    "preview_img_url": "https://pics.dmm.co.jp/digital/video/savr00501/savr00501pl.jpg",
+    "sell_date": "2024/12/13",
+    "duration": "91\u5206",
+    "seed_download_link": "magnet:?xt=urn:btih:f56caf5040a75063d7a85ad87d7beb7a72dce334&dn=savr00501&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce",
+    "director": [
+      "\u66fe\u6839\u5927\u5922@\u4e2d\u91ce"
+    ],
+    "maker": [
+      "KMPVR-\u5f69-"
+    ],
+    "series": [],
+    "label": [
+      "KMPVR-\u5f69-"
+    ],
+    "keyword": [
+      "\u30d5\u30a7\u30e9",
+      "\u72ec\u5360\u914d\u4fe1",
+      "VR\u5c02\u7528",
+      "\u5358\u4f53\u4f5c\u54c1",
+      "8KVR",
+      "\u30cf\u30a4\u30af\u30aa\u30ea\u30c6\u30a3VR",
+      "\u30aa\u30ca\u30b5\u30dd",
+      "\u75f4\u5973",
+      "\u30b9\u30ec\u30f3\u30c0\u30fc",
+      "\u4e2d\u51fa\u3057"
+    ]
+  },
+  {
+    "id": "urvrsp00394",
+    "title": "\u3010VR\u3011\u30108K VR\u3011\u6210\u9577\u3057\u3066\u5927\u4eba\u306b\u306a\u3063\u305f\u3044\u3068\u3053\u306e\u304a\u59c9\u3061\u3083\u3093\u306e\u6614\u3068\u5909\u308f\u3089\u306a\u3044\u7121\u610f\u8b58\u306e\u8fd1\u8ddd\u96e2\u8a98\u60d1\u2026\u5c0f\u3055\u3044\u9803\u304b\u3089\u61a7\u308c\u3066\u3044\u305f\u304a\u59c9\u3061\u3083\u3093\u3068\u306e\u4e2d\u51fa\u3057\u30bb\u30c3\u30af\u30b9\u590f\u4f11\u307f \u690e\u540d\u5fc3\u6625",
+    "size": "12.96 GB",
+    "actress": [
+      "\u690e\u540d\u5fc3\u6625"
+    ],
+    "preview_img_url": "https://pics.dmm.co.jp/digital/video/urvrsp00394/urvrsp00394pl.jpg",
+    "sell_date": "2024/12/12",
+    "duration": "82\u5206",
+    "seed_download_link": "magnet:?xt=urn:btih:442542ec67fc89fd30325eedb3b14fa4619cf250&dn=urvrsp00394&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce",
+    "director": [
+      "\u30df\u30c5\u30ad\u30fb\u6539"
+    ],
+    "maker": [
+      "unfinished"
+    ],
+    "series": [
+      "unfinished VR"
+    ],
+    "label": [
+      "Marrion Group VR"
+    ],
+    "keyword": [
+      "\u30cf\u30a4\u30af\u30aa\u30ea\u30c6\u30a3VR",
+      "\u59c9\u30fb\u59b9",
+      "\u8fd1\u89aa\u76f8\u59e6",
+      "\u304a\u59c9\u3055\u3093",
+      "\u6c57\u3060\u304f",
+      "8KVR",
+      "\u72ec\u5360\u914d\u4fe1",
+      "VR\u5c02\u7528",
+      "\u5358\u4f53\u4f5c\u54c1",
+      "\u4e2d\u51fa\u3057"
+    ]
+  },
+  {
+    "id": "vrprd00059",
+    "title": "\u3010VR\u3011\u30108K\u3011\u7236\u89aa\u304c\u793e\u54e1\u65c5\u884c\u4e2d\u306e\u81ea\u5b85\u3067\u53d4\u6bcd\u3055\u3093\u306e\u6383\u9664\u30c7\u30ab\u5c3b\u304c\u6211\u6162\u51fa\u6765\u305a\u9b3c\u7a81\u8cab\u30d4\u30b9\u30c8\u30f3\u3067\u4f55\u5ea6\u3082\u4f55\u5ea6\u3082\u7d76\u9802\u3055\u305b\u307e\u304f\u3063\u3066\u30b5\u30eb\u306b\u306a\u3063\u305f\u751f\u4e2d\u51fa\u3057SEX\uff01\uff01 \u9234\u6728\u771f\u5915",
+    "size": "11.33 GB",
+    "actress": [
+      "\u9234\u6728\u771f\u5915"
+    ],
+    "preview_img_url": "https://pics.dmm.co.jp/digital/video/vrprd00059/vrprd00059pl.jpg",
+    "sell_date": "2024/12/12",
+    "duration": "74\u5206",
+    "seed_download_link": "magnet:?xt=urn:btih:b3d9212a893874413d2e3e8ebbbbe5248a1016f8&dn=vrprd00059&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce",
+    "director": [
+      "\u30af\u30ef\u30c3\u30c1\u30fc"
+    ],
+    "maker": [
+      "VR\u30d1\u30e9\u30c0\u30a4\u30b9"
+    ],
+    "series": [],
+    "label": [
+      "\u6975\u30b0\u30eb\u30fc\u30d7"
+    ],
+    "keyword": [
+      "\u30cf\u30a4\u30af\u30aa\u30ea\u30c6\u30a3VR",
+      "\u4eba\u59bb\u30fb\u4e3b\u5a66",
+      "\u5de8\u4e73",
+      "\u75f4\u5973",
+      "\u4e2d\u51fa\u3057",
+      "\u72ec\u5360\u914d\u4fe1",
+      "VR\u5c02\u7528",
+      "\u5358\u4f53\u4f5c\u54c1",
+      "8KVR",
+      "\u5c3b\u30d5\u30a7\u30c1"
+    ]
+  },
+  {
+    "id": "nkkvr00129",
+    "title": "\u3010VR\u3011\u6d8e\u30c0\u30e9\u30c0\u30e9\u3010\u8d85\u8089\u611f\u8ffd\u5c3e\u7279\u5316\u3011\u30a4\u30b1\u30a4\u30b1\u91d1\u9aea\u30ae\u30e3\u30eb\u306b\u58f0\u639b\u3051\u3089\u308c\u3044\u3044\u611f\u3058\u306e\u5834\u6240\u3067\u5feb\u697d\u8caa\u308a\u53d6\u308a\u30ac\u30c1\u30f3\u30b3\u30b6\u30fc\u30e1\u30f3\u643e\u53d6SEX\uff01\uff01",
+    "size": "15.49 GB",
+    "actress": [],
+    "preview_img_url": "https://pics.dmm.co.jp/digital/video/nkkvr00129/nkkvr00129pl.jpg",
+    "sell_date": "2024/12/12",
+    "duration": "69\u5206",
+    "seed_download_link": "magnet:?xt=urn:btih:4604bb4a31b85563157119c29be3473a1eeb7708&dn=nkkvr-129&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce",
+    "director": [
+      "\u30af\u30ef\u30c3\u30c1\u30fc"
+    ],
+    "maker": [
+      "\u8089\u304d\u3085\u3093\u30d1\u30e9\u30c0\u30a4\u30b9VR"
+    ],
+    "series": [
+      "\u9006\u30ca\u30f3\uff01\u30ab\u30fc\u30bb\u30c3\u30af\u30b9\uff01\uff01"
+    ],
+    "label": [
+      "\u6975\u30b0\u30eb\u30fc\u30d7"
+    ],
+    "keyword": [
+      "\u30cf\u30a4\u30af\u30aa\u30ea\u30c6\u30a3VR",
+      "VR\u5c02\u7528",
+      "\u72ec\u5360\u914d\u4fe1",
+      "\u75f4\u5973",
+      "\u30d1\u30a4\u30ba\u30ea",
+      "\u9a0e\u4e57\u4f4d",
+      "\u5de8\u4e73",
+      "\u4e2d\u51fa\u3057"
+    ]
+  },
+  {
+    "id": "13dsvr01658",
+    "title": "\u3010VR\u3011\u30108K\u3011\u300cSEX \u304c\u4e0a\u624b\u306b\u306a\u3063\u3066\u3001\u3082\u3063\u3068\u30a8\u30ed\u304c\u597d\u304d\u306b\u306a\u308b\uff01\u300d\u5de8\u4e73\u30d5\u30a3\u30c3\u30c8\u30cd\u30b9\u30a4\u30f3\u30b9\u30c8\u30e9\u30af\u30bf\u30fc\u304c\u6559\u3048\u308b\u30c1\u25cf\u30dd\u3092\u935b\u3048\u308b\u30c8\u30ec\u30fc\u30cb\u30f3\u30b0\u52d5\u753b\u3010\u5973\u6027\u3092\u7d76\u9802\u3055\u305b\u308b\u65e9\u6f0f\u6539\u5584\u7de8\u3011 \u4e09\u5cb3\u3086\u3046\u306a",
+    "size": "10.98 GB",
+    "actress": [
+      "\u4e09\u5cb3\u3086\u3046\u306a"
+    ],
+    "preview_img_url": "https://pics.dmm.co.jp/digital/video/13dsvr01658/13dsvr01658pl.jpg",
+    "sell_date": "2024/12/12",
+    "duration": "81\u5206",
+    "seed_download_link": "magnet:?xt=urn:btih:c3c83a05bc1ffd298b1a83fe2e353fa6ec95f420&dn=dsvr01658&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce",
+    "director": [
+      "\u30e2\u30f3\u30ad\u30fc\u30ec\u30f3\u30c1"
+    ],
+    "maker": [
+      "SOD\u30af\u30ea\u30a8\u30a4\u30c8"
+    ],
+    "series": [],
+    "label": [
+      "SODVR"
+    ],
+    "keyword": [
+      "\u30cf\u30a4\u30af\u30aa\u30ea\u30c6\u30a3VR",
+      "8KVR",
+      "\u5358\u4f53\u4f5c\u54c1",
+      "VR\u5c02\u7528",
+      "\u304a\u59c9\u3055\u3093",
+      "\u75f4\u5973",
+      "How To",
+      "\u30a4\u30f3\u30b9\u30c8\u30e9\u30af\u30bf\u30fc",
+      "\u5de8\u4e73"
+    ]
+  },
+  {
+    "id": "exvr00746",
+    "title": "\u3010VR\u3011KMPVR \u7f8e\u5c11\u597332\u4eba \u6fc3\u539a\u5bc6\u7740Play\uff01 \u30ca\u30de\u633f\u5165 \u5bfe\u9762\u5ea7\u4f4dBEST 7\u6642\u959330\u5206",
+    "size": "77.02 GB",
+    "actress": [
+      "\u85e4\u68ee\u91cc\u7a42",
+      "\u6708\u4e43\u30eb\u30ca",
+      "\u5409\u6839\u3086\u308a\u3042",
+      "\u672c\u771f\u3086\u308a",
+      "\u4e03\u6d77\u3072\u306a\uff08\u4e03\u702c\u3072\u306a\uff09",
+      "\u8309\u8389\u3072\u306a",
+      "\u795e\u7121\u6708\u308c\u306a",
+      "\u611b\u702c\u308b\u304b",
+      "\u7686\u6708\u3072\u304b\u308b",
+      "\u6709\u6816\u308b\u308b"
+    ],
+    "preview_img_url": "https://pics.dmm.co.jp/digital/video/exvr00746/exvr00746pl.jpg",
+    "sell_date": "2024/12/11",
+    "duration": "455\u5206",
+    "seed_download_link": "magnet:?xt=urn:btih:1dff74a867c0fd99db78e26b6ec3e8d3ffaf25d5&dn=exvr-746&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce",
+    "director": [],
+    "maker": [
+      "\u30b1\u30a4\u30fb\u30a8\u30e0\u30fb\u30d7\u30ed\u30c7\u30e5\u30fc\u30b9"
+    ],
+    "series": [
+      "\u53b3\u9078\u30d7\u30ec\u30a4 \u30d9\u30b9\u30c8"
+    ],
+    "label": [
+      "KMPVR"
+    ],
+    "keyword": [
+      "4\u6642\u9593\u4ee5\u4e0a\u4f5c\u54c1",
+      "\u30cf\u30a4\u30af\u30aa\u30ea\u30c6\u30a3VR",
+      "VR\u5c02\u7528",
+      "\u5973\u512a\u30d9\u30b9\u30c8\u30fb\u7dcf\u96c6\u7de8",
+      "\u4e2d\u51fa\u3057",
+      "\u7f8e\u5c11\u5973",
+      "\u75f4\u5973",
+      "\u5de8\u4e73"
+    ]
+  },
+  {
+    "id": "pxvr00227",
+    "title": "\u3010VR\u3011\u4ffa\u306e\u4e8b\u304c\u597d\u304d\u3059\u304e\u308b\u540c\u7d1a\u751f\u306e\u6fc0\u30ab\u30ef\u5f7c\u5973\u3068\u91d1\u7389\u304c\u7a7a\u306b\u306a\u308b\u307e\u3067\u6027\u6625\u771f\u3063\u76db\u308a\u306e\u30a4\u30c1\u30e3\u30e9\u30d6\u4e2d\u51fa\u3057\u30bb\u30c3\u30af\u30b9 \u6c38\u91ce\u9234\u30108K\u3011",
+    "size": "11.19 GB",
+    "actress": [
+      "\u6c38\u91ce\u9234"
+    ],
+    "preview_img_url": "https://pics.dmm.co.jp/digital/video/pxvr00227/pxvr00227pl.jpg",
+    "sell_date": "2024/12/11",
+    "duration": "76\u5206",
+    "seed_download_link": "magnet:?xt=urn:btih:13cdf6bf46bfc724d06e66f3b919ec1ba8e737d2&dn=pxvr-227&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce",
+    "director": [
+      "\u30a2\u30ab\u30ae\u5149\u4e00"
+    ],
+    "maker": [
+      "P-BOX VR"
+    ],
+    "series": [
+      "\u4ffa\u306e\u4e8b\u304c\u597d\u304d\u3059\u304e\u308b"
+    ],
+    "label": [
+      "P-BOX VR"
+    ],
+    "keyword": [
+      "\u30cf\u30a4\u30af\u30aa\u30ea\u30c6\u30a3VR",
+      "\u9a0e\u4e57\u4f4d",
+      "\u5236\u670d",
+      "\u30d5\u30a7\u30e9",
+      "\u4e2d\u51fa\u3057",
+      "\u72ec\u5360\u914d\u4fe1",
+      "VR\u5c02\u7528",
+      "\u5358\u4f53\u4f5c\u54c1",
+      "8KVR",
+      "\u7f8e\u5c11\u5973"
+    ]
+  },
+  {
+    "id": "pxvr00226",
+    "title": "\u3010VR\u3011\u5de8\u4e73\u5f8c\u8f29\u3068\u51fa\u5f35\u5148\u3067\u76f8\u90e8\u5c4b\uff01\uff01 \u30ef\u30f3\u30c1\u30e3\u30f3\u30e4\u30ec\u308b\u2026\uff01\uff1f\u3068\u601d\u3063\u305f\u306e\u306b\u3081\u3063\u3061\u3083\u62d2\u5426\u3089\u308c\u308b\uff01\u3084\u3080\u306a\u304f\u5a9a\u85ac\u3067\u751f\u30cf\u30e1\u3057\u305f\u3089\u30aa\u30db\u58f0\u304c\u6b62\u307e\u3089\u306a\u3044\uff01 \u9022\u6708\u3072\u307e\u308a\u30108K\u3011",
+    "size": "13.15 GB",
+    "actress": [
+      "\u9022\u6708\u3072\u307e\u308a"
+    ],
+    "preview_img_url": "https://pics.dmm.co.jp/digital/video/pxvr00226/pxvr00226pl.jpg",
+    "sell_date": "2024/12/11",
+    "duration": "79\u5206",
+    "seed_download_link": "magnet:?xt=urn:btih:3cf5757c0aca9e764ff4a00ff29678a96c342892&dn=pxvr00226&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce",
+    "director": [
+      "\u767d\u9ce5\u30cb\u30c9\u30df"
+    ],
+    "maker": [
+      "P-BOX VR"
+    ],
+    "series": [
+      "\u51fa\u5f35\u5148\u3067\u76f8\u90e8\u5c4b"
+    ],
+    "label": [
+      "P-BOX VR"
+    ],
+    "keyword": [
+      "\u30cf\u30a4\u30af\u30aa\u30ea\u30c6\u30a3VR",
+      "\u5de8\u4e73",
+      "\u5de8\u5c3b",
+      "\u30d1\u30a4\u30ba\u30ea",
+      "\u4e2d\u51fa\u3057",
+      "\u72ec\u5360\u914d\u4fe1",
+      "VR\u5c02\u7528",
+      "\u5358\u4f53\u4f5c\u54c1",
+      "8KVR",
+      "OL"
+    ]
+  },
+  {
+    "id": "pxvr00222",
+    "title": "\u3010VR\u3011\u50ac\u6deb\u306e\u6e6f \u6e29\u6cc9\u65c5\u9928\u3067\u898b\u3064\u3051\u305f\u7f8e\u5973\u3068\u5922\u306e\u30ca\u30de\u59e6 \u5c0f\u90a3\u6d77\u3042\u3084\u30108K\u3011",
+    "size": "15.94 GB",
+    "actress": [
+      "\u5c0f\u90a3\u6d77\u3042\u3084"
+    ],
+    "preview_img_url": "https://pics.dmm.co.jp/digital/video/pxvr00222/pxvr00222pl.jpg",
+    "sell_date": "2024/12/11",
+    "duration": "75\u5206",
+    "seed_download_link": "magnet:?xt=urn:btih:54ff3f4830f3e42b6b96ab3c795b9db09f3967bc&dn=pxvr-222&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce",
+    "director": [
+      "\u767d\u9ce5\u30cb\u30c9\u30df"
+    ],
+    "maker": [
+      "P-BOX VR"
+    ],
+    "series": [
+      "\u50ac\u6deb\u306e\u6e6f"
+    ],
+    "label": [
+      "P-BOX VR"
+    ],
+    "keyword": [
+      "\u30cf\u30a4\u30af\u30aa\u30ea\u30c6\u30a3VR",
+      "\u5de8\u5c3b",
+      "\u548c\u670d\u30fb\u6d74\u8863",
+      "\u9a0e\u4e57\u4f4d",
+      "\u4e2d\u51fa\u3057",
+      "\u72ec\u5360\u914d\u4fe1",
+      "VR\u5c02\u7528",
+      "\u5358\u4f53\u4f5c\u54c1",
+      "8KVR",
+      "\u6e29\u6cc9"
+    ]
+  },
+  {
+    "id": "pxvr00218",
+    "title": "\u3010VR\u3011\u61a7\u308c\u306e\u7f8e\u4eba\u53d4\u6bcd\u306e\u6fc0\u72ed\u30ef\u30f3\u30eb\u30fc\u30e0\u3067\u81f3\u8fd1\u8ddd\u96e2\u7f8e\u30dc\u30c7\u30a3\u306e\u7121\u81ea\u899a\u8a98\u60d1\u306b\u8a66\u9a13\u306e\u4e0d\u5b89\u3082\u5fd8\u308c\u3066\u4e2d\u51fa\u3057SEX\u3057\u307e\u304f\u3063\u305f\u8a66\u9a13\u524d\u5f8c\u306e\u79d8\u5bc6\u306e\u6642\u9593 \u7f8e\u54b2\u304b\u3093\u306a\u30108K\u3011",
+    "size": "9.59 GB",
+    "actress": [
+      "\u7f8e\u54b2\u304b\u3093\u306a"
+    ],
+    "preview_img_url": "https://pics.dmm.co.jp/digital/video/pxvr00218/pxvr00218pl.jpg",
+    "sell_date": "2024/12/11",
+    "duration": "75\u5206",
+    "seed_download_link": "magnet:?xt=urn:btih:e757cb8c8fd2d89ca13b41e91fe1f05ce4a21313&dn=pxvr00218&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce",
+    "director": [
+      "\u30ea\u30d0\u30d5\u30a3\u30fc\u5c06"
+    ],
+    "maker": [
+      "P-BOX VR"
+    ],
+    "series": [
+      "\u6fc0\u72ed\u30ef\u30f3\u30eb\u30fc\u30e0"
+    ],
+    "label": [
+      "P-BOX VR"
+    ],
+    "keyword": [
+      "\u30cf\u30a4\u30af\u30aa\u30ea\u30c6\u30a3VR",
+      "\u4eba\u59bb\u30fb\u4e3b\u5a66",
+      "\u9a0e\u4e57\u4f4d",
+      "\u75f4\u5973",
+      "\u30d5\u30a7\u30e9",
+      "\u72ec\u5360\u914d\u4fe1",
+      "VR\u5c02\u7528",
+      "\u5358\u4f53\u4f5c\u54c1",
+      "8KVR",
+      "\u4e2d\u51fa\u3057"
+    ]
+  },
+  {
+    "id": "savr00505",
+    "title": "\u3010VR\u3011\u7126\u3089\u3055\u308c\u3001\u60b6\u7d76\u3059\u308b\u30dc\u30af\u3092\u898b\u4e0b\u308d\u3057\u306a\u304c\u3089\u3082\u53ef\u611b\u304c\u308b\uff01\u6d3e\u9063\u578b\u30e1\u30a4\u30c9\u306e\u7518\u7f8e\u30b5\u30c7\u30a3\u30ba\u30e0\u3067\u9023\u7d9a\u5c04\u7cbe \u5c3e\u5d0e\u3048\u308a\u304b",
+    "size": "14.61 GB",
+    "actress": [
+      "\u5c3e\u5d0e\u3048\u308a\u304b"
+    ],
+    "preview_img_url": "https://pics.dmm.co.jp/digital/video/savr00505/savr00505pl.jpg",
+    "sell_date": "2024/12/11",
+    "duration": "73\u5206",
+    "seed_download_link": "magnet:?xt=urn:btih:1f155c52c7fe663ff915b4509362c518c5ba04e2&dn=savr-505&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce",
+    "director": [
+      "MUNPEE"
+    ],
+    "maker": [
+      "KMPVR-\u5f69-"
+    ],
+    "series": [],
+    "label": [
+      "KMPVR-\u5f69-"
+    ],
+    "keyword": [
+      "\u30cf\u30a4\u30af\u30aa\u30ea\u30c6\u30a3VR",
+      "\u75f4\u5973",
+      "\u811a\u30d5\u30a7\u30c1",
+      "\u7f75\u5012",
+      "\u9a0e\u4e57\u4f4d",
+      "\u72ec\u5360\u914d\u4fe1",
+      "VR\u5c02\u7528",
+      "\u5358\u4f53\u4f5c\u54c1",
+      "8KVR",
+      "\u30d1\u30a4\u30d1\u30f3"
+    ]
+  },
+  {
+    "id": "hnvr00140",
+    "title": "\u3010VR\u3011\u5b9f\u5bb6\u66ae\u3089\u3057\u306e\u30a2\u30e9\u30b5\u30fc\u30cb\u30fc\u30c8\u55aa\u5973\u59c9\u3061\u3083\u3093\u304c...\u30a8\u30ed\u3044\uff01 \u7f8e\u8c37\u6731\u97f3",
+    "size": "15.01 GB",
+    "actress": [
+      "\u7f8e\u8c37\u6731\u97f3\uff08\u7f8e\u8c37\u6731\u91cc\uff09"
+    ],
+    "preview_img_url": "https://pics.dmm.co.jp/digital/video/hnvr00140/hnvr00140pl.jpg",
+    "sell_date": "2024/12/11",
+    "duration": "78\u5206",
+    "seed_download_link": "magnet:?xt=urn:btih:5d6dc061262ba5b7b0176af774cd7a1e0332dd1c&dn=hnvr00140&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce",
+    "director": [
+      "ZAMPA"
+    ],
+    "maker": [
+      "\u672c\u4e2d"
+    ],
+    "series": [],
+    "label": [
+      "\u672c\u4e2d-VR"
+    ],
+    "keyword": [
+      "\u30cf\u30a4\u30af\u30aa\u30ea\u30c6\u30a3VR",
+      "\u30b9\u30ec\u30f3\u30c0\u30fc",
+      "\u30d5\u30a7\u30e9",
+      "\u9a0e\u4e57\u4f4d",
+      "\u30ad\u30b9\u30fb\u63a5\u543b",
+      "\u72ec\u5360\u914d\u4fe1",
+      "VR\u5c02\u7528",
+      "\u5358\u4f53\u4f5c\u54c1",
+      "8KVR",
+      "\u4e2d\u51fa\u3057"
+    ]
+  },
+  {
+    "id": "sivr00385",
+    "title": "\u3010VR\u3011\u80f8\u306e\u81a8\u3089\u307f\u304c\u30a8\u30ed\u3059\u304e\u308b\uff01\u6bcd\u6027\u3067\u7652\u3057\u3066\u304f\u308c\u308b\u7537\u5b50\u306b\u5927\u4eba\u6c17\u306a\u4fdd\u5065\u5ba4\u306e\u5148\u751f\u306b\u629c\u3051\u99c6\u3051\u3057\u3066\u3053\u3063\u305d\u308a\u7ae5\u8c9e\u3092\u596a\u3063\u3066\u3082\u3089\u3063\u305f\u50d5 \u9df2\u5c3e\u3081\u3044",
+    "size": "18.67 GB",
+    "actress": [
+      "\u9df2\u5c3e\u3081\u3044"
+    ],
+    "preview_img_url": "https://pics.dmm.co.jp/digital/video/sivr00385/sivr00385pl.jpg",
+    "sell_date": "2024/12/10",
+    "duration": "113\u5206",
+    "seed_download_link": "magnet:?xt=urn:btih:1f09921180e9902963ac5bd0ed4d1d62ae4c5566&dn=sivr-385&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce",
+    "director": [
+      "\u30b8\u30fc\u30cb\u30a2\u30b9\u819d"
+    ],
+    "maker": [
+      "\u30a8\u30b9\u30ef\u30f3 \u30ca\u30f3\u30d0\u30fc\u30ef\u30f3\u30b9\u30bf\u30a4\u30eb"
+    ],
+    "series": [],
+    "label": [
+      "S1 VR"
+    ],
+    "keyword": [
+      "\u30cf\u30a4\u30af\u30aa\u30ea\u30c6\u30a3VR",
+      "\u30d1\u30a4\u30ba\u30ea",
+      "\u7ae5\u8c9e",
+      "\u9a0e\u4e57\u4f4d",
+      "\u4e3b\u89b3",
+      "\u72ec\u5360\u914d\u4fe1",
+      "VR\u5c02\u7528",
+      "\u5358\u4f53\u4f5c\u54c1",
+      "8KVR",
+      "\u5de8\u4e73"
+    ]
+  },
+  {
+    "id": "kiwvr00727",
+    "title": "\u3010VR\u3011\u7530\u820e\u304b\u3089\u51fa\u3066\u304d\u305f\u521d\u5fc3\u306e\u7206\u4e73\u5a18\u304c\u5065\u5168\u30a8\u30b9\u30c6\u3060\u3068\u601d\u3063\u305f\u3089\u2026\u6027\u611f\u30aa\u30a4\u30eb\u30de\u30c3\u30b5\u30fc\u30b8\u5e97\uff01\u3055\u308c\u308b\u304c\u307e\u307e\u306b\u6deb\u4e71\u899a\u9192\uff01\uff01",
+    "size": "16.59 GB",
+    "actress": [],
+    "preview_img_url": "https://pics.dmm.co.jp/digital/video/kiwvr00727/kiwvr00727pl.jpg",
+    "sell_date": "2024/12/10",
+    "duration": "78\u5206",
+    "seed_download_link": "magnet:?xt=urn:btih:551c6835d4384e36a5238150216188cad4b8259b&dn=kiwvr-727&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce",
+    "director": [
+      "\u5927\u5d0e\u5e83\u6d69\u6cbb"
+    ],
+    "maker": [
+      "\u3053\u3042\u3089VR"
+    ],
+    "series": [
+      "3D\u30cf\u30e1\u64ae\u308aVR\u6539\u3010\u521d\u3081\u3066\u306e\u30aa\u30a4\u30eb\u30a8\u30b9\u30c6\u3067\u6deb\u4e71\u899a\u9192\u3011"
+    ],
+    "label": [
+      "\u6975\u30b0\u30eb\u30fc\u30d7"
+    ],
+    "keyword": [
+      "\u72ec\u5360\u914d\u4fe1",
+      "\u30cf\u30a4\u30af\u30aa\u30ea\u30c6\u30a3VR",
+      "\u9854\u5c04",
+      "\u4e2d\u51fa\u3057",
+      "\u30de\u30c3\u30b5\u30fc\u30b8\u30fb\u30ea\u30d5\u30ec",
+      "\u30ed\u30fc\u30b7\u30e7\u30f3\u30fb\u30aa\u30a4\u30eb",
+      "\u30a2\u30af\u30e1\u30fb\u30aa\u30fc\u30ac\u30ba\u30e0",
+      "\u5de8\u4e73",
+      "VR\u5c02\u7528"
+    ]
+  },
+  {
+    "id": "bibivr00135",
+    "title": "\u3010VR\u3011\u3053\u308c\u304c\u771f\u306e\u30aa\u30c8\u30ca\u306e\u793e\u4ea4\u5834\uff01\u5922\u306eVIP\u5e2d\u3067\u5bc6\u7740\u30cf\u30fc\u30ec\u30e03P\uff01\u862d\u3005 \u3061\u3083\u3093\u3088\u305f",
+    "size": "14.79 GB",
+    "actress": [
+      "\u862d\u3005",
+      "\u3061\u3083\u3093\u3088\u305f"
+    ],
+    "preview_img_url": "https://pics.dmm.co.jp/digital/video/bibivr00135/bibivr00135pl.jpg",
+    "sell_date": "2024/12/10",
+    "duration": "65\u5206",
+    "seed_download_link": "magnet:?xt=urn:btih:00b1b8429222d406da5eae2e2d264f27b0d063e8&dn=bibivr00135&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce",
+    "director": [
+      "K\u592a\u90ce"
+    ],
+    "maker": [
+      "KMPVR-bibi-"
+    ],
+    "series": [],
+    "label": [
+      "KMPVR-bibi-"
+    ],
+    "keyword": [
+      "\u30cf\u30a4\u30af\u30aa\u30ea\u30c6\u30a3VR",
+      "VR\u5c02\u7528",
+      "\u4e2d\u51fa\u3057",
+      "\u5de8\u4e73",
+      "\u75f4\u5973",
+      "\u30ad\u30e3\u30d0\u5b22\u30fb\u98a8\u4fd7\u5b22",
+      "3P\u30fb4P"
+    ]
+  },
+  {
+    "id": "dpvr00025",
+    "title": "\u3010VR\u3011VR \u7dca\u7e1b\u8abf\u6559\u59bb \u6d5c\u5d0e\u771f\u7dd2",
+    "size": "20.36 GB",
+    "actress": [
+      "\u6d5c\u5d0e\u771f\u7dd2"
+    ],
+    "preview_img_url": "https://pics.dmm.co.jp/digital/video/dpvr00025/dpvr00025pl.jpg",
+    "sell_date": "2024/12/10",
+    "duration": "110\u5206",
+    "seed_download_link": "magnet:?xt=urn:btih:f30e8c731be125925b4eb00d2285856195f66e2e&dn=dpvr-025&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce",
+    "director": [
+      "\u8d64\u7fbd\u83ca\u6b21\u90ce"
+    ],
+    "maker": [
+      "\u30b0\u30ed\u30fc\u30d0\u30eb\u30e1\u30c7\u30a3\u30a2\u30a2\u30cd\u30c3\u30af\u30b9"
+    ],
+    "series": [
+      "\u7dca\u7e1b\u8abf\u6559\u59bb"
+    ],
+    "label": [
+      "3D\u719f\u9053"
+    ],
+    "keyword": [
+      "\u30cf\u30a4\u30af\u30aa\u30ea\u30c6\u30a3VR",
+      "\u5358\u4f53\u4f5c\u54c1",
+      "\u7e1b\u308a\u30fb\u7dca\u7e1b",
+      "SM",
+      "\u874b\u71ed",
+      "\u719f\u5973",
+      "\u5de8\u4e73",
+      "\u4e3b\u89b3",
+      "\u72ec\u5360\u914d\u4fe1",
+      "8KVR",
+      "VR\u5c02\u7528"
+    ]
+  },
+  {
+    "id": "hnvr00148",
+    "title": "\u3010VR\u3011\u305a\u3063\u3068\u61a7\u308c\u3066\u3044\u305f\u5144\u8cb4\u306e\u5f7c\u5973\u3068\u2026\u5144\u8cb4\u306e\u4e0d\u5728\u4e2d\u3001\u53ef\u611b\u304f\u3066\u30a8\u30ed\u3044\u898b\u305f\u76ee\u306a\u5f7c\u5973\u3055\u3093\u306b\u30c0\u30e1\u5143\u3067\u304a\u9858\u3044\u3057\u305f\u3089\u2026\u521d\u3081\u3066\u751f\u3067SEX\u3067\u304d\u305f \u4e94\u65e5\u5e02\u82bd\u4f9d",
+    "size": "19.32 GB",
+    "actress": [
+      "\u4e94\u65e5\u5e02\u82bd\u4f9d"
+    ],
+    "preview_img_url": "https://pics.dmm.co.jp/digital/video/hnvr00148/hnvr00148pl.jpg",
+    "sell_date": "2024/12/09",
+    "duration": "102\u5206",
+    "seed_download_link": "magnet:?xt=urn:btih:0bed014d60ac8298acb535dac53770f4a99bddb1&dn=hnvr-148&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce",
+    "director": [
+      "\u767d\u9ce5\u30cb\u30c9\u30df"
+    ],
+    "maker": [
+      "\u672c\u4e2d"
+    ],
+    "series": [
+      "\u672c\u4e2d-VR"
+    ],
+    "label": [
+      "\u672c\u4e2d-VR"
+    ],
+    "keyword": [
+      "\u30cf\u30a4\u30af\u30aa\u30ea\u30c6\u30a3VR",
+      "\u304a\u59c9\u3055\u3093",
+      "\u5de8\u4e73",
+      "\u30d5\u30a7\u30e9",
+      "\u30ad\u30b9\u30fb\u63a5\u543b",
+      "\u72ec\u5360\u914d\u4fe1",
+      "VR\u5c02\u7528",
+      "\u5358\u4f53\u4f5c\u54c1",
+      "8KVR",
+      "\u4e2d\u51fa\u3057"
+    ]
+  },
+  {
+    "id": "vrprd00058",
+    "title": "\u3010VR\u3011\u300c\u3082\u3046\u2026\u305d\u3093\u306a\u6012\u3093\u306a\u3044\u3067\u3088\uff1f\u30de\u30b8\u3067\u30b4\u30e1\u30f3\u3063\u3066\u25c6\u300d\u6d6e\u6c17\u3057\u307e\u304f\u308b\u81ea\u7531\u5954\u653e\u306a\u91d1\u9aea\u30ae\u30e3\u30eb\u5f7c\u5973\u3068\u55a7\u5629\u3057\u305f\u5f8c\u306e\u4ef2\u76f4\u308aSEX",
+    "size": "14.57 GB",
+    "actress": [],
+    "preview_img_url": "https://pics.dmm.co.jp/digital/video/vrprd00058/vrprd00058pl.jpg",
+    "sell_date": "2024/12/09",
+    "duration": "63\u5206",
+    "seed_download_link": "magnet:?xt=urn:btih:6ee3174063847aab2499cc7a6d21ee2d79e04575&dn=vrprd-058&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce",
+    "director": [],
+    "maker": [
+      "VR\u30d1\u30e9\u30c0\u30a4\u30b9"
+    ],
+    "series": [],
+    "label": [
+      "\u6975\u30b0\u30eb\u30fc\u30d7"
+    ],
+    "keyword": [
+      "\u72ec\u5360\u914d\u4fe1",
+      "\u30cf\u30a4\u30af\u30aa\u30ea\u30c6\u30a3VR",
+      "VR\u5c02\u7528",
+      "\u4e2d\u51fa\u3057",
+      "\u75f4\u5973",
+      "\u5de8\u4e73",
+      "\u30ab\u30c3\u30d7\u30eb",
+      "\u30ae\u30e3\u30eb"
+    ]
+  },
+  {
+    "id": "nkkvr00135",
+    "title": "\u3010VR\u3011\u30108K\u30d0\u30d6\u30ea\u30fc\u30b9\u30c8\u30ed\u30f3\u30b0\uff01\uff01\u3011\u6975\u30fb\u643e\u308a\u53d6\u308a\u30b3\u30fc\u30b9\u306784\u5206\u9593\u8cac\u3081\u3089\u308c\u629c\u304b\u308c\u3063\u3071\u306a\u3057\uff01\uff01\u3010\u8d85\u8089\u611f\u5373\u30a8\u30ed\u7279\u5316\u301120\u767a\u51fa\u3059\u307e\u3067\u5e30\u3057\u3066\u304f\u308c\u306a\u3044\u30c7\u30ea\u30d8\u30eb\uff01\uff01",
+    "size": "18.30 GB",
+    "actress": [],
+    "preview_img_url": "https://pics.dmm.co.jp/digital/video/nkkvr00135/nkkvr00135pl.jpg",
+    "sell_date": "2024/12/09",
+    "duration": "84\u5206",
+    "seed_download_link": "magnet:?xt=urn:btih:ab1d161e0b2ec619bbdbd864374850c9f6ccc30f&dn=nkkvr-135&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce",
+    "director": [
+      "\u30af\u30ef\u30c3\u30c1\u30fc"
+    ],
+    "maker": [
+      "\u8089\u304d\u3085\u3093\u30d1\u30e9\u30c0\u30a4\u30b9VR"
+    ],
+    "series": [
+      "\u30b9\u30c8\u30ed\u30f3\u30b0\u7a2e\u7d5e\u308a\u25cb\u25cb\u767a\u5c04\uff01\uff01"
+    ],
+    "label": [
+      "\u6975\u30b0\u30eb\u30fc\u30d7"
+    ],
+    "keyword": [
+      "\u72ec\u5360\u914d\u4fe1",
+      "\u5de8\u4e73",
+      "\u75f4\u5973",
+      "\u9a0e\u4e57\u4f4d",
+      "\u30d1\u30a4\u30ba\u30ea",
+      "\u30ed\u30fc\u30b7\u30e7\u30f3\u30fb\u30aa\u30a4\u30eb",
+      "VR\u5c02\u7528",
+      "8KVR",
+      "\u30cf\u30a4\u30af\u30aa\u30ea\u30c6\u30a3VR",
+      "\u4e2d\u51fa\u3057"
+    ]
+  },
+  {
+    "id": "13dsvr01538",
+    "title": "\u3010VR\u3011\u8efd\u8584\u306b\u4e2d\u51fa\u3057\u3067\u304d\u308b\u7b11\u9854\u3082\u6027\u6b32\u3082\u4eba\u4e00\u500d\u306a\u30bb\u30d5\u30ec \u9152\u4e95\u8389\u4e43",
+    "size": "10.80 GB",
+    "actress": [
+      "\u9152\u4e95\u8389\u4e43"
+    ],
+    "preview_img_url": "https://pics.dmm.co.jp/digital/video/13dsvr01538/13dsvr01538pl.jpg",
+    "sell_date": "2024/12/09",
+    "duration": "58\u5206",
+    "seed_download_link": "magnet:?xt=urn:btih:fe81165cced784e8981fe5f6b3a44f51e94be7f1&dn=dsvr01538&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce",
+    "director": [
+      "\u4e95\u4e0a\u30b8\u30e3\u30d1\u30f3"
+    ],
+    "maker": [
+      "SOD\u30af\u30ea\u30a8\u30a4\u30c8"
+    ],
+    "series": [],
+    "label": [
+      "SODVR"
+    ],
+    "keyword": [
+      "\u5358\u4f53\u4f5c\u54c1",
+      "\u30cf\u30a4\u30af\u30aa\u30ea\u30c6\u30a3VR",
+      "VR\u5c02\u7528",
+      "\u30d5\u30a7\u30e9",
+      "\u9a0e\u4e57\u4f4d",
+      "\u4e2d\u51fa\u3057",
+      "\u7f8e\u4e73",
+      "\u7f8e\u5c11\u5973"
+    ]
+  },
+  {
+    "id": "savr00518",
+    "title": "\u3010VR\u3011\u4f53\u6db2\u3050\u3057\u3087\u6fe1\u308c \u6c57\u30fb\u30de\u30f3\u6c41\u30fb\u304a\u3057\u3063\u3053\u3067\u5fc3\u3082\u4f53\u3082\u652f\u914d\u3059\u308b\u30e4\u30ea\u30de\u30f3GAL\u306b\u98fc\u308f\u308c\u305f3\u65e53\u6669 \u4e00\u6761\u307f\u304a",
+    "size": "15.86 GB",
+    "actress": [
+      "\u4e00\u6761\u307f\u304a"
+    ],
+    "preview_img_url": "https://pics.dmm.co.jp/digital/video/savr00518/savr00518pl.jpg",
+    "sell_date": "2024/12/09",
+    "duration": "88\u5206",
+    "seed_download_link": "magnet:?xt=urn:btih:1031952021044a2fab6f7e6387afc8c236c8753c&dn=savr-518&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce",
+    "director": [
+      "\u66fe\u6839\u5927\u5922@\u4e2d\u91ce"
+    ],
+    "maker": [
+      "KMPVR-\u5f69-"
+    ],
+    "series": [],
+    "label": [
+      "KMPVR-\u5f69-"
+    ],
+    "keyword": [
+      "\u30cf\u30a4\u30af\u30aa\u30ea\u30c6\u30a3VR",
+      "\u30ae\u30e3\u30eb",
+      "\u653e\u5c3f\u30fb\u304a\u6f0f\u3089\u3057",
+      "\u75f4\u5973",
+      "\u5de8\u4e73",
+      "\u72ec\u5360\u914d\u4fe1",
+      "VR\u5c02\u7528",
+      "\u5358\u4f53\u4f5c\u54c1",
+      "8KVR",
+      "\u7f8e\u5c11\u5973"
+    ]
+  },
+  {
+    "id": "hnvr00134",
+    "title": "\u3010VR\u3011\u5922\u306e\u30d4\u30f3\u30b5\u30ed10\u56de\u8ee2\u30b3\u30fc\u30b9 9\u4eba\u306e\u30d4\u30f3\u30b5\u30ed\u5b22\u3068\u5165\u308c\u66ff\u308f\u308a\u30ce\u30f3\u30b9\u30c8\u30c3\u30d710\u56de\u8ee2 \u3053\u306e\u4e2d\u3067\u4e2d\u51fa\u3057\u3067\u304d\u308b\u5973\u306e\u5b50\u306f\u8ab0\u3060\uff01\uff1f \u30d4\u30f3\u30b5\u30ed\u30a4\u30f3\u30d5\u30eb\u30a8\u30f3\u30b5\u30fc300\u56de\u3055\u3093\u76e3\u4fee \u82b1\u3073\u308910\u56de\u8ee2\u5b9f\u8a71\u3092\u518d\u73fe",
+    "size": "29.34 GB",
+    "actress": [
+      "\u677e\u672c\u3044\u3061\u304b",
+      "\u512a\u68a8\u307e\u3044\u306a",
+      "\u5982\u6708\u3086\u306e",
+      "\u5bae\u6ca2\u3061\u306f\u308b",
+      "\u5929\u91ce\u82b1\u4e43",
+      "\u97f3\u7fbd\u7f8e\u9234",
+      "\u5e7e\u7530\u307e\u3061",
+      "\u7d2b\u6708\u3086\u304b\u308a",
+      "\u771f\u767d\u307f\u306e\u308a"
+    ],
+    "preview_img_url": "https://pics.dmm.co.jp/digital/video/hnvr00134/hnvr00134pl.jpg",
+    "sell_date": "2024/12/08",
+    "duration": "147\u5206",
+    "seed_download_link": "magnet:?xt=urn:btih:fa18b591971a580161c08fb60a0a5e47b3987a28&dn=hnvr-134&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce",
+    "director": [
+      "\u30d4\u30f3\u30b5\u30ed\u5927\u597d\u304d\u30b9\u30ba\u30bf\u30b1\u3055\u3093"
+    ],
+    "maker": [
+      "\u672c\u4e2d"
+    ],
+    "series": [],
+    "label": [
+      "\u672c\u4e2d-VR"
+    ],
+    "keyword": [
+      "\u30cf\u30a4\u30af\u30aa\u30ea\u30c6\u30a3VR",
+      "8KVR",
+      "VR\u5c02\u7528",
+      "\u72ec\u5360\u914d\u4fe1",
+      "\u30b9\u30ec\u30f3\u30c0\u30fc",
+      "\u7f8e\u5c11\u5973",
+      "\u624b\u30b3\u30ad",
+      "\u30d5\u30a7\u30e9",
+      "\u4e2d\u51fa\u3057"
+    ]
+  },
+  {
+    "id": "kavr00398",
+    "title": "\u3010VR\u3011\u5b8c\u5168\u670d\u5f93\u3059\u308b\u304a\u3063\u3068\u308a\u7206\u4e73\u306a\u6700\u9ad8\u306e\u611b\u4eba\u3068\u304a\u6cca\u307e\u308a\u6e29\u6cc9\u4e0d\u502b \u7fbd\u6708\u4e43\u84bc",
+    "size": "24.17 GB",
+    "actress": [
+      "\u7fbd\u6708\u4e43\u84bc"
+    ],
+    "preview_img_url": "https://pics.dmm.co.jp/digital/video/kavr00398/kavr00398pl.jpg",
+    "sell_date": "2024/12/08",
+    "duration": "89\u5206",
+    "seed_download_link": "magnet:?xt=urn:btih:bc7bc74750918a5995e1aec3f86136e055a970e6&dn=kavr-398&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce",
+    "director": [
+      "ZAMPA"
+    ],
+    "maker": [
+      "kawaii"
+    ],
+    "series": [
+      "kawaii*VR"
+    ],
+    "label": [
+      "kawaii* VR"
+    ],
+    "keyword": [
+      "\u30cf\u30a4\u30af\u30aa\u30ea\u30c6\u30a3VR",
+      "\u30d1\u30a4\u30ba\u30ea",
+      "\u4e0d\u502b",
+      "\u4e2d\u51fa\u3057",
+      "\u4e3b\u89b3",
+      "\u72ec\u5360\u914d\u4fe1",
+      "VR\u5c02\u7528",
+      "\u5358\u4f53\u4f5c\u54c1",
+      "8KVR",
+      "\u5de8\u4e73"
+    ]
+  },
+  {
+    "id": "savr00517",
+    "title": "\u3010VR\u3011\u300c\u5148\u751f\u304c\u8650\u3081\u3066\u3042\u3052\u30eb\u266a\u300d\u3072\u3073\u304d\u5148\u751f\u306e\u30b9\u30d1\u30eb\u30bf\u9a0e\u4e57\u4f4d\u7126\u3089\u3057\u30c1\u3007\u30dd\u6027\u6d3b\u6307\u5c0e \u5927\u69fb\u3072\u3073\u304d",
+    "size": "15.89 GB",
+    "actress": [
+      "\u5927\u69fb\u3072\u3073\u304d"
+    ],
+    "preview_img_url": "https://pics.dmm.co.jp/digital/video/savr00517/savr00517pl.jpg",
+    "sell_date": "2024/12/08",
+    "duration": "74\u5206",
+    "seed_download_link": "magnet:?xt=urn:btih:492c5c36924a29807a90ac6f23fa21b772b9ee95&dn=savr-517&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce",
+    "director": [
+      "\u30cf\u30eb\u30af\u30fb\u30b3\u30fc\u30ac\u30f3"
+    ],
+    "maker": [
+      "KMPVR-\u5f69-"
+    ],
+    "series": [],
+    "label": [
+      "KMPVR-\u5f69-"
+    ],
+    "keyword": [
+      "\u30cf\u30a4\u30af\u30aa\u30ea\u30c6\u30a3VR",
+      "\u75f4\u5973",
+      "\u30d5\u30a7\u30e9",
+      "\u5973\u6559\u5e2b",
+      "\u4e2d\u51fa\u3057",
+      "\u72ec\u5360\u914d\u4fe1",
+      "VR\u5c02\u7528",
+      "\u5358\u4f53\u4f5c\u54c1",
+      "8KVR",
+      "\u5de8\u4e73"
+    ]
+  },
+  {
+    "id": "hnvr00145",
+    "title": "\u3010VR\u3011\u65e5\u672c\u4e00\u4e88\u7d04\u304c\u53d6\u308c\u306a\u3044\u7f8e\u4eba\u71b1\u6ce2\u5e2b\u30b3\u30f3\u30d3\u306e\u79d8\u5bc6\u306e\u30a2\u30a6\u30d5\u30b0\u30fc\u30b9\u30b5\u30fc\u30d3\u30b9 \u4ed6\u306e\u5ba2\u305f\u3061\u304c\u6b21\u3005\u3068\u96e2\u8131\u3057\u3066\u3044\u304f\u4e2d\u3001\u30cf\u30fc\u30ec\u30e0\u30b5\u30a6\u30ca\u5ba4\u3067\u30ca\u30de\u3067\u629c\u304b\u308c\u307e\u304f\u3063\u305f\u50d5\u3002",
+    "size": "19.05 GB",
+    "actress": [
+      "\u85e4\u68ee\u91cc\u7a42",
+      "\u5317\u91ce\u672a\u5948"
+    ],
+    "preview_img_url": "https://pics.dmm.co.jp/digital/video/hnvr00145/hnvr00145pl.jpg",
+    "sell_date": "2024/12/07",
+    "duration": "89\u5206",
+    "seed_download_link": "magnet:?xt=urn:btih:c388b56aaa92eb20c451728fdbcc5698efd31570&dn=hnvr00145&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce",
+    "director": [
+      "\u30b8\u30fc\u30cb\u30a2\u30b9\u819d"
+    ],
+    "maker": [
+      "\u672c\u4e2d"
+    ],
+    "series": [
+      "\u672c\u4e2d-VR"
+    ],
+    "label": [
+      "\u672c\u4e2d-VR"
+    ],
+    "keyword": [
+      "\u30cf\u30a4\u30af\u30aa\u30ea\u30c6\u30a3VR",
+      "8KVR",
+      "VR\u5c02\u7528",
+      "\u72ec\u5360\u914d\u4fe1",
+      "\u30ad\u30b9\u30fb\u63a5\u543b",
+      "\u6c57\u3060\u304f",
+      "\u30cf\u30fc\u30ec\u30e0",
+      "\u5de8\u4e73",
+      "\u4e2d\u51fa\u3057"
+    ]
+  },
+  {
+    "id": "savr00503",
+    "title": "\u3010VR\u3011\u75b2\u308c\u305f\u30aa\u30c8\u30b3\u305f\u3061\u306e\u9670\u830e\u3092\u5305\u307f\u8fbc\u3080\u9b45\u60d1\u306e\u3084\u308f\u4e73 \u9589\u5e97\u5f8c\u306e\u5e97\u5185\u3067\u30d1\u30a4\u30ba\u30ea\u767a\u5c04\u3055\u305b\u305f\u7cbe\u5b50\u3092\u60a9\u307f\u3054\u3068\u5168\u3066\u98f2\u307f\u8fbc\u3093\u3067\u304f\u308c\u308b\u30b9\u30ca\u30c3\u30af\u306e\u30de\u30de \u7e54\u7530\u771f\u5b50",
+    "size": "17.24 GB",
+    "actress": [
+      "\u7e54\u7530\u771f\u5b50"
+    ],
+    "preview_img_url": "https://pics.dmm.co.jp/digital/video/savr00503/savr00503pl.jpg",
+    "sell_date": "2024/12/07",
+    "duration": "78\u5206",
+    "seed_download_link": "magnet:?xt=urn:btih:9f614bebb323273420f158d59eb2b1c6e8fc57e0&dn=savr-503&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce",
+    "director": [
+      "\u30cf\u30e1\u30e9\u30cb\u30a2\u30f3\u4eac\u90fd"
+    ],
+    "maker": [
+      "KMPVR-\u5f69-"
+    ],
+    "series": [],
+    "label": [
+      "KMPVR-\u5f69-"
+    ],
+    "keyword": [
+      "\u30cf\u30a4\u30af\u30aa\u30ea\u30c6\u30a3VR",
+      "\u30d1\u30a4\u30ba\u30ea",
+      "\u5de8\u4e73",
+      "\u9a0e\u4e57\u4f4d",
+      "\u7f8e\u4e73",
+      "\u72ec\u5360\u914d\u4fe1",
+      "VR\u5c02\u7528",
+      "\u5358\u4f53\u4f5c\u54c1",
+      "8KVR",
+      "\u4e2d\u51fa\u3057"
+    ]
+  },
+  {
+    "id": "savr00522",
+    "title": "\u3010VR\u3011\u5fc3\u7406\u30ab\u30a6\u30f3\u30bb\u30e9\u30fc\u306e\u8a2a\u554f\u65e5\u8a8c SEX\u4f9d\u5b58\u75c7\u306b\u60a9\u3080K\u3055\u3093\u306f\u597d\u304d\u3067\u3082\u306a\u3044\u50d5\u306e\u30c1\u3007\u30dd\u3092\u4f7f\u3063\u3066\u8eab\u52dd\u624b\u306b\u30a4\u30ad\u307e\u304f\u308a\u307e\u3057\u305f",
+    "size": "19.16 GB",
+    "actress": [],
+    "preview_img_url": "https://pics.dmm.co.jp/digital/video/savr00522/savr00522pl.jpg",
+    "sell_date": "2024/12/07",
+    "duration": "80\u5206",
+    "seed_download_link": "magnet:?xt=urn:btih:41a82dc4faa609d1374f623a058c88911d35ef10&dn=savr-522&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce",
+    "director": [
+      "\u5305\u4e01M"
+    ],
+    "maker": [
+      "KMPVR-\u5f69-"
+    ],
+    "series": [],
+    "label": [
+      "KMPVR-\u5f69-"
+    ],
+    "keyword": [
+      "\u30cf\u30a4\u30af\u30aa\u30ea\u30c6\u30a3VR",
+      "8KVR",
+      "VR\u5c02\u7528",
+      "\u72ec\u5360\u914d\u4fe1",
+      "\u6deb\u4e71\u30fb\u30cf\u30fc\u30c9\u7cfb",
+      "\u7f8e\u4e73",
+      "\u5de8\u4e73",
+      "\u30d3\u30c3\u30c1",
+      "\u75f4\u5973"
+    ]
+  },
+  {
+    "id": "kiwvr00715",
+    "title": "\u3010VR\u3011\u30108K\u3011\u3010\u9006\u30e1\u30a4\u30c9\u30fb\u9006\u30ca\u30fc\u30b9\u30fb\u9006\u30bb\u30fc\u30e9\u30fc\u30fb\u9006\u30b9\u30af\u6c34\u3011\u306e\u30a8\u30ed\u30ab\u30ef\u904e\u304e\u308b\u30b3\u30b9\u30d7\u30ec\u3067\u304a\u5ba2\u69d8\u3092\u5b8c\u5168\u3054\u5949\u4ed5\uff01\u9023\u7d9a\u30cc\u30adOK\u306e\u5b55\u307e\u305b\u4e2d\u51fa\u3057\u8d85VIP\u30bd\u30fc\u30d7\u30e9\u30f3\u30c9 \u4ef2\u5ddd\u305d\u3089",
+    "size": "11.56 GB",
+    "actress": [
+      "\u4ef2\u5ddd\u305d\u3089"
+    ],
+    "preview_img_url": "https://pics.dmm.co.jp/digital/video/kiwvr00715/kiwvr00715pl.jpg",
+    "sell_date": "2024/12/06",
+    "duration": "74\u5206",
+    "seed_download_link": "magnet:?xt=urn:btih:3afd3d8ba0548d1c3e05c9c719e50facc95f9e6a&dn=kiwvr-715&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce",
+    "director": [],
+    "maker": [
+      "\u3053\u3042\u3089VR"
+    ],
+    "series": [
+      "8KVR\u3010\u9006\u30b3\u30b9\u30d7\u30ec\u5c02\u9580\uff01\u9023\u7d9a\u30cc\u30ad\u3054\u5949\u4ed5\u4e2d\u51fa\u3057\u30bd\u30fc\u30d7\u3011"
+    ],
+    "label": [
+      "\u6975\u30b0\u30eb\u30fc\u30d7"
+    ],
+    "keyword": [
+      "\u30cf\u30a4\u30af\u30aa\u30ea\u30c6\u30a3VR",
+      "\u30ad\u30e3\u30d0\u5b22\u30fb\u98a8\u4fd7\u5b22",
+      "\u9a0e\u4e57\u4f4d",
+      "\u4e2d\u51fa\u3057",
+      "\u30ed\u30fc\u30b7\u30e7\u30f3\u30fb\u30aa\u30a4\u30eb",
+      "\u30b3\u30b9\u30d7\u30ec",
+      "8KVR",
+      "\u72ec\u5360\u914d\u4fe1",
+      "VR\u5c02\u7528",
+      "\u5358\u4f53\u4f5c\u54c1",
+      "\u5de8\u4e73"
+    ]
+  },
+  {
+    "id": "juvr00206",
+    "title": "\u3010VR\u3011\u8d85\u9ad8\u753b\u8cea8KVR \u300c\u304a\u5ba2\u3055\u3093\u6765\u3066\u3082\u77e5\u3089\u306a\u3044\u3088\uff08\u7b11\uff09\u300d \u30d0\u30a4\u30c8\u5148\u306e\u540c\u50da\u30fb\u51db\u3005\u5b50\u3055\u3093\u3068 \u79d8\u5bc6\u306e\u30b7\u30e7\u30fc\u30c8\u30bf\u30a4\u30e0\u4e0d\u502b\u3092\u3057\u3066\u3044\u308b\u50d5\u306f \u52e4\u52d9\u4e2d\u306b\u30c1\u3007\u30dd\u306e\u840e\u3048\u308b\u6687\u304c\u306a\u3044\u307b\u3069\u30e4\u30ea\u307e\u304f\u308a \u6642\u77ed\u4e2d\u51fa\u3057\u3092\u30ad\u30e1\u307e\u304f\u3063\u3066\u308b\u3002 \u6728\u4e0b\u51db\u3005\u5b50",
+    "size": "12.66 GB",
+    "actress": [
+      "\u6728\u4e0b\u51db\u3005\u5b50"
+    ],
+    "preview_img_url": "https://pics.dmm.co.jp/digital/video/juvr00206/juvr00206pl.jpg",
+    "sell_date": "2024/12/06",
+    "duration": "85\u5206",
+    "seed_download_link": "magnet:?xt=urn:btih:5f925e05531c38f36b7c4e43c0f55a248458e4a2&dn=juvr00206&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce",
+    "director": [
+      "\u77e2\u6fa4\u30ec\u30b7\u30fc\u30d6"
+    ],
+    "maker": [
+      "\u30de\u30c9\u30f3\u30ca"
+    ],
+    "series": [],
+    "label": [
+      "MadonnaVR"
+    ],
+    "keyword": [
+      "\u30cf\u30a4\u30af\u30aa\u30ea\u30c6\u30a3VR",
+      "\u719f\u5973",
+      "\u4eba\u59bb\u30fb\u4e3b\u5a66",
+      "\u8077\u696d\u8272\u3005",
+      "\u75f4\u5973",
+      "\u72ec\u5360\u914d\u4fe1",
+      "VR\u5c02\u7528",
+      "\u5358\u4f53\u4f5c\u54c1",
+      "8KVR",
+      "\u4e0d\u502b"
+    ]
+  },
+  {
+    "id": "ipvr00288",
+    "title": "\u3010VR\u3011\u6771\u4eac\u90ca\u5916\u306b\u5b58\u5728\u3059\u308b\u4e88\u7d04\u306e\u53d6\u308c\u306a\u3044\u9ad8\u7d1a\u30db\u30c6\u30eb \u5bbf\u6cca\u4e2d\u306f\u4f55\u56de\u3067\u3082\u767a\u5c04\u3067\u304d\u308b\u5c04\u7cbe\u30b5\u30fc\u30d3\u30b9\u4ed8\u304d\u306e\u30db\u30c6\u30eb\u3060\u3063\u305f\u20268KVR \u53e4\u5ddd\u307b\u306e\u304b",
+    "size": "18.87 GB",
+    "actress": [
+      "\u53e4\u5ddd\u307b\u306e\u304b"
+    ],
+    "preview_img_url": "https://pics.dmm.co.jp/digital/video/ipvr00288/ipvr00288pl.jpg",
+    "sell_date": "2024/12/06",
+    "duration": "87\u5206",
+    "seed_download_link": "magnet:?xt=urn:btih:9a14a5a4e1f5713fb3610886f6f9ae1bc9d7327a&dn=ipvr00288&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce",
+    "director": [
+      "\u6fe1\u308c\u305f\u5b50\u72ac"
+    ],
+    "maker": [
+      "\u30a2\u30a4\u30c7\u30a2\u30dd\u30b1\u30c3\u30c8"
+    ],
+    "series": [
+      "\u30a2\u30a4\u30dd\u30b18KVR"
+    ],
+    "label": [
+      "IP-VR"
+    ],
+    "keyword": [
+      "\u30cf\u30a4\u30af\u30aa\u30ea\u30c6\u30a3VR",
+      "\u30b9\u30ec\u30f3\u30c0\u30fc",
+      "\u8ca7\u4e73\u30fb\u5fae\u4e73",
+      "\u75f4\u5973",
+      "\u30db\u30c6\u30eb",
+      "\u72ec\u5360\u914d\u4fe1",
+      "VR\u5c02\u7528",
+      "\u5358\u4f53\u4f5c\u54c1",
+      "8KVR",
+      "\u304a\u59c9\u3055\u3093"
+    ]
+  },
+  {
+    "id": "crvr00355",
+    "title": "\u3010VR\u3011\u30108KVR\u3011SNS\u3067\u51fa\u4f1a\u3063\u305f\u3044\u3044\u306a\u308a\u7cfb\u9ed2\u9aea\u7f8e\u5973\u3092\u81ea\u5b85\u306b\u9023\u308c\u8fbc\u307f\u96fb\u30de\u5236\u670d\u30a8\u30c3\u30c1 \u9ad8\u57ce\u306a\u304e\u3055",
+    "size": "20.07 GB",
+    "actress": [
+      "\u9ad8\u57ce\u306a\u304e\u3055"
+    ],
+    "preview_img_url": "https://pics.dmm.co.jp/digital/video/crvr00355/crvr00355pl.jpg",
+    "sell_date": "2024/12/06",
+    "duration": "69\u5206",
+    "seed_download_link": "magnet:?xt=urn:btih:f564ff2e3d5cc14f7f5c9e547d27aa60d2b29912&dn=crvr-355&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce",
+    "director": [
+      "\u304f\u308a\u305e\u3046"
+    ],
+    "maker": [
+      "CRYSTAL VR"
+    ],
+    "series": [
+      "SNS\u3067\u51fa\u4f1a\u3063\u305f\u25cb\u25cb\u3092\u81ea\u5b85\u306b\u9023\u308c\u8fbc\u307f\u96fb\u30de\u5236\u670d\u30a8\u30c3\u30c1"
+    ],
+    "label": [
+      "CRYSTAL VR"
+    ],
+    "keyword": [
+      "\u30cf\u30a4\u30af\u30aa\u30ea\u30c6\u30a3VR",
+      "\u30d5\u30a7\u30e9",
+      "\u30d0\u30a4\u30d6",
+      "\u30aa\u30ca\u30cb\u30fc",
+      "\u96fb\u30de",
+      "\u30ad\u30b9\u30fb\u63a5\u543b",
+      "\u30b9\u30ec\u30f3\u30c0\u30fc",
+      "\u7f8e\u5c11\u5973",
+      "\u7af6\u6cf3\u30fb\u30b9\u30af\u30fc\u30eb\u6c34\u7740",
+      "\u6307\u30de\u30f3",
+      "\u6f6e\u5439\u304d",
+      "8KVR",
+      "VR\u5c02\u7528",
+      "\u4e3b\u89b3",
+      "\u5358\u4f53\u4f5c\u54c1",
+      "\u624b\u30b3\u30ad",
+      "\u4e2d\u51fa\u3057",
+      "\u9a0e\u4e57\u4f4d",
+      "\u30d0\u30c3\u30af",
+      "\u5236\u670d"
+    ]
+  },
+  {
+    "id": "aquma00061",
+    "title": "\u3010VR\u3011\u900f\u660e\u4eba\u9593\u3076\u3063\u304b\u3051VR",
+    "size": "7.99 GB",
+    "actress": [
+      "\u5bcc\u5ca1\u3042\u308a\u3055",
+      "\u8db3\u7acb\u53cb\u68a8",
+      "\u6a58\u4eac\u82b1",
+      "\u5343\u5ddd\u3068\u308f",
+      "\u51ac\u611b\u3053\u3068\u306d",
+      "\u6850\u9999\u3086\u3046\u308a"
+    ],
+    "preview_img_url": "https://pics.dmm.co.jp/digital/video/aquma00061/aquma00061pl.jpg",
+    "sell_date": "2024/12/06",
+    "duration": "66\u5206",
+    "seed_download_link": "magnet:?xt=urn:btih:dedefcf0608d89175b62926c652a0522c54001de&dn=aquma-061&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce",
+    "director": [
+      "\u30e2\u30b0Y"
+    ],
+    "maker": [
+      "AQUA\uff1c\u30a2\u30af\u30a2\uff1e"
+    ],
+    "series": [],
+    "label": [
+      "AQUA MANIAC"
+    ],
+    "keyword": [
+      "\u30cf\u30a4\u30af\u30aa\u30ea\u30c6\u30a3VR",
+      "VR\u5c02\u7528",
+      "\u72ec\u5360\u914d\u4fe1",
+      "\u5984\u60f3",
+      "\u76d7\u64ae\u30fb\u306e\u305e\u304d",
+      "\u3076\u3063\u304b\u3051",
+      "\u4e3b\u89b3",
+      "\u30aa\u30ca\u30cb\u30fc"
+    ]
+  },
+  {
+    "id": "aqula00057",
+    "title": "\u3010VR\u3011\u4e00\u9031\u9593\u30a4\u30c1\u30e3\u30e9\u30d6\u5c04\u7cbe\u7ba1\u7406\u751f\u6d3b \u5cac\u3055\u304f\u3089",
+    "size": "45.29 GB",
+    "actress": [
+      "\u5cac\u3055\u304f\u3089"
+    ],
+    "preview_img_url": "https://pics.dmm.co.jp/digital/video/aqula00057/aqula00057pl.jpg",
+    "sell_date": "2024/12/06",
+    "duration": "82\u5206",
+    "seed_download_link": "magnet:?xt=urn:btih:e6f7fd8e9f30a53553dfdd8f08b7377fb90ac3c1&dn=aqula-057&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce",
+    "director": [
+      "\u5c71\u672c\u30d8\u30f3\u30c9\u30ea\u30af\u30b9"
+    ],
+    "maker": [
+      "AQUA\uff1c\u30a2\u30af\u30a2\uff1e"
+    ],
+    "series": [
+      "\u4e00\u9031\u9593\u30a4\u30c1\u30e3\u30e9\u30d6\u5c04\u7cbe\u7ba1\u7406\u751f\u6d3b"
+    ],
+    "label": [
+      "AQUA LADY"
+    ],
+    "keyword": [
+      "\u30cf\u30a4\u30af\u30aa\u30ea\u30c6\u30a3VR",
+      "\u30aa\u30ca\u30cb\u30fc",
+      "\u30aa\u30ca\u30b5\u30dd",
+      "\u30d5\u30a7\u30e9",
+      "\u9a0e\u4e57\u4f4d",
+      "\u72ec\u5360\u914d\u4fe1",
+      "VR\u5c02\u7528",
+      "\u5358\u4f53\u4f5c\u54c1",
+      "8KVR",
+      "\u5de8\u4e73"
+    ]
+  },
+  {
+    "id": "aquco00075",
+    "title": "\u3010VR\u3011\u53f1\u3089\u308c\u7279\u5316\uff01\u6d88\u706f\u5f8c\u306e\u75c5\u5ba4\u3067\u30aa\u30ca\u30cb\u30fc\u3057\u3066\u3044\u308b\u30dc\u30af\u3092\u8efd\u8511\u3057\u305f\u76ee\u3067\u53f1\u308a\u306a\u304c\u3089\u629c\u3044\u3066\u304f\u308c\u308b\u30aa\u30ca\u30b5\u30dd\u30ca\u30fc\u30b9 \u6850\u9999\u3086\u3046\u308a",
+    "size": "36.26 GB",
+    "actress": [
+      "\u6850\u9999\u3086\u3046\u308a"
+    ],
+    "preview_img_url": "https://pics.dmm.co.jp/digital/video/aquco00075/aquco00075pl.jpg",
+    "sell_date": "2024/12/06",
+    "duration": "85\u5206",
+    "seed_download_link": "magnet:?xt=urn:btih:c9c45b3578122faa7faf2d2e484420aed2dd427f&dn=aquco-075&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce",
+    "director": [
+      "\u30e2\u30b0Y"
+    ],
+    "maker": [
+      "AQUA\uff1c\u30a2\u30af\u30a2\uff1e"
+    ],
+    "series": [
+      "\u53f1\u3089\u308c\u7279\u5316\uff01"
+    ],
+    "label": [
+      "AQUA COLORS"
+    ],
+    "keyword": [
+      "\u30cf\u30a4\u30af\u30aa\u30ea\u30c6\u30a3VR",
+      "\u75f4\u5973",
+      "\u6deb\u8a9e",
+      "\u770b\u8b77\u5a66\u30fb\u30ca\u30fc\u30b9",
+      "\u30aa\u30ca\u30b5\u30dd",
+      "\u72ec\u5360\u914d\u4fe1",
+      "VR\u5c02\u7528",
+      "\u5358\u4f53\u4f5c\u54c1",
+      "8KVR",
+      "\u7f8e\u5c11\u5973"
+    ]
+  },
+  {
+    "id": "savr00511",
+    "title": "\u3010VR\u3011\u8aa0\u5b9f\u306a\u79d8\u66f8\u306e\u30c9\u5909\u614b\u306a\u30bb\u30eb\u30d5\u30a4\u30e9\u30de \u6bce\u9031\u91d1\u66dc\u65e5\u3002\u65e5\u3005\u306e\u52aa\u529b\u306e\u5bfe\u4fa1\u3068\u3057\u3066\u3054\u8912\u7f8e\u30c1\u25cf\u30dd\u3092\u9802\u304f\u3001\u663c\u3082\u591c\u3082\u4e3b\u5f93\u95a2\u4fc2\u306a\u50d5\u305f\u3061\u3002 \u5f25\u751f\u307f\u3065\u304d",
+    "size": "15.37 GB",
+    "actress": [
+      "\u5f25\u751f\u307f\u3065\u304d"
+    ],
+    "preview_img_url": "https://pics.dmm.co.jp/digital/video/savr00511/savr00511pl.jpg",
+    "sell_date": "2024/12/06",
+    "duration": "93\u5206",
+    "seed_download_link": "magnet:?xt=urn:btih:d01e8611f1cb17ab200d7ce3a95ec0705ddbea1c&dn=savr00511&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce",
+    "director": [
+      "\u5473\u564c\u716eKOMI"
+    ],
+    "maker": [
+      "KMPVR-\u5f69-"
+    ],
+    "series": [],
+    "label": [
+      "KMPVR-\u5f69-"
+    ],
+    "keyword": [
+      "\u30cf\u30a4\u30af\u30aa\u30ea\u30c6\u30a3VR",
+      "\u5358\u4f53\u4f5c\u54c1",
+      "\u4e3b\u89b3",
+      "\u4e2d\u51fa\u3057",
+      "\u30d5\u30a7\u30e9",
+      "\u30a4\u30e9\u30de\u30c1\u30aa",
+      "\u75f4\u5973",
+      "\u72ec\u5360\u914d\u4fe1",
+      "8KVR",
+      "VR\u5c02\u7528"
+    ]
+  },
+  {
+    "id": "urvrsp00397",
+    "title": "\u3010VR\u3011\u30108K VR\u3011\u671f\u672b\u30c6\u30b9\u30c8\u3067\u30ab\u30f3\u30cb\u30f3\u30b0\u3092\u3057\u305f\u5973\u5b50\u5b66\u751f\u3092\u547c\u3073\u51fa\u3057\u8105\u8feb\u98a8\u4fd7\u30d7\u30ec\u30a4\u3092\u5f37\u8981\u3059\u308b\u3068\u7768\u307f\u3064\u3051\u306a\u304c\u3089\u6f6e\u5439\u304d\uff01\uff01\u3073\u3057\u3087\u3073\u3057\u3087\u6ce3\u304d\u866b\u30de\u25cb\u30b3\u306b\u5f37\u25cf\u4e2d\u51fa\u3057\u3002\u5343\u5ddd\u3068\u308f",
+    "size": "21.49 GB",
+    "actress": [
+      "\u5343\u5ddd\u3068\u308f"
+    ],
+    "preview_img_url": "https://pics.dmm.co.jp/digital/video/urvrsp00397/urvrsp00397pl.jpg",
+    "sell_date": "2024/12/06",
+    "duration": "72\u5206",
+    "seed_download_link": "magnet:?xt=urn:btih:837980d2c78d0df4d779d63f887de46259c14077&dn=urvrsp-397&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce",
+    "director": [
+      "\u77e2\u6fa4\u30ec\u30b7\u30fc\u30d6"
+    ],
+    "maker": [
+      "unfinished"
+    ],
+    "series": [
+      "unfinished VR"
+    ],
+    "label": [
+      "Marrion Group VR"
+    ],
+    "keyword": [
+      "\u30cf\u30a4\u30af\u30aa\u30ea\u30c6\u30a3VR",
+      "\u5973\u5b50\u6821\u751f",
+      "\u5b66\u751f\u670d",
+      "\u6f6e\u5439\u304d",
+      "\u8fb1\u3081",
+      "\u7f9e\u6065",
+      "8KVR",
+      "\u72ec\u5360\u914d\u4fe1",
+      "VR\u5c02\u7528",
+      "\u5358\u4f53\u4f5c\u54c1",
+      "\u4e2d\u51fa\u3057"
+    ]
+  },
+  {
+    "id": "savr00504",
+    "title": "\u3010VR\u3011\u5973\u5b50\u5927\u751f\u306e\u820c\u5148\u3001\u30aa\u30c8\u30ca\u306e\u30d5\u30a7\u30e9\u30c1\u30aa \u5f15\u304d\u3053\u3082\u308a\u306e\u50d5\u306b\u5bc4\u308a\u6dfb\u3046\u5168\u80af\u5b9a\u4e2d\u51fa\u3057\u5bb6\u5ead\u6559\u5e2b \u672c\u7530\u3082\u3082",
+    "size": "9.94 GB",
+    "actress": [
+      "\u672c\u7530\u3082\u3082"
+    ],
+    "preview_img_url": "https://pics.dmm.co.jp/digital/video/savr00504/savr00504pl.jpg",
+    "sell_date": "2024/12/05",
+    "duration": "76\u5206",
+    "seed_download_link": "magnet:?xt=urn:btih:64cb90881ee8f7a885b6e10413a69064fa28a68b&dn=savr00504&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce",
+    "director": [
+      "\u30cf\u30e1\u30e9\u30cb\u30a2\u30f3\u4eac\u90fd"
+    ],
+    "maker": [
+      "KMPVR-\u5f69-"
+    ],
+    "series": [],
+    "label": [
+      "KMPVR-\u5f69-"
+    ],
+    "keyword": [
+      "\u30cf\u30a4\u30af\u30aa\u30ea\u30c6\u30a3VR",
+      "\u7f8e\u5c11\u5973",
+      "\u5bb6\u5ead\u6559\u5e2b",
+      "\u7f8e\u4e73",
+      "\u9a0e\u4e57\u4f4d",
+      "\u72ec\u5360\u914d\u4fe1",
+      "VR\u5c02\u7528",
+      "\u5358\u4f53\u4f5c\u54c1",
+      "8KVR",
+      "\u4e2d\u51fa\u3057"
+    ]
+  },
+  {
+    "id": "urvrsp00398",
+    "title": "\u3010VR\u3011\u30108K VR\u3011\u6388\u696d\u4e2d\u306b\u4f53\u8abf\u304c\u60aa\u304f\u306a\u3063\u305f\u50d5\u3002\u96a3\u306e\u5e2d\u306e\u30ae\u30e3\u30eb\u306e\u3042\u304b\u308a\u3061\u3083\u3093\u306b\u9023\u308c\u3089\u308c\u3066\u4fdd\u5065\u5ba4\u3067\u4f11\u3093\u3060\u3089\u3001\u304a\u53e3\u30de\u25cb\u30b3\u3068\u751f\u30de\u25cb\u30b3\u306e\u629c\u304d\u30c6\u30af\u30cb\u30c3\u30af\u3067\u7cbe\u5de3\u304b\u3089\u7121\u7406\u3084\u308a\u7cbe\u5b50\u3092\u5f15\u304d\u4e0a\u3052\u3089\u308c\u3001\u30a2\u30d8\u9854\u4e2d\u51fa\u3057\u3068\u30a2\u30d8\u9854\u9854\u5c04\u3092\u6c7a\u3081\u8fbc\u3093\u3060\u3002 \u7686\u702c\u3042\u304b\u308a",
+    "size": "14.68 GB",
+    "actress": [
+      "\u7686\u702c\u3042\u304b\u308a"
+    ],
+    "preview_img_url": "https://pics.dmm.co.jp/digital/video/urvrsp00398/urvrsp00398pl.jpg",
+    "sell_date": "2024/12/05",
+    "duration": "73\u5206",
+    "seed_download_link": "magnet:?xt=urn:btih:91ac613ca836cd6fa6b20c8bb07c28628a3e246d&dn=urvrsp-398&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce",
+    "director": [
+      "\u77e2\u6fa4\u30ec\u30b7\u30fc\u30d6"
+    ],
+    "maker": [
+      "unfinished"
+    ],
+    "series": [
+      "unfinished VR"
+    ],
+    "label": [
+      "Marrion Group VR"
+    ],
+    "keyword": [
+      "\u30cf\u30a4\u30af\u30aa\u30ea\u30c6\u30a3VR",
+      "\u5973\u5b50\u6821\u751f",
+      "\u5b66\u751f\u670d",
+      "\u30ae\u30e3\u30eb",
+      "\u30d3\u30c3\u30c1",
+      "\u30d1\u30f3\u30c1\u30e9",
+      "8KVR",
+      "\u72ec\u5360\u914d\u4fe1",
+      "VR\u5c02\u7528",
+      "\u5358\u4f53\u4f5c\u54c1",
+      "\u4e2d\u51fa\u3057"
+    ]
+  },
+  {
+    "id": "vrprd00057",
+    "title": "\u3010VR\u3011\u30b5\u30fc\u30af\u30eb\u306e\u512a\u3057\u3044\u5148\u8f29\u3068\u3010\u7518\u30b5\u30c9\u3011\u7126\u3089\u3057\u30d7\u30ec\u30a4\u3067\u7b46\u4e0b\u308d\u3057SEX",
+    "size": "15.20 GB",
+    "actress": [],
+    "preview_img_url": "https://pics.dmm.co.jp/digital/video/vrprd00057/vrprd00057pl.jpg",
+    "sell_date": "2024/12/05",
+    "duration": "85\u5206",
+    "seed_download_link": "magnet:?xt=urn:btih:48a57cf619deecd06fedba559cb3336143f668e6&dn=vrprd00057&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce",
+    "director": [
+      "\u30af\u30ef\u30c3\u30c1\u30fc"
+    ],
+    "maker": [
+      "VR\u30d1\u30e9\u30c0\u30a4\u30b9"
+    ],
+    "series": [],
+    "label": [
+      "\u6975\u30b0\u30eb\u30fc\u30d7"
+    ],
+    "keyword": [
+      "\u30cf\u30a4\u30af\u30aa\u30ea\u30c6\u30a3VR",
+      "8KVR",
+      "VR\u5c02\u7528",
+      "\u72ec\u5360\u914d\u4fe1",
+      "\u98f2\u307f\u4f1a\u30fb\u5408\u30b3\u30f3",
+      "\u30d5\u30a7\u30e9",
+      "\u4e2d\u51fa\u3057",
+      "\u5973\u5b50\u5927\u751f",
+      "\u7f8e\u5c11\u5973"
+    ]
+  },
+  {
+    "id": "nkkvr00134",
+    "title": "\u3010VR\u3011TARGETING\uff01\uff01\u30d9\u30ed\u9577\u30ca\u30a4\u30b9\u30dc\u30c7\u30a3\u9577\u8eab\u30aa\u30f3\u30ca\u306b\u3010\u8d85\u8089\u611f\u8ffd\u5c3e\u7279\u5316\u3011\u30b6\u30fc\u30e1\u30f3\u30fb\u30d7\u25cf\u30c7\u30bf\u30fc\u30fb\u30ae\u30e3\u30eb\uff01\uff01\u6355\u98df\u3055\u308c\u4f55\u5ea6\u3082\u30b6\u30fc\u30e1\u30f3\u3092\u643e\u308a\u3068\u3089\u308c\u305f\u30dc\u30af\u2026",
+    "size": "7.44 GB",
+    "actress": [],
+    "preview_img_url": "https://pics.dmm.co.jp/digital/video/nkkvr00134/nkkvr00134pl.jpg",
+    "sell_date": "2024/12/05",
+    "duration": "73\u5206",
+    "seed_download_link": "magnet:?xt=urn:btih:f8252f216739e5863e150b60bacde1b1668708d8&dn=nkkvr-134&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce",
+    "director": [
+      "\u30af\u30ef\u30c3\u30c1\u30fc"
+    ],
+    "maker": [
+      "\u8089\u304d\u3085\u3093\u30d1\u30e9\u30c0\u30a4\u30b9VR"
+    ],
+    "series": [
+      "\u30b6\u30fc\u30e1\u30f3\u30fb\u30d7\u25cf\u30c7\u30bf\u30fc\u30fb\u30ae\u30e3\u30eb"
+    ],
+    "label": [
+      "\u6975\u30b0\u30eb\u30fc\u30d7"
+    ],
+    "keyword": [
+      "\u30cf\u30a4\u30af\u30aa\u30ea\u30c6\u30a3VR",
+      "VR\u5c02\u7528",
+      "\u72ec\u5360\u914d\u4fe1",
+      "\u30d3\u30c3\u30c1",
+      "\u30d1\u30a4\u30ba\u30ea",
+      "\u9a0e\u4e57\u4f4d",
+      "\u75f4\u5973",
+      "\u5de8\u4e73",
+      "\u4e2d\u51fa\u3057"
+    ]
+  },
+  {
+    "id": "13dsvr01657",
+    "title": "\u3010VR\u3011\u30108K\u3011\u3010BODY STOCKING FETISH\u3011\u8089\u611f\u30dc\u30c7\u30a3\u30b9\u30c8\u30c3\u30ad\u30f3\u30b0\u5b8c\u5168\u7740\u8863\u30d5\u30a7\u30c1MANIAX",
+    "size": "13.13 GB",
+    "actress": [],
+    "preview_img_url": "https://pics.dmm.co.jp/digital/video/13dsvr01657/13dsvr01657pl.jpg",
+    "sell_date": "2024/12/05",
+    "duration": "74\u5206",
+    "seed_download_link": "magnet:?xt=urn:btih:bbcea1e87582b7ff18c748f65bdd779f5167a809&dn=dsvr01657&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce",
+    "director": [
+      "\u30e2\u30f3\u30ad\u30fc\u30ec\u30f3\u30c1"
+    ],
+    "maker": [
+      "SOD\u30af\u30ea\u30a8\u30a4\u30c8"
+    ],
+    "series": [],
+    "label": [
+      "SODVR"
+    ],
+    "keyword": [
+      "\u30cf\u30a4\u30af\u30aa\u30ea\u30c6\u30a3VR",
+      "8KVR",
+      "VR\u5c02\u7528",
+      "\u304a\u59c9\u3055\u3093",
+      "\u75f4\u5973",
+      "\u30d1\u30f3\u30b9\u30c8\u30fb\u30bf\u30a4\u30c4",
+      "\u305d\u306e\u4ed6\u30d5\u30a7\u30c1",
+      "\u5de8\u4e73"
+    ]
+  },
+  {
+    "id": "13dsvr01648",
+    "title": "\u3010VR\u3011\u30108K\u3011\u30bb\u30c3\u30af\u30b9\u304c\u6eb6\u3051\u8fbc\u3093\u3067\u3044\u308b\u65e5\u5e38\u300c\u5e38\u306b\u6027\u4ea4\u300d\u30e4\u30ea\u653e\u984c\u75f4\u25cf\u96fb\u8eca",
+    "size": "26.35 GB",
+    "actress": [
+      "\u85e4\u7530\u3053\u305a\u3048",
+      "\u6c34\u5ddd\u6f64",
+      "\u5800\u5317\u5b9f\u6765\uff08\u6afb\u8309\u65e5\uff09",
+      "\u767d\u6d5c\u7f8e\u7fbd",
+      "\u590f\u76ee\u308c\u307f",
+      "\u97f3\u7fbd\u7f8e\u9234"
+    ],
+    "preview_img_url": "https://pics.dmm.co.jp/digital/video/13dsvr01648/13dsvr01648pl.jpg",
+    "sell_date": "2024/12/05",
+    "duration": "121\u5206",
+    "seed_download_link": "magnet:?xt=urn:btih:d628b362c30e157b723feca441ec0ee67ef4a55e&dn=dsvr01648&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce",
+    "director": [
+      "\u67cf\u5009\u5f18"
+    ],
+    "maker": [
+      "SOD\u30af\u30ea\u30a8\u30a4\u30c8"
+    ],
+    "series": [
+      "\u300c\u5e38\u306b\u6027\u4ea4\u300d"
+    ],
+    "label": [
+      "SODVR"
+    ],
+    "keyword": [
+      "\u30cf\u30a4\u30af\u30aa\u30ea\u30c6\u30a3VR",
+      "8KVR",
+      "VR\u5c02\u7528",
+      "\u4e2d\u51fa\u3057",
+      "\u30d3\u30b8\u30cd\u30b9\u30b9\u30fc\u30c4",
+      "\u30bb\u30fc\u30e9\u30fc\u670d",
+      "\u4eba\u59bb\u30fb\u4e3b\u5a66",
+      "OL"
+    ]
+  },
+  {
+    "id": "pxvr00225",
+    "title": "\u3010VR\u3011\u3044\u3084\u3089\u3057\u3044\u820c\u3068\u553e\u6db2\u3067\u5168\u8eab\u8210\u3081\u56de\u3057\u4f55\u5ea6\u3082\u5c04\u7cbe\u306b\u8ffd\u3044\u8fbc\u3080\u7d76\u9802\u75f4\u5973\u98a8\u4fd7 \u83ca\u6c60\u306f\u308b\u30108K\u3011",
+    "size": "12.20 GB",
+    "actress": [
+      "\u83ca\u6c60\u306f\u308b"
+    ],
+    "preview_img_url": "https://pics.dmm.co.jp/digital/video/pxvr00225/pxvr00225pl.jpg",
+    "sell_date": "2024/12/04",
+    "duration": "78\u5206",
+    "seed_download_link": "magnet:?xt=urn:btih:58401267f8338a4ba341f0333437a97007c105df&dn=pxvr00225&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce",
+    "director": [
+      "\u30ea\u30d0\u30d5\u30a3\u30fc\u5c06"
+    ],
+    "maker": [
+      "P-BOX VR"
+    ],
+    "series": [
+      "\u3044\u3084\u3089\u3057\u3044\u820c\u3068\u553e\u6db2\u3067\u5168\u8eab\u8210\u3081\u56de\u3057\u4f55\u5ea6\u3082\u5c04\u7cbe\u306b\u8ffd\u3044\u8fbc\u3080\u7d76\u9802\u75f4\u5973\u98a8\u4fd7"
+    ],
+    "label": [
+      "P-BOX VR"
+    ],
+    "keyword": [
+      "\u30cf\u30a4\u30af\u30aa\u30ea\u30c6\u30a3VR",
+      "\u9a0e\u4e57\u4f4d",
+      "\u7f8e\u5c11\u5973",
+      "\u30d5\u30a7\u30e9",
+      "\u4e2d\u51fa\u3057",
+      "\u72ec\u5360\u914d\u4fe1",
+      "VR\u5c02\u7528",
+      "\u5358\u4f53\u4f5c\u54c1",
+      "8KVR",
+      "\u75f4\u5973"
+    ]
+  },
+  {
+    "id": "pxvr00223",
+    "title": "\u3010VR\u3011\u4ffa\u306e\u4e8b\u3068SEX\u304c\u597d\u304d\u3059\u304e\u308b\u6027\u6b32\u7206\u5f37\u306e\u6fc0\u30ab\u30ef\u5f7c\u5973\u3068\u30a4\u30c1\u30e3\u30e9\u30d6\u5168\u958b\u3067\u671d\u307e\u3067\u4f55\u5ea6\u3082\u4e2d\u51fa\u3057\u751f\u4ea4\u5c3e \u677e\u4e95\u65e5\u5948\u5b50\u30108K\u3011",
+    "size": "12.06 GB",
+    "actress": [
+      "\u677e\u4e95\u65e5\u5948\u5b50"
+    ],
+    "preview_img_url": "https://pics.dmm.co.jp/digital/video/pxvr00223/pxvr00223pl.jpg",
+    "sell_date": "2024/12/04",
+    "duration": "81\u5206",
+    "seed_download_link": "magnet:?xt=urn:btih:1fa3de11b35581f83cb9ab35c469ac290f8aa99d&dn=pxvr00223&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce",
+    "director": [
+      "\u30a2\u30ab\u30ae\u5149\u4e00"
+    ],
+    "maker": [
+      "P-BOX VR"
+    ],
+    "series": [
+      "\u4ffa\u306e\u4e8b\u3068SEX\u304c\u597d\u304d\u3059\u304e\u308b"
+    ],
+    "label": [
+      "P-BOX VR"
+    ],
+    "keyword": [
+      "\u30cf\u30a4\u30af\u30aa\u30ea\u30c6\u30a3VR",
+      "\u9a0e\u4e57\u4f4d",
+      "\u75f4\u5973",
+      "\u30d5\u30a7\u30e9",
+      "\u4e2d\u51fa\u3057",
+      "\u72ec\u5360\u914d\u4fe1",
+      "VR\u5c02\u7528",
+      "\u5358\u4f53\u4f5c\u54c1",
+      "8KVR",
+      "\u7f8e\u5c11\u5973"
+    ]
+  },
+  {
+    "id": "pxvr00221",
+    "title": "\u3010VR\u3011\u7f8e\u59738\u4eba\u306e\u30b1\u30c4\u7a74\u304f\u3071\u3041\uff5e\u3092\u8fd1\u8ddd\u96e2\u30ac\u30f3\u898bVR 7\u30108K\u3011",
+    "size": "31.30 GB",
+    "actress": [
+      "\u5e0c\u54b2\u30a2\u30ea\u30b9",
+      "\u677e\u672c\u68a8\u7a42",
+      "\u897f\u91ce\u7d75\u7f8e",
+      "\u5929\u6708\u3042\u305a",
+      "\u83ca\u6c60\u306f\u308b",
+      "\u8fbb\u3044\u307e\u308b",
+      "\u6708\u91ce\u304b\u3059\u307f",
+      "\u5c0f\u5742\u3072\u307e\u308a"
+    ],
+    "preview_img_url": "https://pics.dmm.co.jp/digital/video/pxvr00221/pxvr00221pl.jpg",
+    "sell_date": "2024/12/04",
+    "duration": "137\u5206",
+    "seed_download_link": "magnet:?xt=urn:btih:81bca0a968ece0c47e295efed036a051ec5e9217&dn=pxvr-221&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce",
+    "director": [
+      "\u6749\u30ce\u6728"
+    ],
+    "maker": [
+      "P-BOX VR"
+    ],
+    "series": [
+      "\u30b1\u30c4\u7a74\u304f\u3071\u3041\uff5e"
+    ],
+    "label": [
+      "P-BOX VR"
+    ],
+    "keyword": [
+      "\u30cf\u30a4\u30af\u30aa\u30ea\u30c6\u30a3VR",
+      "8KVR",
+      "VR\u5c02\u7528",
+      "\u72ec\u5360\u914d\u4fe1",
+      "\u5c3b\u30d5\u30a7\u30c1",
+      "\u5c40\u90e8\u30a2\u30c3\u30d7",
+      "\u5de8\u4e73",
+      "\u7f8e\u5c11\u5973",
+      "\u30a2\u30ca\u30eb"
+    ]
+  },
+  {
+    "id": "pxvr00219",
+    "title": "\u3010VR\u3011\u30a2\u30ca\u30bf\u306e\u5c04\u7cbe\u304c\u898b\u305f\u3044\u30b9\u30b1\u30d9\u306aJ-cup\u30a8\u30b9\u30c6\u30c6\u30a3\u30b7\u30e3\u30f3\u306e\u7206\u4e73\u63fa\u308c\u307e\u304f\u308a\u65bd\u8853 \u8fbb\u3044\u307e\u308b\u30108K\u3011",
+    "size": "15.79 GB",
+    "actress": [
+      "\u8fbb\u3044\u307e\u308b"
+    ],
+    "preview_img_url": "https://pics.dmm.co.jp/digital/video/pxvr00219/pxvr00219pl.jpg",
+    "sell_date": "2024/12/04",
+    "duration": "70\u5206",
+    "seed_download_link": "magnet:?xt=urn:btih:d611bce825be35c470b2736c7730b32f49827a32&dn=pxvr00219&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce",
+    "director": [
+      "\u3053\u3042\u3089\u592a\u90ce\uff08\u308f\uff09"
+    ],
+    "maker": [
+      "P-BOX VR"
+    ],
+    "series": [
+      "\u5de8\u4e73\u30a8\u30b9\u30c6\u30c6\u30a3\u30b7\u30e3\u30f3"
+    ],
+    "label": [
+      "P-BOX VR"
+    ],
+    "keyword": [
+      "\u30cf\u30a4\u30af\u30aa\u30ea\u30c6\u30a3VR",
+      "\u5de8\u4e73",
+      "\u4e2d\u51fa\u3057",
+      "\u9a0e\u4e57\u4f4d",
+      "\u30d5\u30a7\u30e9",
+      "\u72ec\u5360\u914d\u4fe1",
+      "VR\u5c02\u7528",
+      "\u5358\u4f53\u4f5c\u54c1",
+      "8KVR",
+      "\u7f8e\u5c11\u5973"
+    ]
+  },
+  {
+    "id": "cosvr00039",
+    "title": "\u3010VR\u3011\u521d\u604b\u3001\u305a\u3063\u3068\u3042\u306a\u305f\u304c\u597d\u304d\u3067\u3057\u305f \u6708\u91ce\u304b\u3059\u307f\u30108K\u3011",
+    "size": "18.66 GB",
+    "actress": [
+      "\u6708\u91ce\u304b\u3059\u307f"
+    ],
+    "preview_img_url": "https://pics.dmm.co.jp/digital/video/cosvr00039/cosvr00039pl.jpg",
+    "sell_date": "2024/12/04",
+    "duration": "65\u5206",
+    "seed_download_link": "magnet:?xt=urn:btih:93ceed862662e89de69d8914a08a88f921b91f86&dn=cosvr-039&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce",
+    "director": [
+      "\u767d\u9ce5\u30cb\u30c9\u30df"
+    ],
+    "maker": [
+      "Cosmo Planets VR"
+    ],
+    "series": [],
+    "label": [
+      "Cosmo Planets VR"
+    ],
+    "keyword": [
+      "\u30cf\u30a4\u30af\u30aa\u30ea\u30c6\u30a3VR",
+      "\u5de8\u4e73",
+      "\u9a0e\u4e57\u4f4d",
+      "\u75f4\u5973",
+      "\u4e2d\u51fa\u3057",
+      "\u72ec\u5360\u914d\u4fe1",
+      "VR\u5c02\u7528",
+      "\u5358\u4f53\u4f5c\u54c1",
+      "8KVR",
+      "\u30b3\u30b9\u30d7\u30ec"
+    ]
+  },
+  {
+    "id": "vrkm01444",
+    "title": "\u3010VR\u3011KMPVR\u2605\u304a\u6c17\u306b\u5165\u308a\u767b\u9332\u6570\u26055\uff0c000\u30aa\u30fc\u30d0\u30fcBEST30\u30bf\u30a4\u30c8\u30eb300\u5206",
+    "size": "37.61 GB",
+    "actress": [
+      "\u5f25\u751f\u307f\u3065\u304d",
+      "\u5c3e\u5d0e\u3048\u308a\u304b",
+      "\u7f8e\u54b2\u304b\u3093\u306a",
+      "\u7f8e\u5712\u548c\u82b1",
+      "\u6a2a\u5bae\u4e03\u6d77",
+      "\u5009\u591a\u307e\u304a",
+      "\u693f\u308a\u304b",
+      "\u862d\u3005",
+      "\u7686\u6708\u3072\u304b\u308b",
+      "\u4f50\u85e4\u306e\u306e\u304b\uff08\u52a0\u85e4\u3082\u3082\u304b\uff09"
+    ],
+    "preview_img_url": "https://pics.dmm.co.jp/digital/video/vrkm01444/vrkm01444pl.jpg",
+    "sell_date": "2024/12/04",
+    "duration": "302\u5206",
+    "seed_download_link": "magnet:?xt=urn:btih:4e55674b66434a6a1248915f3951317e78ceba67&dn=vrkm-1444&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce",
+    "director": [
+      "K\u592a\u90ce"
+    ],
+    "maker": [
+      "\u30b1\u30a4\u30fb\u30a8\u30e0\u30fb\u30d7\u30ed\u30c7\u30e5\u30fc\u30b9"
+    ],
+    "series": [
+      "VR BEST"
+    ],
+    "label": [
+      "KMPVR"
+    ],
+    "keyword": [
+      "4\u6642\u9593\u4ee5\u4e0a\u4f5c\u54c1",
+      "\u30cf\u30a4\u30af\u30aa\u30ea\u30c6\u30a3VR",
+      "VR\u5c02\u7528",
+      "\u7f8e\u5c11\u5973",
+      "\u5de8\u4e73",
+      "\u4e2d\u51fa\u3057",
+      "\u5973\u512a\u30d9\u30b9\u30c8\u30fb\u7dcf\u96c6\u7de8"
+    ]
+  },
+  {
+    "id": "sivr00382",
+    "title": "\u3010VR\u3011\u30d0\u30a4\u30c8\u5148\u306e\u5e74\u4e0a\u304a\u59c9\u3055\u3093\u304c\u9854\u3092\u771f\u3063\u8d64\u306b\u3057\u306a\u304c\u3089\u544a\u767d\u3057\u3066\u304d\u305f\u3002\u4f55\u5ea6\u544a\u767d\u3055\u308c\u3066\u3082\u9996\u3092\u7e26\u306b\u632f\u3089\u306a\u304b\u3063\u305f\u306e\u306bHcup\u304a\u3063\u3071\u3044\u5bc6\u7740\u3055\u308c\u305f\u77ac\u9593\u306b\u4e0b\u5fc3\u4e38\u51fa\u3057\u3067OK\u3057\u305f\u50d5\u306f\u7d4c\u9a13\u8c4a\u5bcc\u306a\u67d4\u5305\u30d1\u30a4\u30ba\u30ea\u3068\u676d\u6253\u3061\u9a0e\u4e57\u4f4d\u306b\u30e1\u30ed\u30e1\u30ed\u306b\u3055\u308c\u3061\u3083\u3044\u307e\u3057\u305f \u5922\u4e43\u3042\u3044\u304b",
+    "size": "29.10 GB",
+    "actress": [
+      "\u5922\u4e43\u3042\u3044\u304b"
+    ],
+    "preview_img_url": "https://pics.dmm.co.jp/digital/video/sivr00382/sivr00382pl.jpg",
+    "sell_date": "2024/12/03",
+    "duration": "120\u5206",
+    "seed_download_link": "magnet:?xt=urn:btih:d51d3a0b315c7993637dae3f5a720d4c21e6cadd&dn=sivr-382&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce",
+    "director": [
+      "\u30b8\u30fc\u30cb\u30a2\u30b9\u819d"
+    ],
+    "maker": [
+      "\u30a8\u30b9\u30ef\u30f3 \u30ca\u30f3\u30d0\u30fc\u30ef\u30f3\u30b9\u30bf\u30a4\u30eb"
+    ],
+    "series": [
+      "S1 VR"
+    ],
+    "label": [
+      "S1 VR"
+    ],
+    "keyword": [
+      "\u30cf\u30a4\u30af\u30aa\u30ea\u30c6\u30a3VR",
+      "\u5de8\u4e73",
+      "\u9a0e\u4e57\u4f4d",
+      "\u304a\u59c9\u3055\u3093",
+      "\u4e3b\u89b3",
+      "\u72ec\u5360\u914d\u4fe1",
+      "VR\u5c02\u7528",
+      "\u5358\u4f53\u4f5c\u54c1",
+      "8KVR",
+      "\u30ab\u30c3\u30d7\u30eb"
+    ]
+  },
+  {
+    "id": "mdvr00326",
+    "title": "\u3010VR\u3011\u30b9\u30d1\u30a4\u30c0\u30fc\u9a0e\u4e57\u4f4d\uff01\u4e73\u9996\u3044\u3058\u3044\u3058\u30d5\u30a7\u30e9\uff01\u4e73\u9996\u8210\u3081\u624b\u30b3\u30ad\uff01\u3044\u305f\u305a\u3089\u4e73\u9996\u8cac\u3081\u7279\u5316\uff01\u30ca\u30fc\u30b9\u306b\u75f4\u5973\u3089\u308c\u305f\u30dc\u30af 2SEX 126\u5206\uff01 \u6708\u96f2\u3088\u308b",
+    "size": "26.96 GB",
+    "actress": [
+      "\u6708\u96f2\u3088\u308b"
+    ],
+    "preview_img_url": "https://pics.dmm.co.jp/digital/video/mdvr00326/mdvr00326pl.jpg",
+    "sell_date": "2024/12/03",
+    "duration": "126\u5206",
+    "seed_download_link": "magnet:?xt=urn:btih:17b06fc5fad876febc4806b4002bfacb5e2b0413&dn=mdvr-326&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce",
+    "director": [
+      "\u30b8\u30fc\u30cb\u30a2\u30b9\u819d"
+    ],
+    "maker": [
+      "\u30e0\u30fc\u30c7\u30a3\u30fc\u30ba"
+    ],
+    "series": [],
+    "label": [
+      "MOODYZ VR"
+    ],
+    "keyword": [
+      "\u30cf\u30a4\u30af\u30aa\u30ea\u30c6\u30a3VR",
+      "\u5de8\u4e73",
+      "\u75f4\u5973",
+      "\u9a0e\u4e57\u4f4d",
+      "\u7f8e\u5c11\u5973",
+      "\u72ec\u5360\u914d\u4fe1",
+      "VR\u5c02\u7528",
+      "\u5358\u4f53\u4f5c\u54c1",
+      "8KVR",
+      "\u770b\u8b77\u5a66\u30fb\u30ca\u30fc\u30b9"
+    ]
+  },
+  {
+    "id": "kiwvr00711",
+    "title": "\u3010VR\u3011\u30108K\u3011\u7d14\u7c8b\u7121\u57a2\u306a\u7530\u820e\u80b2\u3061\u306e\u5e7c\u99b4\u67d3\u304c\u3010\u90fd\u4f1a\u3067\u30e4\u30ea\u30de\u30f3\u30d3\u30c3\u30c1\u5316\uff01\u3011\u50d5\u306e\u7ae5\u8c9e\u3092\u596a\u3063\u3066\u5f04\u3073\u30e4\u30ea\u307e\u304f\u3063\u305f\u7d76\u502b\u6027\u7363\u30e2\u30f3\u30b9\u30bf\u30fc \u661f\u4e03\u306a\u306a\u307f",
+    "size": "14.16 GB",
+    "actress": [
+      "\u661f\u4e03\u306a\u306a\u307f"
+    ],
+    "preview_img_url": "https://pics.dmm.co.jp/digital/video/kiwvr00711/kiwvr00711pl.jpg",
+    "sell_date": "2024/12/03",
+    "duration": "68\u5206",
+    "seed_download_link": "magnet:?xt=urn:btih:0e4f45b3254c44b3838898e512312e9e8ee478a4&dn=kiwvr-711&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce",
+    "director": [],
+    "maker": [
+      "\u3053\u3042\u3089VR"
+    ],
+    "series": [
+      "8KVR\u3010\u6027\u7363\u30e4\u30ea\u30de\u30f3\u5e7c\u99b4\u67d3\u306b\u751f\u4e2d\u7b46\u304a\u308d\u3057SEX\u3011"
+    ],
+    "label": [
+      "\u6975\u30b0\u30eb\u30fc\u30d7"
+    ],
+    "keyword": [
+      "\u30cf\u30a4\u30af\u30aa\u30ea\u30c6\u30a3VR",
+      "\u7ae5\u8c9e",
+      "\u4e2d\u51fa\u3057",
+      "\u30d1\u30a4\u30ba\u30ea",
+      "\u6f6e\u5439\u304d",
+      "\u75f4\u5973",
+      "\u72ec\u5360\u914d\u4fe1",
+      "VR\u5c02\u7528",
+      "\u5358\u4f53\u4f5c\u54c1",
+      "8KVR",
+      "\u5de8\u4e73"
+    ]
+  },
+  {
+    "id": "vrkm01445",
+    "title": "\u3010VR\u3011\u771f\u51ac\u3092\u4e57\u308a\u5207\u308b\u30ab\u30e9\u30c0\u304c\u30c8\u30ed\u3051\u308b\u6700\u5bc6\u7740\u3042\u3063\u305f\u304bSEX300\u5206\uff01\u5bfe\u9762\u5ea7\u4f4dSUPER BEST",
+    "size": "31.60 GB",
+    "actress": [
+      "\u68ee\u6ca2\u304b\u306a\uff08\u98ef\u5ca1\u304b\u306a\u3053\uff09",
+      "\u80e1\u6843\u3055\u304f\u3089",
+      "\u68ee\u65e5\u5411\u5b50",
+      "\u7f8e\u54b2\u304b\u3093\u306a",
+      "\u3082\u306a\u307f\u9234",
+      "\u7f8e\u6f84\u73b2\u8863",
+      "\u672c\u7530\u3082\u3082",
+      "\u67a2\u6728\u3042\u304a\u3044",
+      "\u6c38\u4e95\u30de\u30ea\u30a2",
+      "\u512a\u68a8\u307e\u3044\u306a"
+    ],
+    "preview_img_url": "https://pics.dmm.co.jp/digital/video/vrkm01445/vrkm01445pl.jpg",
+    "sell_date": "2024/12/03",
+    "duration": "301\u5206",
+    "seed_download_link": "magnet:?xt=urn:btih:1be3560b1f1793421df851e5929505bb26fc9f8c&dn=vrkm-1445&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce",
+    "director": [
+      "K\u592a\u90ce"
+    ],
+    "maker": [
+      "\u30b1\u30a4\u30fb\u30a8\u30e0\u30fb\u30d7\u30ed\u30c7\u30e5\u30fc\u30b9"
+    ],
+    "series": [
+      "VR BEST"
+    ],
+    "label": [
+      "KMPVR"
+    ],
+    "keyword": [
+      "4\u6642\u9593\u4ee5\u4e0a\u4f5c\u54c1",
+      "\u30cf\u30a4\u30af\u30aa\u30ea\u30c6\u30a3VR",
+      "VR\u5c02\u7528",
+      "\u30d9\u30b9\u30c8\u30fb\u7dcf\u96c6\u7de8",
+      "\u7f8e\u4e73",
+      "\u4e2d\u51fa\u3057",
+      "\u7f8e\u5c11\u5973",
+      "\u5de8\u4e73"
+    ]
+  },
+  {
+    "id": "vrkm01446",
+    "title": "\u3010VR\u3011\u5929\u56fd\u30a4\u30ad\u78ba\u5b9a300\u5206\u30b3\u30fc\u30b9SSS\u7d1a\u5de8\u4e73\u30a8\u30b9\u30c6\u5b22\u96c6\u7d50BEST",
+    "size": "36.65 GB",
+    "actress": [
+      "\u65b0\u6751\u3042\u304b\u308a",
+      "\u6708\u91ce\u304b\u3059\u307f",
+      "\u7a32\u5834\u308b\u304b",
+      "\u9022\u6708\u3072\u307e\u308a",
+      "\u51a8\u5b89\u308c\u304a\u306a",
+      "\u4f50\u77e5\u5b50",
+      "\u65b0\u4e95\u30ea\u30de",
+      "\u3055\u306e\u3055\u3068\u308a",
+      "\u6ce2\u591a\u91ce\u7d50\u8863",
+      "\u85e4\u68ee\u91cc\u7a42"
+    ],
+    "preview_img_url": "https://pics.dmm.co.jp/digital/video/vrkm01446/vrkm01446pl.jpg",
+    "sell_date": "2024/12/03",
+    "duration": "300\u5206",
+    "seed_download_link": "magnet:?xt=urn:btih:55a68228b2bf5913b452b99e53089703bf363a4f&dn=vrkm-1446&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce",
+    "director": [
+      "K\u592a\u90ce"
+    ],
+    "maker": [
+      "\u30b1\u30a4\u30fb\u30a8\u30e0\u30fb\u30d7\u30ed\u30c7\u30e5\u30fc\u30b9"
+    ],
+    "series": [
+      "VR BEST"
+    ],
+    "label": [
+      "KMPVR"
+    ],
+    "keyword": [
+      "\u30cf\u30a4\u30af\u30aa\u30ea\u30c6\u30a3VR",
+      "4\u6642\u9593\u4ee5\u4e0a\u4f5c\u54c1",
+      "VR\u5c02\u7528",
+      "\u4e2d\u51fa\u3057",
+      "\u30de\u30c3\u30b5\u30fc\u30b8\u30fb\u30ea\u30d5\u30ec",
+      "\u30d9\u30b9\u30c8\u30fb\u7dcf\u96c6\u7de8",
+      "\u5de8\u4e73",
+      "\u30a8\u30b9\u30c6"
+    ]
+  },
+  {
+    "id": "fcvr00038",
+    "title": "\u3010VR\u3011\u3010Fitch\u9ad8\u753b\u8cea8K\u8089\u611fVR\u3011 \u5357\u689d\u5f69 \u9042\u306bVR\u89e3\u7981\uff01 \u5e30\u7701\u5148\u306e\u30c9\u7530\u820e\u3067\u50d5\u304c\u5e7c\u3044\u9803\u597d\u304d\u3060\u3063\u305f \u5e7c\u99b4\u67d3\u304a\u59c9\u3055\u3093\u306b\u95a2\u897f\u5f01\u3067\u8a98\u60d1\u3055\u308c\u305f\u3051\u308c\u3069\u2026 \u81ea\u5206\u3067\u3082\u6c17\u3065\u304b\u306a\u304b\u3063\u305f\u7d76\u502b\u30c1\u25cb\u30dd\u3067\u7acb\u5834\u9006\u8ee2\uff01 \u8eab\u3082\u5fc3\u3082\u30c8\u30ed\u30c3\u30c8\u30ed\u306e\u6fc3\u5bc6\u4e2d\u51fa\u3057\u7d76\u9802SEX",
+    "size": "26.35 GB",
+    "actress": [
+      "\u5357\u689d\u5f69"
+    ],
+    "preview_img_url": "https://pics.dmm.co.jp/digital/video/fcvr00038/fcvr00038pl.jpg",
+    "sell_date": "2024/12/03",
+    "duration": "108\u5206",
+    "seed_download_link": "magnet:?xt=urn:btih:3aa902f5f8bdd6de100c705cd8fba2797236b167&dn=fcvr-038&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce",
+    "director": [
+      "\u51db\u3005"
+    ],
+    "maker": [
+      "Fitch"
+    ],
+    "series": [],
+    "label": [
+      "Fitch\u8089\u611fVR"
+    ],
+    "keyword": [
+      "\u30cf\u30a4\u30af\u30aa\u30ea\u30c6\u30a3VR",
+      "\u30d5\u30a7\u30e9",
+      "\u4e2d\u51fa\u3057",
+      "\u4e0d\u502b",
+      "\u7ae5\u8c9e",
+      "\u72ec\u5360\u914d\u4fe1",
+      "VR\u5c02\u7528",
+      "\u5358\u4f53\u4f5c\u54c1",
+      "8KVR",
+      "\u304a\u59c9\u3055\u3093"
+    ]
+  },
+  {
+    "id": "urvrsp00396",
+    "title": "\u3010VR\u3011\u30108K VR\u3011\u30b9\u30fc\u30d1\u30fc\u306e\u4e07\u5f15\u304d\u5b66\u751f\u3092\u6355\u307e\u3048\u308b\u3002\u5b66\u751f\u8a3c\u3092\u898b\u305f\u3089\u3001\u304a\u5b22\u69d8\u5b66\u6821\u306b\u901a\u3046\u79c0\u624d\u3002\u4e8b\u52d9\u6240\u306b\u547c\u3093\u3067\u3001\u5618\u3070\u3063\u304b\u3064\u304f\u53e3\u3068\u3001\u7d14\u767d\u304a\u307e\u25cb\u3053\u3092\u304a\u4ed5\u7f6e\u304d\u8abf\u6559SEX \u7d50\u590f",
+    "size": "21.14 GB",
+    "actress": [],
+    "preview_img_url": "https://pics.dmm.co.jp/digital/video/urvrsp00396/urvrsp00396pl.jpg",
+    "sell_date": "2024/12/03",
+    "duration": "74\u5206",
+    "seed_download_link": "magnet:?xt=urn:btih:763ee4eafa9a31fc0bb870233e006e994ed1f462&dn=urvrsp-396&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce",
+    "director": [
+      "\u77e2\u6fa4\u30ec\u30b7\u30fc\u30d6"
+    ],
+    "maker": [
+      "unfinished"
+    ],
+    "series": [
+      "unfinished VR"
+    ],
+    "label": [
+      "Marrion Group VR"
+    ],
+    "keyword": [
+      "\u30cf\u30a4\u30af\u30aa\u30ea\u30c6\u30a3VR",
+      "\u5973\u5b50\u6821\u751f",
+      "\u304a\u5b22\u69d8\u30fb\u4ee4\u5b22",
+      "\u5b66\u751f\u670d",
+      "\u8fb1\u3081",
+      "\u7f9e\u6065",
+      "8KVR",
+      "\u72ec\u5360\u914d\u4fe1",
+      "VR\u5c02\u7528",
+      "\u4e2d\u51fa\u3057"
+    ]
+  },
+  {
+    "id": "vrprd00056",
+    "title": "\u3010VR\u3011\u3010Gcup\u30fb\u5f7c\u6c0f\u306a\u3057\u30fb28\u6b73\u30fb\u30b8\u30e0\u30c8\u30ec\u30fc\u30ca\u30fc\u3011\u4ed5\u4e8b\u524d\u306e\u30e9\u30f3\u30cb\u30f3\u30b0\u4e2d\u306b\u30ca\u30f3\u30d1\u3067\u51fa\u4f1a\u3063\u306610\u5206\u3067\u671d\u52c3\u3061\u30c1\u25cb\u30dd\u3092\u5373\u30cf\u30e1\u30bb\u30c3\u30af\u30b9\uff01\uff01",
+    "size": "13.53 GB",
+    "actress": [],
+    "preview_img_url": "https://pics.dmm.co.jp/digital/video/vrprd00056/vrprd00056pl.jpg",
+    "sell_date": "2024/12/02",
+    "duration": "77\u5206",
+    "seed_download_link": "magnet:?xt=urn:btih:a7831c1960d9617802385badbac4f822143e6044&dn=vrprd00056&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce",
+    "director": [
+      "\u30af\u30ef\u30c3\u30c1\u30fc"
+    ],
+    "maker": [
+      "VR\u30d1\u30e9\u30c0\u30a4\u30b9"
+    ],
+    "series": [],
+    "label": [
+      "\u6975\u30b0\u30eb\u30fc\u30d7"
+    ],
+    "keyword": [
+      "\u30cf\u30a4\u30af\u30aa\u30ea\u30c6\u30a3VR",
+      "VR\u5c02\u7528",
+      "\u72ec\u5360\u914d\u4fe1",
+      "\u4e2d\u51fa\u3057",
+      "\u5de8\u5c3b",
+      "\u5de8\u4e73",
+      "\u6c57\u3060\u304f",
+      "\u30a4\u30f3\u30b9\u30c8\u30e9\u30af\u30bf\u30fc"
+    ]
+  },
+  {
+    "id": "vrkm01447",
+    "title": "\u3010VR\u3011\u9b45\u60d1\u306e\u8c37\u9593\u304b\u3089\u76ee\u304c\u96e2\u305b\u306a\u3044300\u5206\uff01\uff01\u8a98\u60d1\u30ce\u30fc\u30d6\u30e9\u75f4\u5973BEST",
+    "size": "33.81 GB",
+    "actress": [
+      "\u98db\u9ce5\u308a\u3093",
+      "\u6c34\u539f\u307f\u305d\u306e",
+      "\u85e4\u7530\u3053\u305a\u3048",
+      "\u7434\u97f3\u83ef",
+      "\u7434\u77f3\u3086\u3081\u308b",
+      "\u65b0\u4e95\u30ea\u30de",
+      "\u5c0f\u9ce5\u904a\u3082\u3082\u3048",
+      "\u767e\u54b2\u307f\u3044\u308d",
+      "\u767e\u6c38\u3055\u308a\u306a",
+      "\u7d3a\u91ce\u3072\u304b\u308b"
+    ],
+    "preview_img_url": "https://pics.dmm.co.jp/digital/video/vrkm01447/vrkm01447pl.jpg",
+    "sell_date": "2024/12/02",
+    "duration": "302\u5206",
+    "seed_download_link": "magnet:?xt=urn:btih:12d6ec4dad4021845b7c812246c9ec65fcdf7c6d&dn=vrkm-1447&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce",
+    "director": [
+      "K\u592a\u90ce"
+    ],
+    "maker": [
+      "\u30b1\u30a4\u30fb\u30a8\u30e0\u30fb\u30d7\u30ed\u30c7\u30e5\u30fc\u30b9"
+    ],
+    "series": [
+      "VR BEST"
+    ],
+    "label": [
+      "KMPVR"
+    ],
+    "keyword": [
+      "4\u6642\u9593\u4ee5\u4e0a\u4f5c\u54c1",
+      "\u30cf\u30a4\u30af\u30aa\u30ea\u30c6\u30a3VR",
+      "VR\u5c02\u7528",
+      "\u30d9\u30b9\u30c8\u30fb\u7dcf\u96c6\u7de8",
+      "\u7f8e\u4e73",
+      "\u7f8e\u5c11\u5973",
+      "\u4e2d\u51fa\u3057",
+      "\u75f4\u5973"
+    ]
+  },
+  {
+    "id": "13dsvr01602",
+    "title": "\u3010VR\u3011\u30108K\u3011\u653e\u8ab2\u5f8c\u306b\u306a\u308b\u3068\u30c9S\u75f4\u5973\u5316\u3057\u3066\u3001\u751f\u5f92\u3092\u5f37\u25cf\u7b46\u4e0b\u308d\u3057\u3059\u308b\u4fdd\u5065\u5ba4\u306e\u3072\u307e\u308a\u5148\u751f \u6728\u4e0b\u3072\u307e\u308a",
+    "size": "11.54 GB",
+    "actress": [
+      "\u6728\u4e0b\u3072\u307e\u308a\uff08\u82b1\u6ca2\u3072\u307e\u308a\uff09"
+    ],
+    "preview_img_url": "https://pics.dmm.co.jp/digital/video/13dsvr01602/13dsvr01602pl.jpg",
+    "sell_date": "2024/12/02",
+    "duration": "76\u5206",
+    "seed_download_link": "magnet:?xt=urn:btih:af03a2d4134f9d5801b0b96f1cde781572cb086b&dn=dsvr01602&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce",
+    "director": [
+      "\u732b\u53c8\u3088\u3084"
+    ],
+    "maker": [
+      "SOD\u30af\u30ea\u30a8\u30a4\u30c8"
+    ],
+    "series": [],
+    "label": [
+      "SODVR"
+    ],
+    "keyword": [
+      "\u30cf\u30a4\u30af\u30aa\u30ea\u30c6\u30a3VR",
+      "8KVR",
+      "\u5358\u4f53\u4f5c\u54c1",
+      "VR\u5c02\u7528",
+      "\u604b\u611b",
+      "\u30b9\u30ec\u30f3\u30c0\u30fc",
+      "\u4e2d\u51fa\u3057",
+      "\u75f4\u5973",
+      "\u5973\u6559\u5e2b"
+    ]
+  },
+  {
+    "id": "13dsvr01634",
+    "title": "\u3010VR\u3011\u30108K\u3011\u512a\u3057\u304f\u3066\u7121\u9632\u5099\u3067\u96a0\u308c\u5de8\u4e73\u3067\u5168\u54e1\u304c\u72d9\u3063\u3066\u3044\u308b\u30aa\u30bf\u30b5\u30fc\u306e\u59eb\u3092\u3001\u591c\u00d7\u3044\u7761\u00d7\u3067\u50d5\u306e\u7269\u306b\u3057\u3066\u3084\u308b\u3002 \u6709\u6816\u304b\u306a\u3046",
+    "size": "13.86 GB",
+    "actress": [
+      "\u6709\u6816\u304b\u306a\u3046"
+    ],
+    "preview_img_url": "https://pics.dmm.co.jp/digital/video/13dsvr01634/13dsvr01634pl.jpg",
+    "sell_date": "2024/12/02",
+    "duration": "78\u5206",
+    "seed_download_link": "magnet:?xt=urn:btih:2669410228ab239fbafcefcf76ca3cbdab54a9d8&dn=dsvr01634&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce",
+    "director": [
+      "\u732b\u53c8\u3088\u3084"
+    ],
+    "maker": [
+      "SOD\u30af\u30ea\u30a8\u30a4\u30c8"
+    ],
+    "series": [],
+    "label": [
+      "SODVR"
+    ],
+    "keyword": [
+      "\u30cf\u30a4\u30af\u30aa\u30ea\u30c6\u30a3VR",
+      "8KVR",
+      "\u5358\u4f53\u4f5c\u54c1",
+      "VR\u5c02\u7528",
+      "\u4e2d\u51fa\u3057",
+      "\u30d1\u30f3\u30c1\u30e9",
+      "\u80f8\u30c1\u30e9",
+      "\u5de8\u4e73",
+      "\u5973\u5b50\u5927\u751f"
+    ]
+  },
+  {
+    "id": "vrkm01457",
+    "title": "\u3010VR\u3011W\u30b9\u30fc\u30d1\u30fc\u9854\u9762\u7279\u5316\u30a2\u30f3\u30b0\u30ebSpecial 8K VR \uff5e\u50d5\u306e\u3053\u3068\u304c\u5927\u597d\u304d\u3059\u304e\u308b\u9854\u9762\u6700\u5f37\u306e\u9023\u308c\u5b50\u59c9\u59b9\u3068\u5922\u306e\u30cf\u30fc\u30ec\u30e0\u6027\u6d3b\uff5e \u5c3e\u5d0e\u3048\u308a\u304b\u30fb\u5c0f\u90a3\u6d77\u3042\u3084",
+    "size": "33.24 GB",
+    "actress": [
+      "\u5c3e\u5d0e\u3048\u308a\u304b",
+      "\u5c0f\u90a3\u6d77\u3042\u3084"
+    ],
+    "preview_img_url": "https://pics.dmm.co.jp/digital/video/vrkm01457/vrkm01457pl.jpg",
+    "sell_date": "2024/12/01",
+    "duration": "106\u5206",
+    "seed_download_link": "magnet:?xt=urn:btih:50b1995874e05f338ef0b183ab608e37dc91f7e9&dn=vrkm-1457&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce",
+    "director": [
+      "\u30d4\u30f3\u30b5\u30ed\u5927\u597d\u304d\u30b9\u30ba\u30bf\u30b1\u3055\u3093"
+    ],
+    "maker": [
+      "\u30b1\u30a4\u30fb\u30a8\u30e0\u30fb\u30d7\u30ed\u30c7\u30e5\u30fc\u30b9"
+    ],
+    "series": [
+      "\u7279\u5316VR"
+    ],
+    "label": [
+      "KMPVR"
+    ],
+    "keyword": [
+      "\u30cf\u30a4\u30af\u30aa\u30ea\u30c6\u30a3VR",
+      "8KVR",
+      "VR\u5c02\u7528",
+      "\u4e2d\u51fa\u3057",
+      "\u9a0e\u4e57\u4f4d",
+      "\u7f8e\u4e73",
+      "\u4e3b\u89b3"
+    ]
+  },
+  {
+    "id": "ebvr00104",
+    "title": "\u3010VR\u3011\u73fe\u5b9f\u3067\u6307\u540d\u3057\u305f\u308910\u4e07\u5186\u30af\u30e9\u30b9\u306e\u5b8c\u74a7\u30dc\u30c7\u30a3 \u5f97\u610f\u6280\u30d1\u30a4\u30ba\u30ea\u306e\u7d14\u767dHcup\u6700\u9ad8\u7d1a\u30bd\u30fc\u30d7\u5b224\u631f\u5c0490\u5206\u30d5\u30eb\u30b3\u30fc\u30b9 \u96e8\u5bae\u3072\u3073\u304d",
+    "size": "14.57 GB",
+    "actress": [
+      "\u96e8\u5bae\u3072\u3073\u304d"
+    ],
+    "preview_img_url": "https://pics.dmm.co.jp/digital/video/ebvr00104/ebvr00104pl.jpg",
+    "sell_date": "2024/12/01",
+    "duration": "94\u5206",
+    "seed_download_link": "magnet:?xt=urn:btih:8c01ddd5c415c012df73b2e87405fc0e491cd728&dn=ebvr00104&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce",
+    "director": [
+      "\u51db\u3005"
+    ],
+    "maker": [
+      "E-BODY"
+    ],
+    "series": [
+      "E-BODY VR"
+    ],
+    "label": [
+      "E-BODY VR"
+    ],
+    "keyword": [
+      "\u30cf\u30a4\u30af\u30aa\u30ea\u30c6\u30a3VR",
+      "\u30ad\u30e3\u30d0\u5b22\u30fb\u98a8\u4fd7\u5b22",
+      "\u4e3b\u89b3",
+      "\u5de8\u4e73",
+      "\u7f8e\u4e73",
+      "\u72ec\u5360\u914d\u4fe1",
+      "VR\u5c02\u7528",
+      "\u5358\u4f53\u4f5c\u54c1",
+      "8KVR",
+      "\u30d8\u30eb\u30b9\u30fb\u30bd\u30fc\u30d7"
+    ]
+  },
+  {
+    "id": "urvrsp00393",
+    "title": "\u3010VR\u3011\u30108K VR\u3011\u4e0d\u767b\u6821\u306e\u50d5\u3092\u5fc3\u914d\u3057\u306b\u5bb6\u306b\u6765\u3066\u304f\u308c\u308b\u62bc\u3057\u306b\u5f31\u3044\u65b0\u4efb\u5973\u6559\u5e2b \u690e\u540d\u5fc3\u6625\u5148\u751f",
+    "size": "26.23 GB",
+    "actress": [
+      "\u690e\u540d\u5fc3\u6625"
+    ],
+    "preview_img_url": "https://pics.dmm.co.jp/digital/video/urvrsp00393/urvrsp00393pl.jpg",
+    "sell_date": "2024/12/01",
+    "duration": "113\u5206",
+    "seed_download_link": "magnet:?xt=urn:btih:5708235a438a6d786850d3a7957a91f60fdbba94&dn=urvrsp-393&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce",
+    "director": [
+      "\u51db\u3005\uff08un\uff09"
+    ],
+    "maker": [
+      "unfinished"
+    ],
+    "series": [
+      "unfinished VR"
+    ],
+    "label": [
+      "Marrion Group VR"
+    ],
+    "keyword": [
+      "\u30cf\u30a4\u30af\u30aa\u30ea\u30c6\u30a3VR",
+      "\u5358\u4f53\u4f5c\u54c1",
+      "VR\u5c02\u7528",
+      "\u72ec\u5360\u914d\u4fe1",
+      "8KVR",
+      "\u304a\u59c9\u3055\u3093",
+      "\u8077\u696d\u8272\u3005",
+      "\u5973\u6559\u5e2b",
+      "\u4e2d\u51fa\u3057"
+    ]
+  },
+  {
+    "id": "vrkm01477",
+    "title": "\u3010VR\u3011\u5727\u5012\u7684\u7f8e\u8c8c\u3068\u6027\u6b32\u9b54\u529b\u306b\u5f04\u3070\u308c\u308b\u4fdd\u8b77\u8005\u4e0d\u502b \uff5e\u306d\u3063\u3068\u308a\u3068\u8eab\u4f53\u3092\u4fb5\u98df\u3057\u5168\u3066\u3092\u596a\u3044\u53d6\u308b\uff5e \u68ee\u6ca2\u304b\u306a",
+    "size": "12.78 GB",
+    "actress": [
+      "\u68ee\u6ca2\u304b\u306a\uff08\u98ef\u5ca1\u304b\u306a\u3053\uff09"
+    ],
+    "preview_img_url": "https://pics.dmm.co.jp/digital/video/vrkm01477/vrkm01477pl.jpg",
+    "sell_date": "2024/12/01",
+    "duration": "81\u5206",
+    "seed_download_link": "magnet:?xt=urn:btih:01d643cccc18eec5906f58f9ebe833b16300c7a6&dn=vrkm01477&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce",
+    "director": [
+      "\u30a6\u30a3\u30eb\u30c1\u30f3\u30c1\u30f3"
+    ],
+    "maker": [
+      "\u30b1\u30a4\u30fb\u30a8\u30e0\u30fb\u30d7\u30ed\u30c7\u30e5\u30fc\u30b9"
+    ],
+    "series": [
+      "\u5727\u5012\u7684\u7f8e\u8c8c\u3068\u6027\u6b32\u9b54\u529b\u306b\u5f04\u3070\u308c\u308b\u4fdd\u8b77\u8005\u4e0d\u502b"
+    ],
+    "label": [
+      "KMPVR"
+    ],
+    "keyword": [
+      "\u30cf\u30a4\u30af\u30aa\u30ea\u30c6\u30a3VR",
+      "8KVR",
+      "VR\u5c02\u7528",
+      "\u5358\u4f53\u4f5c\u54c1",
+      "\u75f4\u5973",
+      "\u7f8e\u4e73",
+      "\u4e3b\u89b3",
+      "\u4e2d\u51fa\u3057"
+    ]
+  },
+  {
+    "id": "kavr00399",
+    "title": "\u3010VR\u3011\u300c\u3058\u3083\u3042\u30a6\u30c1\u3067\u5b85\u98f2\u307f\u2026\u3059\u308b\uff1f\u300d\u6b8b\u696d\u983c\u307e\u308c\u7d42\u96fb\u9038 \u30d0\u30a4\u30c8\u5148\u306e\u5f8c\u8f29\u30ae\u30e3\u30eb\u306e\u90e8\u5c4b\u306b\u2026\u7121\u9632\u5099\u3059\u304e\u308b\u90e8\u5c4b\u7740\u304a\u3063\u3071\u3044\u3068\u4e00\u9014\u306a\u7d20\u9854\u306b\u30ad\u30e5\u30f3\u6b7b \u96f0\u56f2\u6c17\u306b\u5451\u307e\u308c\u3066\u671d\u304c\u6765\u308b\u307e\u3067\u75f4\u5973\u3089\u308c\u305f\u30dc\u30af \u6625\u967d\u30e2\u30ab",
+    "size": "29.84 GB",
+    "actress": [
+      "\u6625\u967d\u30e2\u30ab"
+    ],
+    "preview_img_url": "https://pics.dmm.co.jp/digital/video/kavr00399/kavr00399pl.jpg",
+    "sell_date": "2024/12/01",
+    "duration": "81\u5206",
+    "seed_download_link": "magnet:?xt=urn:btih:aed2d5f3fbf09ef9ff230397d8acde4305a0bcc3&dn=kavr-399&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce",
+    "director": [
+      "ZAMPA"
+    ],
+    "maker": [
+      "kawaii"
+    ],
+    "series": [],
+    "label": [
+      "kawaii* VR"
+    ],
+    "keyword": [
+      "\u30cf\u30a4\u30af\u30aa\u30ea\u30c6\u30a3VR",
+      "\u5de8\u4e73",
+      "\u4e2d\u51fa\u3057",
+      "\u30d1\u30a4\u30ba\u30ea",
+      "\u4e3b\u89b3",
+      "\u72ec\u5360\u914d\u4fe1",
+      "VR\u5c02\u7528",
+      "\u5358\u4f53\u4f5c\u54c1",
+      "8KVR",
+      "\u30ae\u30e3\u30eb"
+    ]
+  },
+  {
+    "id": "savr00508",
+    "title": "\u3010VR\u3011\u304a\u3063\u3071\u3044\u3067\u7518\u3084\u304b\u3057\u3066\u304d\u305f\u3001\u6bcd\u306e\u59ff\u3002\u5973\u6027\u6050\u6016\u75c7\u306e\u30dc\u30af\u3092\u81ea\u7acb\u3055\u305b\u308b\u305f\u3081\u3001\u4e00\u808c\u8131\u3050\u306e\u304c\u89aa\u306e\u5f79\u76ee\u3002",
+    "size": "22.39 GB",
+    "actress": [],
+    "preview_img_url": "https://pics.dmm.co.jp/digital/video/savr00508/savr00508pl.jpg",
+    "sell_date": "2024/12/01",
+    "duration": "78\u5206",
+    "seed_download_link": "magnet:?xt=urn:btih:817c068f1a88271472b7377903d1de58e7f22b18&dn=savr-508&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce",
+    "director": [
+      "\u767d\u9ce5\u30cb\u30c9\u30df"
+    ],
+    "maker": [
+      "KMPVR-\u5f69-"
+    ],
+    "series": [],
+    "label": [
+      "KMPVR-\u5f69-"
+    ],
+    "keyword": [
+      "\u30cf\u30a4\u30af\u30aa\u30ea\u30c6\u30a3VR",
+      "8KVR",
+      "\u72ec\u5360\u914d\u4fe1",
+      "\u4eba\u59bb\u30fb\u4e3b\u5a66",
+      "\u30d1\u30a4\u30ba\u30ea",
+      "\u5de8\u4e73",
+      "\u4e2d\u51fa\u3057",
+      "\u4e3b\u89b3",
+      "VR\u5c02\u7528"
+    ]
+  },
+  {
+    "id": "crvr00354",
+    "title": "\u3010VR\u3011\u30108KVR\u3011\u5de8\u4e73\u7f8e\u5c3b\u3092\u5927\u6e80\u55ab \u3053\u308c\u304b\u3089\u3053\u306e\u5236\u670d\u5973\u5b50\u3068SEX\u3057\u307e\u3059\uff01\u629c\u7fa4\u306e\u7834\u58ca\u529b\u2026\u30d1\u30f3\u30b9\u30c8\u7af6\u6cf3\u6c34\u7740\uff06\u5236\u670d\uff01 \u690e\u540d\u5fc3\u6625",
+    "size": "25.99 GB",
+    "actress": [
+      "\u690e\u540d\u5fc3\u6625"
+    ],
+    "preview_img_url": "https://pics.dmm.co.jp/digital/video/crvr00354/crvr00354pl.jpg",
+    "sell_date": "2024/12/01",
+    "duration": "83\u5206",
+    "seed_download_link": "magnet:?xt=urn:btih:0205d3706ed1dd0091a72dcb61c522ea0719b053&dn=crvr-354&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce",
+    "director": [
+      "\u304f\u308a\u305e\u3046"
+    ],
+    "maker": [
+      "CRYSTAL VR"
+    ],
+    "series": [
+      "\u3053\u306e\u25cb\u25cb\u25cb\u3068\u3053\u308c\u304b\u3089SEX\u3057\u307e\u3059\u3002"
+    ],
+    "label": [
+      "CRYSTAL VR"
+    ],
+    "keyword": [
+      "\u30cf\u30a4\u30af\u30aa\u30ea\u30c6\u30a3VR",
+      "\u30aa\u30ca\u30cb\u30fc",
+      "\u96fb\u30de",
+      "\u30ad\u30b9\u30fb\u63a5\u543b",
+      "\u30d1\u30f3\u30b9\u30c8\u30fb\u30bf\u30a4\u30c4",
+      "\u7af6\u6cf3\u30fb\u30b9\u30af\u30fc\u30eb\u6c34\u7740",
+      "\u6c34\u7740",
+      "\u30bb\u30fc\u30e9\u30fc\u670d",
+      "\u5236\u670d",
+      "\u624b\u30b3\u30ad",
+      "\u30d5\u30a7\u30e9",
+      "8KVR",
+      "VR\u5c02\u7528",
+      "\u4e3b\u89b3",
+      "\u5358\u4f53\u4f5c\u54c1",
+      "\u4e2d\u51fa\u3057",
+      "\u9a0e\u4e57\u4f4d",
+      "\u6f6e\u5439\u304d",
+      "\u6307\u30de\u30f3",
+      "\u5de8\u4e73"
+    ]
+  },
+  {
+    "id": "savr00458",
+    "title": "\u3010VR\u3011\u59c9\u306e\u53cb\u9054\u304c\u50d5\u306e\u5bb6\u5ead\u6559\u5e2b \u958b\u653e\u7684\u306a\u6027\u683c\u3067\u3068\u306b\u304b\u304f\u512a\u3057\u3044\u5148\u751f\u306e\u3080\u3063\u3061\u308a\u3068\u3057\u305f\u5927\u304d\u306a\u304a\u5c3b\u3068\u4e0b\u534a\u8eab\u306b\u6bce\u65e5\u306e\u3088\u3046\u306b\u7652\u3055\u308c\u7518\u3048\u308b",
+    "size": "14.61 GB",
+    "actress": [],
+    "preview_img_url": "https://pics.dmm.co.jp/digital/video/savr00458/savr00458pl.jpg",
+    "sell_date": "2024/11/30",
+    "duration": "82\u5206",
+    "seed_download_link": "magnet:?xt=urn:btih:6cbdfd41df4e478f5563d3b9f556ec56fd3062e2&dn=savr-458&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce",
+    "director": [
+      "\u30a6\u30a3\u30eb\u30c1\u30f3\u30c1\u30f3"
+    ],
+    "maker": [
+      "KMPVR-\u5f69-"
+    ],
+    "series": [],
+    "label": [
+      "KMPVR-\u5f69-"
+    ],
+    "keyword": [
+      "\u30cf\u30a4\u30af\u30aa\u30ea\u30c6\u30a3VR",
+      "\u5c3b\u30d5\u30a7\u30c1",
+      "\u4e3b\u89b3",
+      "\u5de8\u5c3b",
+      "\u5de8\u4e73",
+      "\u5bb6\u5ead\u6559\u5e2b",
+      "\u72ec\u5360\u914d\u4fe1",
+      "VR\u5c02\u7528",
+      "8KVR",
+      "\u4e2d\u51fa\u3057"
+    ]
+  },
+  {
+    "id": "savr00506",
+    "title": "\u3010VR\u3011\u6821\u5185\u4e00\u306e\u5de8\u4e73\u751f\u5f92\u304b\u3089\u7a81\u7136\u306e\u544a\u767d\u3002\u7a4d\u6975\u7684\u306a\u8a98\u60d1\u306b\u8ca0\u3051\u305f\u50d5\u306f\u3057\u3063\u304b\u308a\u3068\u80f8\u3092\u63c9\u3093\u3067\u30e4\u30ea\u307e\u304f\u3063\u3066\u3057\u307e\u3063\u305f\u3002 \u5c0f\u5742\u3072\u307e\u308a",
+    "size": "17.36 GB",
+    "actress": [
+      "\u5c0f\u5742\u3072\u307e\u308a"
+    ],
+    "preview_img_url": "https://pics.dmm.co.jp/digital/video/savr00506/savr00506pl.jpg",
+    "sell_date": "2024/11/30",
+    "duration": "75\u5206",
+    "seed_download_link": "magnet:?xt=urn:btih:b64d4196a760005c6bca9e95ba8feb20c1155f9d&dn=savr-506&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce",
+    "director": [],
+    "maker": [
+      "KMPVR-\u5f69-"
+    ],
+    "series": [],
+    "label": [
+      "KMPVR-\u5f69-"
+    ],
+    "keyword": [
+      "\u30cf\u30a4\u30af\u30aa\u30ea\u30c6\u30a3VR",
+      "\u5de8\u4e73",
+      "\u5b66\u751f\u670d",
+      "\u5de8\u4e73\u30d5\u30a7\u30c1",
+      "\u4e2d\u51fa\u3057",
+      "\u72ec\u5360\u914d\u4fe1",
+      "VR\u5c02\u7528",
+      "\u5358\u4f53\u4f5c\u54c1",
+      "8KVR",
+      "\u5973\u5b50\u6821\u751f"
+    ]
+  },
+  {
+    "id": "ajvr00250",
+    "title": "\u3010VR\u3011\u89aa\u621a\u306e\u304a\u59c9\u3061\u3083\u3093\u306e\u670d\u306e\u4e2d\u306b\u6f5c\u308a\u8fbc\u307f\u304b\u304f\u308c\u3093\u307c\u81f3\u8fd1\u8ddd\u96e2\u304a\u3063\u3071\u3044\u30de\u25cf\u30b3\u306b\u9854\u57cb\u3081\u3066\u30a4\u30b8\u3063\u3066\u8210\u3081\u307e\u304f\u308a\u5bb6\u65cf\u304c\u63a2\u3057\u306b\u6765\u3066\u3082\u30a2\u3078\u58f0\u6211\u6162\u3067\u7cbe\u3044\u3063\u3071\u3044\u306a\u654f\u611f\u30dc\u30c7\u30a3\u306b\u4f55\u5ea6\u3082\u5bc6\u7740\u751f\u4e2d\u51fa\u3057\u3057\u305f\u7525\u3063\u5b50\u30dc\u30af \u5929\u6708\u3042\u305a",
+    "size": "17.75 GB",
+    "actress": [
+      "\u5929\u6708\u3042\u305a"
+    ],
+    "preview_img_url": "https://pics.dmm.co.jp/digital/video/ajvr00250/ajvr00250pl.jpg",
+    "sell_date": "2024/11/30",
+    "duration": "62\u5206",
+    "seed_download_link": "magnet:?xt=urn:btih:4fa83cb1647f8c1b65009ab858f4c03d3afcd9a5&dn=ajvr-250&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce",
+    "director": [
+      "\u77e2\u6fa4\u30ec\u30b7\u30fc\u30d6"
+    ],
+    "maker": [
+      "\u30a2\u30ea\u30b9JAPAN"
+    ],
+    "series": [],
+    "label": [
+      "\u30a2\u30ea\u30b9JAPAN VR"
+    ],
+    "keyword": [
+      "\u30cf\u30a4\u30af\u30aa\u30ea\u30c6\u30a3VR",
+      "\u6307\u30de\u30f3",
+      "\u30d5\u30a7\u30e9",
+      "\u30d1\u30a4\u30ba\u30ea",
+      "\u5de8\u4e73",
+      "\u5de8\u5c3b",
+      "\u59c9\u30fb\u59b9",
+      "\u305d\u306e\u4ed6\u30d5\u30a7\u30c1",
+      "\u4e3b\u89b3",
+      "VR\u5c02\u7528",
+      "\u624b\u30b3\u30ad",
+      "\u304a\u59c9\u3055\u3093",
+      "\u9a0e\u4e57\u4f4d",
+      "\u72ec\u5360\u914d\u4fe1",
+      "\u6c57\u3060\u304f",
+      "\u8fb1\u3081",
+      "\u7f9e\u6065",
+      "\u7f8e\u4e73",
+      "\u5c3b\u30d5\u30a7\u30c1",
+      "\u5de8\u4e73\u30d5\u30a7\u30c1",
+      "8KVR",
+      "\u4e2d\u51fa\u3057",
+      "\u5358\u4f53\u4f5c\u54c1"
+    ]
+  },
+  {
+    "id": "ajvr00251",
+    "title": "\u3010VR\u3011\u4e80\u982d\u306b\u3082\u7aff\u306b\u3082\u30ec\u30ed\u30ec\u30ed\u86c7\u820c\u304c\u9019\u3044\u56de\u308a\u30cf\u30e1\u3066\u308b\u9593\u3082\u4e73\u9996\u8210\u3081\u8033\u8210\u3081\u30d9\u30ed\u30ad\u30b9\u3067\u5168\u8eab\u30ea\u30c3\u30d7\u3055\u308c\u7d9a\u3051\u308b\u8210\u3081\u3058\u3083\u304f\u308a\u30c7\u30c8\u30c3\u30af\u30b9\u30e1\u30f3\u30ba\u30a8\u30b9\u30c6 \u4f50\u85e4\u306e\u306e\u304b",
+    "size": "28.62 GB",
+    "actress": [
+      "\u4f50\u85e4\u306e\u306e\u304b\uff08\u52a0\u85e4\u3082\u3082\u304b\uff09"
+    ],
+    "preview_img_url": "https://pics.dmm.co.jp/digital/video/ajvr00251/ajvr00251pl.jpg",
+    "sell_date": "2024/11/30",
+    "duration": "67\u5206",
+    "seed_download_link": "magnet:?xt=urn:btih:e459da3816efe57287c9500c0c0a0ff36fe814c7&dn=ajvr-251&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce",
+    "director": [
+      "\u77e2\u6fa4\u30ec\u30b7\u30fc\u30d6"
+    ],
+    "maker": [
+      "\u30a2\u30ea\u30b9JAPAN"
+    ],
+    "series": [
+      "\u86c7\u820c\u8210\u3081\u3058\u3083\u304f\u308a\u30c7\u30c8\u30c3\u30af\u30b9\u30e1\u30f3\u30ba\u30a8\u30b9\u30c6"
+    ],
+    "label": [
+      "\u30a2\u30ea\u30b9JAPAN VR"
+    ],
+    "keyword": [
+      "\u30cf\u30a4\u30af\u30aa\u30ea\u30c6\u30a3VR",
+      "VR\u5c02\u7528",
+      "\u4e3b\u89b3",
+      "\u30d5\u30a7\u30e9",
+      "\u30a8\u30b9\u30c6",
+      "\u30de\u30c3\u30b5\u30fc\u30b8\u30fb\u30ea\u30d5\u30ec",
+      "\u624b\u30b3\u30ad",
+      "\u30ad\u30b9\u30fb\u63a5\u543b",
+      "\u9a0e\u4e57\u4f4d",
+      "\u75f4\u5973",
+      "\u72ec\u5360\u914d\u4fe1",
+      "8KVR",
+      "\u5358\u4f53\u4f5c\u54c1"
+    ]
+  },
+  {
+    "id": "crvr00350",
+    "title": "\u3010VR\u3011\u30108KVR\u3011\u304a\u3068\u3046\u3068\u304f\u3093\u306b\u306f\u2026\u62d2\u5426\u6a29\u3082\u6c7a\u5b9a\u6a29\u3082\u306a\u3044\u3093\u3060\u3088\u2026 \u3068\u3042\u308b\u65e5\u306e\u5348\u5f8c\u2026\u30dc\u30af\u306f\u59c9\u306e\u53cb\u4eba\u306b\u30ad\u30b9\u3067\u5fc3\u3092\u596a\u308f\u308c\u305f \u5929\u6708\u3042\u305a",
+    "size": "24.25 GB",
+    "actress": [
+      "\u5929\u6708\u3042\u305a"
+    ],
+    "preview_img_url": "https://pics.dmm.co.jp/digital/video/crvr00350/crvr00350pl.jpg",
+    "sell_date": "2024/11/30",
+    "duration": "88\u5206",
+    "seed_download_link": "magnet:?xt=urn:btih:d2d07c4e9ef53d2c375f13227139f607fe5c87db&dn=crvr-350&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce",
+    "director": [
+      "\u304f\u308a\u305e\u3046"
+    ],
+    "maker": [
+      "CRYSTAL VR"
+    ],
+    "series": [
+      "\u3068\u3042\u308b\u65e5\u306e\u5348\u5f8c\u2026\u30dc\u30af\u306f\u59c9\u306e\u53cb\u4eba\u306b\u25cb\u25cb\u3055\u308c\u305f"
+    ],
+    "label": [
+      "CRYSTAL VR"
+    ],
+    "keyword": [
+      "\u30cf\u30a4\u30af\u30aa\u30ea\u30c6\u30a3VR",
+      "\u304a\u59c9\u3055\u3093",
+      "\u30ad\u30b9\u30fb\u63a5\u543b",
+      "\u30d5\u30a7\u30e9",
+      "\u9a0e\u4e57\u4f4d",
+      "\u4e2d\u51fa\u3057",
+      "\u5358\u4f53\u4f5c\u54c1",
+      "\u4e3b\u89b3",
+      "VR\u5c02\u7528",
+      "8KVR",
+      "\u5de8\u4e73"
+    ]
+  },
+  {
+    "id": "ajvr00252",
+    "title": "\u3010VR\u3011\u3010\u7121\u4fee\u6b63\u3011\u30ce\u30fc\u30e2\u30b6\u3067\u820c\u5148\u306e\u52d5\u304d\u307e\u3067\u697d\u3057\u3081\u308b\u808c\u8272\u30c7\u30a3\u30eb\u30c9\u30d5\u30a7\u30e96\u9078 \u4e80\u982d\u306b\u3082\u7aff\u306b\u3082\u7d61\u307f\u3064\u304f\u820c\u6280\u30fb\u5438\u3044\u4ed8\u304f\u5507\u3067\u5965\u307e\u3067\u54a5\u3048\u308b\u7206\u97f3\u30d0\u30ad\u30e5\u30fc\u30e0\uff06\u7206\u901f\u30b9\u30c8\u30ed\u30fc\u30af\u3067\u5c04\u7cbe\u307e\u3067\u5fc5\u305a\u5c0e\u304f\u30d5\u30a7\u30e9\u5973\u795e\u304c\u5e38\u306b\u50d5\u3092\u898b\u306a\u304c\u3089\u8210\u3081\u5c3d\u304f\u3057\u3066\u304f\u308c\u308b\u7a76\u6975\u306e\u30d5\u30a7\u30e9\u4f53\u9a13VR",
+    "size": "34.88 GB",
+    "actress": [
+      "\u4f50\u85e4\u306e\u306e\u304b\uff08\u52a0\u85e4\u3082\u3082\u304b\uff09",
+      "\u6728\u4e0b\u3072\u307e\u308a\uff08\u82b1\u6ca2\u3072\u307e\u308a\uff09",
+      "\u693f\u308a\u304b",
+      "\u85e4\u54b2\u7d2b",
+      "\u661f\u4e43\u590f\u6708",
+      "\u5e0c\u54b2\u90a3\u5948"
+    ],
+    "preview_img_url": "https://pics.dmm.co.jp/digital/video/ajvr00252/ajvr00252pl.jpg",
+    "sell_date": "2024/11/30",
+    "duration": "68\u5206",
+    "seed_download_link": "magnet:?xt=urn:btih:69ae757f45ce4f7dd8445ea3270846e033f5fe2e&dn=ajvr-252&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce",
+    "director": [
+      "\u4e0a\u5dde\u529b",
+      "\u77e2\u6fa4\u30ec\u30b7\u30fc\u30d6",
+      "\u30b8\u30fc\u30cb\u30a2\u30b9\u819d"
+    ],
+    "maker": [
+      "\u30a2\u30ea\u30b9JAPAN"
+    ],
+    "series": [],
+    "label": [
+      "\u30a2\u30ea\u30b9JAPAN VR"
+    ],
+    "keyword": [
+      "\u30cf\u30a4\u30af\u30aa\u30ea\u30c6\u30a3VR",
+      "\u6deb\u8a9e",
+      "\u75f4\u5973",
+      "\u4e3b\u89b3",
+      "\u5de8\u4e73",
+      "\u7f8e\u4e73",
+      "\u30ae\u30e3\u30eb",
+      "M\u7537",
+      "\u305d\u306e\u4ed6\u30d5\u30a7\u30c1",
+      "8KVR",
+      "\u7f8e\u5c11\u5973",
+      "\u30b9\u30ec\u30f3\u30c0\u30fc",
+      "\u72ec\u5360\u914d\u4fe1",
+      "VR\u5c02\u7528",
+      "\u30d5\u30a7\u30e9"
+    ]
+  },
+  {
+    "id": "ipvr00283",
+    "title": "\u3010VR\u3011\u521d8K \u767a\u5c04\u7121\u5236\u9650 \u5373\u5c3a\u5373\u30cf\u30e1 \u5929\u7136G\u30ab\u30c3\u30d7\u7f8e\u5de8\u4e73\u300c\u9577\u6d5c\u307f\u3064\u308a\u300d\u5b22\u306e\u6975\u4e0a\u30bd\u30fc\u30d7\u30d7\u30ec\u30a4\u8d85\u4f53\u611fVR",
+    "size": "19.81 GB",
+    "actress": [
+      "\u9577\u6d5c\u307f\u3064\u308a"
+    ],
+    "preview_img_url": "https://pics.dmm.co.jp/digital/video/ipvr00283/ipvr00283pl.jpg",
+    "sell_date": "2024/11/29",
+    "duration": "79\u5206",
+    "seed_download_link": "magnet:?xt=urn:btih:0a94e9840b5d58bcd71262ab650a9a82b7995696&dn=ipvr-283&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce",
+    "director": [
+      "ZAMPA"
+    ],
+    "maker": [
+      "\u30a2\u30a4\u30c7\u30a2\u30dd\u30b1\u30c3\u30c8"
+    ],
+    "series": [
+      "\u30a2\u30a4\u30dd\u30b18KVR"
+    ],
+    "label": [
+      "IP-VR"
+    ],
+    "keyword": [
+      "\u30cf\u30a4\u30af\u30aa\u30ea\u30c6\u30a3VR",
+      "\u5de8\u4e73",
+      "\u30d8\u30eb\u30b9\u30fb\u30bd\u30fc\u30d7",
+      "\u7f8e\u5c11\u5973",
+      "\u30d5\u30a7\u30e9",
+      "\u72ec\u5360\u914d\u4fe1",
+      "VR\u5c02\u7528",
+      "\u5358\u4f53\u4f5c\u54c1",
+      "8KVR",
+      "\u4e3b\u89b3"
+    ]
+  },
+  {
+    "id": "kiwvrb00031",
+    "title": "\u3010VR\u3011\u300c\u5371\u967a\u65e5\u3060\u304b\u3089\u30ca\u30ab\u306b\u51fa\u3055\u306a\u3044\u3067\u2026\u304a\u9858\u3044\uff01\uff01\u300d\u3053\u3063\u305d\u308a\u30b4\u30e0\u3092\u5916\u3057\u3066\u7121\u8a31\u53ef\u3067\u5927\u91cf\u4e2d\u51fa\u3057\uff01\u5b50\u4f5c\u308a\u5b55\u307e\u305b\u30bd\u30fc\u30d7\u30e9\u30f3\u30c9",
+    "size": "48.01 GB",
+    "actress": [],
+    "preview_img_url": "https://pics.dmm.co.jp/digital/video/kiwvrb00031/kiwvrb00031pl.jpg",
+    "sell_date": "2024/11/29",
+    "duration": "506\u5206",
+    "seed_download_link": "magnet:?xt=urn:btih:d620dcc3ffa57692e2c745964479ed66279c75be&dn=kiwvrb-031&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce",
+    "director": [],
+    "maker": [
+      "\u3053\u3042\u3089VR"
+    ],
+    "series": [
+      "\u3053\u3042\u3089VR\u6975\u30d9\u30b9\u30c8"
+    ],
+    "label": [
+      "\u6975\u30b0\u30eb\u30fc\u30d7"
+    ],
+    "keyword": [
+      "4\u6642\u9593\u4ee5\u4e0a\u4f5c\u54c1",
+      "\u5de8\u4e73",
+      "\u4e2d\u51fa\u3057",
+      "\u30ad\u30e3\u30d0\u5b22\u30fb\u98a8\u4fd7\u5b22",
+      "\u30ed\u30fc\u30b7\u30e7\u30f3\u30fb\u30aa\u30a4\u30eb",
+      "\u30d9\u30b9\u30c8\u30fb\u7dcf\u96c6\u7de8",
+      "\u72ec\u5360\u914d\u4fe1",
+      "VR\u5c02\u7528",
+      "\u30cf\u30a4\u30af\u30aa\u30ea\u30c6\u30a3VR",
+      "\u7f8e\u5c11\u5973"
+    ]
+  },
+  {
+    "id": "kiwvr00738",
+    "title": "\u3010VR\u3011\u795e\u307e\u3007\u3053\uff01\uff01\u300c\u4eca\u3001\u30d4\u30e5\u3063\u3066\u4e2d\u306b\u51fa\u3057\u305f\u3067\u3057\u3087\uff1f\u300dJ\u30ab\u30c3\u30d7\u306e\u5e7c\u99b4\u67d3\u306b\u7ae5\u8c9e\u7b46\u304a\u308d\u3057\u3055\u308c\u65e9\u6f0f\u66b4\u767a\u3057\u3066\u3082\u840e\u3048\u306a\u3044\u8ffd\u6483\u30d4\u30b9\u30c8\u30f3\u3067\u629c\u304b\u305a\u306e\u9023\u7d9a\u4e2d\u51fa\u3057\u7d76\u502bSEX \u6708\u91ce\u304b\u3059\u307f",
+    "size": "6.96 GB",
+    "actress": [
+      "\u6708\u91ce\u304b\u3059\u307f"
+    ],
+    "preview_img_url": "https://pics.dmm.co.jp/digital/video/kiwvr00738/kiwvr00738pl.jpg",
+    "sell_date": "2024/11/29",
+    "duration": "78\u5206",
+    "seed_download_link": "magnet:?xt=urn:btih:220bf73680e5d9843282e144d76cb2dc07420d2a&dn=kiwvr-738&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce",
+    "director": [
+      "\u3053\u3042\u3089\u592a\u90ce\uff08\u308f\uff09"
+    ],
+    "maker": [
+      "\u3053\u3042\u3089VR"
+    ],
+    "series": [
+      "3D\u30cf\u30e1\u64ae\u308aVR\u6539\u3010\u795e\u307e\u3007\u3053\uff01\u66b4\u767a\u5f8c\u306e\u8ffd\u6483\u30d4\u30b9\u30c8\u30f3\u3067\u9023\u7d9a\u4e2d\u51fa\u3057\u3011"
+    ],
+    "label": [
+      "\u6975\u30b0\u30eb\u30fc\u30d7"
+    ],
+    "keyword": [
+      "\u30cf\u30a4\u30af\u30aa\u30ea\u30c6\u30a3VR",
+      "\u75f4\u5973",
+      "\u7ae5\u8c9e",
+      "\u4e2d\u51fa\u3057",
+      "\u9854\u5c04",
+      "\u65e9\u6f0f",
+      "\u72ec\u5360\u914d\u4fe1",
+      "VR\u5c02\u7528",
+      "\u5358\u4f53\u4f5c\u54c1",
+      "\u5de8\u4e73"
+    ]
+  },
+  {
+    "id": "savr00512",
+    "title": "\u3010VR\u3011\u590f\u4f11\u307f\u4e2d\u306b\u88dc\u4fee\u3092\u53d7\u3051\u3066\u3044\u308b\u3068\u81ea\u4e3b\u9000\u5b66\u3092\u3057\u305f\u5e7c\u99b4\u67d3\u304c\u30d1\u30a4\u30d1\u30f3\u7f8e\u811a\u3067\u80a1\u9593\u3092\u307e\u3055\u3050\u3063\u3066\u304d\u305f",
+    "size": "13.48 GB",
+    "actress": [],
+    "preview_img_url": "https://pics.dmm.co.jp/digital/video/savr00512/savr00512pl.jpg",
+    "sell_date": "2024/11/29",
+    "duration": "73\u5206",
+    "seed_download_link": "magnet:?xt=urn:btih:847f7907f0eb1c5a3c1619250186aaa89c3c9109&dn=savr-512&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce",
+    "director": [
+      "\u5305\u4e01M"
+    ],
+    "maker": [
+      "KMPVR-\u5f69-"
+    ],
+    "series": [],
+    "label": [
+      "KMPVR-\u5f69-"
+    ],
+    "keyword": [
+      "\u30cf\u30a4\u30af\u30aa\u30ea\u30c6\u30a3VR",
+      "8KVR",
+      "\u72ec\u5360\u914d\u4fe1",
+      "\u30d1\u30a4\u30d1\u30f3",
+      "\u8db3\u30b3\u30ad",
+      "\u811a\u30d5\u30a7\u30c1",
+      "\u30e2\u30c7\u30eb",
+      "\u5b66\u5712\u3082\u306e",
+      "VR\u5c02\u7528"
+    ]
+  },
+  {
+    "id": "savr00496",
+    "title": "\u3010VR\u3011\u8d85\u30ea\u30a2\u30eb \u5c3e\u884c\u8996\u70b9 \u7403\u5834\u3067\u898b\u304b\u3051\u305f20\u4ee3\u306e\u7b11\u9854\u304c\u53ef\u611b\u3044\u91ce\u7403\u5973\u5b50\u306e\u5bb6\u307e\u3067\u5c3e\u884c\u3057\u3066\u25cf\u3059\u6975\u60aa\u30ec\u3007\u30d7VR",
+    "size": "30.55 GB",
+    "actress": [],
+    "preview_img_url": "https://pics.dmm.co.jp/digital/video/savr00496/savr00496pl.jpg",
+    "sell_date": "2024/11/29",
+    "duration": "61\u5206",
+    "seed_download_link": "magnet:?xt=urn:btih:eee427774ab754f8178d281ffac7968aa2a26697&dn=savr-496&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce",
+    "director": [
+      "\u66fe\u6839\u5927\u5922@\u4e2d\u91ce"
+    ],
+    "maker": [
+      "KMPVR-\u5f69-"
+    ],
+    "series": [],
+    "label": [
+      "KMPVR-\u5f69-"
+    ],
+    "keyword": [
+      "\u30cf\u30a4\u30af\u30aa\u30ea\u30c6\u30a3VR",
+      "8KVR",
+      "VR\u5c02\u7528",
+      "\u72ec\u5360\u914d\u4fe1",
+      "\u7d20\u4eba",
+      "\u30a4\u30e9\u30de\u30c1\u30aa",
+      "\u4e2d\u51fa\u3057",
+      "\u6deb\u4e71\u30fb\u30cf\u30fc\u30c9\u7cfb",
+      "\u7f8e\u5c11\u5973"
+    ]
+  },
+  {
+    "id": "savr00488",
+    "title": "\u3010VR\u3011\u30c7\u30ea\u30d8\u30eb24\u6642\u9593\u8cb8\u3057\u5207\u308a\u65c5\u884c \u9577\u5e74\u901a\u3044\u7d9a\u3051\u3066\u304d\u305f\u30c7\u30ea\u5b22\u306e\u6700\u5f8c\u306e\u6307\u540d\u3002\u4e0a\u4e0b\u306e\u4e0b\u54c1\u306a\u30af\u30c1\u3067\u6cbc\u308b\u3068\u3053\u308d\u307e\u3067\u6cbc\u3063\u305f1\u6cca2\u65e5",
+    "size": "24.67 GB",
+    "actress": [],
+    "preview_img_url": "https://pics.dmm.co.jp/digital/video/savr00488/savr00488pl.jpg",
+    "sell_date": "2024/11/29",
+    "duration": "77\u5206",
+    "seed_download_link": "magnet:?xt=urn:btih:5fbfc02e8e4e56815e577c9007214e3e41391570&dn=savr-488&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce",
+    "director": [
+      "\u3089\u304f\u3060"
+    ],
+    "maker": [
+      "KMPVR-\u5f69-"
+    ],
+    "series": [],
+    "label": [
+      "KMPVR-\u5f69-"
+    ],
+    "keyword": [
+      "\u30cf\u30a4\u30af\u30aa\u30ea\u30c6\u30a3VR",
+      "8KVR",
+      "VR\u5c02\u7528",
+      "\u72ec\u5360\u914d\u4fe1",
+      "\u9a0e\u4e57\u4f4d",
+      "\u30ad\u30e3\u30d0\u5b22\u30fb\u98a8\u4fd7\u5b22",
+      "\u5de8\u4e73",
+      "\u4e2d\u51fa\u3057",
+      "\u4e3b\u89b3"
+    ]
+  },
+  {
+    "id": "urvrsp00395",
+    "title": "\u3010VR\u3011\u30108K VR\u3011\u3042\u3056\u3068\u53ef\u611b\u3044\u30b5\u30fc\u30af\u30eb\u306e\u7f8e\u4eba\u5148\u8f29\u306b\u3058\u3085\u307c\u30d5\u30a7\u30e9\u3068\u5e8a\u30c9\u30f3\u9a0e\u4e57\u4f4d\u3067\u4f55\u5ea6\u3082\u5c04\u7cbe\u3055\u305b\u3089\u308c\u308b\u50d5 \u590f\u82bd\u3055\u304d",
+    "size": "18.11 GB",
+    "actress": [
+      "\u590f\u82bd\u3055\u304d"
+    ],
+    "preview_img_url": "https://pics.dmm.co.jp/digital/video/urvrsp00395/urvrsp00395pl.jpg",
+    "sell_date": "2024/11/29",
+    "duration": "79\u5206",
+    "seed_download_link": "magnet:?xt=urn:btih:2961d9beea32e64d62755752bda3074637744035&dn=urvrsp-395&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce",
+    "director": [
+      "\u30df\u30c5\u30ad\u30fb\u6539"
+    ],
+    "maker": [
+      "unfinished"
+    ],
+    "series": [
+      "unfinished VR"
+    ],
+    "label": [
+      "Marrion Group VR"
+    ],
+    "keyword": [
+      "\u30cf\u30a4\u30af\u30aa\u30ea\u30c6\u30a3VR",
+      "\u5973\u5b50\u5927\u751f",
+      "\u75f4\u5973",
+      "\u5bdd\u53d6\u308a\u30fb\u5bdd\u53d6\u3089\u308c\u30fbNTR",
+      "\u98f2\u307f\u4f1a\u30fb\u5408\u30b3\u30f3",
+      "8KVR",
+      "\u72ec\u5360\u914d\u4fe1",
+      "VR\u5c02\u7528",
+      "\u5358\u4f53\u4f5c\u54c1",
+      "\u4e2d\u51fa\u3057"
+    ]
+  },
+  {
+    "id": "mdvr00329",
+    "title": "\u3010VR\u3011Himari \u521dVR\uff01 \u5947\u8de1\u306eQ\u30ab\u30c3\u30d7\u304a\u3063\u3071\u3044\u6fc0\u5bc6\u7740\u00d7\u8d85\u3086\uff5e\u3063\u304f\u308a\u6deb\u8a9e\u3067\u30cc\u30ad\u307e\u304f\u308a\uff01\u6700\u9ad8\u7d1a\u75f4\u5973\u30a8\u30b9\u30c6VR 8KSPECIA",
+    "size": "34.68 GB",
+    "actress": [
+      "Himari"
+    ],
+    "preview_img_url": "https://pics.dmm.co.jp/digital/video/mdvr00329/mdvr00329pl.jpg",
+    "sell_date": "2024/11/28",
+    "duration": "132\u5206",
+    "seed_download_link": "magnet:?xt=urn:btih:86bae0b0502469175ef7925d022e3d73e8d5ce92&dn=mdvr-329&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce",
+    "director": [
+      "ZAMPA"
+    ],
+    "maker": [
+      "\u30e0\u30fc\u30c7\u30a3\u30fc\u30ba"
+    ],
+    "series": [
+      "MOODYZ 8KVR"
+    ],
+    "label": [
+      "MOODYZ VR"
+    ],
+    "keyword": [
+      "\u30cf\u30a4\u30af\u30aa\u30ea\u30c6\u30a3VR",
+      "8KVR",
+      "VR\u5c02\u7528",
+      "\u72ec\u5360\u914d\u4fe1",
+      "\u30ed\u30fc\u30b7\u30e7\u30f3\u30fb\u30aa\u30a4\u30eb",
+      "\u75f4\u5973",
+      "\u30a8\u30b9\u30c6",
+      "\u5de8\u4e73",
+      "\u5358\u4f53\u4f5c\u54c1"
+    ]
+  },
+  {
+    "id": "urvrsp00387",
+    "title": "\u3010VR\u3011\u30108K VR\u3011\u7d4c\u9a13\u8c4a\u5bcc\u00d7\u7f8e\u4eba\u5bb6\u5ead\u6559\u5e2b\u00d7\u304a\u59c9\u3055\u3093 \u597d\u304d\u306a\u5973\u306e\u5b50\u3068\u4ed8\u304d\u5408\u3046\u307e\u3067\u306eHow to \u30ec\u30c3\u30b9\u30f3\u3002\u9999\u6f84\u3055\u3093",
+    "size": "24.27 GB",
+    "actress": [],
+    "preview_img_url": "https://pics.dmm.co.jp/digital/video/urvrsp00387/urvrsp00387pl.jpg",
+    "sell_date": "2024/11/28",
+    "duration": "77\u5206",
+    "seed_download_link": "magnet:?xt=urn:btih:cfa59c0e5fb32993285fa686e36953a5915d9963&dn=urvrsp-387&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce",
+    "director": [
+      "\u77e2\u6fa4\u30ec\u30b7\u30fc\u30d6"
+    ],
+    "maker": [
+      "unfinished"
+    ],
+    "series": [
+      "unfinished VR"
+    ],
+    "label": [
+      "Marrion Group VR"
+    ],
+    "keyword": [
+      "\u30cf\u30a4\u30af\u30aa\u30ea\u30c6\u30a3VR",
+      "VR\u5c02\u7528",
+      "\u72ec\u5360\u914d\u4fe1",
+      "8KVR",
+      "\u7ae5\u8c9e",
+      "\u3081\u304c\u306d",
+      "\u5bb6\u5ead\u6559\u5e2b",
+      "\u304a\u59c9\u3055\u3093",
+      "\u4e2d\u51fa\u3057"
+    ]
+  },
+  {
+    "id": "nkkvr00133",
+    "title": "\u3010VR\u3011\u96a3\u4eba\u9ed2\u30ae\u30e3\u30eb\u304c\u30108K\u8d85\u8089\u611f\u7279\u5316\u3011\u9375\u3092\u639b\u3051\u3066\u306a\u3044\u30dc\u30af\u306e\u5bb6\u306b\u52dd\u624b\u306b\u5165\u3063\u3066\u304d\u3066\u6bce\u65e5\u25cf\u3057\u3066\u30dc\u30af\u306e\u30b6\u30fc\u30e1\u30f3\u3092\u643e\u53d6\u3057\u307e\u304f\u3089\u308c\u305f\u2026",
+    "size": "16.53 GB",
+    "actress": [],
+    "preview_img_url": "https://pics.dmm.co.jp/digital/video/nkkvr00133/nkkvr00133pl.jpg",
+    "sell_date": "2024/11/28",
+    "duration": "80\u5206",
+    "seed_download_link": "magnet:?xt=urn:btih:633a329c0d0c1f5bd3fde2190824a08a5e7a3203&dn=nkkvr-133&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce",
+    "director": [
+      "\u30af\u30ef\u30c3\u30c1\u30fc"
+    ],
+    "maker": [
+      "\u8089\u304d\u3085\u3093\u30d1\u30e9\u30c0\u30a4\u30b9VR"
+    ],
+    "series": [
+      "\u6975\u30fb\u96a3\u4eba\u9006\u591c\u25cf\u3044"
+    ],
+    "label": [
+      "\u6975\u30b0\u30eb\u30fc\u30d7"
+    ],
+    "keyword": [
+      "\u30cf\u30a4\u30af\u30aa\u30ea\u30c6\u30a3VR",
+      "\u5de8\u4e73",
+      "\u75f4\u5973",
+      "\u9a0e\u4e57\u4f4d",
+      "\u30d1\u30a4\u30ba\u30ea",
+      "\u30ed\u30fc\u30b7\u30e7\u30f3\u30fb\u30aa\u30a4\u30eb",
+      "\u30d3\u30c3\u30c1",
+      "\u72ec\u5360\u914d\u4fe1",
+      "VR\u5c02\u7528",
+      "8KVR",
+      "\u4e2d\u51fa\u3057"
+    ]
+  },
+  {
+    "id": "vrprd00055",
+    "title": "\u3010VR\u3011\u30108K\u30fb\u8d85\u9ad8\u753b\u8ceaVR\u3011\u3010\u30e1\u30f3\u30d8\u30e9VR\u3011\u4ffa\u306b\u60da\u308c\u305f\u7f8e\u5de8\u4e73\u30ae\u30e3\u30eb\u3068\u5a5a\u7d04\u3057\u305f\u3089\u672c\u6027\u4e38\u51fa\u3057\u2026\u30e1\u30f3\u30d8\u30e9\u5f7c\u5973\u306e\u6cbc\u604b\u9006\u62d8\u675f\u300e\u30a2\u30ea\u30b9\u300f",
+    "size": "15.57 GB",
+    "actress": [],
+    "preview_img_url": "https://pics.dmm.co.jp/digital/video/vrprd00055/vrprd00055pl.jpg",
+    "sell_date": "2024/11/28",
+    "duration": "85\u5206",
+    "seed_download_link": "magnet:?xt=urn:btih:4a335e1fe3170f907b5151bad7466323d498820e&dn=vrprd-055&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce",
+    "director": [
+      "\u30b6\u30c3\u30af\u8352\u4e95"
+    ],
+    "maker": [
+      "VR\u30d1\u30e9\u30c0\u30a4\u30b9"
+    ],
+    "series": [],
+    "label": [
+      "\u6975\u30b0\u30eb\u30fc\u30d7"
+    ],
+    "keyword": [
+      "\u30cf\u30a4\u30af\u30aa\u30ea\u30c6\u30a3VR",
+      "8KVR",
+      "VR\u5c02\u7528",
+      "\u72ec\u5360\u914d\u4fe1",
+      "\u9a0e\u4e57\u4f4d",
+      "\u5de8\u4e73",
+      "\u75f4\u5973",
+      "\u30ae\u30e3\u30eb"
+    ]
+  },
+  {
+    "id": "13dsvr01630",
+    "title": "\u3010VR\u3011\u30108K\u3011\u6642\u9593\u505c\u6b62\u30ef\u30fc\u30eb\u30c9 \uff5e\u5973\u5b50\u793e\u54e1\u5927\u30d1\u30cb\u30c3\u30af\uff5e OL\u305f\u3061\u306f\u72af\u25cf\u308c\u3066\u3044\u308b\u3053\u3068\u3092\u77e5\u3089\u306a\u3044\u2026\u30b5\u30a4\u30ec\u30f3\u30c8\u652f\u914d\u3002",
+    "size": "35.11 GB",
+    "actress": [
+      "\u7f8e\u5712\u548c\u82b1",
+      "\u59eb\u54b2\u306f\u306a",
+      "\u68ee\u6ca2\u304b\u306a\uff08\u98ef\u5ca1\u304b\u306a\u3053\uff09",
+      "\u6709\u5ca1\u307f\u3046",
+      "\u5bae\u540d\u9065",
+      "\u5929\u91ce\u82b1\u4e43",
+      "\u96ea\u898b\u307b\u306e\u304b",
+      "\u80e1\u6843\u3055\u304f\u3089"
+    ],
+    "preview_img_url": "https://pics.dmm.co.jp/digital/video/13dsvr01630/13dsvr01630pl.jpg",
+    "sell_date": "2024/11/28",
+    "duration": "180\u5206",
+    "seed_download_link": "magnet:?xt=urn:btih:48d5635bc64c984c6c4cad23e024907550e086ba&dn=dsvr01630&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce",
+    "director": [
+      "\u3055\u3055\u304d\u3046\u305a\u307e\u304d"
+    ],
+    "maker": [
+      "SOD\u30af\u30ea\u30a8\u30a4\u30c8"
+    ],
+    "series": [
+      "\u6642\u9593\u505c\u6b62\uff08SODVR\uff09"
+    ],
+    "label": [
+      "SODVR"
+    ],
+    "keyword": [
+      "\u30cf\u30a4\u30af\u30aa\u30ea\u30c6\u30a3VR",
+      "8KVR",
+      "VR\u5c02\u7528",
+      "\u4e2d\u51fa\u3057",
+      "\u5de8\u4e73",
+      "\u7f9e\u6065",
+      "OL",
+      "\u6642\u9593\u505c\u6b62"
+    ]
+  },
+  {
+    "id": "13dsvr01639",
+    "title": "\u3010VR\u3011\u30108K\u3011\u30de\u30f3\u30ac\u6d17\u8133\u2018\u63cf\u3044\u305f\u4e8b\u304c\u73fe\u5b9f\u306b\u306a\u308b\u30da\u30f3\u2019\u3092\u4f7f\u3063\u3066\u30d1\u30ef\u30cf\u30e9\u62c5\u5f53\u7de8\u96c6\u306b\u5fa9\u8b90\uff01\uff01 \u6708\u91ce\u304b\u3059\u307f",
+    "size": "10.65 GB",
+    "actress": [
+      "\u6708\u91ce\u304b\u3059\u307f"
+    ],
+    "preview_img_url": "https://pics.dmm.co.jp/digital/video/13dsvr01639/13dsvr01639pl.jpg",
+    "sell_date": "2024/11/28",
+    "duration": "78\u5206",
+    "seed_download_link": "magnet:?xt=urn:btih:c02d74e359b678cf3e98491e796c54ec2d92e36f&dn=dsvr01639&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce",
+    "director": [
+      "\u3044\u3056\u3044\u3056\u304d"
+    ],
+    "maker": [
+      "SOD\u30af\u30ea\u30a8\u30a4\u30c8"
+    ],
+    "series": [],
+    "label": [
+      "SODVR"
+    ],
+    "keyword": [
+      "\u30d5\u30a1\u30f3\u30bf\u30b8\u30fc",
+      "\u5de8\u4e73",
+      "\u5984\u60f3",
+      "\u30d1\u30a4\u30ba\u30ea",
+      "\u8fb1\u3081",
+      "VR\u5c02\u7528",
+      "\u5358\u4f53\u4f5c\u54c1",
+      "8KVR",
+      "\u30cf\u30a4\u30af\u30aa\u30ea\u30c6\u30a3VR"
+    ]
+  },
+  {
+    "id": "pxvr00215",
+    "title": "\u3010VR\u3011\u30d1\u30a4\u30ba\u30ea\uff01\u5c3b\u3053\u304d\uff01\u30d5\u30a7\u30e9\u30c1\u30aa\uff01\u30ce\u30fc\u30e2\u30b6\u30aa\u30c1\u25cf\u30dd\u5f04\u308a\uff01\u30c7\u30a3\u30eb\u30c9\u30fc\u30a4\u30ab\u30bbVR\u30108K\u3011",
+    "size": "15.01 GB",
+    "actress": [
+      "\u677e\u672c\u68a8\u7a42",
+      "\u7531\u826f\u304b\u306a",
+      "\u6d41\u5ddd\u8389\u592e",
+      "\u6c34\u539f\u307f\u305d\u306e",
+      "\u897f\u91ce\u7d75\u7f8e",
+      "\u9ed2\u6728\u308c\u3044\u306a",
+      "\u5929\u99ac\u3086\u3044",
+      "\u5343\u77f3\u3082\u306a\u304b"
+    ],
+    "preview_img_url": "https://pics.dmm.co.jp/digital/video/pxvr00215/pxvr00215pl.jpg",
+    "sell_date": "2024/11/27",
+    "duration": "127\u5206",
+    "seed_download_link": "magnet:?xt=urn:btih:da9189623cf08220b5d055909313ba442fed9cde&dn=pxvr-215&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce",
+    "director": [],
+    "maker": [
+      "P-BOX VR"
+    ],
+    "series": [
+      "\u3053\u3060\u308f\u308a\u30d5\u30a7\u30c1VR"
+    ],
+    "label": [
+      "P-BOX VR"
+    ],
+    "keyword": [
+      "\u30cf\u30a4\u30af\u30aa\u30ea\u30c6\u30a3VR",
+      "8KVR",
+      "VR\u5c02\u7528",
+      "\u72ec\u5360\u914d\u4fe1",
+      "\u305d\u306e\u4ed6\u30d5\u30a7\u30c1",
+      "\u30c7\u30a3\u30eb\u30c9",
+      "\u4e3b\u89b3",
+      "\u7f8e\u5c11\u5973",
+      "\u30d5\u30a7\u30e9"
+    ]
+  },
+  {
+    "id": "exvr00745",
+    "title": "\u3010VR\u3011KMPVR \u7f8e\u5c11\u597337\u4eba \u53b3\u9078\u6fc3\u539aPlay\uff01 \u30ca\u30de\u633f\u5165 \u9a0e\u4e57\u4f4dBEST 12\u6642\u9593",
+    "size": "71.36 GB",
+    "actress": [
+      "\u6708\u4e43\u30eb\u30ca",
+      "\u5409\u6839\u3086\u308a\u3042",
+      "\u672c\u771f\u3086\u308a",
+      "\u68ee\u65e5\u5411\u5b50",
+      "\u6843\u5c3b\u304b\u306e\u3093",
+      "\u795e\u7121\u6708\u308c\u306a",
+      "\u897f\u6751\u6625\u9999",
+      "\u6843\u4e95\u674f\u5357",
+      "\u7686\u6708\u3072\u304b\u308b",
+      "\u590f\u539f\u552f"
+    ],
+    "preview_img_url": "https://pics.dmm.co.jp/digital/video/exvr00745/exvr00745pl.jpg",
+    "sell_date": "2024/11/27",
+    "duration": "723\u5206",
+    "seed_download_link": "magnet:?xt=urn:btih:c04da94cbad45d10d42f4a3c3630d21e7c26bb63&dn=exvr-745&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce",
+    "director": [],
+    "maker": [
+      "\u30b1\u30a4\u30fb\u30a8\u30e0\u30fb\u30d7\u30ed\u30c7\u30e5\u30fc\u30b9"
+    ],
+    "series": [
+      "\u53b3\u9078\u30d7\u30ec\u30a4 \u30d9\u30b9\u30c8"
+    ],
+    "label": [
+      "KMPVR"
+    ],
+    "keyword": [
+      "4\u6642\u9593\u4ee5\u4e0a\u4f5c\u54c1",
+      "\u5973\u512a\u30d9\u30b9\u30c8\u30fb\u7dcf\u96c6\u7de8",
+      "\u9a0e\u4e57\u4f4d",
+      "\u7f8e\u5c11\u5973",
+      "\u75f4\u5973",
+      "\u5de8\u4e73",
+      "\u30cf\u30a4\u30af\u30aa\u30ea\u30c6\u30a3VR",
+      "VR\u5c02\u7528"
+    ]
+  },
+  {
+    "id": "pxvr00216",
+    "title": "\u3010VR\u3011\u7f8e\u59737\u4eba\u306e\u30b1\u30c4\u7a74\u304f\u3071\u3041\uff5e\u3092\u8fd1\u8ddd\u96e2\u30ac\u30f3\u898bVR 6\u30108K\u3011",
+    "size": "16.53 GB",
+    "actress": [
+      "\u84ee\u6c34\u308a\u3093",
+      "\u6c34\u539f\u307f\u305d\u306e",
+      "\u5929\u99ac\u3086\u3044",
+      "\u6d41\u5ddd\u8389\u592e",
+      "\u7f8e\u6ce2\u6c50\u91cc",
+      "\u661f\u660e\u65e5\u83dc",
+      "\u9ed2\u6728\u308c\u3044\u306a"
+    ],
+    "preview_img_url": "https://pics.dmm.co.jp/digital/video/pxvr00216/pxvr00216pl.jpg",
+    "sell_date": "2024/11/27",
+    "duration": "111\u5206",
+    "seed_download_link": "magnet:?xt=urn:btih:4d2c03d03fb4fee372f1d88181c7d4ad8f22a4b2&dn=pxvr-216&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce",
+    "director": [
+      "\u6749\u30ce\u6728"
+    ],
+    "maker": [
+      "P-BOX VR"
+    ],
+    "series": [
+      "\u30b1\u30c4\u7a74\u304f\u3071\u3041\uff5e"
+    ],
+    "label": [
+      "P-BOX VR"
+    ],
+    "keyword": [
+      "\u30cf\u30a4\u30af\u30aa\u30ea\u30c6\u30a3VR",
+      "8KVR",
+      "VR\u5c02\u7528",
+      "\u72ec\u5360\u914d\u4fe1",
+      "\u5c3b\u30d5\u30a7\u30c1",
+      "\u5c40\u90e8\u30a2\u30c3\u30d7",
+      "\u5de8\u4e73",
+      "\u7f8e\u5c11\u5973",
+      "\u30a2\u30ca\u30eb"
+    ]
+  },
+  {
+    "id": "pxvr00214",
+    "title": "\u3010VR\u3011J-cup\u30d0\u30cb\u30fc\u30ac\u30fc\u30eb\u306710\u767a\u5c04 \u91d1\u7389\u30ab\u30e9\u306b\u306a\u308b\u307e\u3067\u30ca\u30de\u4e2d\u5c04\u7cbe\u304c\u51fa\u6765\u308b\u8d85\u512a\u826f\u98a8\u4fd7\u5e97 \u8fbb\u3044\u307e\u308b\u30108K\u3011",
+    "size": "10.11 GB",
+    "actress": [
+      "\u8fbb\u3044\u307e\u308b"
+    ],
+    "preview_img_url": "https://pics.dmm.co.jp/digital/video/pxvr00214/pxvr00214pl.jpg",
+    "sell_date": "2024/11/27",
+    "duration": "78\u5206",
+    "seed_download_link": "magnet:?xt=urn:btih:9ae01fd4e5e84653f19d59ba1dc6e79d68b985f9&dn=pxvr-214&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce",
+    "director": [
+      "\u3053\u3042\u3089\u592a\u90ce\uff08\u308f\uff09"
+    ],
+    "maker": [
+      "P-BOX VR"
+    ],
+    "series": [
+      "\u98a8\u4fd710\u9023\u767a\u5c04"
+    ],
+    "label": [
+      "P-BOX VR"
+    ],
+    "keyword": [
+      "\u30cf\u30a4\u30af\u30aa\u30ea\u30c6\u30a3VR",
+      "\u5de8\u4e73",
+      "\u30d0\u30cb\u30fc\u30ac\u30fc\u30eb",
+      "\u9a0e\u4e57\u4f4d",
+      "\u4e2d\u51fa\u3057",
+      "\u72ec\u5360\u914d\u4fe1",
+      "VR\u5c02\u7528",
+      "\u5358\u4f53\u4f5c\u54c1",
+      "8KVR",
+      "\u7f8e\u5c11\u5973"
+    ]
+  },
+  {
+    "id": "pxvr00213",
+    "title": "\u3010VR\u3011\u3053\u308c\u304c\u6392\u5375\u5468\u671f\uff01\uff1f\u6708\u306b3\u65e5\u9593\u3060\u3051\u30a4\u30c1\u30e3\u30e9\u30d6\u30e2\u30fc\u30c9\u306b\u306a\u308b\u7206\u4e73I\u30ab\u30c3\u30d7\u5f7c\u5973\u3068\u306e\u751f\u4e2d\u3060\u3057\u540c\u68f2\u6027\u6d3b \u5c0f\u5742\u3072\u307e\u308a\u30108K\u3011",
+    "size": "10.68 GB",
+    "actress": [
+      "\u5c0f\u5742\u3072\u307e\u308a"
+    ],
+    "preview_img_url": "https://pics.dmm.co.jp/digital/video/pxvr00213/pxvr00213pl.jpg",
+    "sell_date": "2024/11/27",
+    "duration": "75\u5206",
+    "seed_download_link": "magnet:?xt=urn:btih:494dbeafac6c603cdf492719f48ca22b9f317d84&dn=pxvr-213&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce",
+    "director": [
+      "\u30a2\u30ab\u30ae\u5149\u4e00"
+    ],
+    "maker": [
+      "P-BOX VR"
+    ],
+    "series": [
+      "\u30c4\u30f3\u30c7\u30ec\u5f7c\u5973"
+    ],
+    "label": [
+      "P-BOX VR"
+    ],
+    "keyword": [
+      "\u30cf\u30a4\u30af\u30aa\u30ea\u30c6\u30a3VR",
+      "\u75f4\u5973",
+      "\u30d5\u30a7\u30e9",
+      "\u30d1\u30a4\u30ba\u30ea",
+      "\u4e2d\u51fa\u3057",
+      "\u72ec\u5360\u914d\u4fe1",
+      "VR\u5c02\u7528",
+      "\u5358\u4f53\u4f5c\u54c1",
+      "8KVR",
+      "\u5de8\u4e73"
+    ]
+  },
+  {
+    "id": "pxvr00212",
+    "title": "\u3010VR\u3011\u30d1\u30d1\u6d3b\u751f\u610f\u6c17J\u3007\u30ad\u30e1\u30bb\u30af\u8abf\u6559\uff01\u5a9a\u85ac\u6f2c\u3051\u4e2d\u51fa\u3057SEX\u3067\u5b8c\u5168\u30e1\u30b9\u5974\u25cf\u5815\u3061\uff01\uff01 \u677e\u4e95\u65e5\u5948\u5b50\u30108K\u3011",
+    "size": "8.99 GB",
+    "actress": [
+      "\u677e\u4e95\u65e5\u5948\u5b50"
+    ],
+    "preview_img_url": "https://pics.dmm.co.jp/digital/video/pxvr00212/pxvr00212pl.jpg",
+    "sell_date": "2024/11/27",
+    "duration": "71\u5206",
+    "seed_download_link": "magnet:?xt=urn:btih:9a0f8d37c8a5cba36d26557f8cdd4d6251e40bad&dn=pxvr-212&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce",
+    "director": [
+      "\u30a2\u30ab\u30ae\u5149\u4e00"
+    ],
+    "maker": [
+      "P-BOX VR"
+    ],
+    "series": [
+      "\u30d1\u30d1\u6d3b\u751f\u610f\u6c17J\u3007\u30ad\u30e1\u30bb\u30af\u8abf\u6559\uff01"
+    ],
+    "label": [
+      "P-BOX VR"
+    ],
+    "keyword": [
+      "\u30cf\u30a4\u30af\u30aa\u30ea\u30c6\u30a3VR",
+      "\u5236\u670d",
+      "\u30d5\u30a7\u30e9",
+      "\u9a0e\u4e57\u4f4d",
+      "\u4e2d\u51fa\u3057",
+      "\u72ec\u5360\u914d\u4fe1",
+      "VR\u5c02\u7528",
+      "\u5358\u4f53\u4f5c\u54c1",
+      "8KVR",
+      "\u7f8e\u5c11\u5973"
+    ]
+  },
+  {
+    "id": "pxvr00211",
+    "title": "\u3010VR\u3011\u304a\u5144\u306f\u30cf\u30eb\u306e\u6027\u5974\u25cf\u3002\u9a0e\u4e57\u4f4d\u30de\u30f3\u30b3\u3067\u30c1\u30f3\u30dd\u3082\u7cbe\u5b50\u3082\u5438\u3044\u7d5e\u308b\u5c0f\u60aa\u9b54\u59b9\u306e\u7126\u3089\u3057\u8a98\u60d1 \u83ca\u6c60\u306f\u308b\u30108K\u3011",
+    "size": "7.39 GB",
+    "actress": [
+      "\u83ca\u6c60\u306f\u308b"
+    ],
+    "preview_img_url": "https://pics.dmm.co.jp/digital/video/pxvr00211/pxvr00211pl.jpg",
+    "sell_date": "2024/11/27",
+    "duration": "76\u5206",
+    "seed_download_link": "magnet:?xt=urn:btih:5db4aea1af35c6c5f33636a7c455b6e889823bda&dn=pxvr-211&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce",
+    "director": [
+      "\u30ea\u30d0\u30d5\u30a3\u30fc\u5c06"
+    ],
+    "maker": [
+      "P-BOX VR"
+    ],
+    "series": [
+      "\u5c0f\u60aa\u9b54\u59b9\u306e\u7126\u3089\u3057\u8a98\u60d1"
+    ],
+    "label": [
+      "P-BOX VR"
+    ],
+    "keyword": [
+      "\u30cf\u30a4\u30af\u30aa\u30ea\u30c6\u30a3VR",
+      "\u9a0e\u4e57\u4f4d",
+      "\u7f8e\u5c11\u5973",
+      "\u30d5\u30a7\u30e9",
+      "\u4e2d\u51fa\u3057",
+      "\u72ec\u5360\u914d\u4fe1",
+      "VR\u5c02\u7528",
+      "\u5358\u4f53\u4f5c\u54c1",
+      "8KVR",
+      "\u75f4\u5973"
+    ]
+  },
+  {
+    "id": "pxvr00210",
+    "title": "\u3010VR\u3011\u5a9a\u85ac\u98a8\u4fd7\u4f53\u9a13\u5165\u5e97\u4e2d \u5de8\u4e73M\u5b22 \u4e59\u7fbd\u3061\u3083\u3093\uff08G-cup\uff09\u30108K\u3011",
+    "size": "6.29 GB",
+    "actress": [],
+    "preview_img_url": "https://pics.dmm.co.jp/digital/video/pxvr00210/pxvr00210pl.jpg",
+    "sell_date": "2024/11/27",
+    "duration": "61\u5206",
+    "seed_download_link": "magnet:?xt=urn:btih:9a50c89e4ee2ec93c9322fd92cd36685fab67d57&dn=pxvr-210&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce",
+    "director": [
+      "\u767d\u9ce5\u30cb\u30c9\u30df"
+    ],
+    "maker": [
+      "P-BOX VR"
+    ],
+    "series": [
+      "\u5a9a\u85ac\u98a8\u4fd7\u4f53\u9a13\u5165\u5e97"
+    ],
+    "label": [
+      "P-BOX VR"
+    ],
+    "keyword": [
+      "\u30cf\u30a4\u30af\u30aa\u30ea\u30c6\u30a3VR",
+      "8KVR",
+      "VR\u5c02\u7528",
+      "\u72ec\u5360\u914d\u4fe1",
+      "\u4e2d\u51fa\u3057",
+      "\u5de8\u4e73",
+      "\u30ad\u30e3\u30d0\u5b22\u30fb\u98a8\u4fd7\u5b22",
+      "M\u5973"
+    ]
+  },
+  {
+    "id": "pxvr00209",
+    "title": "\u3010VR\u3011\u8ab0\u3082\u304c\u7fa8\u3080\u7f8e\u4eba\u3067\u30b9\u30bf\u30a4\u30eb\u629c\u7fa4\uff01\u304a\u307e\u3051\u306bGcup\u306e\u81ea\u6162\u306e\u59bb\u306a\u3093\u3060\u304c\u50d5\u306e\u30c1\u25cf\u30dd\u304c\u597d\u304d\u3059\u304e\u3066\u5e38\u306b\u30b6\u30fc\u30e1\u30f3\u643e\u308a\u53d6\u3089\u308c\u308b\uff08\u60aa\uff09\uff1f\u5922\u306e\u3088\u3046\u306a\u7d50\u5a5a\u6027\u6d3b \u897f\u91ce\u7d75\u7f8e \u30108K\u3011",
+    "size": "10.38 GB",
+    "actress": [
+      "\u897f\u91ce\u7d75\u7f8e"
+    ],
+    "preview_img_url": "https://pics.dmm.co.jp/digital/video/pxvr00209/pxvr00209pl.jpg",
+    "sell_date": "2024/11/27",
+    "duration": "77\u5206",
+    "seed_download_link": "magnet:?xt=urn:btih:9a89b80b60ed78f49faad7b43f1a45c912c8df68&dn=pxvr-209&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce",
+    "director": [
+      "\u30a2\u30ab\u30ae\u5149\u4e00"
+    ],
+    "maker": [
+      "P-BOX VR"
+    ],
+    "series": [
+      "\u5922\u306e\u3088\u3046\u306a\u7d50\u5a5a\u6027\u6d3b"
+    ],
+    "label": [
+      "P-BOX VR"
+    ],
+    "keyword": [
+      "\u30cf\u30a4\u30af\u30aa\u30ea\u30c6\u30a3VR",
+      "\u75f4\u5973",
+      "\u4e2d\u51fa\u3057",
+      "\u30d5\u30a7\u30e9",
+      "\u9a0e\u4e57\u4f4d",
+      "\u72ec\u5360\u914d\u4fe1",
+      "VR\u5c02\u7528",
+      "\u5358\u4f53\u4f5c\u54c1",
+      "8KVR",
+      "\u5de8\u4e73"
+    ]
+  },
+  {
+    "id": "pxvr00208",
+    "title": "\u3010VR\u3011\u672c\u756a\u7981\u6b62\u30e1\u30f3\u30ba\u30a8\u30b9\u30c6\u3067\u52c3\u8d77\u30c1\u25cf\u30dd\u3092\u64e6\u308a\u3064\u3051\u30ca\u30de\u633f\u5165\u306b\u6210\u529f \u795e\u4e73\u30a8\u30b9\u30c6\u30c6\u30a3\u30b7\u30e3\u30f3\u3068\u7121\u5236\u9650\u4e2d\u51fa\u3057\u767a\u5c04\uff01\u677e\u672c\u68a8\u7a42\u30108K\u3011",
+    "size": "14.96 GB",
+    "actress": [
+      "\u677e\u672c\u68a8\u7a42"
+    ],
+    "preview_img_url": "https://pics.dmm.co.jp/digital/video/pxvr00208/pxvr00208pl.jpg",
+    "sell_date": "2024/11/27",
+    "duration": "82\u5206",
+    "seed_download_link": "magnet:?xt=urn:btih:94058b9b93e7e3b53649f3bfc28e8d160ad21f81&dn=pxvr00208&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce",
+    "director": [
+      "\u30a2\u30ab\u30ae\u5149\u4e00"
+    ],
+    "maker": [
+      "P-BOX VR"
+    ],
+    "series": [
+      "\u5de8\u4e73\u30a8\u30b9\u30c6\u30c6\u30a3\u30b7\u30e3\u30f3"
+    ],
+    "label": [
+      "P-BOX VR"
+    ],
+    "keyword": [
+      "\u30cf\u30a4\u30af\u30aa\u30ea\u30c6\u30a3VR",
+      "\u9a0e\u4e57\u4f4d",
+      "\u4e2d\u51fa\u3057",
+      "\u30d5\u30a7\u30e9",
+      "\u75f4\u5973",
+      "\u72ec\u5360\u914d\u4fe1",
+      "VR\u5c02\u7528",
+      "\u5358\u4f53\u4f5c\u54c1",
+      "8KVR",
+      "\u5de8\u4e73"
+    ]
+  },
+  {
+    "id": "pxvr00207",
+    "title": "\u3010VR\u3011\u30ab\u30ea\u30b9\u30de\u30e1\u30a4\u30c9\u3068\u306e \u304a\u306f\u3088\u3046\u5373\u30d5\u30a7\u30e9\u304b\u3089\u59cb\u307e\u308b\u751f\u30cf\u30e1\u4e2d\u51fa\u3057\u4e09\u6627\u306e\u751f\u6d3b \u90fd\u6708\u308b\u3044\u3055\u30108K\u3011",
+    "size": "7.37 GB",
+    "actress": [
+      "\u90fd\u6708\u308b\u3044\u3055"
+    ],
+    "preview_img_url": "https://pics.dmm.co.jp/digital/video/pxvr00207/pxvr00207pl.jpg",
+    "sell_date": "2024/11/27",
+    "duration": "76\u5206",
+    "seed_download_link": "magnet:?xt=urn:btih:a4f70755e427b3624a64c5540a3e38b8671ad0dc&dn=pxvr-207&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce",
+    "director": [
+      "\u30a2\u30ab\u30ae\u5149\u4e00"
+    ],
+    "maker": [
+      "P-BOX VR"
+    ],
+    "series": [],
+    "label": [
+      "P-BOX VR"
+    ],
+    "keyword": [
+      "\u5de8\u4e73",
+      "8KVR",
+      "\u5358\u4f53\u4f5c\u54c1",
+      "VR\u5c02\u7528",
+      "\u72ec\u5360\u914d\u4fe1",
+      "\u75f4\u5973",
+      "\u30d5\u30a7\u30e9",
+      "\u4e2d\u51fa\u3057",
+      "\u9a0e\u4e57\u4f4d",
+      "\u30cf\u30a4\u30af\u30aa\u30ea\u30c6\u30a3VR"
+    ]
+  },
+  {
+    "id": "pxvr00206",
+    "title": "\u3010VR\u3011\u4f53\u5165\u306e\u304a\u3068\u306a\u3057\u3044\u30ad\u30e3\u30d0\u5b22\u306b\u50ac\u6deb\u8853\u304b\u3051\u305f\u3089\u30e4\u30ec\u305f\uff01 \u5e0c\u54b2\u30a2\u30ea\u30b9\u30108K\u3011",
+    "size": "6.32 GB",
+    "actress": [
+      "\u5e0c\u54b2\u30a2\u30ea\u30b9"
+    ],
+    "preview_img_url": "https://pics.dmm.co.jp/digital/video/pxvr00206/pxvr00206pl.jpg",
+    "sell_date": "2024/11/27",
+    "duration": "67\u5206",
+    "seed_download_link": "magnet:?xt=urn:btih:5c3440249b9084f50a77a809cb32ac4ffd18ea7c&dn=pxvr-206&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce",
+    "director": [
+      "\u767d\u9ce5\u30cb\u30c9\u30df"
+    ],
+    "maker": [
+      "P-BOX VR"
+    ],
+    "series": [
+      "\u50ac\u25cf\u30a2\u30d7\u30ea"
+    ],
+    "label": [
+      "P-BOX VR"
+    ],
+    "keyword": [
+      "\u30cf\u30a4\u30af\u30aa\u30ea\u30c6\u30a3VR",
+      "\u75f4\u5973",
+      "\u5de8\u4e73",
+      "\u5de8\u5c3b",
+      "\u9a0e\u4e57\u4f4d",
+      "\u4e2d\u51fa\u3057",
+      "\u72ec\u5360\u914d\u4fe1",
+      "VR\u5c02\u7528",
+      "\u5358\u4f53\u4f5c\u54c1",
+      "8KVR",
+      "\u30ad\u30e3\u30d0\u5b22\u30fb\u98a8\u4fd7\u5b22"
+    ]
+  },
+  {
+    "id": "exmo00033",
+    "title": "\u3010VR\u3011\u58f0\u304c\u51fa\u305b\u306a\u3044\u72b6\u614b\u3067\u30c1\u3007\u30b3\u3092\u643e\u308b\u3001\u3075\u3057\u3060\u3089\u5973\u6559\u5e2b \u6708\u91ce\u304b\u3059\u307f\u30108K\u3011",
+    "size": "11.66 GB",
+    "actress": [
+      "\u6708\u91ce\u304b\u3059\u307f"
+    ],
+    "preview_img_url": "https://pics.dmm.co.jp/digital/video/exmo00033/exmo00033pl.jpg",
+    "sell_date": "2024/11/27",
+    "duration": "79\u5206",
+    "seed_download_link": "magnet:?xt=urn:btih:0de2283bda0221c735f86d40d3a9293d5bd1ea41&dn=exmo00033&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce",
+    "director": [
+      "\u767d\u9ce5\u30cb\u30c9\u30df"
+    ],
+    "maker": [
+      "MONDELDE VR"
+    ],
+    "series": [
+      "\u58f0\u304c\u51fa\u305b\u306a\u3044\u72b6\u614b\u3067\u30c1\u3007\u30b3\u3092\u643e\u308b"
+    ],
+    "label": [
+      "MONDELDE VR"
+    ],
+    "keyword": [
+      "\u30cf\u30a4\u30af\u30aa\u30ea\u30c6\u30a3VR",
+      "8KVR",
+      "\u5973\u6559\u5e2b",
+      "\u5de8\u4e73",
+      "\u75f4\u5973",
+      "\u8db3\u30b3\u30ad",
+      "\u5358\u4f53\u4f5c\u54c1",
+      "VR\u5c02\u7528"
+    ]
+  }
+];
