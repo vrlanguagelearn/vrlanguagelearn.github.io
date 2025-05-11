@@ -2,38 +2,117 @@
 <html>
 <head>
   <meta charset="UTF-8">
-  <title>Play Media from Clipboard</title>
+  <title>HereSphere 多媒体链接管理器</title>
 </head>
 <body>
-  <h2>HereSphere Link Launcher</h2>
-  <button id="generateBtn">Generate</button>
-  <div id="linkContainer"></div>
+  <h2>🎥 HereSphere 链接管理器（含标题 + 时间）</h2>
+
+  <button id="generateBtn">📋 Generate（从剪贴板添加）</button>
+  <button id="clearBtn" style="margin-left: 10px; color: red;">🧹 Clear Links</button>
+
+  <div id="linkContainer" style="margin-top: 20px;"></div>
 
   <script>
-    document.getElementById('generateBtn').addEventListener('click', async () => {
+    const BIN_ID = "682066a58561e97a5011a279";
+    const API_KEY = "$2a$10$kQ0.EJkdARuAB/uQC4P1yuK9lwwYSaxMeEQCkZBbdpq0VMIWJi2G."; // ← 替换为你的 JSONBin 密钥
+    const API_BASE = `https://api.jsonbin.io/v3/b/${BIN_ID}`;
+
+    async function fetchLinks() {
+      const res = await fetch(`${API_BASE}/latest`, {
+        headers: { "X-Master-Key": API_KEY }
+      });
+      const data = await res.json();
+      return data.record.urls || [];
+    }
+
+    function renderLinks(entries) {
+      const container = document.getElementById("linkContainer");
+      container.innerHTML = '';
+
+      entries.forEach((entry, index) => {
+        const div = document.createElement("div");
+        div.style.marginBottom = "10px";
+
+        const a = document.createElement("a");
+        a.href = entry.url;
+        a.textContent = `▶ ${entry.title || 'Play ' + (index + 1)}`;
+        a.download = "";
+        a.target = "_blank";
+        a.style.marginRight = "15px";
+
+        const timestamp = new Date(entry.createdAt).toLocaleString();
+        const timeSpan = document.createElement("span");
+        timeSpan.textContent = `🕒 ${timestamp} `;
+
+        const del = document.createElement("a");
+        del.href = "#";
+        del.textContent = "❌ Delete";
+        del.style.color = "red";
+        del.onclick = async () => {
+          const all = await fetchLinks();
+          all.splice(index, 1);
+          await saveLinks(all);
+          renderLinks(all);
+        };
+
+        div.appendChild(a);
+        div.appendChild(timeSpan);
+        div.appendChild(del);
+        container.appendChild(div);
+      });
+    }
+
+    async function saveLinks(entries) {
+      await fetch(`${API_BASE}`, {
+        method: "PUT",
+        headers: {
+          "Content-Type": "application/json",
+          "X-Master-Key": API_KEY
+        },
+        body: JSON.stringify({ urls: entries })
+      });
+    }
+
+    document.getElementById("generateBtn").addEventListener("click", async () => {
       try {
-        const clipboardText = await navigator.clipboard.readText();
-        if (!clipboardText.startsWith('http')) {
-          alert('剪贴板内容不是有效的链接');
+        const newUrl = await navigator.clipboard.readText();
+        if (!newUrl.startsWith("http")) {
+          alert("剪贴板内容不是有效链接");
           return;
         }
 
-        const link = document.createElement('a');
-        link.href = clipboardText;
-        link.textContent = '▶ Play';
-        link.target = '_blank'; // 打开新标签页或触发下载
-        link.style.fontSize = '20px';
-        link.style.display = 'block';
-        link.style.marginTop = '15px';
+        const all = await fetchLinks();
+        if (all.some(entry => entry.url === newUrl)) {
+          alert("链接已存在");
+          return;
+        }
 
-        const container = document.getElementById('linkContainer');
-        container.innerHTML = ''; // 清除旧内容
-        container.appendChild(link);
+        const title = prompt("请输入标题", "New Video") || "Untitled";
+        const newEntry = {
+          url: newUrl,
+          title,
+          createdAt: Date.now()
+        };
+
+        const updated = [...all, newEntry];
+        await saveLinks(updated);
+        renderLinks(updated);
       } catch (err) {
-        alert('无法读取剪贴板内容：' + err);
+        alert("发生错误：" + err.message);
       }
     });
+
+    document.getElementById("clearBtn").addEventListener("click", async () => {
+      if (!confirm("确定要清除所有链接吗？")) return;
+      await saveLinks([]);
+      renderLinks([]);
+    });
+
+    // 初始加载
+    (async () => {
+      const links = await fetchLinks();
+      renderLinks(links);
+    })();
   </script>
 </body>
 </html>
-
