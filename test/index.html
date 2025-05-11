@@ -5,7 +5,7 @@
   <title>HereSphere 多媒体链接管理器</title>
 </head>
 <body>
-  <h2>🎥 HereSphere 链接管理器（含标题 + 时间）</h2>
+  <h2>🎥 HereSphere 链接管理器（含标题 + 下载按钮）</h2>
 
   <button id="generateBtn">📋 Generate（从剪贴板添加）</button>
   <button id="clearBtn" style="margin-left: 10px; color: red;">🧹 Clear Links</button>
@@ -23,6 +23,43 @@
       });
       const data = await res.json();
       return data.record.urls || [];
+    }
+
+    async function saveLinks(entries) {
+      await fetch(`${API_BASE}`, {
+        method: "PUT",
+        headers: {
+          "Content-Type": "application/json",
+          "X-Master-Key": API_KEY
+        },
+        body: JSON.stringify({ urls: entries })
+      });
+    }
+
+    async function forceDownload(url, filename = "video.mp4") {
+      try {
+        // 方法 1：新窗口打开（某些浏览器支持 download）
+        window.open(url, "_blank");
+
+        // 方法 2：Blob 强制触发下载
+        const res = await fetch(url, { mode: "cors" });
+        const blob = await res.blob();
+        const blobUrl = URL.createObjectURL(blob);
+
+        const a = document.createElement("a");
+        a.href = blobUrl;
+        a.download = filename;
+        a.style.display = "none";
+        document.body.appendChild(a);
+        a.click();
+
+        setTimeout(() => {
+          URL.revokeObjectURL(blobUrl);
+          a.remove();
+        }, 1500);
+      } catch (err) {
+        alert("下载失败：" + err.message);
+      }
     }
 
     function renderLinks(entries) {
@@ -44,10 +81,16 @@
         const timeSpan = document.createElement("span");
         timeSpan.textContent = `🕒 ${timestamp} `;
 
+        const downloadBtn = document.createElement("button");
+        downloadBtn.textContent = "⬇ Download";
+        downloadBtn.style.marginLeft = "10px";
+        downloadBtn.onclick = () => forceDownload(entry.url, entry.title + ".mp4");
+
         const del = document.createElement("a");
         del.href = "#";
         del.textContent = "❌ Delete";
         del.style.color = "red";
+        del.style.marginLeft = "10px";
         del.onclick = async () => {
           const all = await fetchLinks();
           all.splice(index, 1);
@@ -57,19 +100,9 @@
 
         div.appendChild(a);
         div.appendChild(timeSpan);
+        div.appendChild(downloadBtn);
         div.appendChild(del);
         container.appendChild(div);
-      });
-    }
-
-    async function saveLinks(entries) {
-      await fetch(`${API_BASE}`, {
-        method: "PUT",
-        headers: {
-          "Content-Type": "application/json",
-          "X-Master-Key": API_KEY
-        },
-        body: JSON.stringify({ urls: entries })
       });
     }
 
