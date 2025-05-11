@@ -5,7 +5,7 @@
   <title>HereSphere 播放链接管理</title>
 </head>
 <body>
-  <h2>🎥 HereSphere 播放链接管理</h2>
+  <h2>🎥 HereSphere 播放链接管理 002</h2>
 
   <button id="generateBtn">📋 从剪贴板添加</button>
   <button id="clearBtn" style="margin-left: 10px; color: red;">🧹 清空链接</button>
@@ -37,7 +37,14 @@
     }
 
     function streamToHereSphere(url) {
-      window.location.href = url;
+      const a = document.createElement("a");
+      a.href = url;
+      a.target = "_self"; // 模拟正常跳转
+      a.rel = "noopener noreferrer";
+      a.style.display = "none";
+      document.body.appendChild(a);
+      a.click();
+      setTimeout(() => a.remove(), 500);
     }
 
     function renderLinks(entries) {
