@@ -2,13 +2,13 @@
 <html>
 <head>
   <meta charset="UTF-8">
-  <title>HereSphere 播放链接管理</title>
+  <title>HereSphere 高速播放链接管理</title>
 </head>
 <body>
-  <h2>🎥 HereSphere 播放链接管理 2</h2>
+  <h2>🎥 高速播放链接管理 (via 192.168.0.119:5555)</h2>
 
   <button id="generateBtn">📋 从剪贴板添加</button>
-  <button id="clearBtn" style="margin-left: 10px; color: red;">🧹 清空链接</button>
+  <button id="clearBtn" style="margin-left: 10px; color: red;">🧹 清空所有</button>
 
   <div id="linkContainer" style="margin-top: 20px;"></div>
 
@@ -16,6 +16,7 @@
     const BIN_ID = "682066a58561e97a5011a279";
     const API_KEY = "$2a$10$kQ0.EJkdARuAB/uQC4P1yuK9lwwYSaxMeEQCkZBbdpq0VMIWJi2G.";
     const API_BASE = `https://api.jsonbin.io/v3/b/${BIN_ID}`;
+    const LOCAL_PROXY = "http://192.168.0.119:5555/stream";
 
     async function fetchLinks() {
       const res = await fetch(`${API_BASE}/latest`, {
@@ -36,35 +37,26 @@
       });
     }
 
-    function streamToHereSphere(url) {
-      const a = document.createElement("a");
-      a.href = url;
-      a.target = "_self";
-      a.rel = "noopener noreferrer";
-      a.style.display = "none";
-      document.body.appendChild(a);
-      a.click();
-      setTimeout(() => a.remove(), 500);
+    function generateProxyUrl(originalUrl, title) {
+      const encoded = encodeURIComponent(originalUrl);
+      const safeTitle = encodeURIComponent((title || 'video') + '.mp4');
+      return `${LOCAL_PROXY}?url=${encoded}&name=${safeTitle}`;
     }
 
     function downloadStrmFile(url, title) {
-      const blob = new Blob([url], { type: "application/octet-stream" }); // ← 更强 MIME
+      const blob = new Blob([url], { type: "application/octet-stream" });
       const blobUrl = URL.createObjectURL(blob);
       const a = document.createElement("a");
-      const filename = `${(title || 'video').replace(/\s+/g, '_')}.strm`; // 防止空格和不合法字符
-
       a.href = blobUrl;
-      a.download = filename;
+      a.download = `${(title || 'video').replace(/\s+/g, '_')}.strm`;
       a.style.display = "none";
       document.body.appendChild(a);
       a.click();
-
       setTimeout(() => {
         URL.revokeObjectURL(blobUrl);
         a.remove();
       }, 1000);
     }
-
 
     function renderLinks(entries) {
       const container = document.getElementById("linkContainer");
@@ -85,18 +77,22 @@
 
         const preview = document.createElement("a");
         preview.href = entry.url;
-        preview.textContent = "▶ 播放";
+        preview.textContent = "🔗 原始链接";
         preview.target = "_blank";
         preview.style.marginRight = "10px";
 
-        const streamBtn = document.createElement("button");
-        streamBtn.textContent = "▶ Stream to Device";
-        streamBtn.onclick = () => streamToHereSphere(entry.url);
-        streamBtn.style.marginRight = "10px";
+        const play = document.createElement("a");
+        play.href = generateProxyUrl(entry.url, entry.title);
+        play.textContent = "▶ Stream via Proxy";
+        play.target = "_blank";
+        play.style.marginRight = "10px";
 
         const strmBtn = document.createElement("button");
         strmBtn.textContent = "📥 Download .strm";
-        strmBtn.onclick = () => downloadStrmFile(entry.url, entry.title);
+        strmBtn.onclick = () => {
+          const proxyLink = generateProxyUrl(entry.url, entry.title);
+          downloadStrmFile(proxyLink, entry.title);
+        };
         strmBtn.style.marginRight = "10px";
 
         const del = document.createElement("a");
@@ -113,7 +109,7 @@
         div.appendChild(title);
         div.appendChild(time);
         div.appendChild(preview);
-        div.appendChild(streamBtn);
+        div.appendChild(play);
         div.appendChild(strmBtn);
         div.appendChild(del);
 
