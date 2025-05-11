@@ -5,7 +5,7 @@
   <title>HereSphere 播放链接管理</title>
 </head>
 <body>
-  <h2>🎥 HereSphere 播放链接管理 002</h2>
+  <h2>🎥 HereSphere 播放链接管理</h2>
 
   <button id="generateBtn">📋 从剪贴板添加</button>
   <button id="clearBtn" style="margin-left: 10px; color: red;">🧹 清空链接</button>
@@ -39,12 +39,27 @@
     function streamToHereSphere(url) {
       const a = document.createElement("a");
       a.href = url;
-      a.target = "_self"; // 模拟正常跳转
+      a.target = "_self";
       a.rel = "noopener noreferrer";
       a.style.display = "none";
       document.body.appendChild(a);
       a.click();
       setTimeout(() => a.remove(), 500);
+    }
+
+    function downloadStrmFile(url, title) {
+      const blob = new Blob([url], { type: "text/plain" });
+      const blobUrl = URL.createObjectURL(blob);
+      const a = document.createElement("a");
+      a.href = blobUrl;
+      a.download = `${title || 'video'}.strm`;
+      a.style.display = "none";
+      document.body.appendChild(a);
+      a.click();
+      setTimeout(() => {
+        URL.revokeObjectURL(blobUrl);
+        a.remove();
+      }, 1000);
     }
 
     function renderLinks(entries) {
@@ -70,10 +85,15 @@
         preview.target = "_blank";
         preview.style.marginRight = "10px";
 
-        const playBtn = document.createElement("button");
-        playBtn.textContent = "▶ Stream to Device";
-        playBtn.onclick = () => streamToHereSphere(entry.url);
-        playBtn.style.marginRight = "10px";
+        const streamBtn = document.createElement("button");
+        streamBtn.textContent = "▶ Stream to Device";
+        streamBtn.onclick = () => streamToHereSphere(entry.url);
+        streamBtn.style.marginRight = "10px";
+
+        const strmBtn = document.createElement("button");
+        strmBtn.textContent = "📥 Download .strm";
+        strmBtn.onclick = () => downloadStrmFile(entry.url, entry.title);
+        strmBtn.style.marginRight = "10px";
 
         const del = document.createElement("a");
         del.href = "#";
@@ -89,7 +109,8 @@
         div.appendChild(title);
         div.appendChild(time);
         div.appendChild(preview);
-        div.appendChild(playBtn);
+        div.appendChild(streamBtn);
+        div.appendChild(strmBtn);
         div.appendChild(del);
 
         container.appendChild(div);
