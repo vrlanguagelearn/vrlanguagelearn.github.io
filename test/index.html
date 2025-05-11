@@ -48,19 +48,23 @@
     }
 
     function downloadStrmFile(url, title) {
-      const blob = new Blob([url], { type: "text/plain" });
+      const blob = new Blob([url], { type: "application/octet-stream" }); // ← 更强 MIME
       const blobUrl = URL.createObjectURL(blob);
       const a = document.createElement("a");
+      const filename = `${(title || 'video').replace(/\s+/g, '_')}.strm`; // 防止空格和不合法字符
+
       a.href = blobUrl;
-      a.download = `${title || 'video'}.strm`;
+      a.download = filename;
       a.style.display = "none";
       document.body.appendChild(a);
       a.click();
+
       setTimeout(() => {
         URL.revokeObjectURL(blobUrl);
         a.remove();
       }, 1000);
     }
+
 
     function renderLinks(entries) {
       const container = document.getElementById("linkContainer");
