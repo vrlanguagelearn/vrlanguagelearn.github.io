@@ -21,14 +21,14 @@
     const BIN_ID = "682066a58561e97a5011a279";
     const API_KEY = "$2a$10$kQ0.EJkdARuAB/uQC4P1yuK9lwwYSaxMeEQCkZBbdpq0VMIWJi2G.";
     const API_BASE = `https://api.jsonbin.io/v3/b/${BIN_ID}`;
-    let LOCAL_PROXY = localStorage.getItem("proxyUrl") || "http://192.168.0.119:5555";
+    let LOCAL_PROXY = localStorage.getItem("proxyUrl") || "http://192.168.0.115:5555";
 
     document.getElementById("proxyInput").value = LOCAL_PROXY;
 
     function saveProxy() {
       LOCAL_PROXY = document.getElementById("proxyInput").value.trim();
       localStorage.setItem("proxyUrl", LOCAL_PROXY);
-      renderLinks(currentLinks); // 立即刷新链接
+      renderLinks(currentLinks);
     }
 
     let currentLinks = [];
@@ -58,21 +58,6 @@
       return `${LOCAL_PROXY}/stream?url=${encoded}&name=${safeTitle}`;
     }
 
-    function downloadStrmFile(url, title) {
-      const blob = new Blob([url], { type: "application/octet-stream" });
-      const blobUrl = URL.createObjectURL(blob);
-      const a = document.createElement("a");
-      a.href = blobUrl;
-      a.download = `${(title || 'video').replace(/\s+/g, '_')}.strm`;
-      a.style.display = "none";
-      document.body.appendChild(a);
-      a.click();
-      setTimeout(() => {
-        URL.revokeObjectURL(blobUrl);
-        a.remove();
-      }, 1000);
-    }
-
     function renderLinks(entries) {
       currentLinks = entries;
       const container = document.getElementById("linkContainer");
@@ -82,34 +67,26 @@
         const div = document.createElement("div");
         div.style.marginBottom = "10px";
 
-        const title = document.createElement("strong");
-        title.textContent = `🎞 ${entry.title || 'Untitled'}`;
+        const title = document.createElement("input");
+        title.value = entry.title || "Untitled";
+        title.size = 30;
         title.style.marginRight = "10px";
+        title.addEventListener("change", async () => {
+          currentLinks[index].title = title.value;
+          await saveLinks(currentLinks);
+          renderLinks(currentLinks);
+        });
 
         const timestamp = new Date(entry.createdAt).toLocaleString();
         const time = document.createElement("span");
         time.textContent = `🕒 ${timestamp}`;
         time.style.marginRight = "15px";
 
-        const preview = document.createElement("a");
-        preview.href = entry.url;
-        preview.textContent = "🔗 原始链接";
-        preview.target = "_blank";
-        preview.style.marginRight = "10px";
-
         const play = document.createElement("a");
         play.href = generateProxyUrl(entry.url, entry.title);
         play.textContent = "▶ Stream via Proxy";
         play.target = "_blank";
         play.style.marginRight = "10px";
-
-        const strmBtn = document.createElement("button");
-        strmBtn.textContent = "📥 Download .strm";
-        strmBtn.onclick = () => {
-          const proxyLink = generateProxyUrl(entry.url, entry.title);
-          downloadStrmFile(proxyLink, entry.title);
-        };
-        strmBtn.style.marginRight = "10px";
 
         const del = document.createElement("a");
         del.href = "#";
@@ -124,9 +101,7 @@
 
         div.appendChild(title);
         div.appendChild(time);
-        div.appendChild(preview);
         div.appendChild(play);
-        div.appendChild(strmBtn);
         div.appendChild(del);
 
         container.appendChild(div);
