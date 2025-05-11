@@ -2,19 +2,19 @@
 <html>
 <head>
   <meta charset="UTF-8">
-  <title>HereSphere 多媒体链接管理器</title>
+  <title>HereSphere 播放链接管理</title>
 </head>
 <body>
-  <h2>🎥 HereSphere 链接管理器（含标题 + 下载按钮）</h2>
+  <h2>🎥 HereSphere 播放链接管理</h2>
 
-  <button id="generateBtn">📋 Generate（从剪贴板添加）</button>
-  <button id="clearBtn" style="margin-left: 10px; color: red;">🧹 Clear Links</button>
+  <button id="generateBtn">📋 从剪贴板添加</button>
+  <button id="clearBtn" style="margin-left: 10px; color: red;">🧹 清空链接</button>
 
   <div id="linkContainer" style="margin-top: 20px;"></div>
 
   <script>
     const BIN_ID = "682066a58561e97a5011a279";
-    const API_KEY = "$2a$10$kQ0.EJkdARuAB/uQC4P1yuK9lwwYSaxMeEQCkZBbdpq0VMIWJi2G."; // ← 替换为你的 JSONBin 密钥
+    const API_KEY = "$2a$10$kQ0.EJkdARuAB/uQC4P1yuK9lwwYSaxMeEQCkZBbdpq0VMIWJi2G.";
     const API_BASE = `https://api.jsonbin.io/v3/b/${BIN_ID}`;
 
     async function fetchLinks() {
@@ -36,30 +36,8 @@
       });
     }
 
-    async function forceDownload(url, filename = "video.mp4") {
-      try {
-        // 方法 1：新窗口打开（某些浏览器支持 download）
-        window.open(url, "_blank");
-
-        // 方法 2：Blob 强制触发下载
-        const res = await fetch(url, { mode: "cors" });
-        const blob = await res.blob();
-        const blobUrl = URL.createObjectURL(blob);
-
-        const a = document.createElement("a");
-        a.href = blobUrl;
-        a.download = filename;
-        a.style.display = "none";
-        document.body.appendChild(a);
-        a.click();
-
-        setTimeout(() => {
-          URL.revokeObjectURL(blobUrl);
-          a.remove();
-        }, 1500);
-      } catch (err) {
-        alert("下载失败：" + err.message);
-      }
+    function streamToHereSphere(url) {
+      window.location.href = url;
     }
 
     function renderLinks(entries) {
@@ -70,27 +48,30 @@
         const div = document.createElement("div");
         div.style.marginBottom = "10px";
 
-        const a = document.createElement("a");
-        a.href = entry.url;
-        a.textContent = `▶ ${entry.title || 'Play ' + (index + 1)}`;
-        a.download = "";
-        a.target = "_blank";
-        a.style.marginRight = "15px";
+        const title = document.createElement("strong");
+        title.textContent = `🎞 ${entry.title || 'Untitled'}`;
+        title.style.marginRight = "10px";
 
         const timestamp = new Date(entry.createdAt).toLocaleString();
-        const timeSpan = document.createElement("span");
-        timeSpan.textContent = `🕒 ${timestamp} `;
+        const time = document.createElement("span");
+        time.textContent = `🕒 ${timestamp}`;
+        time.style.marginRight = "15px";
 
-        const downloadBtn = document.createElement("button");
-        downloadBtn.textContent = "⬇ Download";
-        downloadBtn.style.marginLeft = "10px";
-        downloadBtn.onclick = () => forceDownload(entry.url, entry.title + ".mp4");
+        const preview = document.createElement("a");
+        preview.href = entry.url;
+        preview.textContent = "▶ 播放";
+        preview.target = "_blank";
+        preview.style.marginRight = "10px";
+
+        const playBtn = document.createElement("button");
+        playBtn.textContent = "▶ Stream to Device";
+        playBtn.onclick = () => streamToHereSphere(entry.url);
+        playBtn.style.marginRight = "10px";
 
         const del = document.createElement("a");
         del.href = "#";
-        del.textContent = "❌ Delete";
+        del.textContent = "❌ 删除";
         del.style.color = "red";
-        del.style.marginLeft = "10px";
         del.onclick = async () => {
           const all = await fetchLinks();
           all.splice(index, 1);
@@ -98,10 +79,12 @@
           renderLinks(all);
         };
 
-        div.appendChild(a);
-        div.appendChild(timeSpan);
-        div.appendChild(downloadBtn);
+        div.appendChild(title);
+        div.appendChild(time);
+        div.appendChild(preview);
+        div.appendChild(playBtn);
         div.appendChild(del);
+
         container.appendChild(div);
       });
     }
@@ -131,7 +114,7 @@
         await saveLinks(updated);
         renderLinks(updated);
       } catch (err) {
-        alert("发生错误：" + err.message);
+        alert("读取剪贴板失败：" + err.message);
       }
     });
 
@@ -141,7 +124,6 @@
       renderLinks([]);
     });
 
-    // 初始加载
     (async () => {
       const links = await fetchLinks();
       renderLinks(links);
