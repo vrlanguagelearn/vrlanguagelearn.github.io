@@ -1,13 +1,19 @@
+
 document.addEventListener('DOMContentLoaded', () => {
   if (typeof galleryData !== 'undefined') {
-    initGallery();
+    const urlParams = new URLSearchParams(window.location.search);
+    const searchParam = urlParams.get('search');
+    if (searchParam) {
+      document.getElementById('searchInput').value = searchParam;
+    }
+    initGallery(searchParam);
   }
 });
 
-function initGallery() {
+function initGallery(preloadedSearch) {
   const itemsPerPage = 45;
   let currentPage = 1;
-  let searchTerm = "";
+  let searchTerm = preloadedSearch ? preloadedSearch.toLowerCase() : "";
   let selectedLinks = new Set();
   let filteredData = [...galleryData];
 
@@ -41,7 +47,6 @@ function initGallery() {
       }).join('');
     });
 
-    // Add size filter inputs
     const sizeInputs = `
       <div class="mt-3">
         <label class="form-label">Size Filter (GB)</label>
@@ -51,7 +56,6 @@ function initGallery() {
     `;
     document.querySelector(".sidebar").insertAdjacentHTML("beforeend", sizeInputs);
 
-    // ✅ Bind input events for size filters
     setTimeout(() => {
       document.getElementById('minSizeInput').addEventListener('input', applyFilters);
       document.getElementById('maxSizeInput').addEventListener('input', applyFilters);
@@ -144,6 +148,11 @@ function initGallery() {
     const grid = document.getElementById('galleryGrid');
     grid.innerHTML = filteredData.slice(start, end).map((item, index) => {
       const id = `item-${item.id}-${index}`;
+      const base = window.location.pathname.split('/').pop() || "index.html";
+      const searchLinks = item.actress.map(name =>
+        `<a href="${base}?search=${encodeURIComponent(name)}" target="_blank">${name}</a>`
+      ).join(', ');
+
       return `
         <div class="col-md-4 mb-4">
           <div class="card h-100 ${selectedLinks.has(item.seed_download_link) ? 'selected-card' : ''}">
@@ -154,7 +163,7 @@ function initGallery() {
                 <label class="form-check-label fw-semibold text-dark" for="${id}" style="cursor:pointer;">${item.title}</label>
               </div>
               <small class="text-muted">${item.sell_date} | Size: ${item.size} | Duration: ${item.duration}</small>
-              <p><strong>Actress:</strong> ${item.actress.slice(0,3).join(', ')}${item.actress.length > 3 ? " ..." : ""}</p>
+              <p><strong>Actress:</strong> ${searchLinks}</p>
             </div>
           </div>
         </div>`;
