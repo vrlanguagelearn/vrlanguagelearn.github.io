@@ -12,36 +12,58 @@ function initGallery() {
   let filteredData = [...galleryData];
 
   function createFilters() {
-    const actress = new Set();
-    const director = new Set();
-    const maker = new Set();
-    const series = new Set();
-    const label = new Set();
-    const keyword = new Set();
+    const categories = {
+      Actress: new Set(),
+      Director: new Set(),
+      Maker: new Set(),
+      Series: new Set(),
+      Label: new Set(),
+      Keyword: new Set(),
+    };
 
     galleryData.forEach(item => {
-      item.actress.forEach(name => actress.add(name));
-      item.director.forEach(name => director.add(name));
-      item.maker.forEach(name => maker.add(name));
-      item.series.forEach(name => series.add(name));
-      item.label.forEach(name => label.add(name));
-      item.keyword.forEach(name => keyword.add(name));
+      item.actress.forEach(v => categories.Actress.add(v));
+      item.director.forEach(v => categories.Director.add(v));
+      item.maker.forEach(v => categories.Maker.add(v));
+      item.series.forEach(v => categories.Series.add(v));
+      item.label.forEach(v => categories.Label.add(v));
+      item.keyword.forEach(v => categories.Keyword.add(v));
     });
 
-    function createCheckbox(value, group) {
-      const safeValue = value.replace(/\W/g, '');
-      return `<div class='form-check'>
-        <input class='form-check-input' type='checkbox' value='${value}' data-group='${group}' id='chk-${group}-${safeValue}'>
-        <label class='form-check-label' for='chk-${group}-${safeValue}'>${value}</label>
-      </div>`;
-    }
+    Object.keys(categories).forEach(group => {
+      const container = document.getElementById(`filter${group}Body`);
+      container.innerHTML = [...categories[group]].sort().map(v => {
+        const safe = v.replace(/\W/g, '');
+        return `<div class="form-check">
+          <input class="form-check-input" type="checkbox" value="${v}" data-group="${group.toLowerCase()}" id="chk-${group}-${safe}">
+          <label class="form-check-label" for="chk-${group}-${safe}">${v}</label>
+        </div>`;
+      }).join('');
+    });
 
-    document.getElementById('filterActressBody').innerHTML += [...actress].sort().map(v => createCheckbox(v, "actress")).join("");
-    document.getElementById('filterDirectorBody').innerHTML += [...director].sort().map(v => createCheckbox(v, "director")).join("");
-    document.getElementById('filterMakerBody').innerHTML += [...maker].sort().map(v => createCheckbox(v, "maker")).join("");
-    document.getElementById('filterSeriesBody').innerHTML += [...series].sort().map(v => createCheckbox(v, "series")).join("");
-    document.getElementById('filterLabelBody').innerHTML += [...label].sort().map(v => createCheckbox(v, "label")).join("");
-    document.getElementById('filterKeywordBody').innerHTML += [...keyword].sort().map(v => createCheckbox(v, "keyword")).join("");
+    // Add size filter inputs
+    const sizeInputs = `
+      <div class="mt-3">
+        <label class="form-label">Size Filter (GB)</label>
+        <input type="number" class="form-control form-control-sm mb-2" id="minSizeInput" placeholder="Min size">
+        <input type="number" class="form-control form-control-sm" id="maxSizeInput" placeholder="Max size">
+      </div>
+    `;
+    document.querySelector(".sidebar").insertAdjacentHTML("beforeend", sizeInputs);
+
+    // ✅ Bind input events for size filters
+    setTimeout(() => {
+      document.getElementById('minSizeInput').addEventListener('input', applyFilters);
+      document.getElementById('maxSizeInput').addEventListener('input', applyFilters);
+    }, 100);
+  }
+
+  function parseSizeGB(sizeStr) {
+    try {
+      return parseFloat(sizeStr.replace(/[^\d.]/g, ''));
+    } catch {
+      return 0;
+    }
   }
 
   function applyFilters() {
@@ -49,39 +71,64 @@ function initGallery() {
     const active = { actress: [], director: [], maker: [], series: [], label: [], keyword: [] };
 
     checked.forEach(cb => {
-      if (cb.dataset.group && active[cb.dataset.group]) {
+      if (cb.dataset.group) {
         active[cb.dataset.group].push(cb.value);
       }
     });
 
+    const minSize = parseFloat(document.getElementById('minSizeInput')?.value);
+    const maxSize = parseFloat(document.getElementById('maxSizeInput')?.value);
+
     filteredData = galleryData.filter(item => {
-      const matchActress = !active.actress.length || active.actress.some(v => item.actress.includes(v));
-      const matchDirector = !active.director.length || active.director.some(v => item.director.includes(v));
-      const matchMaker = !active.maker.length || active.maker.some(v => item.maker.includes(v));
-      const matchSeries = !active.series.length || active.series.some(v => item.series.includes(v));
-      const matchLabel = !active.label.length || active.label.some(v => item.label.includes(v));
-      const matchKeyword = !active.keyword.length || active.keyword.some(v => item.keyword.includes(v));
-      const matchSearch = !searchTerm || item.title.toLowerCase().includes(searchTerm);
-      return matchActress && matchDirector && matchMaker && matchSeries && matchLabel && matchKeyword && matchSearch;
+      const match = Object.keys(active).every(group =>
+        active[group].length === 0 || active[group].some(v => item[group]?.includes(v))
+      );
+
+      const matchSearch = !searchTerm ||
+        item.title.toLowerCase().includes(searchTerm) ||
+        (item.actress && item.actress.some(a => a.toLowerCase().includes(searchTerm)));
+
+      const sizeGB = parseSizeGB(item.size);
+      const matchMin = isNaN(minSize) || sizeGB >= minSize;
+      const matchMax = isNaN(maxSize) || sizeGB <= maxSize;
+
+      return match && matchSearch && matchMin && matchMax;
     });
 
     renderGalleryPage(1);
   }
 
   function renderPagination() {
-    const pagination = document.getElementById('paginationControls');
-    pagination.innerHTML = '';
     const totalPages = Math.ceil(filteredData.length / itemsPerPage);
-
-    const createBtn = (page, text, active = false) => {
-      return `<button class="btn btn-sm ${active ? 'btn-primary' : 'btn-outline-primary'} mx-1" onclick="goToPage(${page})">${text}</button>`;
-    };
+    const container = document.getElementById('paginationControls');
+    container.innerHTML = '';
 
     if (totalPages <= 1) return;
 
-    for (let i = 1; i <= totalPages; i++) {
-      pagination.innerHTML += createBtn(i, i, i === currentPage);
+    const pages = [];
+    const makeBtn = (p, active) => `<button class="btn btn-${active ? 'primary' : 'outline-primary'} btn-sm mx-1" onclick="goToPage(${p})">${p}</button>`;
+
+    if (currentPage > 1) {
+      pages.push(`<button class="btn btn-outline-primary btn-sm me-2" onclick="goToPage(${currentPage - 1})">&laquo;</button>`);
     }
+
+    if (totalPages <= 12) {
+      for (let i = 1; i <= totalPages; i++) pages.push(makeBtn(i, i === currentPage));
+    } else {
+      pages.push(makeBtn(1, 1 === currentPage));
+      if (currentPage > 6) pages.push('<span class="px-2">...</span>');
+      for (let i = Math.max(2, currentPage - 4); i <= Math.min(totalPages - 1, currentPage + 4); i++) {
+        pages.push(makeBtn(i, i === currentPage));
+      }
+      if (currentPage < totalPages - 5) pages.push('<span class="px-2">...</span>');
+      pages.push(makeBtn(totalPages, totalPages === currentPage));
+    }
+
+    if (currentPage < totalPages) {
+      pages.push(`<button class="btn btn-outline-primary btn-sm ms-2" onclick="goToPage(${currentPage + 1})">&raquo;</button>`);
+    }
+
+    container.innerHTML = pages.join('');
   }
 
   window.goToPage = function(page) {
@@ -145,6 +192,15 @@ function initGallery() {
     });
   }
 
+  document.getElementById('filterAccordion').addEventListener('change', (e) => {
+    if (e.target.classList.contains('form-check-input')) applyFilters();
+  });
+
+  document.getElementById('searchInput').addEventListener('input', (e) => {
+    searchTerm = e.target.value.trim().toLowerCase();
+    applyFilters();
+  });
+
   document.getElementById('exportBtn').addEventListener('click', () => {
     const linksArray = Array.from(selectedLinks);
     const blob = new Blob([linksArray.join('\n')], { type: 'text/plain' });
@@ -159,17 +215,12 @@ function initGallery() {
   document.getElementById('clearFiltersBtn').addEventListener('click', () => {
     document.querySelectorAll('.form-check-input:checked').forEach(cb => cb.checked = false);
     document.getElementById('searchInput').value = '';
+    document.getElementById('minSizeInput').value = '';
+    document.getElementById('maxSizeInput').value = '';
     searchTerm = "";
     applyFilters();
   });
 
   createFilters();
   applyFilters();
-
-  document.getElementById('filterAccordion').addEventListener('change', (e) => {
-    if (e.target.classList.contains('form-check-input')) {
-      applyFilters();
-    }
-  });
-
 }
