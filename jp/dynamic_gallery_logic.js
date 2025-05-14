@@ -88,7 +88,7 @@ function initGallery(preloadedSearch) {
               </div>
               <small class="text-muted">${item.sell_date} | Size: ${item.size} | Duration: ${item.duration}</small>
               <p><strong>Actress:</strong> ${searchLinks}</p>
-              <button class="btn btn-outline-primary btn-sm mt-2" onclick="navigator.clipboard.writeText('${item.seed_download_link}').then(() => alert('Magnet link copied!'))">Copy Magnet Link</button>
+              <button class="btn btn-outline-primary btn-sm mt-2" onclick="copyMagnet(\'${item.seed_download_link}\', this)">Copy Magnet Link</button>
             </div>
           </div>
         </div>`;
@@ -324,4 +324,18 @@ function renderPagination() {
       ${goToBoxHTML}
     </div>
   `;
+}
+
+
+function copyMagnet(magnetLink, button) {
+  navigator.clipboard.writeText(magnetLink).then(() => {
+    const tooltip = document.createElement('div');
+    tooltip.className = 'copy-tooltip';
+    tooltip.innerText = 'Magnet link copied';
+    button.parentElement.appendChild(tooltip);
+
+    setTimeout(() => {
+      tooltip.remove();
+    }, 1000);
+  });
 }
