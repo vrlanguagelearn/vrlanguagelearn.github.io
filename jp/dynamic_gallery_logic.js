@@ -27,6 +27,7 @@ function initGallery(preloadedSearch) {
   let currentPage = 1;
   let searchTerm = preloadedSearch ? preloadedSearch.toLowerCase() : "";
   let selectedLinks = new Set();
+  window.selectedLinks = selectedLinks;
   let filteredData = [...galleryData];
 
   function encodeSafeId(val) {
@@ -189,20 +190,6 @@ function applyFilters() {
     if (e.target.classList.contains('form-check-input')) applyFilters();
   });
 
-  const exportBtn = document.getElementById('exportBtn');
-  if (exportBtn) {
-    exportBtn.addEventListener('click', () => {
-    const linksArray = Array.from(selectedLinks);
-    const blob = new Blob([linksArray.join('\n')], { type: 'text/plain' });
-    const url = URL.createObjectURL(blob);
-    const a = document.createElement('a');
-    a.href = url;
-    a.download = 'seeds.txt';
-    a.click();
-    URL.revokeObjectURL(url);
-    });
-  }
-
   document.getElementById('clearFiltersBtn').addEventListener('click', () => {
     document.querySelectorAll('.form-check-input:checked').forEach(cb => cb.checked = false);
     document.getElementById('searchInput').value = '';
@@ -338,4 +325,95 @@ function copyMagnet(magnetLink, button) {
       tooltip.remove();
     }, 1000);
   });
+}
+
+
+
+function showExportMenu(button) {
+  const existing = document.getElementById('exportMenu');
+  if (existing) {
+    existing.remove();
+    return;
+  }
+
+  const menu = document.createElement('div');
+  menu.id = 'exportMenu';
+  menu.style.position = 'absolute';
+  menu.style.top = (button.offsetTop + button.offsetHeight + 5) + 'px';
+  menu.style.right = '20px';
+  menu.style.background = '#fff';
+  menu.style.border = '1px solid #ccc';
+  menu.style.padding = '5px 0';
+  menu.style.zIndex = 10000;
+  menu.style.boxShadow = '0 2px 6px rgba(0,0,0,0.2)';
+  menu.style.borderRadius = '4px';
+  menu.style.fontSize = '0.9rem';
+
+  const copyItem = document.createElement('div');
+  copyItem.innerText = 'Copy links';
+  copyItem.style.padding = '6px 15px';
+  copyItem.style.cursor = 'pointer';
+  copyItem.onclick = () => {
+    const linksArray = Array.from(window.selectedLinks || []);
+    const text = linksArray.join('\n');
+    navigator.clipboard.writeText(text).then(() => {
+      showExportTooltip('Magnet links copied');
+    });
+    menu.remove();
+  };
+
+  const downloadItem = document.createElement('div');
+  downloadItem.innerText = 'Download file';
+  downloadItem.style.padding = '6px 15px';
+  downloadItem.style.cursor = 'pointer';
+  downloadItem.onclick = () => {
+    const linksArray = Array.from(window.selectedLinks || []);
+    const blob = new Blob([linksArray.join('\n')], { type: 'text/plain' });
+    const url = URL.createObjectURL(blob);
+    const a = document.createElement('a');
+    a.href = url;
+    a.download = 'seeds.txt';
+    a.click();
+    URL.revokeObjectURL(url);
+    menu.remove();
+  };
+
+  menu.appendChild(copyItem);
+  menu.appendChild(downloadItem);
+  button.parentElement.appendChild(menu);
+}
+
+function showTooltip(button, text) {
+  const tooltip = document.createElement('div');
+  tooltip.className = 'copy-tooltip';
+  tooltip.innerText = text;
+
+  const rect = button.getBoundingClientRect();
+  const scrollTop = window.scrollY || document.documentElement.scrollTop;
+  const scrollLeft = window.scrollX || document.documentElement.scrollLeft;
+
+  tooltip.style.position = 'absolute';
+  tooltip.style.top = (rect.top + scrollTop - 35) + 'px';
+  tooltip.style.left = (rect.left + scrollLeft + rect.width / 2) + 'px';
+  tooltip.style.transform = 'translateX(-50%)';
+  tooltip.style.zIndex = 10001;
+
+  document.body.appendChild(tooltip);
+  setTimeout(() => tooltip.remove(), 1000);
+}
+
+
+function showExportTooltip(text) {
+  const tooltip = document.createElement('div');
+  tooltip.className = 'copy-export-tooltip';
+  tooltip.innerText = text;
+
+  tooltip.style.position = 'fixed';
+  tooltip.style.top = '90px';
+  tooltip.style.left = '50%';
+  tooltip.style.transform = 'translateX(-50%)';
+  tooltip.style.zIndex = 10001;
+
+  document.body.appendChild(tooltip);
+  setTimeout(() => tooltip.remove(), 1000);
 }
