@@ -1,19 +1,110 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta charset="UTF-8">
-  <title>Your X Gallery</title>
+  <title>Your Gallery</title>
   <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
-  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600&display=swap" rel="stylesheet">
   <style>
     body {
-      font-family: 'Inter', sans-serif;
-      margin: 0;
-      background-color: #f5f6f8;
-      display: flex;
-      flex-direction: column;
-      height: 100vh;
+      font-family: Arial, sans-serif;
     }
+
+    #exportBtn {
+      display: none;
+    }
+
+    #exportBtn.show {
+      display: inline-block;
+    }
+
+
+    
+
+    @media (max-width: 768px) {
+      header {
+        flex-direction: column;
+        align-items: flex-start;
+        gap: 0.5rem;
+      }
+
+      .header-actions {
+        display: flex;
+        gap: 0.5rem;
+        width: 100%;
+        justify-content: space-between;
+      }
+
+      
+
+      #exportBtn.show {
+        display: inline-block;
+      }
+    }
+
+
+    .accordion-body {
+      max-height: 40vh;
+      overflow-y: auto;
+    }
+
+
+    .overlay {
+      position: fixed;
+      top: 60px;
+      left: 0;
+      right: 0;
+      bottom: 0;
+      background-color: rgba(0, 0, 0, 0.4);
+      z-index: 1040;
+      display: none;
+    }
+
+    body.noscroll {
+      overflow: hidden;
+    }
+
+    
+
+      .sidebar.show {
+        transform: translateX(0);
+      }
+
+      .content {
+        padding: 20px 10px;
+      }
+
+      
+    }
+
+
+    
+
+
+    .sidebar {
+      transition: transform 0.3s ease;
+      z-index: 1050;
+    }
+
+    
+
+      .sidebar.show {
+        transform: translateX(0);
+      }
+
+      .content {
+        padding: 20px 10px;
+      }
+
+      
+    }
+
+
+    .accordion-body {
+      max-height: 70vh;
+      overflow-y: auto;
+    }
+
     header {
       background-color: #222;
       color: white;
@@ -24,773 +115,230 @@
       position: sticky;
       top: 0;
       z-index: 1000;
-      box-shadow: 0 2px 5px rgba(0,0,0,0.2);
-    }
-    #exportBtn {
-      align-self: center;
-      font-size: 0.875rem;
-      padding: 4px 12px;
     }
     main {
       display: flex;
-      flex: 1;
+      height: calc(100vh - 60px);
       overflow: hidden;
     }
     .sidebar {
-      width: 300px;
-      background: #fff;
+      width: 20%;
+      min-width: 280px;
+      background-color: #f8f9fa;
       border-right: 1px solid #dee2e6;
       padding: 20px;
       overflow-y: auto;
     }
-    .main-content {
+    .content {
       flex: 1;
-      padding: 20px;
       overflow-y: auto;
-    }
-    .card {
-      border-radius: 8px;
-      transition: box-shadow 0.3s ease;
-    }
-    .card:hover {
-      box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+      padding: 20px;
     }
     .card img {
       height: 200px;
       object-fit: cover;
-      border-top-left-radius: 8px;
-      border-top-right-radius: 8px;
     }
-    .hidden { display: none !important; }
-    .selected-card { background-color: #e6f7ff !important; }
-    .pagination { margin-top: 20px; flex-wrap: wrap; }
-    #loadingOverlay {
-      position: fixed;
-      top: 0; left: 0;
-      width: 100%;
-      height: 100%;
-      background: rgba(0,0,0,0.4);
-      display: none;
-      z-index: 2000;
+    .selected-card {
+      background-color: #e6f7ff !important;
     }
-    #loadingSpinner {
-      position: absolute;
-      top: 50%;
-      left: 50%;
-      transform: translate(-50%, -50%);
-      font-size: 3rem;
-      color: white;
+    .title-clamp {
+      display: -webkit-box;
+      -webkit-line-clamp: 3;
+      -webkit-box-orient: vertical;
+      overflow: hidden;
     }
-  </style>
+    
+  
+      @media (max-width: 768px) {
+        .sidebar {
+          position: fixed !important;
+          top: 60px;
+          bottom: 0;
+          left: 0;
+          background-color: #fff;
+          transform: translateX(-100%);
+          width: 80%;
+          max-width: 320px;
+          box-shadow: 2px 0 5px rgba(0,0,0,0.3);
+          z-index: 1050;
+          transition: transform 0.3s ease;
+        }
+
+        .sidebar.show {
+          transform: translateX(0);
+        }
+
+        .content {
+          padding: 20px 10px;
+        }
+
+        #galleryGrid > .col-md-4 {
+          flex: 0 0 100% !important;
+          max-width: 100% !important;
+        }
+      }
+
+
+.copy-tooltip {
+  position: absolute;
+  top: 280px;
+  left: 50%;
+  transform: translateX(-50%);
+  background-color: #333;
+  color: #fff;
+  padding: 5px 10px;
+  font-size: 0.8rem;
+  border-radius: 4px;
+  white-space: nowrap;
+  z-index: 1000;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.2);
+  animation: fadeinout 1s ease forwards;
+}
+
+.copy-export-tooltip {
+  position: fixed;
+  top: 70px;
+  left: 50%;
+  transform: translateX(-50%);
+  background-color: #333;
+  color: #fff;
+  padding: 6px 12px;
+  font-size: 0.9rem;
+  border-radius: 4px;
+  z-index: 10001;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.2);
+  animation: fadeinout 1s ease forwards;
+}
+
+@keyframes fadeinout {
+  0% { opacity: 0; transform: translateX(-50%) translateY(-10px); }
+  10% { opacity: 1; transform: translateX(-50%) translateY(0); }
+  90% { opacity: 1; }
+  100% { opacity: 0; transform: translateX(-50%) translateY(-10px); }
+}
+
+
+#exportMenu div {
+  padding: 6px 15px;
+  cursor: pointer;
+  white-space: nowrap;
+  color: #000;
+  background-color: #fff;
+}
+
+#exportMenu div:hover {
+  background-color: #f0f0f0;
+}
+
+</style>
 </head>
 <body>
-  <header>
-    <div class="d-flex align-items-center gap-3">
+<div id="loadingOverlay" style="display:none; position:fixed; inset:0; background-color:rgba(0,0,0,0.4); z-index:1999;"></div>
+<div id="loadingSpinner" style="display:none; position:fixed; top:50%; left:50%; transform:translate(-50%, -50%); z-index:2000;">
+  <div class="spinner-border text-primary" role="status">
+    <span class="visually-hidden">Loading...</span>
+  </div>
+</div>
+<div class="overlay" id="overlay"></div>
+
+<header>
+  <div class="d-flex justify-content-between align-items-center w-100">
+    <div class="d-flex flex-column text-light">
       <h4 class="mb-0">Your X Gallery</h4>
       <small id="itemCount" class="text-light"></small>
     </div>
-    <button id="exportBtn" class="btn btn-success btn-sm" style="display:none;">Export Magnet Link (0)</button>
-  </header>
-
-  <main>
-    <div class="sidebar">
-      <h5 class="mb-3">Filters</h5>
-      <div class="accordion" id="filterAccordion">
-        <div class="accordion-item">
-          <h2 class="accordion-header" id="headingStudio">
-            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseStudio">
-              Studio
-            </button>
-          </h2>
-          <div id="collapseStudio" class="accordion-collapse collapse" data-bs-parent="#filterAccordion">
-            <div class="accordion-body" id="filterStudioBody"></div>
-          </div>
-        </div>
-        <div class="accordion-item">
-          <h2 class="accordion-header" id="headingPornstar">
-            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapsePornstar">
-              Pornstar
-            </button>
-          </h2>
-          <div id="collapsePornstar" class="accordion-collapse collapse" data-bs-parent="#filterAccordion">
-            <div class="accordion-body" id="filterPornstarBody"></div>
-          </div>
-        </div>
-        <div class="accordion-item">
-          <h2 class="accordion-header" id="headingTag">
-            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTag">
-              Tag
-            </button>
-          </h2>
-          <div id="collapseTag" class="accordion-collapse collapse" data-bs-parent="#filterAccordion">
-            <div class="accordion-body" id="filterTagBody"></div>
-          </div>
-        </div>
-        <div class="accordion-item">
-          <h2 class="accordion-header" id="headingSize">
-            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseSize">
-              Size
-            </button>
-          </h2>
-          <div id="collapseSize" class="accordion-collapse collapse" data-bs-parent="#filterAccordion">
-            <div class="accordion-body" id="filterSizeBody"></div>
-          </div>
-        </div>
-      </div>
-      <button id="clearFiltersBtn" class="btn btn-outline-secondary btn-sm mt-4 w-100">Clear Filters</button>
-    </div>
-
-    <div class="main-content">
-      <div class="container mb-3">
-        <input type="text" id="searchInput" class="form-control" placeholder="Search titles, pornstars, tags...">
-      </div>
-      <div class="row" id="galleryGrid">
-        
-<div class="col-md-4 mb-4">
-  <div class="card h-100">
-    <img src="https://cdn-vr.sexlikereal.com/images/23830/vr-porn-Creamy-Tits-cover-desktop.jpg" class="card-img-top" alt="StripzVR Lauren Brock Creamy Tits">
-    <div class="card-body d-flex flex-column">
-      <div class="form-check">
-        <input class="form-check-input select-item" type="checkbox" value="magnet:?xt=urn:btih:cde5f07ae653af9adb58070bae89648687c96f0a&dn=%5BStripzVR%5D+Lauren+Brock+-+Creamy+Tits&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce" id="select-0">
-        <label class="form-check-label" for="select-0">StripzVR Lauren Brock Creamy Tits</label>
-      </div>
-      <small class="text-muted">2022-05-01 00:52:22 &nbsp;|&nbsp; Size: 2.57 GB</small>
-      <p><strong>Pornstar:</strong> Lauren Brock</p>
-      <button class="btn btn-outline-primary btn-sm mt-auto" onclick="navigator.clipboard.writeText('magnet:?xt=urn:btih:cde5f07ae653af9adb58070bae89648687c96f0a&dn=%5BStripzVR%5D+Lauren+Brock+-+Creamy+Tits&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce').then(() => alert('Copied!'))">Copy Magnet Link</button>
-    </div>
-  </div>
-</div>
-<div class="col-md-4 mb-4">
-  <div class="card h-100">
-    <img src="https://images.povr.com/headshots/6/64445/crop/300.jpg" class="card-img-top" alt="Mila Azul VR Collection Vids">
-    <div class="card-body d-flex flex-column">
-      <div class="form-check">
-        <input class="form-check-input select-item" type="checkbox" value="magnet:?xt=urn:btih:ad7abee67b3e57e611da3e4bd4d4a0df58f898ac&dn=Mila+Azul+VR+Collection+-+9+Vids&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce" id="select-1">
-        <label class="form-check-label" for="select-1">Mila Azul VR Collection Vids</label>
-      </div>
-      <small class="text-muted">2022-05-01 00:16:22 &nbsp;|&nbsp; Size: 25.16 GB</small>
-      <p><strong>Pornstar:</strong> </p>
-      <button class="btn btn-outline-primary btn-sm mt-auto" onclick="navigator.clipboard.writeText('magnet:?xt=urn:btih:ad7abee67b3e57e611da3e4bd4d4a0df58f898ac&dn=Mila+Azul+VR+Collection+-+9+Vids&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce').then(() => alert('Copied!'))">Copy Magnet Link</button>
-    </div>
-  </div>
-</div>
-<div class="col-md-4 mb-4">
-  <div class="card h-100">
-    <img src="https://mcdn.vrporn.com/files/20250226075429/Teensy-Weensy-Stefani-StripzVR-vr-porn-video.jpg" class="card-img-top" alt="StripzVR Stefani Teensy weensy">
-    <div class="card-body d-flex flex-column">
-      <div class="form-check">
-        <input class="form-check-input select-item" type="checkbox" value="magnet:?xt=urn:btih:929936bb277caa46cbd7cc0cd5e7bb213720982c&dn=StripzVR+-+Stefani+-+Teensy+weensy_1920p.mp4&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce" id="select-2">
-        <label class="form-check-label" for="select-2">StripzVR Stefani Teensy weensy</label>
-      </div>
-      <small class="text-muted">2022-05-01 00:15:22 &nbsp;|&nbsp; Size: 2.07 GB</small>
-      <p><strong>Pornstar:</strong> Stefani</p>
-      <button class="btn btn-outline-primary btn-sm mt-auto" onclick="navigator.clipboard.writeText('magnet:?xt=urn:btih:929936bb277caa46cbd7cc0cd5e7bb213720982c&dn=StripzVR+-+Stefani+-+Teensy+weensy_1920p.mp4&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce').then(() => alert('Copied!'))">Copy Magnet Link</button>
-    </div>
-  </div>
-</div>
-<div class="col-md-4 mb-4">
-  <div class="card h-100">
-    <img src="https://ptx.cdntrex.com/contents/videos_screenshots/1343000/1343352/preview.jpg" class="card-img-top" alt="Cara Mell StripZVR Sexual Senses">
-    <div class="card-body d-flex flex-column">
-      <div class="form-check">
-        <input class="form-check-input select-item" type="checkbox" value="magnet:?xt=urn:btih:576ef7e1665a2bb6f157f5d9e9a48e3dd9b6d158&dn=Cara+Mell+(StripZVR)+-+Sexual+Senses.mp4&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce" id="select-3">
-        <label class="form-check-label" for="select-3">Cara Mell StripZVR Sexual Senses</label>
-      </div>
-      <small class="text-muted">2022-05-01 00:10:22 &nbsp;|&nbsp; Size: 2.77 GB</small>
-      <p><strong>Pornstar:</strong> Cara Mell</p>
-      <button class="btn btn-outline-primary btn-sm mt-auto" onclick="navigator.clipboard.writeText('magnet:?xt=urn:btih:576ef7e1665a2bb6f157f5d9e9a48e3dd9b6d158&dn=Cara+Mell+(StripZVR)+-+Sexual+Senses.mp4&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce').then(() => alert('Copied!'))">Copy Magnet Link</button>
-    </div>
-  </div>
-</div>
-<div class="col-md-4 mb-4">
-  <div class="card h-100">
-    <img src="https://vrpornx.nethttps://i111.fastpic.ru/big/2019/1118/fb/0011640793482018a4cc5a913b6342fb.jpg" class="card-img-top" alt="StripzVR mila azul busty doll 5760x2880 60fps vhq">
-    <div class="card-body d-flex flex-column">
-      <div class="form-check">
-        <input class="form-check-input select-item" type="checkbox" value="magnet:?xt=urn:btih:0912dfa5ce2c2200509c702668492249c74d6d81&dn=StripzVR-mila-azul-busty-doll-5760x2880-60fps-vhq-h265-180x180_3dh_LR.mp4&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce" id="select-4">
-        <label class="form-check-label" for="select-4">StripzVR mila azul busty doll 5760x2880 60fps vhq</label>
-      </div>
-      <small class="text-muted">2021-05-01 00:06:22 &nbsp;|&nbsp; Size: 2.02 GB</small>
-      <p><strong>Pornstar:</strong> Mila Azul</p>
-      <button class="btn btn-outline-primary btn-sm mt-auto" onclick="navigator.clipboard.writeText('magnet:?xt=urn:btih:0912dfa5ce2c2200509c702668492249c74d6d81&dn=StripzVR-mila-azul-busty-doll-5760x2880-60fps-vhq-h265-180x180_3dh_LR.mp4&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce').then(() => alert('Copied!'))">Copy Magnet Link</button>
-    </div>
-  </div>
-</div>
-<div class="col-md-4 mb-4">
-  <div class="card h-100">
-    <img src="https://images.povr.com/headshots/6/65561/crop/300.jpg" class="card-img-top" alt="StripzVR Cara Mell VR Collection Vids">
-    <div class="card-body d-flex flex-column">
-      <div class="form-check">
-        <input class="form-check-input select-item" type="checkbox" value="magnet:?xt=urn:btih:bde598ff485b85ef4635fb85ca7866fb477134ab&dn=StripzVR+-+Cara+Mell+VR+Collection+-+6+Vids&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce" id="select-5">
-        <label class="form-check-label" for="select-5">StripzVR Cara Mell VR Collection Vids</label>
-      </div>
-      <small class="text-muted">2021-05-01 00:04:22 &nbsp;|&nbsp; Size: 13.04 GB</small>
-      <p><strong>Pornstar:</strong> </p>
-      <button class="btn btn-outline-primary btn-sm mt-auto" onclick="navigator.clipboard.writeText('magnet:?xt=urn:btih:bde598ff485b85ef4635fb85ca7866fb477134ab&dn=StripzVR+-+Cara+Mell+VR+Collection+-+6+Vids&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce').then(() => alert('Copied!'))">Copy Magnet Link</button>
-    </div>
-  </div>
-</div>
-<div class="col-md-4 mb-4">
-  <div class="card h-100">
-    <img src="https://mcdn.vrporn.com/files/20211115112015/Kimono-Bexie-Williams-StripzVR-vr-porn-video.jpg" class="card-img-top" alt="StripzVR Bexie Williams VR Collection Vids">
-    <div class="card-body d-flex flex-column">
-      <div class="form-check">
-        <input class="form-check-input select-item" type="checkbox" value="magnet:?xt=urn:btih:b1cbab859cbe8b8dd1031d88289395fbcf38d722&dn=StripzVR+-+Bexie+Williams+VR+Collection+-+4+Vids&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce" id="select-6">
-        <label class="form-check-label" for="select-6">StripzVR Bexie Williams VR Collection Vids</label>
-      </div>
-      <small class="text-muted">2021-05-01 00:03:22 &nbsp;|&nbsp; Size: 7.47 GB</small>
-      <p><strong>Pornstar:</strong> Bexie Williams</p>
-      <button class="btn btn-outline-primary btn-sm mt-auto" onclick="navigator.clipboard.writeText('magnet:?xt=urn:btih:b1cbab859cbe8b8dd1031d88289395fbcf38d722&dn=StripzVR+-+Bexie+Williams+VR+Collection+-+4+Vids&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce').then(() => alert('Copied!'))">Copy Magnet Link</button>
-    </div>
-  </div>
-</div>
-<div class="col-md-4 mb-4">
-  <div class="card h-100">
-    <img src="https://images.povr.com/headshots/6/65679/crop/300.jpg" class="card-img-top" alt="StripzVR Aislin VR Collection Vids">
-    <div class="card-body d-flex flex-column">
-      <div class="form-check">
-        <input class="form-check-input select-item" type="checkbox" value="magnet:?xt=urn:btih:39fc712f207e8c4f21460a6ec3d3120753cef70f&dn=StripzVR+-+Aislin+VR+Collection+6+Vids&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce" id="select-7">
-        <label class="form-check-label" for="select-7">StripzVR Aislin VR Collection Vids</label>
-      </div>
-      <small class="text-muted">2021-05-01 00:02:22 &nbsp;|&nbsp; Size: 11.72 GB</small>
-      <p><strong>Pornstar:</strong> </p>
-      <button class="btn btn-outline-primary btn-sm mt-auto" onclick="navigator.clipboard.writeText('magnet:?xt=urn:btih:39fc712f207e8c4f21460a6ec3d3120753cef70f&dn=StripzVR+-+Aislin+VR+Collection+6+Vids&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce').then(() => alert('Copied!'))">Copy Magnet Link</button>
-    </div>
-  </div>
-</div>
-<div class="col-md-4 mb-4">
-  <div class="card h-100">
-    <img src="https://mcdn.vrporn.com/files/20250331091600/Cutie-Pie-with-Courtney-Marie-StripzVR-vr-porn-video.jpg" class="card-img-top" alt="StripzVR Double Scene Courtney Marie">
-    <div class="card-body d-flex flex-column">
-      <div class="form-check">
-        <input class="form-check-input select-item" type="checkbox" value="magnet:?xt=urn:btih:25568da2b46f274225dd2458cb0d6c4114c4f3b4&dn=StripzVR+Double+Scene+063+Courtney+Marie&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce" id="select-8">
-        <label class="form-check-label" for="select-8">StripzVR Double Scene Courtney Marie</label>
-      </div>
-      <small class="text-muted">2020-05-01 00:01:22 &nbsp;|&nbsp; Size: 2.08 GB</small>
-      <p><strong>Pornstar:</strong> Courtney Marie</p>
-      <button class="btn btn-outline-primary btn-sm mt-auto" onclick="navigator.clipboard.writeText('magnet:?xt=urn:btih:25568da2b46f274225dd2458cb0d6c4114c4f3b4&dn=StripzVR+Double+Scene+063+Courtney+Marie&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce').then(() => alert('Copied!'))">Copy Magnet Link</button>
-    </div>
-  </div>
-</div>
-<div class="col-md-4 mb-4">
-  <div class="card h-100">
-    <img src="https://ptx.cdntrex.com/contents/videos_screenshots/885000/885813/preview.jpg" class="card-img-top" alt="StripzVR Double Scene Melena Maria Rya">
-    <div class="card-body d-flex flex-column">
-      <div class="form-check">
-        <input class="form-check-input select-item" type="checkbox" value="magnet:?xt=urn:btih:b4706f93b43001b616a722e08031434095498dd2&dn=StripzVR+Double+Scene+062+Melena+Maria+Rya&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce" id="select-9">
-        <label class="form-check-label" for="select-9">StripzVR Double Scene Melena Maria Rya</label>
-      </div>
-      <small class="text-muted">2020-04-30 23:59:22 &nbsp;|&nbsp; Size: 2.39 GB</small>
-      <p><strong>Pornstar:</strong> Maria Rya, Melena</p>
-      <button class="btn btn-outline-primary btn-sm mt-auto" onclick="navigator.clipboard.writeText('magnet:?xt=urn:btih:b4706f93b43001b616a722e08031434095498dd2&dn=StripzVR+Double+Scene+062+Melena+Maria+Rya&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce').then(() => alert('Copied!'))">Copy Magnet Link</button>
-    </div>
-  </div>
-</div>
-<div class="col-md-4 mb-4">
-  <div class="card h-100">
-    <img src="https://ptx.cdntrex.com/contents/videos_screenshots/1206000/1206718/preview.jpg" class="card-img-top" alt="StripzVR Double Scene Cara Mell">
-    <div class="card-body d-flex flex-column">
-      <div class="form-check">
-        <input class="form-check-input select-item" type="checkbox" value="magnet:?xt=urn:btih:d1789528f38f02df9f5c4dcf8ff22d82ca532da1&dn=StripzVR+Double+Scene+059+Cara+Mell&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce" id="select-10">
-        <label class="form-check-label" for="select-10">StripzVR Double Scene Cara Mell</label>
-      </div>
-      <small class="text-muted">2020-04-30 23:56:22 &nbsp;|&nbsp; Size: 2.20 GB</small>
-      <p><strong>Pornstar:</strong> Cara Mell</p>
-      <button class="btn btn-outline-primary btn-sm mt-auto" onclick="navigator.clipboard.writeText('magnet:?xt=urn:btih:d1789528f38f02df9f5c4dcf8ff22d82ca532da1&dn=StripzVR+Double+Scene+059+Cara+Mell&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce').then(() => alert('Copied!'))">Copy Magnet Link</button>
-    </div>
-  </div>
-</div>
-<div class="col-md-4 mb-4">
-  <div class="card h-100">
-    <img src="https://cdn.vrphub.com/wp-content/uploads/2024/04/big-26-e1714205082221.jpg" class="card-img-top" alt="StripzVR Double Scene Kristina Fox">
-    <div class="card-body d-flex flex-column">
-      <div class="form-check">
-        <input class="form-check-input select-item" type="checkbox" value="magnet:?xt=urn:btih:32cfe74ece05903e37a00feb1c7b2c58eb5e0604&dn=StripzVR+Double+Scene+052+Kristina+Fox&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce" id="select-11">
-        <label class="form-check-label" for="select-11">StripzVR Double Scene Kristina Fox</label>
-      </div>
-      <small class="text-muted">2020-04-30 23:50:22 &nbsp;|&nbsp; Size: 2.30 GB</small>
-      <p><strong>Pornstar:</strong> Kristina Fox, Kim Toy</p>
-      <button class="btn btn-outline-primary btn-sm mt-auto" onclick="navigator.clipboard.writeText('magnet:?xt=urn:btih:32cfe74ece05903e37a00feb1c7b2c58eb5e0604&dn=StripzVR+Double+Scene+052+Kristina+Fox&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce').then(() => alert('Copied!'))">Copy Magnet Link</button>
-    </div>
-  </div>
-</div>
-<div class="col-md-4 mb-4">
-  <div class="card h-100">
-    <img src="https://cdn.vrphub.com/wp-content/uploads/2022/03/kristina-fox-my-cute-round-ass-e1647015770258.jpeg" class="card-img-top" alt="StripzVR Kristina Fox Foxy">
-    <div class="card-body d-flex flex-column">
-      <div class="form-check">
-        <input class="form-check-input select-item" type="checkbox" value="magnet:?xt=urn:btih:f1dd79e9336becab57f638cca53247944741d46f&dn=StripzVR_Kristina+Fox+-+Foxy+5K.mp4&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce" id="select-12">
-        <label class="form-check-label" for="select-12">StripzVR Kristina Fox Foxy</label>
-      </div>
-      <small class="text-muted">2020-04-30 23:47:22 &nbsp;|&nbsp; Size: 2.17 GB</small>
-      <p><strong>Pornstar:</strong> Kristina Fox</p>
-      <button class="btn btn-outline-primary btn-sm mt-auto" onclick="navigator.clipboard.writeText('magnet:?xt=urn:btih:f1dd79e9336becab57f638cca53247944741d46f&dn=StripzVR_Kristina+Fox+-+Foxy+5K.mp4&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce').then(() => alert('Copied!'))">Copy Magnet Link</button>
-    </div>
-  </div>
-</div>
-<div class="col-md-4 mb-4">
-  <div class="card h-100">
-    <img src="https://mcdn.vrporn.com/files/20230907085733/Cutie-Pie-Melena-Maria-Rya-StripzVR-vr-porn-video.jpg" class="card-img-top" alt="StripzVR Cutey Pie Melena Maria Rya">
-    <div class="card-body d-flex flex-column">
-      <div class="form-check">
-        <input class="form-check-input select-item" type="checkbox" value="magnet:?xt=urn:btih:60f9d9e048357cf089180eb1063bfdaafcd5b943&dn=StripzVR+-+Cutey+Pie+-+Melena+Maria+Rya_2048p.mp4&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce" id="select-13">
-        <label class="form-check-label" for="select-13">StripzVR Cutey Pie Melena Maria Rya</label>
-      </div>
-      <small class="text-muted">2020-04-30 23:34:22 &nbsp;|&nbsp; Size: 2.05 GB</small>
-      <p><strong>Pornstar:</strong> Melena Maria Rya</p>
-      <button class="btn btn-outline-primary btn-sm mt-auto" onclick="navigator.clipboard.writeText('magnet:?xt=urn:btih:60f9d9e048357cf089180eb1063bfdaafcd5b943&dn=StripzVR+-+Cutey+Pie+-+Melena+Maria+Rya_2048p.mp4&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce').then(() => alert('Copied!'))">Copy Magnet Link</button>
-    </div>
-  </div>
-</div>
-<div class="col-md-4 mb-4">
-  <div class="card h-100">
-    <img src="https://mcdn.vrporn.com/files/20230831090505/Girl-Flower-Mila-Azul-StripzVR-vr-porn-video.jpg" class="card-img-top" alt="StripzVR Girl Flower">
-    <div class="card-body d-flex flex-column">
-      <div class="form-check">
-        <input class="form-check-input select-item" type="checkbox" value="magnet:?xt=urn:btih:7f3de8a82e52c7d4ef9668ac83d6434c39db03c9&dn=StripzVR_Girl_Flower_5K_(Oculus).mp4&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce" id="select-14">
-        <label class="form-check-label" for="select-14">StripzVR Girl Flower</label>
-      </div>
-      <small class="text-muted">2020-04-30 23:33:22 &nbsp;|&nbsp; Size: 2.15 GB</small>
-      <p><strong>Pornstar:</strong> Mila Azul</p>
-      <button class="btn btn-outline-primary btn-sm mt-auto" onclick="navigator.clipboard.writeText('magnet:?xt=urn:btih:7f3de8a82e52c7d4ef9668ac83d6434c39db03c9&dn=StripzVR_Girl_Flower_5K_(Oculus).mp4&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce').then(() => alert('Copied!'))">Copy Magnet Link</button>
-    </div>
-  </div>
-</div>
-<div class="col-md-4 mb-4">
-  <div class="card h-100">
-    <img src="https://mcdn.vrporn.com/files/20230614094401/Top-Of-The-World-Mila-Azul-StripzVR-vr-porn-video.jpg" class="card-img-top" alt="StripzVR Mila Azul Top Of The World">
-    <div class="card-body d-flex flex-column">
-      <div class="form-check">
-        <input class="form-check-input select-item" type="checkbox" value="magnet:?xt=urn:btih:5a41680cf573f6034b093a93ddaf73cd5d0ef092&dn=StripzVR+-+Mila+Azul+-+Top+Of+The+World_2048p.mp4&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce" id="select-15">
-        <label class="form-check-label" for="select-15">StripzVR Mila Azul Top Of The World</label>
-      </div>
-      <small class="text-muted">2020-04-30 23:32:22 &nbsp;|&nbsp; Size: 2.40 GB</small>
-      <p><strong>Pornstar:</strong> Mila Azul</p>
-      <button class="btn btn-outline-primary btn-sm mt-auto" onclick="navigator.clipboard.writeText('magnet:?xt=urn:btih:5a41680cf573f6034b093a93ddaf73cd5d0ef092&dn=StripzVR+-+Mila+Azul+-+Top+Of+The+World_2048p.mp4&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce').then(() => alert('Copied!'))">Copy Magnet Link</button>
-    </div>
-  </div>
-</div>
-<div class="col-md-4 mb-4">
-  <div class="card h-100">
-    <img src="https://mcdn.vrporn.com/files/20240401070502/Make-My-Pussy-Wet-StripzVR-Sophia-Blake-vr-porn-video.jpg" class="card-img-top" alt="StripzVR Make My Pussy Wet">
-    <div class="card-body d-flex flex-column">
-      <div class="form-check">
-        <input class="form-check-input select-item" type="checkbox" value="magnet:?xt=urn:btih:1fb7ff616b6315f08c6d7e3d3f3e2928d23e60e8&dn=StripzVR_Make_My_Pussy_Wet_5K_(Oculus).mp4&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce" id="select-16">
-        <label class="form-check-label" for="select-16">StripzVR Make My Pussy Wet</label>
-      </div>
-      <small class="text-muted">2020-04-30 23:31:22 &nbsp;|&nbsp; Size: 2.25 GB</small>
-      <p><strong>Pornstar:</strong> Sophia Blake</p>
-      <button class="btn btn-outline-primary btn-sm mt-auto" onclick="navigator.clipboard.writeText('magnet:?xt=urn:btih:1fb7ff616b6315f08c6d7e3d3f3e2928d23e60e8&dn=StripzVR_Make_My_Pussy_Wet_5K_(Oculus).mp4&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce').then(() => alert('Copied!'))">Copy Magnet Link</button>
-    </div>
-  </div>
-</div>
-<div class="col-md-4 mb-4">
-  <div class="card h-100">
-    <img src="https://mcdn.vrporn.com/files/20240713103641/Private-Lapdance-with-Jizzles-StripzVR-vr-porn-video.jpg" class="card-img-top" alt="StripzVR Jizzles Private Lapdance">
-    <div class="card-body d-flex flex-column">
-      <div class="form-check">
-        <input class="form-check-input select-item" type="checkbox" value="magnet:?xt=urn:btih:cd14403c509c83599d8cb9e215f381663e69d3df&dn=%5BStripzVR%5D+Jizzles+-+Private+Lapdance+-+Oculus+4k.mp4&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce" id="select-17">
-        <label class="form-check-label" for="select-17">StripzVR Jizzles Private Lapdance</label>
-      </div>
-      <small class="text-muted">2020-04-30 23:26:22 &nbsp;|&nbsp; Size: 2.38 GB</small>
-      <p><strong>Pornstar:</strong> Jizzles</p>
-      <button class="btn btn-outline-primary btn-sm mt-auto" onclick="navigator.clipboard.writeText('magnet:?xt=urn:btih:cd14403c509c83599d8cb9e215f381663e69d3df&dn=%5BStripzVR%5D+Jizzles+-+Private+Lapdance+-+Oculus+4k.mp4&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce').then(() => alert('Copied!'))">Copy Magnet Link</button>
-    </div>
-  </div>
-</div>
-<div class="col-md-4 mb-4">
-  <div class="card h-100">
-    <img src="https://mcdn.vrporn.com/files/20211226082232/Skye-Blue-Surprises-You-Today-RealJamVR-vr-porn-video.jpg" class="card-img-top" alt="StripzVR Double Scene Skye Blue">
-    <div class="card-body d-flex flex-column">
-      <div class="form-check">
-        <input class="form-check-input select-item" type="checkbox" value="magnet:?xt=urn:btih:59b6f24a0e8350acf30b953ebe9a37e66bbe5a0d&dn=StripzVR+Double+Scene+035+Skye+Blue&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce" id="select-18">
-        <label class="form-check-label" for="select-18">StripzVR Double Scene Skye Blue</label>
-      </div>
-      <small class="text-muted">2020-04-30 23:18:22 &nbsp;|&nbsp; Size: 2.15 GB</small>
-      <p><strong>Pornstar:</strong> Skye Blue</p>
-      <button class="btn btn-outline-primary btn-sm mt-auto" onclick="navigator.clipboard.writeText('magnet:?xt=urn:btih:59b6f24a0e8350acf30b953ebe9a37e66bbe5a0d&dn=StripzVR+Double+Scene+035+Skye+Blue&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce').then(() => alert('Copied!'))">Copy Magnet Link</button>
-    </div>
-  </div>
-</div>
-<div class="col-md-4 mb-4">
-  <div class="card h-100">
-    <img src="https://mcdn.vrporn.com/files/20211106092814/Bexie-Williams-Studio66-StripzVR-Bexie_Williams-vr-porn-video.jpg" class="card-img-top" alt="StripzVR Double Scene Bexie Williams">
-    <div class="card-body d-flex flex-column">
-      <div class="form-check">
-        <input class="form-check-input select-item" type="checkbox" value="magnet:?xt=urn:btih:2ae4a0b398592545fa1abe5167f14024aed4bd7e&dn=StripzVR+Double+Scene+018+Bexie+Williams&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce" id="select-19">
-        <label class="form-check-label" for="select-19">StripzVR Double Scene Bexie Williams</label>
-      </div>
-      <small class="text-muted">2019-05-01 22:57:22 &nbsp;|&nbsp; Size: 2.25 GB</small>
-      <p><strong>Pornstar:</strong> Bexie Williams</p>
-      <button class="btn btn-outline-primary btn-sm mt-auto" onclick="navigator.clipboard.writeText('magnet:?xt=urn:btih:2ae4a0b398592545fa1abe5167f14024aed4bd7e&dn=StripzVR+Double+Scene+018+Bexie+Williams&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce').then(() => alert('Copied!'))">Copy Magnet Link</button>
-    </div>
-  </div>
-</div>
-<div class="col-md-4 mb-4">
-  <div class="card h-100">
-    <img src="https://mcdn.vrporn.com/files/20230419014904/vrporncom_stripzvr_private_lapdance_image_1.jpg" class="card-img-top" alt="StripzVR Private Lapdance Sophia Blake">
-    <div class="card-body d-flex flex-column">
-      <div class="form-check">
-        <input class="form-check-input select-item" type="checkbox" value="magnet:?xt=urn:btih:a6d45dcf432bef37758140095766c1f18c0c7fbe&dn=StripzVR+-+Private+Lapdance+-+Sophia+Blake+(Oculus+5K)&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce" id="select-20">
-        <label class="form-check-label" for="select-20">StripzVR Private Lapdance Sophia Blake</label>
-      </div>
-      <small class="text-muted">2019-05-01 22:38:22 &nbsp;|&nbsp; Size: 2.58 GB</small>
-      <p><strong>Pornstar:</strong> Sophia Blake</p>
-      <button class="btn btn-outline-primary btn-sm mt-auto" onclick="navigator.clipboard.writeText('magnet:?xt=urn:btih:a6d45dcf432bef37758140095766c1f18c0c7fbe&dn=StripzVR+-+Private+Lapdance+-+Sophia+Blake+(Oculus+5K)&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce').then(() => alert('Copied!'))">Copy Magnet Link</button>
-    </div>
-  </div>
-</div>
-<div class="col-md-4 mb-4">
-  <div class="card h-100">
-    <img src="https://cdn.vrninja.tv/medias/25580/conversions/private-lapdance-cover.webp" class="card-img-top" alt="StripzVR Private Lapdance">
-    <div class="card-body d-flex flex-column">
-      <div class="form-check">
-        <input class="form-check-input select-item" type="checkbox" value="magnet:?xt=urn:btih:16d348ba65c2757408908cca6e71f49a3381496f&dn=StripzVR_Private_Lapdance_5K_(Oculus).mp4&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce" id="select-21">
-        <label class="form-check-label" for="select-21">StripzVR Private Lapdance</label>
-      </div>
-      <small class="text-muted">2019-05-01 22:37:22 &nbsp;|&nbsp; Size: 2.58 GB</small>
-      <p><strong>Pornstar:</strong> Gracie Love</p>
-      <button class="btn btn-outline-primary btn-sm mt-auto" onclick="navigator.clipboard.writeText('magnet:?xt=urn:btih:16d348ba65c2757408908cca6e71f49a3381496f&dn=StripzVR_Private_Lapdance_5K_(Oculus).mp4&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce').then(() => alert('Copied!'))">Copy Magnet Link</button>
-    </div>
-  </div>
-</div>
-<div class="col-md-4 mb-4">
-  <div class="card h-100">
-    <img src="https://mcdn.vrporn.com/files/20220630222215/Beautiful-Dreams-Natasha-Anastasia-StripzVR-vr-porn-video.jpg" class="card-img-top" alt="StripzVR Beautiful Dreams">
-    <div class="card-body d-flex flex-column">
-      <div class="form-check">
-        <input class="form-check-input select-item" type="checkbox" value="magnet:?xt=urn:btih:46afbd5a4bc17a2a0a5b5845c04046ce8442d87d&dn=StripzVR_Beautiful_Dreams_(Oculus).mp4&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce" id="select-22">
-        <label class="form-check-label" for="select-22">StripzVR Beautiful Dreams</label>
-      </div>
-      <small class="text-muted">2019-05-01 22:33:22 &nbsp;|&nbsp; Size: 2.00 GB</small>
-      <p><strong>Pornstar:</strong> Natasha Anastasia</p>
-      <button class="btn btn-outline-primary btn-sm mt-auto" onclick="navigator.clipboard.writeText('magnet:?xt=urn:btih:46afbd5a4bc17a2a0a5b5845c04046ce8442d87d&dn=StripzVR_Beautiful_Dreams_(Oculus).mp4&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce').then(() => alert('Copied!'))">Copy Magnet Link</button>
-    </div>
-  </div>
-</div>
-<div class="col-md-4 mb-4">
-  <div class="card h-100">
-    <img src="https://mcdn.vrporn.com/files/20220207063501/Deep-Sweet-Dreams-Lauren-Brock-StripzVR-vr-porn-video.jpg" class="card-img-top" alt="StripzVR Deep Sweet Dreams">
-    <div class="card-body d-flex flex-column">
-      <div class="form-check">
-        <input class="form-check-input select-item" type="checkbox" value="magnet:?xt=urn:btih:65e9961f7f786565b97d475d53ec901f107277f9&dn=StripzVR_Deep_Sweet_Dreams_(Oculus).mp4&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce" id="select-23">
-        <label class="form-check-label" for="select-23">StripzVR Deep Sweet Dreams</label>
-      </div>
-      <small class="text-muted">2019-05-01 22:22:22 &nbsp;|&nbsp; Size: 2.09 GB</small>
-      <p><strong>Pornstar:</strong> Lauren Brock</p>
-      <button class="btn btn-outline-primary btn-sm mt-auto" onclick="navigator.clipboard.writeText('magnet:?xt=urn:btih:65e9961f7f786565b97d475d53ec901f107277f9&dn=StripzVR_Deep_Sweet_Dreams_(Oculus).mp4&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce').then(() => alert('Copied!'))">Copy Magnet Link</button>
-    </div>
-  </div>
-</div>
-<div class="col-md-4 mb-4">
-  <div class="card h-100">
-    <img src="https://mcdn.vrporn.com/files/20220124075500/Cum-Back-To-Bed-Jessica-Annah-StripzVR-vr-porn-video.jpg" class="card-img-top" alt="StripzVR Cum Back To Bed! Jessica Annah">
-    <div class="card-body d-flex flex-column">
-      <div class="form-check">
-        <input class="form-check-input select-item" type="checkbox" value="magnet:?xt=urn:btih:0f3a9249931145bd3e6bc7418b1d4c14d59756e4&dn=StripzVR+-+Cum+Back+To+Bed!+-+Jessica+Annah+(Oculus)&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce" id="select-24">
-        <label class="form-check-label" for="select-24">StripzVR Cum Back To Bed! Jessica Annah</label>
-      </div>
-      <small class="text-muted">2019-05-01 22:10:22 &nbsp;|&nbsp; Size: 2.02 GB</small>
-      <p><strong>Pornstar:</strong> Jessica Annah</p>
-      <button class="btn btn-outline-primary btn-sm mt-auto" onclick="navigator.clipboard.writeText('magnet:?xt=urn:btih:0f3a9249931145bd3e6bc7418b1d4c14d59756e4&dn=StripzVR+-+Cum+Back+To+Bed!+-+Jessica+Annah+(Oculus)&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce').then(() => alert('Copied!'))">Copy Magnet Link</button>
-    </div>
-  </div>
-</div>
-<div class="col-md-4 mb-4">
-  <div class="card h-100">
-    <img src="https://cdn.vrphub.com/wp-content/uploads/2019/05/045b0fa38e747fa1ee4d399dc5b74372-e1557496406554.jpg" class="card-img-top" alt="StripzVR Wanna Fuck Me GearVR">
-    <div class="card-body d-flex flex-column">
-      <div class="form-check">
-        <input class="form-check-input select-item" type="checkbox" value="magnet:?xt=urn:btih:63bd5d9d692f55c705b835dfaa2c30894ac5f3a7&dn=StripzVR_Wanna_Fuck_Me_(GearVR).mp4&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce" id="select-25">
-        <label class="form-check-label" for="select-25">StripzVR Wanna Fuck Me GearVR</label>
-      </div>
-      <small class="text-muted">2019-05-01 22:07:22 &nbsp;|&nbsp; Size: 2.20 GB</small>
-      <p><strong>Pornstar:</strong> Sophia Traxler</p>
-      <button class="btn btn-outline-primary btn-sm mt-auto" onclick="navigator.clipboard.writeText('magnet:?xt=urn:btih:63bd5d9d692f55c705b835dfaa2c30894ac5f3a7&dn=StripzVR_Wanna_Fuck_Me_(GearVR).mp4&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce').then(() => alert('Copied!'))">Copy Magnet Link</button>
-    </div>
-  </div>
-</div>
-<div class="col-md-4 mb-4">
-  <div class="card h-100">
-    <img src="https://cdn-vr.sexlikereal.com/images/49375/vr-porn-Clear-Victory-cover-desktop.jpg" class="card-img-top" alt="VirtualRealPorn Clear victory">
-    <div class="card-body d-flex flex-column">
-      <div class="form-check">
-        <input class="form-check-input select-item" type="checkbox" value="magnet:?xt=urn:btih:5dd88690b082c89217e13f9f01825b04b40071d0&dn=VirtualRealPorn_Clear_victory_4K_30M_180x180_3dh.mp4&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce" id="select-26">
-        <label class="form-check-label" for="select-26">VirtualRealPorn Clear victory</label>
-      </div>
-      <small class="text-muted">2025-04-27 23:17:11 &nbsp;|&nbsp; Size: 9.31 GB</small>
-      <p><strong>Pornstar:</strong> Jasmine Sherni</p>
-      <button class="btn btn-outline-primary btn-sm mt-auto" onclick="navigator.clipboard.writeText('magnet:?xt=urn:btih:5dd88690b082c89217e13f9f01825b04b40071d0&dn=VirtualRealPorn_Clear_victory_4K_30M_180x180_3dh.mp4&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce').then(() => alert('Copied!'))">Copy Magnet Link</button>
-    </div>
-  </div>
-</div>
-<div class="col-md-4 mb-4">
-  <div class="card h-100">
-    <img src="https://cdn-vr.sexlikereal.com/images/48937/vr-porn-You-Add-the-Dressing-cover-desktop.jpg" class="card-img-top" alt="VirtualRealPorn You add the dressing">
-    <div class="card-body d-flex flex-column">
-      <div class="form-check">
-        <input class="form-check-input select-item" type="checkbox" value="magnet:?xt=urn:btih:0d0640e1d093c1dbf0647d0e8cae7cd44bf3a622&dn=VirtualRealPorn_You_add_the_dressing_4K_30M_180x180_3dh.mp4&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce" id="select-27">
-        <label class="form-check-label" for="select-27">VirtualRealPorn You add the dressing</label>
-      </div>
-      <small class="text-muted">2025-04-26 23:16:11 &nbsp;|&nbsp; Size: 8.37 GB</small>
-      <p><strong>Pornstar:</strong> Vanessa Hills</p>
-      <button class="btn btn-outline-primary btn-sm mt-auto" onclick="navigator.clipboard.writeText('magnet:?xt=urn:btih:0d0640e1d093c1dbf0647d0e8cae7cd44bf3a622&dn=VirtualRealPorn_You_add_the_dressing_4K_30M_180x180_3dh.mp4&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce').then(() => alert('Copied!'))">Copy Magnet Link</button>
-    </div>
-  </div>
-</div>
-<div class="col-md-4 mb-4">
-  <div class="card h-100">
-    <img src="https://cdn.vrphub.com/wp-content/uploads/2024/03/001_Portada_SM24H03-103-The-Ultimate-Anal-Plug-e1711702009109.jpg" class="card-img-top" alt="VirtualRealPorn Ellie Shou The Ultimate Anal Plug">
-    <div class="card-body d-flex flex-column">
-      <div class="form-check">
-        <input class="form-check-input select-item" type="checkbox" value="magnet:?xt=urn:btih:58cd2eb8cdade1e73323b8189358657e4057c7c2&dn=VirtualRealPorn+-+Ellie+Shou+-+The+Ultimate+Anal+Plug+(Oculus+8K)&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce" id="select-28">
-        <label class="form-check-label" for="select-28">VirtualRealPorn Ellie Shou The Ultimate Anal Plug</label>
-      </div>
-      <small class="text-muted">2025-04-26 23:15:11 &nbsp;|&nbsp; Size: 13.84 GB</small>
-      <p><strong>Pornstar:</strong> Ellie Shoule</p>
-      <button class="btn btn-outline-primary btn-sm mt-auto" onclick="navigator.clipboard.writeText('magnet:?xt=urn:btih:58cd2eb8cdade1e73323b8189358657e4057c7c2&dn=VirtualRealPorn+-+Ellie+Shou+-+The+Ultimate+Anal+Plug+(Oculus+8K)&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce').then(() => alert('Copied!'))">Copy Magnet Link</button>
-    </div>
-  </div>
-</div>
-<div class="col-md-4 mb-4">
-  <div class="card h-100">
-    <img src="https://i0.wp.com/namethatpornad.com/wp-content/uploads/2025/04/001_Portada_video_SM25H04-08-Lets-play-together-800x451-1.jpg?resize=735%2C413&ssl=1" class="card-img-top" alt="VirtualRealPorn Greta Foss Vera Jarw Lets play together">
-    <div class="card-body d-flex flex-column">
-      <div class="form-check">
-        <input class="form-check-input select-item" type="checkbox" value="magnet:?xt=urn:btih:6d0a79a909b362cb017bdb3938fb133555ed5404&dn=VirtualRealPorn_Greta+Foss_Vera+Jarw_Lets_play_together_8K_180x180_3dh.mp4&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce" id="select-29">
-        <label class="form-check-label" for="select-29">VirtualRealPorn Greta Foss Vera Jarw Lets play together</label>
-      </div>
-      <small class="text-muted">2025-04-26 23:14:11 &nbsp;|&nbsp; Size: 16.37 GB</small>
-      <p><strong>Pornstar:</strong> Greta Foss, Vera Jarw</p>
-      <button class="btn btn-outline-primary btn-sm mt-auto" onclick="navigator.clipboard.writeText('magnet:?xt=urn:btih:6d0a79a909b362cb017bdb3938fb133555ed5404&dn=VirtualRealPorn_Greta+Foss_Vera+Jarw_Lets_play_together_8K_180x180_3dh.mp4&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce').then(() => alert('Copied!'))">Copy Magnet Link</button>
-    </div>
-  </div>
-</div>
-<div class="col-md-4 mb-4">
-  <div class="card h-100">
-    <img src="https://i0.wp.com/namethatpornad.com/wp-content/uploads/2025/04/001_Portada_video_US23H11-064-Lets-Go-to-the-Beach-800x451-1.jpg?resize=735%2C413&ssl=1" class="card-img-top" alt="VirtualRealPorn Jade Kimiko Lets go to the beach">
-    <div class="card-body d-flex flex-column">
-      <div class="form-check">
-        <input class="form-check-input select-item" type="checkbox" value="magnet:?xt=urn:btih:9fa6d403d4870fd8eae0b387876488a29168b7c9&dn=VirtualRealPorn_Jade+Kimiko_Lets_go_to_the_beach_8K_180x180_3dh.mp4&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce" id="select-30">
-        <label class="form-check-label" for="select-30">VirtualRealPorn Jade Kimiko Lets go to the beach</label>
-      </div>
-      <small class="text-muted">2025-04-23 23:13:11 &nbsp;|&nbsp; Size: 15.97 GB</small>
-      <p><strong>Pornstar:</strong> Jade Kimiko</p>
-      <button class="btn btn-outline-primary btn-sm mt-auto" onclick="navigator.clipboard.writeText('magnet:?xt=urn:btih:9fa6d403d4870fd8eae0b387876488a29168b7c9&dn=VirtualRealPorn_Jade+Kimiko_Lets_go_to_the_beach_8K_180x180_3dh.mp4&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce').then(() => alert('Copied!'))">Copy Magnet Link</button>
-    </div>
-  </div>
-</div>
-<div class="col-md-4 mb-4">
-  <div class="card h-100">
-    <img src="https://i0.wp.com/namethatpornad.com/wp-content/uploads/2025/04/001_Portada_video_BRA24H06-22-I-want-to-ride-my-800x451-1.jpg?resize=735%2C413&ssl=1" class="card-img-top" alt="VirtualRealPorn Jeni Pretinha I want to ride my">
-    <div class="card-body d-flex flex-column">
-      <div class="form-check">
-        <input class="form-check-input select-item" type="checkbox" value="magnet:?xt=urn:btih:06952f39d3de8aa4e37751aa87ca4999e73b9f17&dn=VirtualRealPorn_Jeni+Pretinha_I_want_to_ride_my_8K_180x180_3dh.mp4&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce" id="select-31">
-        <label class="form-check-label" for="select-31">VirtualRealPorn Jeni Pretinha I want to ride my</label>
-      </div>
-      <small class="text-muted">2025-04-15 23:07:11 &nbsp;|&nbsp; Size: 15.60 GB</small>
-      <p><strong>Pornstar:</strong> Jeni Pretinha</p>
-      <button class="btn btn-outline-primary btn-sm mt-auto" onclick="navigator.clipboard.writeText('magnet:?xt=urn:btih:06952f39d3de8aa4e37751aa87ca4999e73b9f17&dn=VirtualRealPorn_Jeni+Pretinha_I_want_to_ride_my_8K_180x180_3dh.mp4&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce').then(() => alert('Copied!'))">Copy Magnet Link</button>
-    </div>
-  </div>
-</div>
-<div class="col-md-4 mb-4">
-  <div class="card h-100">
-    <img src="https://i0.wp.com/namethatpornad.com/wp-content/uploads/2025/04/001_Portada_video_CH25H04-01-Provocation-800x451-1.jpg?resize=735%2C413&ssl=1" class="card-img-top" alt="VirtualRealPorn Lola Desire Provocation">
-    <div class="card-body d-flex flex-column">
-      <div class="form-check">
-        <input class="form-check-input select-item" type="checkbox" value="magnet:?xt=urn:btih:69065e11c7e0a43ce0a79843bfb1ab67bfed6018&dn=VirtualRealPorn_Lola+Desire_Provocation_8K_180x180_3dh.mp4&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce" id="select-32">
-        <label class="form-check-label" for="select-32">VirtualRealPorn Lola Desire Provocation</label>
-      </div>
-      <small class="text-muted">2025-04-08 23:04:11 &nbsp;|&nbsp; Size: 12.09 GB</small>
-      <p><strong>Pornstar:</strong> Lola Desire</p>
-      <button class="btn btn-outline-primary btn-sm mt-auto" onclick="navigator.clipboard.writeText('magnet:?xt=urn:btih:69065e11c7e0a43ce0a79843bfb1ab67bfed6018&dn=VirtualRealPorn_Lola+Desire_Provocation_8K_180x180_3dh.mp4&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce').then(() => alert('Copied!'))">Copy Magnet Link</button>
-    </div>
-  </div>
-</div>
-<div class="col-md-4 mb-4">
-  <div class="card h-100">
-    <img src="https://i0.wp.com/namethatpornad.com/wp-content/uploads/2025/03/001_Portada_video_BRA25H03-99-BG-Lets-Play-Tennis-800x451-1.jpg?resize=735%2C413&ssl=1" class="card-img-top" alt="VirtualRealPorn Juh Jackson Lets play tennis">
-    <div class="card-body d-flex flex-column">
-      <div class="form-check">
-        <input class="form-check-input select-item" type="checkbox" value="magnet:?xt=urn:btih:b4698a1a83880b7d7cbcc5bc87be32daaacb20b9&dn=VirtualRealPorn_Juh+Jackson_Lets_play_tennis_8K_180x180_3dh.mp4&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce" id="select-33">
-        <label class="form-check-label" for="select-33">VirtualRealPorn Juh Jackson Lets play tennis</label>
-      </div>
-      <small class="text-muted">2025-03-30 23:02:11 &nbsp;|&nbsp; Size: 17.15 GB</small>
-      <p><strong>Pornstar:</strong> Juh Jackson</p>
-      <button class="btn btn-outline-primary btn-sm mt-auto" onclick="navigator.clipboard.writeText('magnet:?xt=urn:btih:b4698a1a83880b7d7cbcc5bc87be32daaacb20b9&dn=VirtualRealPorn_Juh+Jackson_Lets_play_tennis_8K_180x180_3dh.mp4&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce').then(() => alert('Copied!'))">Copy Magnet Link</button>
-    </div>
-  </div>
-</div>
-<div class="col-md-4 mb-4">
-  <div class="card h-100">
-    <img src="https://i0.wp.com/namethatpornad.com/wp-content/uploads/2025/03/001_Portada_video_SM25H03-98-Love-Is-the-Answer-3-800x451-1.jpg?resize=735%2C413&ssl=1" class="card-img-top" alt="VirtualRealPorn Norah Juliette Katty Soarez Love is the answer">
-    <div class="card-body d-flex flex-column">
-      <div class="form-check">
-        <input class="form-check-input select-item" type="checkbox" value="magnet:?xt=urn:btih:68a9a76b61e89a3e05e782d6adf42c442d7a7ad8&dn=VirtualRealPorn_Norah+Juliette_Katty+Soarez_Love_is_the_answer_8K_180x180_3dh.mp4&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce" id="select-34">
-        <label class="form-check-label" for="select-34">VirtualRealPorn Norah Juliette Katty Soarez Love is the answer</label>
-      </div>
-      <small class="text-muted">2025-03-30 23:01:11 &nbsp;|&nbsp; Size: 14.06 GB</small>
-      <p><strong>Pornstar:</strong> Katty Soarez, Norah Juliette</p>
-      <button class="btn btn-outline-primary btn-sm mt-auto" onclick="navigator.clipboard.writeText('magnet:?xt=urn:btih:68a9a76b61e89a3e05e782d6adf42c442d7a7ad8&dn=VirtualRealPorn_Norah+Juliette_Katty+Soarez_Love_is_the_answer_8K_180x180_3dh.mp4&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce').then(() => alert('Copied!'))">Copy Magnet Link</button>
-    </div>
-  </div>
-</div>
-<div class="col-md-4 mb-4">
-  <div class="card h-100">
-    <img src="https://cdn-vr.sexlikereal.com/images/57606/vr-porn-Bonus-Round-cover-desktop.jpg" class="card-img-top" alt="VirtualRealPorn Sophia Locke Bonus round">
-    <div class="card-body d-flex flex-column">
-      <div class="form-check">
-        <input class="form-check-input select-item" type="checkbox" value="magnet:?xt=urn:btih:e511c207a4b626b5e05d130f8b62d42959b38928&dn=VirtualRealPorn_Sophia+Locke_Bonus_round_8K_180x180_3dh.mp4&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce" id="select-35">
-        <label class="form-check-label" for="select-35">VirtualRealPorn Sophia Locke Bonus round</label>
-      </div>
-      <small class="text-muted">2025-03-30 23:00:11 &nbsp;|&nbsp; Size: 14.42 GB</small>
-      <p><strong>Pornstar:</strong> Sophia Locke</p>
-      <button class="btn btn-outline-primary btn-sm mt-auto" onclick="navigator.clipboard.writeText('magnet:?xt=urn:btih:e511c207a4b626b5e05d130f8b62d42959b38928&dn=VirtualRealPorn_Sophia+Locke_Bonus_round_8K_180x180_3dh.mp4&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce').then(() => alert('Copied!'))">Copy Magnet Link</button>
-    </div>
-  </div>
-</div>
-<div class="col-md-4 mb-4">
-  <div class="card h-100">
-    <img src="https://mcdn.vrporn.com/files/20210918093103/Party-of-Three-premium.jpg" class="card-img-top" alt="VirtualRealPorn Party of three">
-    <div class="card-body d-flex flex-column">
-      <div class="form-check">
-        <input class="form-check-input select-item" type="checkbox" value="magnet:?xt=urn:btih:3ee18e42887dfa54f9315d9623c57e3382761fb6&dn=VirtualRealPorn_Party_of_three_8K_180x180_3dh.mp4&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce" id="select-36">
-        <label class="form-check-label" for="select-36">VirtualRealPorn Party of three</label>
-      </div>
-      <small class="text-muted">2025-03-30 22:59:11 &nbsp;|&nbsp; Size: 14.98 GB</small>
-      <p><strong>Pornstar:</strong> Anastasia Brokelyn, Lya Missy</p>
-      <button class="btn btn-outline-primary btn-sm mt-auto" onclick="navigator.clipboard.writeText('magnet:?xt=urn:btih:3ee18e42887dfa54f9315d9623c57e3382761fb6&dn=VirtualRealPorn_Party_of_three_8K_180x180_3dh.mp4&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce').then(() => alert('Copied!'))">Copy Magnet Link</button>
-    </div>
-  </div>
-</div>
-<div class="col-md-4 mb-4">
-  <div class="card h-100">
-    <img src="https://i0.wp.com/namethatpornad.com/wp-content/uploads/2025/03/001_Portada_video_SM23HXX-110-800x451-1.jpg?resize=735%2C413&ssl=1" class="card-img-top" alt="VirtualRealPorn Clemence Audiard Caught with my panties">
-    <div class="card-body d-flex flex-column">
-      <div class="form-check">
-        <input class="form-check-input select-item" type="checkbox" value="magnet:?xt=urn:btih:91a7f143162d02e3dc39846e4d7de5ea2b64b6d6&dn=VirtualRealPorn_Clemence+Audiard_Caught_with_my_panties_8K_180x180_3dh.mp4&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce" id="select-37">
-        <label class="form-check-label" for="select-37">VirtualRealPorn Clemence Audiard Caught with my panties</label>
-      </div>
-      <small class="text-muted">2025-03-30 22:54:11 &nbsp;|&nbsp; Size: 15.31 GB</small>
-      <p><strong>Pornstar:</strong> Clemence Audiard</p>
-      <button class="btn btn-outline-primary btn-sm mt-auto" onclick="navigator.clipboard.writeText('magnet:?xt=urn:btih:91a7f143162d02e3dc39846e4d7de5ea2b64b6d6&dn=VirtualRealPorn_Clemence+Audiard_Caught_with_my_panties_8K_180x180_3dh.mp4&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce').then(() => alert('Copied!'))">Copy Magnet Link</button>
-    </div>
-  </div>
-</div>
-<div class="col-md-4 mb-4">
-  <div class="card h-100">
-    <img src="https://i124.fastpic.org/big/2025/0221/2c/2d9d1834728a7f4e0f2557e1f8040f2c.jpg" class="card-img-top" alt="VirtualRealPorn Sakura Dolly Orchid stars spa">
-    <div class="card-body d-flex flex-column">
-      <div class="form-check">
-        <input class="form-check-input select-item" type="checkbox" value="magnet:?xt=urn:btih:cdd9de1ce20693a9fbcdfb7eef60e23c61edd42b&dn=VirtualRealPorn_Sakura_Dolly+Orchid_5_stars_spa_8K_180x180_3dh.mp4&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce" id="select-38">
-        <label class="form-check-label" for="select-38">VirtualRealPorn Sakura Dolly Orchid stars spa</label>
-      </div>
-      <small class="text-muted">2025-02-28 22:51:11 &nbsp;|&nbsp; Size: 12.00 GB</small>
-      <p><strong>Pornstar:</strong> </p>
-      <button class="btn btn-outline-primary btn-sm mt-auto" onclick="navigator.clipboard.writeText('magnet:?xt=urn:btih:cdd9de1ce20693a9fbcdfb7eef60e23c61edd42b&dn=VirtualRealPorn_Sakura_Dolly+Orchid_5_stars_spa_8K_180x180_3dh.mp4&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce').then(() => alert('Copied!'))">Copy Magnet Link</button>
-    </div>
-  </div>
-</div>
-<div class="col-md-4 mb-4">
-  <div class="card h-100">
-    <img src="https://i0.wp.com/namethatpornad.com/wp-content/uploads/2025/02/001_Portada_video_SM25H02-89-Shaving-1-800x451-1.jpg?resize=735%2C413&ssl=1" class="card-img-top" alt="VirtualRealPorn Lexi Montana Shaving">
-    <div class="card-body d-flex flex-column">
-      <div class="form-check">
-        <input class="form-check-input select-item" type="checkbox" value="magnet:?xt=urn:btih:ea6f912447f11548db55dbc66935ff1c9dfe195e&dn=VirtualRealPorn_Lexi+Montana_Shaving_8K_180x180_3dh.mp4&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce" id="select-39">
-        <label class="form-check-label" for="select-39">VirtualRealPorn Lexi Montana Shaving</label>
-      </div>
-      <small class="text-muted">2025-02-28 22:50:11 &nbsp;|&nbsp; Size: 14.05 GB</small>
-      <p><strong>Pornstar:</strong> Lexi Montana</p>
-      <button class="btn btn-outline-primary btn-sm mt-auto" onclick="navigator.clipboard.writeText('magnet:?xt=urn:btih:ea6f912447f11548db55dbc66935ff1c9dfe195e&dn=VirtualRealPorn_Lexi+Montana_Shaving_8K_180x180_3dh.mp4&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce').then(() => alert('Copied!'))">Copy Magnet Link</button>
-    </div>
-  </div>
-</div>
-<div class="col-md-4 mb-4">
-  <div class="card h-100">
-    <img src="https://i0.wp.com/namethatpornad.com/wp-content/uploads/2025/02/001_Portada_video_SM25H02-87-After-Stretching-1-800x451-1.jpg?resize=735%2C413&ssl=1" class="card-img-top" alt="VirtualRealPorn Audrey Reid After stretching">
-    <div class="card-body d-flex flex-column">
-      <div class="form-check">
-        <input class="form-check-input select-item" type="checkbox" value="magnet:?xt=urn:btih:cca0ab02ad56687f3d936e91b6b91e079c953716&dn=VirtualRealPorn_Audrey+Reid_After_stretching_8K_180x180_3dh.mp4&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce" id="select-40">
-        <label class="form-check-label" for="select-40">VirtualRealPorn Audrey Reid After stretching</label>
-      </div>
-      <small class="text-muted">2025-02-28 22:48:11 &nbsp;|&nbsp; Size: 15.42 GB</small>
-      <p><strong>Pornstar:</strong> Audrey Reid</p>
-      <button class="btn btn-outline-primary btn-sm mt-auto" onclick="navigator.clipboard.writeText('magnet:?xt=urn:btih:cca0ab02ad56687f3d936e91b6b91e079c953716&dn=VirtualRealPorn_Audrey+Reid_After_stretching_8K_180x180_3dh.mp4&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce').then(() => alert('Copied!'))">Copy Magnet Link</button>
-    </div>
-  </div>
-</div>
-<div class="col-md-4 mb-4">
-  <div class="card h-100">
-    <img src="https://cdn-vr.sexlikereal.com/images/53389/vr-porn-Wet-Morning-cover-desktop.jpg" class="card-img-top" alt="VirtualRealPorn Malia Lenoir Wet morning">
-    <div class="card-body d-flex flex-column">
-      <div class="form-check">
-        <input class="form-check-input select-item" type="checkbox" value="magnet:?xt=urn:btih:801073ffad2fdaf34e591767513b1ae3e905fcb0&dn=VirtualRealPorn_Malia+Lenoir_Wet_morning_8K_180x180_3dh.mp4&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce" id="select-41">
-        <label class="form-check-label" for="select-41">VirtualRealPorn Malia Lenoir Wet morning</label>
-      </div>
-      <small class="text-muted">2025-02-28 22:47:11 &nbsp;|&nbsp; Size: 15.07 GB</small>
-      <p><strong>Pornstar:</strong> Malia Lenoir</p>
-      <button class="btn btn-outline-primary btn-sm mt-auto" onclick="navigator.clipboard.writeText('magnet:?xt=urn:btih:801073ffad2fdaf34e591767513b1ae3e905fcb0&dn=VirtualRealPorn_Malia+Lenoir_Wet_morning_8K_180x180_3dh.mp4&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce').then(() => alert('Copied!'))">Copy Magnet Link</button>
-    </div>
-  </div>
-</div>
-<div class="col-md-4 mb-4">
-  <div class="card h-100">
-    <img src="https://i0.wp.com/namethatpornad.com/wp-content/uploads/2025/02/001_Portada_video_SM25H02-85-Friday-Night-Karaoke-800x451-1.jpg?resize=735%2C413&ssl=1" class="card-img-top" alt="VirtualRealPorn Princess Alice Friday night karaoke">
-    <div class="card-body d-flex flex-column">
-      <div class="form-check">
-        <input class="form-check-input select-item" type="checkbox" value="magnet:?xt=urn:btih:992341d2248ffa54fdf956e35b71e4e300f02088&dn=VirtualRealPorn_Princess+Alice_Friday_night_karaoke_8K_180x180_3dh.mp4&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce" id="select-42">
-        <label class="form-check-label" for="select-42">VirtualRealPorn Princess Alice Friday night karaoke</label>
-      </div>
-      <small class="text-muted">2025-02-28 22:46:11 &nbsp;|&nbsp; Size: 14.34 GB</small>
-      <p><strong>Pornstar:</strong> Princess Alice</p>
-      <button class="btn btn-outline-primary btn-sm mt-auto" onclick="navigator.clipboard.writeText('magnet:?xt=urn:btih:992341d2248ffa54fdf956e35b71e4e300f02088&dn=VirtualRealPorn_Princess+Alice_Friday_night_karaoke_8K_180x180_3dh.mp4&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce').then(() => alert('Copied!'))">Copy Magnet Link</button>
-    </div>
-  </div>
-</div>
-<div class="col-md-4 mb-4">
-  <div class="card h-100">
-    <img src="https://i0.wp.com/namethatpornad.com/wp-content/uploads/2025/01/001_Portada_video_SM25H01-84-Home-Sweet-Home-800x451-1.jpg?resize=735%2C413&ssl=1" class="card-img-top" alt="VirtualRealPorn Princess Alice Home sweet home">
-    <div class="card-body d-flex flex-column">
-      <div class="form-check">
-        <input class="form-check-input select-item" type="checkbox" value="magnet:?xt=urn:btih:1c9624b6647ad83a3b0d1a49278bda53f7da4f92&dn=VirtualRealPorn_Princess+Alice_Home_sweet_home_8K_180x180_3dh.mp4&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce" id="select-43">
-        <label class="form-check-label" for="select-43">VirtualRealPorn Princess Alice Home sweet home</label>
-      </div>
-      <small class="text-muted">2025-02-28 22:45:11 &nbsp;|&nbsp; Size: 11.75 GB</small>
-      <p><strong>Pornstar:</strong> Princess Alice</p>
-      <button class="btn btn-outline-primary btn-sm mt-auto" onclick="navigator.clipboard.writeText('magnet:?xt=urn:btih:1c9624b6647ad83a3b0d1a49278bda53f7da4f92&dn=VirtualRealPorn_Princess+Alice_Home_sweet_home_8K_180x180_3dh.mp4&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce').then(() => alert('Copied!'))">Copy Magnet Link</button>
-    </div>
-  </div>
-</div>
-<div class="col-md-4 mb-4">
-  <div class="card h-100">
-    <img src="https://i0.wp.com/namethatpornad.com/wp-content/uploads/2025/01/001_Portada_video_SM25H01-83-Confused-Meditation-800x451-1.jpg?resize=735%2C413&ssl=1" class="card-img-top" alt="VirtualRealPorn Vanessa Hillz Confused meditation">
-    <div class="card-body d-flex flex-column">
-      <div class="form-check">
-        <input class="form-check-input select-item" type="checkbox" value="magnet:?xt=urn:btih:168d7cdd0aeef503ef43b16d0dc9ae3cb6654d07&dn=VirtualRealPorn_Vanessa+Hillz_Confused_meditation_8K_180x180_3dh.mp4&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce" id="select-44">
-        <label class="form-check-label" for="select-44">VirtualRealPorn Vanessa Hillz Confused meditation</label>
-      </div>
-      <small class="text-muted">2025-02-28 22:44:11 &nbsp;|&nbsp; Size: 14.51 GB</small>
-      <p><strong>Pornstar:</strong> Vanessa Hillz</p>
-      <button class="btn btn-outline-primary btn-sm mt-auto" onclick="navigator.clipboard.writeText('magnet:?xt=urn:btih:168d7cdd0aeef503ef43b16d0dc9ae3cb6654d07&dn=VirtualRealPorn_Vanessa+Hillz_Confused_meditation_8K_180x180_3dh.mp4&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce').then(() => alert('Copied!'))">Copy Magnet Link</button>
-    </div>
-  </div>
-</div>
-      </div>
-      <div id="paginationControls" class="d-flex justify-content-center mt-4"></div>
-    </div>
-  </main>
-
-  <div id="loadingOverlay">
-    <div id="loadingSpinner">
-      <div class="spinner-border" role="status">
-        <span class="visually-hidden">Loading...</span>
-      </div>
+    <div class="d-flex align-items-center gap-2">
+      <button id="exportBtn" class="btn btn-success btn-sm" onclick="showExportMenu(this)">Export (0)</button>
+      <button class="btn btn-outline-light btn-sm d-md-none" id="toggleSidebarBtn">Filters</button>
     </div>
   </div>
 
-  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
-  <script src="gallery_data.min.js" defer></script>
-  <script src="dynamic_gallery_logic.js" defer></script>
+
+</header>
+
+<main>
+  <div class="sidebar">
+  <div class="mb-3">
+    <input type="text" id="searchInput" class="form-control" placeholder="Search titles, studio, pornstar, tags...">
+  </div>
+    <h5>Filters</h5>
+    
+<div class="accordion" id="filterAccordion">
+
+  <div class="accordion-item">
+    <h2 class="accordion-header" id="headingstudio">
+      <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapsestudio">
+        Studio
+      </button>
+    </h2>
+    <div id="collapsestudio" class="accordion-collapse collapse" data-bs-parent="#filterAccordion">
+      <div class="accordion-body" id="filterStudioBody"></div>
+    </div>
+  </div>
+
+  <div class="accordion-item">
+    <h2 class="accordion-header" id="headingpornstar">
+      <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapsepornstar">
+        Pornstar
+      </button>
+    </h2>
+    <div id="collapsepornstar" class="accordion-collapse collapse" data-bs-parent="#filterAccordion">
+      <div class="accordion-body" id="filterPornstarBody"></div>
+    </div>
+  </div>
+
+  <div class="accordion-item">
+    <h2 class="accordion-header" id="headingtag">
+      <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapsetag">
+        Tag
+      </button>
+    </h2>
+    <div id="collapsetag" class="accordion-collapse collapse" data-bs-parent="#filterAccordion">
+      <div class="accordion-body" id="filterTagBody"></div>
+    </div>
+  </div>
+
+</div>
+
+<button id="clearFiltersBtn" class="btn btn-outline-secondary btn-sm mt-4 w-100">Clear Filters</button>
+  </div>
+
+  <div class="content">
+    <div class="row" id="galleryGrid"></div>
+    <div id="paginationControls" class="d-flex justify-content-center mt-4"></div>
+  </div>
+</main>
+
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+<script src="gallery_data.min.js" defer></script>
+<script src="dynamic_gallery_logic.js" defer></script>
+
+
+
+
+
+
+
+
+<script>
+  document.addEventListener('DOMContentLoaded', function () {
+    const sidebar = document.querySelector('.sidebar');
+    const overlay = document.getElementById('overlay');
+    const toggleBtn = document.getElementById('toggleSidebarBtn');
+
+    toggleBtn.addEventListener('click', () => {
+      const isShown = sidebar.classList.toggle('show');
+      overlay.style.display = isShown ? 'block' : 'none';
+      document.body.classList.toggle('noscroll', isShown);
+    });
+
+    overlay.addEventListener('click', () => {
+      sidebar.classList.remove('show');
+      overlay.style.display = 'none';
+      document.body.classList.remove('noscroll');
+    });
+  });
+</script>
+
 </body>
 </html>
