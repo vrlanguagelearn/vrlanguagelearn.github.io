@@ -175,11 +175,31 @@ function applyFilters() {
 
   }
 
-  window.goToPage = function(page) {
+  
+
+window.goToPage = function(page) {
+  const spinner = document.getElementById('loadingSpinner');
+  const overlay = document.getElementById('loadingOverlay');
+  if (spinner) spinner.style.display = 'block';
+  if (overlay) overlay.style.display = 'block';
+
+  
+
+  setTimeout(() => {
+
     currentPage = page;
     renderGalleryPage(currentPage);
-    window.scrollTo({ top: 0, behavior: 'instant' });
-  };
+    
+
+    
+    
+    const galleryPane = document.querySelector('div.content');
+    if (galleryPane) galleryPane.scrollTo({ top: 0, behavior: 'instant' });
+if (spinner) if (spinner) spinner.style.display = 'none';
+    if (overlay) overlay.style.display = 'none';
+  }, 1000);
+};
+
 
   document.getElementById('searchInput').addEventListener('input', (e) => {
     searchTerm = e.target.value.trim().toLowerCase();
